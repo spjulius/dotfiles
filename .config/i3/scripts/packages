@@ -1,0 +1,22 @@
+#!/bin/bash
+
+URGENT_VALUE=10
+# AUR
+#PACKAGE_COUNT=$(yaourt -Qu --aur | wc -l)
+PACKAGE_COUNT=$(checkupdates | wc -l)
+
+# Left click
+if [[ "${BLOCK_BUTTON}" -eq 1 ]]; then
+    if [[ ${PACKAGE_COUNT} -gt 0 ]]; then
+		i3-sensible-terminal -e 'sudo pacman -Syu'
+	else
+		notify-send "Aviso" "Nenhum pacote para atualizar!"
+	fi
+# Right click
+elif [[ "${BLOCK_BUTTON}" -eq 3 ]]; then
+	pamac-manager
+fi
+
+echo "${PACKAGE_COUNT}" # full-text
+echo "${PACKAGE_COUNT}" # short-text
+echo ""

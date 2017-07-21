@@ -1,0 +1,22 @@
+#!/bin/bash
+
+focus=$(xdotool getactivewindow getwindowname | iconv -c)
+focus_Number=$(xdotool getactivewindow getwindowname | wc -c)
+Focus_N=$(xdotool getactivewindow getwindowname | head -c 40 )
+
+if [ "$focus" = "" ];then
+   	echo -e " : Arch Linux "
+else
+   	if [ "$focus_Number" -gt "40" ];then
+		echo -e " : $Focus_N ..."
+   	else
+       	echo -e " : $focus"
+   	fi
+fi
+
+if [[ $BLOCK_BUTTON -eq 1 ]]; then
+   	echo -e "$focus" | xclip -rmlastnl -selection c
+	#echo -e "$focus"
+fi
+
+exit 0

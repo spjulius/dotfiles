@@ -1,0 +1,36 @@
+#!/bin/sh
+
+if [ "${BLOCK_INSTANCE}" == "caps" ]; then
+	if [ $(xset q | awk '/Caps/ {print $4}') == "on" ]; then
+        echo "C"
+        echo "C"
+        echo \#60da11
+        exit 0
+	else
+        echo "C"
+        echo "C"
+        exit 0
+	fi
+elif [ "${BLOCK_INSTANCE}" == "num" ]; then
+	if [ $(xset q | awk '/Caps/ {print $8}') == "on" ]; then
+        echo "N"
+        echo "N"
+        echo \#60da11
+		exit 0
+	else
+        echo "N"
+        echo "N"
+		exit 0
+	fi
+else
+	if [ $(xset q | awk '/Caps/ {print $12}') == "on" ]; then
+		echo "S "
+		echo "S "
+		echo \#60da11
+		exit 0
+	else
+        echo "S "
+        echo "S "
+		exit 0
+	fi
+fi

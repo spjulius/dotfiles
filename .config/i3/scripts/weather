@@ -1,0 +1,51 @@
+#!/bin/bash
+
+################################
+# Shows info about the weather (in Cincinnati) from accuweather.com
+#
+# TODO: completely rewrite, probably using openweather APIs
+# TODO: make location configurable
+# TODO: make temperature unit configurable
+#
+# @return {Number(degrees Fahrenheit)}: Current temperature in Cincinnati
+################################
+
+dir=$(dirname $0)
+source $dir/util.sh
+
+full=""
+short=""
+status=0
+
+#URL='http://www.accuweather.com/en/us/cincinnati-oh/45212/weather-forecast/350126'
+URL='http://www.accuweather.com/es/mx/la-paz/231798/weather-forecast/231798'
+SITE="$(curl -s "$URL")"
+
+weather="$(echo "$SITE" | sed -nr '/campo grande/Is/.*text:("[^"]*")[^"]*/\1/p')"
+temp="$(echo "$SITE" | awk -F\' '/acm_RecentLocationsCarousel\.push/{print $10 }'| head -1)"
+vento=$(echo "${SITE}" | grep "id33738" | cut -d "\"" -f 18)
+
+if [[ $weather == *thunder* || $weather == *Thunder* ]]; then
+    icon=""
+else
+    if [[ $weather == *nublado* || $weather == *Nublado* ]]; then
+        icon=""
+    else
+        if [[ $weather == *snow* || $weather == *Snow* ]]; then
+                icon="❄"
+        else
+            if [[ $weather == *cloud* || $weather == *Cloud* ]]; then
+                icon=""
+            else
+                icon=""
+            fi
+        fi
+    fi
+fi
+
+full="$icon $temp° / $vento"
+short="$temp° / $vento"
+
+echo $full
+echo $short
+exit $status

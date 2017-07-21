@@ -1,0 +1,35 @@
+#!/bin/bash
+INTERVAL="0.3"  # update interval in seconds
+IF="${BLOCK_INSTANCE:-eth0}"
+
+case $BLOCK_BUTTON in
+	1) i3-sensible-terminal -e iptraf ;;  # left click
+#	3) mpc toggle  | filter ;;  # right click
+#    4) mpc prev    | filter ;;  # scroll up
+#    5) mpc next    | filter ;;  # scroll down
+#    *) mpc current | filter ;;
+esac
+
+#while true
+#do
+        R1=`cat /sys/class/net/$IF/statistics/rx_packets`
+        #T1=`cat /sys/class/net/$IF/statistics/tx_packets`
+        sleep $INTERVAL
+        R2=`cat /sys/class/net/$IF/statistics/rx_packets`
+        #T2=`cat /sys/class/net/$IF/statistics/tx_packets`
+        RXPPS=`expr $R2 - $R1`
+        #TXPPS=`expr $T2 - $T1`
+        #echo "TX $IF: $TXPPS pkts/s RX $IF: $RXPPS pkts/s"
+
+if [ "$RXPPS" -gt 10 ]; then
+	#command=echo "<span color='red'>roses</span> and <span color='#0000ff'>violets</span>"
+	echo " " # full text
+	echo " " # short text
+	echo \#60da11 # color
+	exit 0
+else
+	echo " " # full text
+	echo " " # short text
+	exit 0
+fi
+#done

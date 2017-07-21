@@ -1,0 +1,24 @@
+#!/bin/bash
+
+Mem=$(free -h | grep "^Mem:" | awk '{print $3}')
+Swap=$(free -h | grep "^Swap:" | awk '{print $3}')
+
+if [[ "${BLOCK_BUTTON}" -eq 1 ]]; then
+	i3-sensible-terminal -e 'htop -s PERCENT_MEM'
+fi
+
+if [ -z "$1" ];then
+    echo -e " $0 : no Argument \n\t -m : Show Memory usage \n\t -s : Show Swap usage "
+fi
+
+case "$1" in
+    "-m" )
+        echo -e " $Mem"
+        ;;
+    "-s" )
+        echo -e " $Swap"
+        ;;
+esac
+
+unset Mem
+unset Swap

@@ -1,0 +1,1 @@
+/home/mr-jules/.local/share/omf/themes/kawasaki/fish_prompt.fish

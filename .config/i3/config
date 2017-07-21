@@ -1,0 +1,257 @@
+set $mod Mod4
+
+font xft:xos4 terminus 8
+#font FontAwesome 9, Droid Sans Mono 9
+
+gaps inner 5
+gaps outer 10
+
+#hide_edge_borders both
+#new_window none
+new_window pixel 1
+
+set $fundo                  #1b1b1b
+set $fundo-inativo          #222222
+set $texto                  #ffffff
+set $texto-inativo          #888888
+set $fundo-urgente          #900000
+set $indicador              #00ff00
+set $separador              #666666
+set $borda					#5b6365
+
+# classe                borda               fundo           texto                   indicador               borda_filha
+
+floating_modifier $mod
+
+bindsym $mod+Shift+x exec i3lock
+
+bindsym Print exec ~/bin/screenshot.sh
+
+#bindsym F5 exec i3-sensible-terminal
+bindsym F5 exec app.live termite ~/.config/termite.cfg
+bindsym F6 exec thunar
+bindsym F7 exec pluma
+bindsym F8 exec firefox
+bindsym F9 exec whatsie
+bindsym F11 exec ~/bin/screencast.sh
+bindsym F12 exec ~/bin/screencast.sh -s
+
+bindsym XF86AudioRaiseVolume exec amixer -q -D pulse sset Master 1%+ unmute 
+bindsym XF86AudioLowerVolume exec amixer -q -D pulse sset Master 1%- unmute 
+
+bindsym $mod+Shift+e exec "i3-nagbar -t error -m 'Q' \
+-b 'Salir' 'i3-msg exit' \
+-b 'Suspender' 'systemctl suspend' \
+-b 'Reiniciar' 'systemctl reboot' \
+-b 'Apagar' 'systemctl poweroff'"
+
+bindsym $mod+c exec "i3-nagbar -t warning -m 'Editar configuracion' \
+-b 'config' 'i3-sensible-editor ~/.config/i3/config' \
+-b 'i3blocks' 'i3-sensible-editor ~/.config/i3/blocks' \
+-b 'tmux' 'i3-sensible-editor ~/.tmux.conf' \
+-b 'compton' 'i3-sensible-editor ~/.config/compton.conf' \
+-b '.Xresources' 'i3-sensible-editor ~/.Xresources' \
+-b '.xinitrc' 'i3-sensible-editor ~/.config/.xinitrc' \
+-b '.Xdefaults' 'i3-sensible-editor ~/.config/.Xdefaults'"
+
+bindsym $mod+Return exec urxvt
+bindsym $mod+d exec dmenu_run
+bindsym $mod+Shift+t exec thunar
+bindsym $mod+Shift+w exec firefox
+bindsym $mod+Shift+m exec thunar
+bindsym $mod+Shift+i exec ristretto
+
+bindsym $mod+j focus left
+bindsym $mod+k focus down
+bindsym $mod+l focus up
+bindsym $mod+semicolon focus right
+
+bindsym $mod+Left focus left
+bindsym $mod+Down focus down
+bindsym $mod+Up focus up
+bindsym $mod+Right focus right
+
+bindsym $mod+Shift+j move left
+bindsym $mod+Shift+k move down
+bindsym $mod+Shift+l move up
+bindsym $mod+Shift+semicolon move right
+
+bindsym $mod+Shift+Left move left
+bindsym $mod+Shift+Down move down
+bindsym $mod+Shift+Up move up
+bindsym $mod+Shift+Right move right
+
+bindsym $mod+h split h
+bindsym $mod+v split v
+
+bindsym $mod+f fullscreen toggle
+
+bindsym $mod+s layout stacking
+bindsym $mod+w layout tabbed
+bindsym $mod+e layout toggle split
+
+bindsym $mod+Shift+space floating toggle
+
+bindsym $mod+space focus mode_toggle
+
+bindsym $mod+a focus parent
+#bindsym $mod+d focus child
+
+bindsym $mod+Shift+q kill
+
+bindsym $mod+Shift+minus move scratchpad
+bindsym $mod+minus scratchpad show
+
+set $workspace1 "  "
+set $workspace2 "  "
+set $workspace3 "  "
+set $workspace4 "  "
+set $workspace5 "  "
+set $workspace6 "  "
+set $workspace7 "  "
+set $workspace8 "  "
+set $workspace9 "  "
+set $workspace10 "  "
+
+# switch to workspace
+bindsym $mod+1 workspace $workspace1
+bindsym $mod+2 workspace $workspace2
+bindsym $mod+3 workspace $workspace3
+bindsym $mod+4 workspace $workspace4
+bindsym $mod+5 workspace $workspace5
+bindsym $mod+6 workspace $workspace6
+bindsym $mod+7 workspace $workspace7
+bindsym $mod+8 workspace $workspace8
+bindsym $mod+9 workspace $workspace9
+bindsym $mod+0 workspace $workspace10
+
+# move focused container to workspace
+bindsym $mod+Shift+1 move container to workspace $workspace1
+bindsym $mod+Shift+2 move container to workspace $workspace2
+bindsym $mod+Shift+3 move container to workspace $workspace3
+bindsym $mod+Shift+4 move container to workspace $workspace4
+bindsym $mod+Shift+5 move container to workspace $workspace5
+bindsym $mod+Shift+6 move container to workspace $workspace6
+bindsym $mod+Shift+7 move container to workspace $workspace7
+bindsym $mod+Shift+8 move container to workspace $workspace8
+bindsym $mod+Shift+9 move container to workspace $workspace9
+bindsym $mod+Shift+0 move container to workspace $workspace10
+
+for_window [title="Biblioteca"] floating enable
+for_window [class="^mpv"] floating enable
+for_window [class="^Engrampa"] floating enable
+for_window [class="Tilda"] floating enable; border 1pixel
+for_window [title="^DownThemAll"] floating enable
+for_window [title="DownThemAll!$"] move window to scratchpad
+for_window [urgent="latest"] focus
+for_window [class="^Galculator"] floating enable
+for_window [class="^Pavucontrol"] floating enable
+for_window [class="^Viewnior"] floating enable
+for_window [class="^Agave"] floating enable
+
+assign [class="^Chromium"] $workspace1
+assign [class="Firefox"] $workspace1
+assign [class="URxvt"] $workspace2
+assign [class="Geany"] $workspace3
+assign [class="Sublime_text"] $workspace3
+assign [class="^Thunar"] $workspace4
+assign [class="^Gimp"] $workspace5
+assign [class="^Inkscape"] $workspace5
+assign [class="^Lxappearance"] $workspace5
+assign [class="^Deluge"] $workspace7
+assign [class="^Whatsie"] $workspace9
+assign [class="^Gtkman"] $workspace10
+
+bindsym $mod+Shift+c reload
+bindsym $mod+Shift+r restart
+
+mode "apps" {
+	bindsym c exec --no-startup-id chromium --process-per-site
+	bindsym m exec --no-startup-id thunderbird
+	bindsym p exec --no-startup-id pluma
+	bindsym t exec --no-startup-id thunar
+	bindsym g exec --no-startup-id telegram
+
+	bindsym Return mode "default"
+	bindsym Escape mode "default"
+}
+bindsym $mod+Shift+a mode "Resize"
+
+mode "resize" {
+	bindsym j resize shrink width 10 px or 10 ppt
+	bindsym k resize grow height 10 px or 10 ppt
+	bindsym l resize shrink height 10 px or 10 ppt
+	bindsym semicolon resize grow width 10 px or 10 ppt
+
+	bindsym Left resize shrink width 10 px or 10 ppt
+	bindsym Down resize grow height 10 px or 10 ppt
+	bindsym Up resize shrink height 10 px or 10 ppt
+	bindsym Right resize grow width 10 px or 10 ppt
+
+	bindsym Return mode "default"
+	bindsym Escape mode "default"
+}
+bindsym $mod+r mode "resize"
+
+bindsym --release Caps_Lock exec pkill -SIGRTMIN+11 i3blocks
+bindsym --release Num_Lock  exec pkill -SIGRTMIN+11 i3blocks
+
+# Rate do Cursor
+#exec --no-startup-id xset r rate 300 75 &
+
+# Aceleração do mouse
+#"Very Fast"            xset m 7 10 &
+#"Normal(Fast)"         xset m 3 10 &
+#"System Default"		xset m default &
+#"Glacial"              xset m 0 10 &
+#
+# Veloz: 3/1 0
+# Normal: default
+# Glacial: 1/3 0 
+#exec --no-startup-id xset m default &
+
+#exec_always --no-startup-id feh --bg-fill \"$(shuf -n1 -e ~/img/wallpapers/macos/*)\"
+exec --no-startup-id xfce4-power-manager
+exec --no-startup-id xfsettings
+exec --no-startup-id nm-applet
+exec --no-startup-id volumeicon
+exec --no-startup-id mpd
+#exec --no-startup-id deluge
+#exec --no-startup-id pamac-tray
+exec --no-startup-id compton 
+exec --no-startup-id nitrogen --restore 
+
+bar {
+  font xft:xos4 terminus bold 8
+	status_command i3blocks -v -c ~/.config/i3/i3blocks.conf
+        position top
+  colors {
+    separator #444444
+    background #222222
+    statusline #B1B1B1
+    focused_workspace #CECECE #CECECE #000000
+    active_workspace #333333 #333333 #888888
+    inactive_workspace #CECECE #333333 #f1f1f1
+    urgent_workspace #eb709b #eb709b #ffffff
+  }
+}
+
+bar {
+  font xft:xos4 terminus bold 8
+	tray_output primary
+	status_command i3blocks -v -c ~/.config/i3/i3blocks2.conf
+        position bottom
+  colors {
+    separator #444444
+    background #222222
+    statusline #B1B1B1
+    focused_workspace #222222 #222222 #222222
+    active_workspace #222222 #222222 #222222
+    inactive_workspace #222222 #222222 #222222
+    urgent_workspace #222222 #222222 #222222
+  }
+}
+client.focused #f1f1f1 #f1f1f1 #22222 #22222
+client.focused_inactive #333333 #333333 #f1f1f1 #333333
+client.unfocused #333333 #333333 #888888 #333333
+client.urgent #eb709b #eb709b #ffffff #eb709b

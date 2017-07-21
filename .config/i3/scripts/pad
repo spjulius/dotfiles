@@ -1,0 +1,12 @@
+#!/bin/bash
+
+case $BLOCK_BUTTON in
+	1) xpad ;;  # left click
+	3) xpad ;;  # right click
+	*) xpad ;;
+esac
+
+echo -e "N"
+echo -e "N"
+
+exit 0
