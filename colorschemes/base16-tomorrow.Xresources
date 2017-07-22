@@ -1,0 +1,19 @@
+!||| BASE 16 TOMORROW COLORSCHEME |||
+
+! colors
+URxvt*color0: #1d1f21
+URxvt*color1: #282a2e
+URxvt*color2: #373b41
+URxvt*color3: #969896
+URxvt*color4: #b4b7b4
+URxvt*color5: #c5c8c6
+URxvt*color6: #e0e0e0
+URxvt*color7: #ffffff
+URxvt*color8: #cc6666
+URxvt*color9: #de935f
+URxvt*color10: #f0c674
+URxvt*color11: #b5bd68
+URxvt*color12: #8abeb7
+URxvt*color13: #81a2be
+URxvt*color14: #b294bb
+URxvt*color15: #a3685a

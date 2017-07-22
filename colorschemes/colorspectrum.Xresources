@@ -1,0 +1,19 @@
+!||| COLORSPECTRUM COLORSCHEME by: juleslord |||
+
+! colors
+URxvt*color0: #25283d
+URxvt*color1: #edcf8e
+URxvt*color2: #07bee8
+URxvt*color3: #84dcc6
+URxvt*color4: #0a8754
+URxvt*color5: #af3b6e
+URxvt*color6: #cbf3f0
+URxvt*color7: #edddd4
+URxvt*color8: #709080
+URxvt*color9: #ee2e31
+URxvt*color10: #e83f6f
+URxvt*color11: #f0dfaf
+URxvt*color12: #94bff3
+URxvt*color13: #ffbf00
+URxvt*color14: #1cfeba
+URxvt*color15: #ffffff
