@@ -1,0 +1,201 @@
+(
+  "Window Maker",
+  (Ejecutar..., EXEC, "%A(Ejecutar, Ingrese un comando:)"),
+  (Urxvt, SHORTCUT, "Mod4+Return", EXEC, urxvt),
+  (Thunar, EXEC, thunar),
+  (Firefox, EXEC, firefox),
+  (
+    Aplicaciones,
+    (Terminales, (xterm, EXEC, xterm), (Urxvt, EXEC, urxvt)),
+    (
+      Internet,
+      (Chromium, EXEC, chromium),
+      ("Mozilla Firefox", EXEC, firefox),
+      (W3M, EXEC, "xterm -e w3m")
+    ),
+    ("Correo electr\303\263nico", (Mutt, EXEC, "xterm -e mutt")),
+    ("Matem\303\241ticas", (bc, EXEC, "xterm -e bc")),
+    (
+      "Gestores de archivos",
+      (Thunar, EXEC, thunar),
+      ("Midnight Commander", EXEC, "xterm -e mc")
+    ),
+    (
+      "Gr\303\241ficos",
+      (GIMP, EXEC, gimp),
+      (Inkscape, EXEC, inkscape),
+      ("ImageMagick Display", EXEC, display)
+    ),
+    (Multimedia, (SMPlayer, EXEC, smplayer), (VLC, EXEC, vlc)),
+    (
+      Editores,
+      (vi, EXEC, "xterm -e vi"),
+      (VIM, EXEC, "xterm -e vim"),
+      (Nano, EXEC, "xterm -e nano")
+    ),
+    (
+      Desarrollo,
+      (gitk, EXEC, gitk),
+      (Geany, EXEC, geany),
+      (designer, EXEC, designer),
+      (idle, EXEC, idle),
+      (tclsh, EXEC, "xterm -e tclsh"),
+      (xev, EXEC, "xterm -e xev")
+    ),
+    ("Window Maker", (Magnify, EXEC, wmagnify)),
+    (
+      "Ofim\303\241tica",
+      (StarOffice, EXEC, soffice),
+      ("LibreOffice Writer", EXEC, lowriter),
+      ("LibreOffice Calc", EXEC, localc),
+      ("LibreOffice Draw", EXEC, lodraw),
+      ("LibreOffice Impress", EXEC, loimpress),
+      ("LibreOffice Math", EXEC, lomath),
+      ("LibreOffice Base", EXEC, lobase),
+      ("LibreOffice Web", EXEC, loweb),
+      (LibreOffice, EXEC, libreoffice)
+    ),
+    (Sonido, ("ALSA mixer", EXEC, "xterm -e alsamixer")),
+    (Visualizadores, (Evince, EXEC, evince)),
+    (
+      Utilidades,
+      (Conky, EXEC, conky),
+      (Filezilla, EXEC, filezilla),
+      (NMap, EXEC, nmapfe),
+      ("HP Systray", EXEC, "hp-systray")
+    ),
+    (Sistema, (top, EXEC, "xterm -e top")),
+    ("Conversaci\303\263n", (Irssi, EXEC, "xterm -e irssi")),
+    (
+      "Redes P2P",
+      ("Transmission GTK", EXEC, "transmission-gtk"),
+      (ftp, EXEC, "xterm -e ftp"),
+      (sftp, EXEC, "xterm -e sftp")
+    )
+  ),
+  (
+    Apariencia,
+    (
+      Temas,
+      OPEN_MENU,
+      "-noext /usr/share/WindowMaker/Themes $HOME/GNUstep/Library/WindowMaker/Themes WITH setstyle"
+    ),
+    (
+      Estilos,
+      OPEN_MENU,
+      "-noext /usr/share/WindowMaker/Styles $HOME/GNUstep/Library/WindowMaker/Styles WITH setstyle"
+    ),
+    (
+      "Conjuntos de \303\255conos",
+      OPEN_MENU,
+      "-noext /usr/share/WindowMaker/IconSets $HOME/GNUstep/Library/WindowMaker/IconSets WITH seticons"
+    ),
+    (
+      "Fondo de pantalla",
+      (
+        Plano,
+        (
+          Negro,
+          EXEC,
+          "wdwrite WindowMaker WorkspaceBack '(solid, \"black\")'"
+        ),
+        (
+          "Amatista oscuro",
+          EXEC,
+          "wdwrite WindowMaker WorkspaceBack '(solid, \"#505075\")'"
+        ),
+        (
+          "A\303\261il",
+          EXEC,
+          "wdwrite WindowMaker WorkspaceBack '(solid, \"#243e6c\")'"
+        ),
+        (
+          "Turqu\303\255",
+          EXEC,
+          "wdwrite WindowMaker WorkspaceBack '(solid, \"#243e6c\")'"
+        ),
+        (
+          "P\303\272rpura",
+          EXEC,
+          "wdwrite WindowMaker WorkspaceBack '(solid, \"#554466\")'"
+        ),
+        (
+          Pardo,
+          EXEC,
+          "wdwrite WindowMaker WorkspaceBack '(solid, \"wheat4\")'"
+        ),
+        (
+          "Gris de Payne",
+          EXEC,
+          "wdwrite WindowMaker WorkspaceBack '(solid, \"#333340\")'"
+        ),
+        (
+          "Vino tinto",
+          EXEC,
+          "wdwrite WindowMaker WorkspaceBack '(solid, \"#400020\")'"
+        )
+      ),
+      (
+        Degradado,
+        (
+          "Puesta del sol",
+          EXEC,
+          "wdwrite WindowMaker WorkspaceBack '(mvgradient, deepskyblue4, black, deepskyblue4, tomato4)'"
+        ),
+        (
+          Cielo,
+          EXEC,
+          "wdwrite WindowMaker WorkspaceBack '(vgradient, \"blue4\", \"white\"'"
+        ),
+        (
+          "Degradado de amatista oscuro",
+          EXEC,
+          "wdwrite WindowMaker WorkspaceBack '(vgradient, \"#7080a5\", \"#101020\"'"
+        ),
+        (
+          "Degradado de a\303\261il",
+          EXEC,
+          "wdwrite WindowMaker WorkspaceBack '(vgradient, \"#746ebc\", \"#242e4c\"'"
+        ),
+        (
+          "Degradado de p\303\272rpura",
+          EXEC,
+          "wdwrite WindowMaker WorkspaceBack '(vgradient, \"#654c66\", \"#151426\"'"
+        ),
+        (
+          "Degradado de pardo",
+          EXEC,
+          "wdwrite WindowMaker WorkspaceBack '(vgradient, \"#a09060\", \"#302010\"'"
+        ),
+        (
+          "Degradado de gris de Payne",
+          EXEC,
+          "wdwrite WindowMaker WorkspaceBack '(vgradient, \"#636380\", \"#131318\"'"
+        ),
+        (
+          "Degradado de vino tinto",
+          EXEC,
+          "wdwrite WindowMaker WorkspaceBack '(vgradient, \"#600040\", \"#180010\"'"
+        )
+      ),
+      (
+        "Im\303\241genes",
+        OPEN_MENU,
+        "-noext $HOME/GNUstep/Library/WindowMaker/Backgrounds WITH wmsetbg -u -t"
+      )
+    ),
+    (
+      "Guardar el tema",
+      EXEC,
+      "getstyle -p \"%a(Theme name, Name to save theme as)\""
+    ),
+    (
+      "Guardar el conjunto de \303\255conos",
+      SHEXEC,
+      "geticonset $HOME/GNUstep/Library/WindowMaker/IconSets/\"%a(IconSet name,Name to save icon set as)\""
+    )
+  ),
+  (Escritorios, WORKSPACE_MENU),
+  ("Reinciar WMaker", RESTART),
+  ("Salir de WMaker", EXIT)
+)

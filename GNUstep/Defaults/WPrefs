@@ -1,0 +1,47 @@
+{
+  TextureList = (
+    (
+      "New Texture",
+      (solid, "#1f1f1f"),
+      "/home/mr-jules/GNUstep/Library/WindowMaker/WPrefs/5972e0fb.cache"
+    ),
+    (
+      "New Texture",
+      (solid, "#686868"),
+      "/home/mr-jules/GNUstep/Library/WindowMaker/WPrefs/5972e237.cache"
+    ),
+    (
+      "New Texture",
+      (solid, "#686868"),
+      "/home/mr-jules/GNUstep/Library/WindowMaker/WPrefs/5972e295.cache"
+    )
+  );
+  NoXSetStuff = NO;
+  ColorList = (
+    "#000000",
+    "#1e1e1f",
+    "#525252",
+    "#848484",
+    "#adadad",
+    "#d6d6d6",
+    "#1e1e1f",
+    "#d6d68c",
+    "#d6a57b",
+    "#8cd68c",
+    "#8cd6ce",
+    "#d68c8c",
+    "#8c9cd6",
+    "#bd86d6",
+    "#d68cbd",
+    "#d64a4a",
+    "#4a5ad6",
+    "#4ad6ce",
+    "#4ad65a",
+    "#ced64a",
+    "#d6844a",
+    "#8ad631",
+    "#ce29c6",
+    "#ce2973"
+  );
+  BalloonHelp = NO;
+}

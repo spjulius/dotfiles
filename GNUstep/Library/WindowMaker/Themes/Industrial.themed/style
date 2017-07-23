@@ -1,0 +1,33 @@
+{
+  FrameBorderColor = "#000000";
+  FTitleColor = "#ffffff";
+  MenuTitleBack = (solid, "#1f1f1f");
+  MenuDisabledColor = "#999999";
+  IconTitleBack = "#20202e";
+  FTitleBack = (solid, "#1f1f1f");
+  ClipTitleFont = "Roboto Mono Medium for Powerline:slant=0:weight=100:width=100:pixelsize=10";
+  ClipTitleColor = "#ffffff";
+  FrameFocusedBorderColor = "#000000";
+  IconTitleFont = "Roboto Mono Medium for Powerline:slant=0:weight=100:width=100:pixelsize=9";
+  HighlightColor = "#ffffff";
+  WindowTitleFont = "Roboto Mono Medium for Powerline:slant=0:weight=100:width=100:pixelsize=10";
+  MenuTextBack = (solid, "#686868");
+  LargeDisplayFont = "Roboto Mono Medium for Powerline:slant=0:weight=100:width=100:pixelsize=12";
+  CClipTitleColor = "#999999";
+  MenuStyle = singletexture;
+  ResizebarBack = (solid, "#1f1f1f");
+  IconTitleColor = "#ffffff";
+  TitleJustify = right;
+  MenuTextColor = "#ffffff";
+  PTitleBack = (solid, "#686868");
+  IconBack = (solid, "#1f1f1f");
+  MenuTitleColor = "#ffffff";
+  UTitleColor = "#d6d6d6";
+  MenuTitleFont = "Roboto Mono Medium for Powerline:slant=0:weight=100:width=100:pixelsize=10";
+  UTitleBack = (solid, "#686868");
+  PTitleColor = "#ffffff";
+  MenuTextFont = "Roboto Mono Medium for Powerline:slant=0:weight=100:width=100:pixelsize=10";
+  WorkspaceBack = (solid, "#6d5783");
+  FrameSelectedBorderColor = "#ffffff";
+  HighlightTextColor = "#000000";
+}

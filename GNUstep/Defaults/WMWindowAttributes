@@ -1,0 +1,55 @@
+{
+  firefox.Firefox = {
+    Icon = firefox.Firefox.xpm;
+  };
+  plank.Plank = {
+    Icon = vitetris.xpm;
+  };
+  pavucontrol.Pavucontrol = {
+    Icon = pavucontrol.Pavucontrol.xpm;
+  };
+  geany.Geany = {
+  };
+  Firefox = {
+    AlwaysUserIcon = No;
+    KeepOnBottom = Yes;
+    StartWorkspace = .net;
+  };
+  gpick.Gpick = {
+    Icon = Rumi.xpm;
+  };
+  URxvt = {
+    AlwaysUserIcon = No;
+    StartWorkspace = rxvt;
+  };
+  lxappearance.Lxappearance = {
+    Icon = lxappearance.Lxappearance.xpm;
+  };
+  thunar.Thunar = {
+  };
+  Logo.WMDock = {
+    Icon = Bird.xpm;
+  };
+  wmblueclock.WMBlueClock = {
+    Icon = wmblueclock.WMBlueClock.xpm;
+  };
+  mpv = {
+    AlwaysUserIcon = No;
+  };
+  Navigator.Firefox = {
+    AlwaysUserIcon = No;
+    StartWorkspace = .net;
+  };
+  urxvt.URxvt = {
+    Icon = "gksu-root-terminal.png";
+  };
+  Logo.WMClip = {
+    Icon = Drawer.tiff;
+  };
+  groupLeader.WPrefs = {
+    Icon = groupLeader.WPrefs.xpm;
+  };
+  gl.mpv = {
+    AlwaysUserIcon = No;
+  };
+}

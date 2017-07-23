@@ -1,0 +1,289 @@
+{
+  Dock = {
+    AutoRaiseLower = No;
+    Applications768 = (
+      {
+        Forced = No;
+        Name = Logo.WMDock;
+        BuggyApplication = No;
+        AutoLaunch = Yes;
+        Position = "0,0";
+        Lock = No;
+        Command = "/usr/lib/GNUstep/Applications/WPrefs.app/WPrefs";
+      },
+      {
+        Forced = No;
+        Name = geany.Geany;
+        DropCommand = "geany %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,3";
+        Lock = No;
+        PasteCommand = "geany %s";
+        Command = geany;
+      },
+      {
+        Forced = No;
+        Name = urxvt.URxvt;
+        DropCommand = "urxvt %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,2";
+        Lock = No;
+        PasteCommand = "urxvt %s";
+        Command = urxvt;
+      },
+      {
+        Forced = No;
+        Name = firefox.Firefox;
+        DropCommand = "firefox %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,1";
+        Lock = No;
+        PasteCommand = "firefox %s";
+        Command = firefox;
+      },
+      {
+        Forced = No;
+        Name = wmSMPmon.wmSMPmon;
+        DropCommand = "wmSMPmon %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,10";
+        Lock = No;
+        PasteCommand = "wmSMPmon %s";
+        Command = wmSMPmon;
+      },
+      {
+        Forced = No;
+        Name = thunar.Thunar;
+        DropCommand = "thunar %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,4";
+        Lock = No;
+        PasteCommand = "thunar %s";
+        Command = thunar;
+      },
+      {
+        Forced = No;
+        Name = wmtime.wmtime;
+        DropCommand = "wmtime %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,9";
+        Lock = No;
+        PasteCommand = "wmtime %s";
+        Command = wmtime;
+      },
+      {
+        Forced = No;
+        Name = wmsystemtray0.wmsystemtray;
+        DropCommand = "wmsystemtray %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,11";
+        Lock = No;
+        PasteCommand = "wmsystemtray %s";
+        Command = wmsystemtray;
+      }
+    );
+    Applications = (
+      {
+        Forced = No;
+        Name = Logo.WMDock;
+        BuggyApplication = No;
+        AutoLaunch = Yes;
+        Position = "0,0";
+        Lock = No;
+        Command = "/usr/lib/GNUstep/Applications/WPrefs.app/WPrefs";
+      },
+      {
+        Forced = No;
+        Name = geany.Geany;
+        DropCommand = "geany %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,3";
+        Lock = No;
+        PasteCommand = "geany %s";
+        Command = geany;
+      },
+      {
+        Forced = No;
+        Name = urxvt.URxvt;
+        DropCommand = "urxvt %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,2";
+        Lock = No;
+        PasteCommand = "urxvt %s";
+        Command = urxvt;
+      },
+      {
+        Forced = No;
+        Name = firefox.Firefox;
+        DropCommand = "firefox %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,1";
+        Lock = No;
+        PasteCommand = "firefox %s";
+        Command = firefox;
+      },
+      {
+        Forced = No;
+        Name = wmSMPmon.wmSMPmon;
+        DropCommand = "wmSMPmon %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,10";
+        Lock = No;
+        PasteCommand = "wmSMPmon %s";
+        Command = wmSMPmon;
+      },
+      {
+        Forced = No;
+        Name = thunar.Thunar;
+        DropCommand = "thunar %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,4";
+        Lock = No;
+        PasteCommand = "thunar %s";
+        Command = thunar;
+      },
+      {
+        Forced = No;
+        Name = wmtime.wmtime;
+        DropCommand = "wmtime %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,9";
+        Lock = No;
+        PasteCommand = "wmtime %s";
+        Command = wmtime;
+      },
+      {
+        Forced = No;
+        Name = wmsystemtray0.wmsystemtray;
+        DropCommand = "wmsystemtray %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,11";
+        Lock = No;
+        PasteCommand = "wmsystemtray %s";
+        Command = wmsystemtray;
+      }
+    );
+    Lowered = Yes;
+    Position = "0,0";
+  };
+  Clip = {
+    Forced = No;
+    Name = Logo.WMClip;
+    DropCommand = "wmsetbg -u -t %d";
+    BuggyApplication = No;
+    AutoLaunch = No;
+    Position = "1310,0";
+    Lock = No;
+    Command = "-";
+  };
+  Applications = (
+    {
+      Dock = .net;
+      Name = groupLeader.WPrefs;
+      Shaded = No;
+      Miniaturized = No;
+      Command = "/usr/lib/GNUstep/Applications/WPrefs.app/WPrefs";
+      Geometry = "520x390+179+91";
+      Hidden = No;
+      Workspace = .net;
+      ShortcutMask = 0;
+    },
+    {
+      Dock = Dock;
+      Name = firefox.Firefox;
+      Shaded = No;
+      Miniaturized = No;
+      Command = firefox;
+      Geometry = "1222x677+77+19";
+      Hidden = No;
+      Workspace = .net;
+      ShortcutMask = 0;
+    },
+    {
+      Dock = Dock;
+      Name = urxvt.URxvt;
+      Shaded = No;
+      Miniaturized = No;
+      Command = urxvt;
+      Geometry = "654x472+493+97";
+      Hidden = No;
+      Workspace = rxvt;
+      ShortcutMask = 0;
+    }
+  );
+  Drawers = ();
+  Workspaces = (
+    {
+      Clip = {
+        AutoRaiseLower = No;
+        AutoCollapse = No;
+        Applications = ();
+        Collapsed = Yes;
+        AutoAttractIcons = No;
+        Lowered = Yes;
+      };
+      Name = rxvt;
+    },
+    {
+      Clip = {
+        AutoRaiseLower = No;
+        AutoCollapse = No;
+        Applications = (
+          {
+            Forced = No;
+            Name = groupLeader.WPrefs;
+            DropCommand = "/usr/lib/GNUstep/Applications/WPrefs.app/WPrefs %d";
+            BuggyApplication = No;
+            AutoLaunch = No;
+            Position = "1,1";
+            Lock = No;
+            PasteCommand = "/usr/lib/GNUstep/Applications/WPrefs.app/WPrefs %s";
+            Command = "/usr/lib/GNUstep/Applications/WPrefs.app/WPrefs";
+            Omnipresent = No;
+          }
+        );
+        Collapsed = No;
+        AutoAttractIcons = No;
+        Lowered = Yes;
+      };
+      Name = .net;
+    },
+    {
+      Clip = {
+        AutoRaiseLower = No;
+        AutoCollapse = No;
+        Applications = ();
+        Collapsed = Yes;
+        AutoAttractIcons = No;
+        Lowered = Yes;
+      };
+      Name = edit;
+    },
+    {
+      Clip = {
+        AutoRaiseLower = No;
+        AutoCollapse = No;
+        Applications = ();
+        Collapsed = Yes;
+        AutoAttractIcons = No;
+        Lowered = Yes;
+      };
+      Name = misc;
+    }
+  );
+  Workspace = .net;
+}

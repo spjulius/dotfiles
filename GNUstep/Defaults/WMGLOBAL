@@ -1,0 +1,10 @@
+{
+  MouseWheelDown = Button5;
+  AntialiasedText = Yes;
+  BoldSystemFont = "Fira Mono for Powerline:slant=0:weight=200:width=100:pixelsize=10";
+  DefaultFontSize = 11;
+  DoubleClickTime = 250;
+  FloppyPath = "/media/floppy";
+  SystemFont = "Fira Mono for Powerline:slant=0:weight=100:width=100:pixelsize=10";
+  MouseWheelUp = Button4;
+}
