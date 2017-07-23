@@ -9,8 +9,8 @@
 "
 "  ▓▓▓▓▓▓▓▓▓▓
 " ░▓ author ▓ xero <x@xero.nu>
-" ░▓ code   ▓ http://code.xero.nu/dotfiles
-" ░▓ mirror ▓ http://git.io/.files
+" ░▓        ▓ 
+" ░▓        ▓ 
 " ░▓▓▓▓▓▓▓▓▓▓
 " ░░░░░░░░░░
 "
@@ -189,7 +189,12 @@ filetype plugin indent on
 let b:vcm_tab_complete = 'omni'
 set omnifunc=syntaxcomplete#Complete
 set laststatus=2
-let g:airline_theme='wombat'
+let g:airline_theme='molokai'
+let g:airline_powerline_fonts = 1
+let g:airline#extensions#tabline#enabled = 1
+let g:airline#extensions#tabline#left_sep = ' '
+let g:airline#extensions#tabline#left_alt_sep = '|'
+
 " select the completion with enter
 inoremap <expr> <CR> pumvisible() ? "\<C-y>" : "\<C-g>u\<CR>"
 " close preview on completion complete
@@ -248,7 +253,7 @@ colorscheme sourcerer
 " ┗━┛ ╹ ╹ ╹ ╹ ┗━┛┗━┛┗━╸╹╹ ╹┗━╸
 " lightline http://git.io/lightline
 " █▓▒░ wizard status line
-set laststatus=2
+
 let g:lightline = {
   \ 'colorscheme': 'sourcerer',
   \ 'active': {

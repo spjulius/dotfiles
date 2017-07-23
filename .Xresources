@@ -5,7 +5,7 @@
 ! ------------------------------------------------------------------------------
 
 
-xterm*faceName: Inconsolata Bold:size=9:antialias=true
+xterm*faceName: Roboto Mono Medium for powerline:size=8:antialias=true
 xterm*loginShell: true
 xterm*vt100*geometry: 90x34
 xterm*saveLines: 2000
@@ -13,7 +13,7 @@ xterm*charClass: 33:48,35:48,37:48,43:48,45-47:48,64:48,95:48,126:48
 xterm*termName: xterm-color
 xterm*eightBitInput: false
 xterm*foreground: rgb:d9/d4/d4
-xterm*background: rgb:32/32/32
+xterm*background: #1B1B1B
 xterm*color0: rgb:00/00/00
 xterm*color1: rgb:a8/00/00
 xterm*color2: rgb:00/a8/00
@@ -74,31 +74,31 @@ xterm*dynamicColors: true
 urxvt*dynamicColors: on
 
 ! colors
-URxvt*color0: #25283d
-URxvt*color1: #edcf8e
-URxvt*color2: #07bee8
-URxvt*color3: #84dcc6
-URxvt*color4: #0a8754
-URxvt*color5: #af3b6e
-URxvt*color6: #cbf3f0
-URxvt*color7: #edddd4
-URxvt*color8: #709080
-URxvt*color9: #ee2e31
-URxvt*color10: #e83f6f
-URxvt*color11: #f0dfaf
-URxvt*color12: #94bff3
-URxvt*color13: #ffbf00
-URxvt*color14: #1cfeba
-URxvt*color15: #ffffff
+URxvt*color0: #212121
+URxvt*color1: #2b2b2b
+URxvt*color2: #b1b1b1
+URxvt*color3: #b1b1b1
+URxvt*color4: #4c8dcc
+URxvt*color5: #add8e6
+URxvt*color6: #e0e0e0
+URxvt*color7: #ffffff
+URxvt*color8: #cc6666
+URxvt*color9: #de935f
+URxvt*color10: #f0c674
+URxvt*color11: #b5bd68
+URxvt*color12: #8abeb7
+URxvt*color13: #81a2be
+URxvt*color14: #b294bb
+URxvt*color15: #a3685a
 
 ! fonts
-!URxvt*letterSpace: 	    	-2	
+URxvt*letterSpace: 	    	-2
 !Xft.size:						8.1
-URxvt*font:                 	xft:xos4 terminess powerline:bold:size=8
-URxvt*imFont:               	xft:xos4 terminess powerline:bold:size=8
-URxvt*boldFont:             	xft:xos4 terminess powerline:bold:size=8
-URxvt*italicFont:           	xft:xos4 terminess powerline:bold:size=8
-URxvt*boldItalicFont:     		xft:xos4 terminess powerline:bold:size=8
+URxvt*font:                 	xft:fira mono for powerline:bold:size=8
+URxvt*imFont:               	xft:fira mono for powerline:bold:size=8
+URxvt*boldFont:             	xft:fira mono for powerline:bold:size=8
+URxvt*italicFont:           	xft:fira mono for powerline:bold:size=8
+URxvt*boldItalicFont:     		xft:fira Mono for powerline:bold:size=8
 ! run :.!fc-list | grep <font-name>
 
 ! perl extensions
