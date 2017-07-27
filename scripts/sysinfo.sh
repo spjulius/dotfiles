@@ -31,9 +31,9 @@ battery=/sys/class/power_supply/BAT1
 distro="archlabs AMD64"
 kernel=`uname -r`
 pkgs=`pacman -Qqs | wc -l`
-colors='colorit'
-font='fucking terminus 8'
-wm='i3'
+colors='base16_tomorrownight'
+font='Fira mono 8'
+wm='Wmaker'
 
 #█▓▒░ progress bar
 draw()
