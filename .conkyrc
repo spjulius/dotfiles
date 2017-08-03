@@ -1,0 +1,40 @@
+double_buffer yes
+draw_borders no
+draw_graph_borders no
+own_window_class override
+own_window yes
+own_window_type desktop
+own_window_hints undecorated,sticky,skip_taskbar,skip_pager
+own_window_argb_visual yes
+border_margin 3
+draw_shades no # sombra al texto
+gap_x 5
+gap_y 752
+mpd_host localhost
+mpd_port 6600
+alignment bottom_left
+update_interval 1
+default_color  ffffff
+use_xft yes
+#font snap-7
+xftfont roboto mono:bold:size=8
+xftalpha 1
+text_buffer_size 2048
+override_utf8_locale yes
+use_spacer none
+minimum_size 1355 0
+own_window_argb_value 153
+
+own_window_colour 222222
+
+TEXT
+
+${color d1d1d1}Cancion:${color #2DB12D} ${mpd_artist} - ${mpd_title}${color d1d1d1} | \
+${color d1d1d1}Kernel${color #FFFF00}: ${kernel}${color d1d1d1} | \
+${color d1d1d1}Cpu:${color #90EE90} ${cpu}%${color}${font}  \
+${color d1d1d1}Ram:${color #ADD8E6} ${memperc}%${color}${font}  \
+${color d1d1d1}Swap:${color #FF4C4C} ${swapperc}%${color}${font} ${color d1d1d1} |  \
+${color d1d1d1}Hdd:${color #D2B5B5} ${fs_used_perc /}% ${fs_used /} - ${fs_size /}${color}  ${color d1d1d1}|  \
+${color d1d1d1}Libre:${color #9990E3} ${fs_free /}${color}${font} \
+$alignr${color d1d1d1}Fecha:${color #FFA500} ${time %a, %d/%b/%y}${color d1d1d1} | \
+$alignr${color d1d1d1}Hora:${color #D771D7} ${time %H:%M }\

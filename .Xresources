@@ -1,38 +1,3 @@
-! ------------------------------------------------------------------------------
-! xterm standard archlabs theme
-! ------------------------------------------------------------------------------
-! https://critical.ch/xterm/
-! ------------------------------------------------------------------------------
-
-
-xterm*faceName: Roboto Mono Medium for powerline:size=8:antialias=true
-xterm*loginShell: true
-xterm*vt100*geometry: 90x34
-xterm*saveLines: 2000
-xterm*charClass: 33:48,35:48,37:48,43:48,45-47:48,64:48,95:48,126:48
-xterm*termName: xterm-color
-xterm*eightBitInput: false
-xterm*foreground: rgb:d9/d4/d4
-xterm*background: #1B1B1B
-xterm*color0: rgb:00/00/00
-xterm*color1: rgb:a8/00/00
-xterm*color2: rgb:00/a8/00
-xterm*color3: rgb:a8/54/00
-xterm*color4: rgb:5f/81/9d
-xterm*color5: rgb:a8/00/a8
-xterm*color6: rgb:00/a8/a8
-xterm*color7: rgb:70/78/80
-xterm*color8: rgb:54/54/54
-xterm*color9: rgb:fc/54/54
-xterm*color10: rgb:54/fc/54
-xterm*color11: rgb:fc/fc/54
-xterm*color12: rgb:81/a2/be
-xterm*color13: rgb:fc/54/fc
-xterm*color14: rgb:54/fc/fc
-xterm*color15: rgb:c5/c8/c6
-xterm*boldMode: false
-
-
 
 
 ! ------------------------------------------------------------------------------
@@ -55,7 +20,7 @@ URxvt*iconFile:  		/usr/share/icons/Sardi-Mono/scalable/apps/terminal.svg
 URxvt*depth:            32
 !URxvt*background:      rgba:0000/0000/0000/AAAA
 !URxvt*background:      #404552
-URxvt*background:       #1B1B1B
+URxvt*background:       #131313
 URxvt*foreground:       #FFFFFF
 URxvt.underlineColor:   #4682B4
 URxvt.highlightColor:   #4682B4
@@ -72,24 +37,22 @@ URxvt.colorUL:      	#87afd7
 
 xterm*dynamicColors: true
 urxvt*dynamicColors: on
-
-! colors
-URxvt*color0: #212121
-URxvt*color1: #2b2b2b
-URxvt*color2: #b1b1b1
-URxvt*color3: #b1b1b1
-URxvt*color4: #4c8dcc
-URxvt*color5: #add8e6
-URxvt*color6: #e0e0e0
-URxvt*color7: #ffffff
-URxvt*color8: #cc6666
-URxvt*color9: #de935f
-URxvt*color10: #f0c674
-URxvt*color11: #b5bd68
-URxvt*color12: #8abeb7
-URxvt*color13: #81a2be
-URxvt*color14: #b294bb
-URxvt*color15: #a3685a
+*color0:    #393939
+*color8:    #474747
+*color1:    #f26157
+*color9:    #ff8c85
+*color2:    #f1a66a
+*color10:   #ffc291
+*color3:    #f7ee7f
+*color11:   #fff9ab
+*color4:    #8d6a9f
+*color12:   #d0a5e6
+*color5:    #55a3c2
+*color13:   #70d6ff
+*color6:    #1b998b
+*color14:   #3dc4b5
+*color7:    #dddddd
+*color15:   #ece8c9
 
 ! fonts
 URxvt*letterSpace: 	    	-2
@@ -128,55 +91,6 @@ URxvt*buffered:         false
 
 
 
-
-! ------------------------------------------------------------------------------
-! UXTerm standard archlabs theme
-! ------------------------------------------------------------------------------
-
-
-
-! termtype
-UXTerm*termName: xterm-256color
-
-
-UXTerm*cursorColor:        white
-UXTerm*VT100.geometry:     90x30
-UXTerm*font:               Droid Sans Mono Bold
-UXTerm*faceSize:		   8.1
-UXTerm*dynamicColors:      true
-UXTerm*utf8:               2
-UXTerm*eightBitInput:      true
-UXTerm*saveLines:          10000
-UXTerm*scrollKey:          true
-UXTerm*scrollTtyOutput:    false
-UXTerm*scrollBar:          false
-UXTerm*rightScrollBar:     false
-UXTerm*jumpScroll:         true
-UXTerm*multiScroll:        true
-UXTerm*toolBar:            false
-
-! fix colors
-UXTerm*background: rgb:63/63/63
-UXTerm*foreground: rgb:00/00/00
-UXTerm*color0: rgb:00/00/00
-UXTerm*color1: rgb:a8/00/00
-UXTerm*color2: rgb:00/a8/00
-UXTerm*color3: rgb:a8/54/00
-UXTerm*color4: rgb:00/00/a8
-UXTerm*color5: rgb:a8/00/a8
-UXTerm*color6: rgb:00/a8/a8
-UXTerm*color7: rgb:a8/a8/a8
-UXTerm*color8: rgb:54/54/54
-UXTerm*color9: rgb:fc/54/54
-UXTerm*color10: rgb:54/fc/54
-UXTerm*color11: rgb:fc/fc/54
-UXTerm*color12: rgb:54/54/fc
-UXTerm*color13: rgb:fc/54/fc
-UXTerm*color14: rgb:54/fc/fc
-UXTerm*color15: rgb:fc/fc/fc
-UXTerm*boldMode: false
-UXTerm*colorBDMode: true
-UXTerm*colorBD: rgb:3f/3f/3f
 
                                                          
                                                            
