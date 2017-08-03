@@ -3,6 +3,11 @@
 'You are your dotfiles'
 
 Actually dots.
+
+## Herbsfluftwm
+
+![screenshot](https://i.redd.it/316yf672hgdz.png)
+
 ## WindowMaker
 
 ![screenshot](https://i.redd.it/bebmw5yzk9bz.png)
