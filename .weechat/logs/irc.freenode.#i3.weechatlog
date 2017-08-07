@@ -1,0 +1,184 @@
+2017-08-07 06:44:16	◥	mr-jules (~mr-jules@2806:101e:1:2d1e:c0fa:c829:2156:83eb) has joined #i3
+2017-08-07 06:44:16	--	Topic for #i3 is "i3 v4.13 released | i3status 2.11 released | i3lock 2.9.1 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | https://bintray.com/i3/i3-autobuild/i3-wm#statistics | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY"
+2017-08-07 06:44:16	--	Tema establecido por squigz (~squigz@unaffiliated/squigz) el lun, 31 jul 2017 11:27:23
+2017-08-07 06:44:16	--	Channel #i3: 387 apodos (4 ops, 0 voces, 383 normales)
+2017-08-07 06:44:30	--	Canal creado el jue, 22 jul 2010 12:58:13
+2017-08-07 06:48:33	◣	ralpheeee (~ralpheeee@pd95c7ee2.dip0.t-ipconnect.de) ha salido (Quit: WeeChat 1.9)
+2017-08-07 06:53:33	◣	emdete (~m@ip-109-47-3-223.web.vodafone.de) ha salido (Ping timeout: 255 seconds)
+2017-08-07 06:54:00	◥	emdete (~m@total-communication.vfnet.de) has joined #i3
+2017-08-07 06:54:01	◣	CubeDev (~CubeDev@77.21.55.5) ha salido (Quit: WeeChat 1.9)
+2017-08-07 06:54:55	◥	CubeDev (~CubeDev@ip4d153705.dynamic.kabel-deutschland.de) has joined #i3
+2017-08-07 06:58:59	◥	dardevelin_ (~dardeveli@unaffiliated/dardevelin) has joined #i3
+2017-08-07 06:59:06	◥	alexpbrown (~alex.brow@38.97.68.126) has joined #i3
+2017-08-07 07:02:06	◣	dardevelin (~dardeveli@unaffiliated/dardevelin) ha salido (Ping timeout: 255 seconds)
+2017-08-07 07:02:10	◥	oswriter (~oswriter@c-76-123-3-212.hsd1.va.comcast.net) has joined #i3
+2017-08-07 07:03:38	◣	kvoz (~manjaro-i@91.199.64.251) ha salido (Ping timeout: 240 seconds)
+2017-08-07 07:04:38	◣	emdete (~m@total-communication.vfnet.de) ha salido (Ping timeout: 240 seconds)
+2017-08-07 07:05:58	◣	cm2 (~cm2@unaffiliated/cm2) ha salido (Quit: leaving)
+2017-08-07 07:11:31	◥	indeedwatson (~yama@host147.190-231-96.telecom.net.ar) has joined #i3
+2017-08-07 07:17:57	◥	emdete (~m@total-communication.vfnet.de) has joined #i3
+2017-08-07 07:20:43	◣	CubeDev (~CubeDev@ip4d153705.dynamic.kabel-deutschland.de) ha salido (Quit: WeeChat 1.9)
+2017-08-07 07:29:05	◣	Scaniatrucker (~scaniatru@78-56-98-5.static.zebra.lt) ha salido (Quit: leaving)
+2017-08-07 07:29:38	amosbird	hi, why does i3bar generate overlapped icons when reloading i3 config https://la.wentropy.com/1Ka-.png  ?
+2017-08-07 07:32:00	◣	emdete (~m@total-communication.vfnet.de) ha salido (Ping timeout: 260 seconds)
+2017-08-07 07:32:39	◥	ralpheeee (~ralpheeee@pd95c7ee2.dip0.t-ipconnect.de) has joined #i3
+2017-08-07 07:43:23	◥	samwhite (d9c4eb49@gateway/web/freenode/ip.217.196.235.73) has joined #i3
+2017-08-07 07:44:02	◥	emdete (~m@total-communication.vfnet.de) has joined #i3
+2017-08-07 07:44:03	samwhite	Hi all, I have a problem with a particular piece of software not showing its GUI, I believe it's java based
+2017-08-07 07:44:11	samwhite	Software is quartus prime 17.0
+2017-08-07 07:44:15	samwhite	Works in gnome
+2017-08-07 07:46:51	◥	grafzepp (~grafzepp@bl21-239-17.dsl.telepac.pt) has joined #i3
+2017-08-07 07:55:59	◥	Scaniatrucker (~scaniatru@78-56-98-5.static.zebra.lt) has joined #i3
+2017-08-07 07:56:07	◣	grafzepp (~grafzepp@bl21-239-17.dsl.telepac.pt) ha salido (Ping timeout: 276 seconds)
+2017-08-07 07:58:12	◥	grafzepp (~grafzepp@bl21-235-1.dsl.telepac.pt) has joined #i3
+2017-08-07 08:00:34	◣	mstruebing (~mstruebin@h-62.96.223.98.host.de.colt.net) ha salido (Quit: WeeChat 1.4)
+2017-08-07 08:03:02	◣	emdete (~m@total-communication.vfnet.de) ha salido (Ping timeout: 260 seconds)
+2017-08-07 08:05:04	◣	Scaniatrucker (~scaniatru@78-56-98-5.static.zebra.lt) ha salido (Quit: leaving)
+2017-08-07 08:06:31	◥	Scaniatrucker (~scaniatru@78-56-98-5.static.zebra.lt) has joined #i3
+2017-08-07 08:06:58	nimaje	samwhite: if you run it from terminal is there intressting output? like errors saying why it doesn't work
+2017-08-07 08:07:58	samwhite	at the moment, running the bin from the terminal is the only method of running it I have at the moment, and unfortuantely there is no output whatsoever. helpful
+2017-08-07 08:09:07	◣	BenG83 (~BenG83@141.19.155.175) ha salido (Ping timeout: 276 seconds)
+2017-08-07 08:15:15	◣	Scaniatrucker (~scaniatru@78-56-98-5.static.zebra.lt) ha salido (Quit: leaving)
+2017-08-07 08:15:52	◥	emdete (~m@total-communication.vfnet.de) has joined #i3
+2017-08-07 08:15:54	◥	Scaniatrucker (~scaniatru@78-56-98-5.static.zebra.lt) has joined #i3
+2017-08-07 08:24:17	◣	emdete (~m@total-communication.vfnet.de) ha salido (Ping timeout: 248 seconds)
+2017-08-07 08:25:42	◣	theluckymike (~theluckym@box1.mikedruu.rocks) ha salido (Quit: leaving)
+2017-08-07 08:25:57	◥	theluckymike (~theluckym@box1.mikedruu.rocks) has joined #i3
+2017-08-07 08:35:00	◥	gijs_ (~gijs_@ptr-81i11l4yd2munz6xvq4.18120a2.ip6.access.telenet.be) has joined #i3
+2017-08-07 08:36:43	◥	emdete (~m@total-communication.vfnet.de) has joined #i3
+2017-08-07 08:37:12	◥	mstruebing (~mstruebin@p200300E3DBD6B606E01C8EEFB5772138.dip0.t-ipconnect.de) has joined #i3
+2017-08-07 08:39:04	◣	grafzepp (~grafzepp@bl21-235-1.dsl.telepac.pt) ha salido (Ping timeout: 246 seconds)
+2017-08-07 08:42:07	◥	holden- (~holden-@unaffiliated/holden-) has joined #i3
+2017-08-07 08:43:12	samwhite	Anyone have issues of java not rendering in i3?
+2017-08-07 08:49:25	◥	balance (~balance@2a02:168:200f:1f00:ffff:fffe:1dce:c9e2) has joined #i3
+2017-08-07 08:50:43	balance	hi
+2017-08-07 08:50:47	Eyo	hello!
+2017-08-07 08:50:59	◥	kurzon (~mert@212.253.113.20) has joined #i3
+2017-08-07 08:51:34	◥	budRich (~Kenta@m80-170-223-48.cust.tele2.se) has joined #i3
+2017-08-07 08:55:51	balance	I just installed i3 for the first time. I startx'ed it and pressed mod+enter [alt+enter in my case] to open up a terminal. the cursor changed into a circle which probably indicates loading. that kept going for 1min or so and then nothing. also mod+d didn't work. I haev absolutely no idea what's going on. here's a log https://bpaste.net/show/b24b8091485e
+2017-08-07 08:57:02	◣	l337file (~audiofile@unaffiliated/audiofile) ha salido (Quit: l337file)
+2017-08-07 08:58:24	balance	ok, mod+d not working seems logical - though dmenu was part of my installation. I got: i3-wm, i3blocks, i3block and i3status. But shouldn't mod+enter work by default?
+2017-08-07 08:59:19	◥	BenG83 (~BenG83@HSI-KBW-082-212-041-008.hsi.kabelbw.de) has joined #i3
+2017-08-07 09:03:34	samwhite	balance: you have a terminal emulator installed? xterm is a basic one
+2017-08-07 09:05:09	◣	BenG83 (~BenG83@HSI-KBW-082-212-041-008.hsi.kabelbw.de) ha salido (Quit: Leaving)
+2017-08-07 09:05:38	◣	ClockworkCoder (~Clockwork@88-96-242-70.dsl.zen.co.uk) ha salido (Ping timeout: 240 seconds)
+2017-08-07 09:05:55	balance	samwhite, got dmenu now. I have terminology, gnome-terminal and i3-sensible-terminal. I also did cat /etc/i3/config | grep "Return" which seems to bind the return key to exec i3-sensible-terminal. if I try to open the i3-sensible-terminal using dmenu, the samething happens
+2017-08-07 09:06:37	◥	BenG83 (~BenG83@HSI-KBW-082-212-041-008.hsi.kabelbw.de) has joined #i3
+2017-08-07 09:10:58	balance	samwhite, so I just installed xterm and if I press alt+enter now, it shows up. as expected.
+2017-08-07 09:12:50	balance	still wondering why it didn't recognized terminology, since it's listed here http://build.i3wm.org/docs/i3-sensible-terminal.html
+2017-08-07 09:13:07	balance	samwhite, thanks
+2017-08-07 09:13:55	◣	andyrtr (~andyrtr@archlinux/developer/andyrtr) ha salido (Quit: ZNC 1.6.5 - http://znc.in)
+2017-08-07 09:14:08	samwhite	balance: no probs, you're the first person I've ever helped on here!
+2017-08-07 11:19:21	--	irc: desconectado del servidor
+2017-08-07 11:20:07	◥	mr-jules (~mr-jules@189.173.198.174) has joined #i3
+2017-08-07 11:20:07	--	Topic for #i3 is "i3 v4.13 released | i3status 2.11 released | i3lock 2.9.1 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | https://bintray.com/i3/i3-autobuild/i3-wm#statistics | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY"
+2017-08-07 11:20:07	--	Tema establecido por squigz (~squigz@unaffiliated/squigz) el lun, 31 jul 2017 11:27:24
+2017-08-07 11:20:07	--	Channel #i3: 391 apodos (4 ops, 0 voces, 387 normales)
+2017-08-07 11:20:32	@squigz	arandr
+2017-08-07 11:20:36	@squigz	xrandr is fine otherwise
+2017-08-07 11:20:36	--	Canal creado el jue, 22 jul 2010 12:58:13
+2017-08-07 11:21:33	michaelrose	mine lets you pass monitors in left to right order xrr mon1 mon2, or xrr left to place whatever monitor is currently disconnected to the left of connected monitor likewise right
+2017-08-07 11:22:32	◣	m0u (~m0u@unaffiliated/m0u) ha salido (Ping timeout: 260 seconds)
+2017-08-07 11:24:38	◣	emdete (~m@total-communication.vfnet.de) ha salido (Ping timeout: 240 seconds)
+2017-08-07 11:29:25	◥	robattila256 (~robattila@S0106f0f24908d2a3.vf.shawcable.net) has joined #i3
+2017-08-07 11:30:12	◥	ltem (~ltem@h081217057026.dyn.cm.kabsi.at) has joined #i3
+2017-08-07 11:35:21	◥	rathier (~rathier@HSI-KBW-149-172-155-209.hsi13.kabel-badenwuerttemberg.de) has joined #i3
+2017-08-07 11:37:03	◣	stormanka (~stormanka@c-90c9e455.09-295-6c6b701.cust.bredbandsbolaget.se) ha salido (Quit: OMGALIENSGTG)
+2017-08-07 11:38:20	◥	emdete (~m@total-communication.vfnet.de) has joined #i3
+2017-08-07 11:55:00	--	irc: desconectado del servidor
+2017-08-07 11:55:43	◥	mr-jules (~mr-jules@2806:101e:1:2d1e:c0fa:c829:2156:83eb) has joined #i3
+2017-08-07 11:55:43	--	Topic for #i3 is "i3 v4.13 released | i3status 2.11 released | i3lock 2.9.1 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | https://bintray.com/i3/i3-autobuild/i3-wm#statistics | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY"
+2017-08-07 11:55:43	--	Tema establecido por squigz (~squigz@unaffiliated/squigz) el lun, 31 jul 2017 11:27:24
+2017-08-07 11:55:43	--	Channel #i3: 392 apodos (4 ops, 0 voces, 388 normales)
+2017-08-07 11:56:11	--	Canal creado el jue, 22 jul 2010 12:58:13
+2017-08-07 12:01:35	◣	emdete (~m@total-communication.vfnet.de) ha salido (Ping timeout: 240 seconds)
+2017-08-07 12:11:41	◣	robgraves (~robgraves@www.spoonbomb.com) ha salido (Changing host)
+2017-08-07 12:11:41	◥	robgraves (~robgraves@unaffiliated/robgraves) has joined #i3
+2017-08-07 12:11:58	◥	m0u (~m0u@unaffiliated/m0u) has joined #i3
+2017-08-07 12:12:31	◥	frakturfreak (~frakturfr@unaffiliated/frakturfreak) has joined #i3
+2017-08-07 12:15:03	◥	emdete (~m@total-communication.vfnet.de) has joined #i3
+2017-08-07 12:15:48	◥	linux_dream (~isaac@unaffiliated/linux-dream/x-5839402) has joined #i3
+2017-08-07 12:21:00	◣	tonyctl (~Thunderbi@c-24-125-98-174.hsd1.ga.comcast.net) ha salido (Quit: tonyctl)
+2017-08-07 12:21:52	◣	chingcodes (chingcodes@nat/google/x-fdulyuvhxzrrttsw) ha salido (Quit: ZNC - http://znc.in)
+2017-08-07 12:22:25	◥	chingcodes (chingcodes@nat/google/x-khfuyzfrtcdvmtjg) has joined #i3
+2017-08-07 12:24:20	◣	emdete (~m@total-communication.vfnet.de) ha salido (Ping timeout: 268 seconds)
+2017-08-07 12:34:18	◥	Irishluck83_ (~Mutter@50.45.89.66) has joined #i3
+2017-08-07 12:35:49	◥	emdete (~m@total-communication.vfnet.de) has joined #i3
+2017-08-07 12:40:26	◣	Irishluck83_ (~Mutter@50.45.89.66) ha salido (Quit: Mutter: www.mutterirc.com)
+2017-08-07 12:42:07	◥	ralpheeee (~ralpheeee@cable-78-34-48-148.netcologne.de) has joined #i3
+2017-08-07 12:43:44	◣	m0u (~m0u@unaffiliated/m0u) ha salido (Ping timeout: 260 seconds)
+2017-08-07 12:44:17	◣	robattila256 (~robattila@S0106f0f24908d2a3.vf.shawcable.net) ha salido (Quit: WeeChat 1.9)
+2017-08-07 12:50:16	◣	kurzon (~mert@212.253.113.20) ha salido (Ping timeout: 260 seconds)
+2017-08-07 12:50:47	◥	sirjofri_ (~sirjofri@p5DC1FB37.dip0.t-ipconnect.de) has joined #i3
+2017-08-07 12:51:12	sirjofri_	hey guys, is there a way to access i3-nagbar buttons without a mouse?
+2017-08-07 12:54:25	◥	Ivion (~ivion@2001:982:5bba:1:1f50:eb7d:16d9:349a) has joined #i3
+2017-08-07 12:55:08	◣	emdete (~m@total-communication.vfnet.de) ha salido (Ping timeout: 240 seconds)
+2017-08-07 12:55:30	◣	kalbasit (~kalbasit@unaffiliated/kalbasit) ha salido (Ping timeout: 240 seconds)
+2017-08-07 12:57:31	◥	robattila256 (~robattila@S0106f0f24908d2a3.vf.shawcable.net) has joined #i3
+2017-08-07 13:00:47	◥	MajPotatohead (~harold@unaffiliated/majpotatohead) has joined #i3
+2017-08-07 13:00:56	◥	kalbasit (~kalbasit@unaffiliated/kalbasit) has joined #i3
+2017-08-07 13:02:18	f8l	As far as I know, it’s intentionally not supported.
+2017-08-07 13:02:38	sirjofri_	oh, ok.
+2017-08-07 13:02:42	sirjofri_	thanks
+2017-08-07 13:04:48	◣	mstruebing (~mstruebin@p200300E3DBD6B606E01C8EEFB5772138.dip0.t-ipconnect.de) ha salido (Quit: WeeChat 1.9)
+2017-08-07 13:06:54	◣	kalbasit (~kalbasit@unaffiliated/kalbasit) ha salido (Ping timeout: 268 seconds)
+2017-08-07 13:08:30	◣	linux_dream (~isaac@unaffiliated/linux-dream/x-5839402) ha salido (Quit: WeeChat 1.9)
+2017-08-07 13:08:38	◥	emdete (~m@total-communication.vfnet.de) has joined #i3
+2017-08-07 13:09:15	sirjofri_	ok everyone, have fun
+2017-08-07 13:09:17	◣	sirjofri_ (~sirjofri@p5DC1FB37.dip0.t-ipconnect.de) ha abandonado #i3
+2017-08-07 13:11:10	◥	kalbasit (~kalbasit@unaffiliated/kalbasit) has joined #i3
+2017-08-07 13:11:38	◣	ralpheeee (~ralpheeee@cable-78-34-48-148.netcologne.de) ha salido (Ping timeout: 255 seconds)
+2017-08-07 13:13:42	--	garphy es conocido ahora como garphy`aw
+2017-08-07 13:14:07	◥	ralpheeee (~ralpheeee@cable-78-34-48-148.netcologne.de) has joined #i3
+2017-08-07 13:15:22	smlb	i like this kind of people, they get the answer, thanks and leave
+2017-08-07 13:15:55	◣	emdete (~m@total-communication.vfnet.de) ha salido (Ping timeout: 246 seconds)
+2017-08-07 13:22:08	◣	sirjofri (~sirjofri@p5DC1FB37.dip0.t-ipconnect.de) ha salido (Ping timeout: 240 seconds)
+2017-08-07 13:23:26	◥	m0u (~m0u@unaffiliated/m0u) has joined #i3
+2017-08-07 13:26:35	◥	acetakwas (acetakwas@gateway/shell/xshellz/x-jciwnwfvpvirrphu) has joined #i3
+2017-08-07 13:27:21	◣	kvoz (~manjaro-i@81-225-229-22-no183.tbcn.telia.com) ha salido (Remote host closed the connection)
+2017-08-07 13:28:24	◥	emdete (~m@total-communication.vfnet.de) has joined #i3
+2017-08-07 13:28:49	◣	m0u (~m0u@unaffiliated/m0u) ha salido (Ping timeout: 248 seconds)
+2017-08-07 13:30:10	◣	frakturfreak (~frakturfr@unaffiliated/frakturfreak) ha salido (Quit: WeeChat 1.9)
+2017-08-07 13:31:45	◣	HardlySeen (~Gathering@unaffiliated/gatheringknowleg) ha salido (Quit: leaving)
+2017-08-07 13:35:10	◣	Joschasa (~andre@dslb-088-077-170-032.088.077.pools.vodafone-ip.de) ha salido (Quit: brb)
+2017-08-07 13:35:48	◣	netvor (amahdal@nat/redhat/x-ueeoxodqilrxqrwe) ha salido (Quit: gone)
+2017-08-07 13:36:06	◥	Joschasa (~andre@dslb-088-077-170-032.088.077.pools.vodafone-ip.de) has joined #i3
+2017-08-07 13:36:18	◣	Joschasa (~andre@dslb-088-077-170-032.088.077.pools.vodafone-ip.de) ha salido (Client Quit)
+2017-08-07 15:22:44	◥	mr-jules (~mr-jules@2806:101e:1:2d1e:c0fa:c829:2156:83eb) has joined #i3
+2017-08-07 15:22:44	--	Topic for #i3 is "i3 v4.13 released | i3status 2.11 released | i3lock 2.9.1 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | https://bintray.com/i3/i3-autobuild/i3-wm#statistics | paste at http://p.nnev.de/ | file upload at https://transfer.sh/ | Container tutorial: https://youtu.be/AWA8Pl57UBY"
+2017-08-07 15:22:44	--	Tema establecido por squigz (~squigz@unaffiliated/squigz) el lun, 31 jul 2017 11:27:24
+2017-08-07 15:22:44	--	Channel #i3: 382 apodos (4 ops, 0 voces, 378 normales)
+2017-08-07 15:22:47	--	Canal creado el jue, 22 jul 2010 12:58:13
+2017-08-07 15:30:58	◥	solenodic (~solenodic@unaffiliated/solenodic) has joined #i3
+2017-08-07 15:36:01	◣	grafzepp (~grafzepp@a95-95-113-190.cpe.netcabo.pt) ha salido (Remote host closed the connection)
+2017-08-07 15:42:13	◥	grafzepp (~grafzepp@a95-95-113-190.cpe.netcabo.pt) has joined #i3
+2017-08-07 15:51:53	◥	c1b3r (~c1b3r@unaffiliated/c1b3rh4ck) has joined #i3
+2017-08-07 15:52:39	c1b3r	Hi everybody today I just reinstalled my OS, I was reading in a forum about i3lock-color, anybody knows if this will be in the next release ?
+2017-08-07 15:52:53	◥	oswriter (~oswriter@2601:5c2:201:7e3b:a98a:eb8a:e449:4372) has joined #i3
+2017-08-07 15:53:25	c1b3r	I was checking and the i3lock-color installation instructions are not very clear
+2017-08-07 15:53:40	c1b3r	Have you try this ?
+2017-08-07 15:53:40	◣	m0u (~m0u@unaffiliated/m0u) ha salido (Ping timeout: 260 seconds)
+2017-08-07 16:00:21	◥	m0u (~m0u@unaffiliated/m0u) has joined #i3
+2017-08-07 16:01:49	◣	kalbasit (~kalbasit@unaffiliated/kalbasit) ha salido (Ping timeout: 246 seconds)
+2017-08-07 16:04:13	budRich	c1b3r: what exactly is the problemo?
+2017-08-07 16:05:54	budRich	https://github.com/chrjguill/i3lock-color ?
+2017-08-07 16:06:03	budRich	pretty clear instructions.
+2017-08-07 16:06:17	budRich	what distro are you running?
+2017-08-07 16:07:09	◥	kalbasit (~kalbasit@unaffiliated/kalbasit) has joined #i3
+2017-08-07 16:07:09	c1b3r	Debian buster
+2017-08-07 16:07:33	budRich	ok, install dependencies firs.
+2017-08-07 16:07:55	c1b3r	ok, it is done
+2017-08-07 16:07:57	budRich	just copy the code in the 'Ubuntu' code block
+2017-08-07 16:08:01	budRich	cool
+2017-08-07 16:08:26	c1b3r	Where ?
+2017-08-07 16:09:04	budRich	in a terminal you paste, after that clone the rep and run make in the folder you cloned it to i think..
+2017-08-07 16:09:15	c1b3r	I have always used i3lock
+2017-08-07 16:09:21	c1b3r	okay give me a sec
+2017-08-07 16:09:50	c1b3r	make and make install
+2017-08-07 16:09:51	c1b3r	?
+2017-08-07 16:09:57	c1b3r	after I clone the repo
+2017-08-07 16:10:55	budRich	i think so, be sure to be in the right folder.. but im not dev, and not 100% sure.
+2017-08-07 16:12:11	c1b3r	Okay, it's done I have installed and it works well.
+2017-08-07 16:12:18	budRich	cool.
+2017-08-07 16:12:35	budRich	it looked pretty sweet, gonna try it myself
+2017-08-07 16:13:28	c1b3r	yeah, I just prefer to use just the official version, but this patched versions seems cool, because it added the clock that I was search for

@@ -1,0 +1,915 @@
+2017-07-23 09:09:15	-->	mr-jules (~mr-jules@189.173.19.142) has joined #Ubuntu-es
+2017-07-23 09:09:15	--	Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-07-23 09:09:15	--	Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 12:16:11
+2017-07-23 09:09:15	--	Channel #Ubuntu-es: 22 apodos (1 op, 0 voces, 21 normales)
+2017-07-23 09:09:15	--	PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-07-23 09:09:15	--	URL para #ubuntu-es: http://www.ubuntu.com/
+2017-07-23 09:09:22	--	Canal creado el sáb, 25 nov 2006 23:42:53
+2017-07-23 09:37:26	-->	sergiog (~user@82.158.193.18.dyn.user.ono.com) has joined #Ubuntu-es
+2017-07-23 09:37:45	<--	sergiog (~user@82.158.193.18.dyn.user.ono.com) ha abandonado #Ubuntu-es
+2017-07-23 09:53:40	-->	mr-jules (~mr-jules@189.173.19.142) has joined #Ubuntu-es
+2017-07-23 09:53:40	--	Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-07-23 09:53:40	--	Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 12:16:11
+2017-07-23 09:53:40	--	Channel #Ubuntu-es: 23 apodos (1 op, 0 voces, 22 normales)
+2017-07-23 09:53:41	--	PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-07-23 09:53:41	--	URL para #ubuntu-es: http://www.ubuntu.com/
+2017-07-23 09:53:45	--	Canal creado el sáb, 25 nov 2006 23:42:53
+2017-07-23 09:57:10	-->	sergiog (~user@82.158.193.18.dyn.user.ono.com) has joined #Ubuntu-es
+2017-07-23 09:58:11	<--	sergiog (~user@82.158.193.18.dyn.user.ono.com) ha abandonado #Ubuntu-es
+2017-07-23 10:12:45	>	mr-jules (~mr-jules@189.173.19.142) has joined #Ubuntu-es
+2017-07-23 10:12:45	--	Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-07-23 10:12:45	--	Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 12:16:11
+2017-07-23 10:12:45	--	Channel #Ubuntu-es: 23 apodos (1 op, 0 voces, 22 normales)
+2017-07-23 10:12:45	--	PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-07-23 10:12:45	--	URL para #ubuntu-es: http://www.ubuntu.com/
+2017-07-23 10:12:50	--	Canal creado el sáb, 25 nov 2006 23:42:53
+2017-07-23 10:16:21	>	sergiog (~user@82.158.193.18.dyn.user.ono.com) has joined #Ubuntu-es
+2017-07-23 10:16:31	<	sergiog (~user@82.158.193.18.dyn.user.ono.com) ha abandonado #Ubuntu-es
+2017-07-23 10:29:05	>	mr-jules (~mr-jules@189.173.19.142) has joined #Ubuntu-es
+2017-07-23 10:29:05	--	Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-07-23 10:29:05	--	Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 12:16:11
+2017-07-23 10:29:05	--	Channel #Ubuntu-es: 23 apodos (1 op, 0 voces, 22 normales)
+2017-07-23 10:29:05	--	PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-07-23 10:29:05	--	URL para #ubuntu-es: http://www.ubuntu.com/
+2017-07-23 10:29:09	--	Canal creado el sáb, 25 nov 2006 23:42:53
+2017-07-23 10:40:41	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #Ubuntu-es
+2017-07-23 10:40:41	⇄	Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-07-23 10:40:41	⇄	Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 12:16:11
+2017-07-23 10:40:41	⇄	Channel #Ubuntu-es: 23 apodos (1 op, 0 voces, 22 normales)
+2017-07-23 10:40:41	⇄	PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-07-23 10:40:41	⇄	URL para #ubuntu-es: http://www.ubuntu.com/
+2017-07-23 10:40:46	⇄	Canal creado el sáb, 25 nov 2006 23:42:53
+2017-07-23 10:43:29	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #Ubuntu-es
+2017-07-23 10:43:29	⇄	Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-07-23 10:43:29	⇄	Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 12:16:11
+2017-07-23 10:43:29	⇄	Channel #Ubuntu-es: 23 apodos (1 op, 0 voces, 22 normales)
+2017-07-23 10:43:32	⇄	PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-07-23 10:43:32	⇄	URL para #ubuntu-es: http://www.ubuntu.com/
+2017-07-23 10:43:34	⇄	Canal creado el sáb, 25 nov 2006 23:42:53
+2017-07-23 10:43:58	<	philipballew (~philip@ubuntu/member/philipballew) ha salido (Ping timeout: 240 seconds)
+2017-07-23 10:47:25	>	Mikelever (~MoVeWoRk@60.red-80-25-210.staticip.rima-tde.net) has joined #Ubuntu-es
+2017-07-23 10:48:29	<	GridCube (~GridCube@unaffiliated/soupermanito) ha salido (Quit: Leaving)
+2017-07-23 10:48:49	>	GridCube (~GridCube@unaffiliated/soupermanito) has joined #Ubuntu-es
+2017-07-23 10:49:35	<	Mikelevel (~MoVeWoRk@unaffiliated/mikelevel) ha salido (Ping timeout: 240 seconds)
+2017-07-23 11:46:02	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #Ubuntu-es
+2017-07-23 11:46:02	⇄	Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-07-23 11:46:02	⇄	Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 12:16:11
+2017-07-23 11:46:02	⇄	Channel #Ubuntu-es: 22 apodos (1 op, 0 voces, 21 normales)
+2017-07-23 11:46:03	⇄	PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-07-23 11:46:03	⇄	URL para #ubuntu-es: http://www.ubuntu.com/
+2017-07-23 11:46:06	⇄	Canal creado el sáb, 25 nov 2006 23:42:53
+2017-07-23 12:36:14	>	salapin (~salapin@81.202.112.86.dyn.user.ono.com) has joined #Ubuntu-es
+2017-07-23 12:52:50	>	Ocsi (~francisco@90.168.181.96) has joined #Ubuntu-es
+2017-07-23 12:54:40	<	Ocsi (~francisco@90.168.181.96) ha salido (Client Quit)
+2017-07-23 13:06:43	<	leom33 (~ivedci@190.191.131.229) ha salido (Remote host closed the connection)
+2017-07-23 14:25:58	>	philipballew (~philip@ubuntu/member/philipballew) has joined #Ubuntu-es
+2017-07-23 14:40:06	<	salapin (~salapin@81.202.112.86.dyn.user.ono.com) ha salido (Quit: Leaving)
+2017-07-23 15:00:18	<	philipballew (~philip@ubuntu/member/philipballew) ha salido (Ping timeout: 248 seconds)
+2017-07-23 15:13:13	>	Tonnntinn (~kampyacr@84.77.34.69) has joined #Ubuntu-es
+2017-07-23 15:14:02	>	philipballew (~philip@ubuntu/member/philipballew) has joined #Ubuntu-es
+2017-07-23 15:14:44	<	Tonnntinn (~kampyacr@84.77.34.69) ha salido (Client Quit)
+2017-07-23 15:35:27	<	philipballew (~philip@ubuntu/member/philipballew) ha salido (Ping timeout: 240 seconds)
+2017-07-23 15:37:47	<	Mikelever (~MoVeWoRk@60.red-80-25-210.staticip.rima-tde.net) ha salido (Remote host closed the connection)
+2017-07-23 15:53:17	<	psychicist (~psychicis@ip127-8-212-87.adsl2.static.versatel.nl) ha salido (Quit: Lost terminal)
+2017-07-23 16:00:09	>	philipballew (~philip@cpe-70-95-37-173.san.res.rr.com) has joined #Ubuntu-es
+2017-07-23 16:00:24	<	philipballew (~philip@cpe-70-95-37-173.san.res.rr.com) ha salido (Changing host)
+2017-07-23 16:00:24	>	philipballew (~philip@ubuntu/member/philipballew) has joined #Ubuntu-es
+2017-07-23 16:01:04	>	psychicist (~psychicis@ip127-8-212-87.adsl2.static.versatel.nl) has joined #Ubuntu-es
+2017-07-23 16:14:16	>	rda-mac (~rda-mac@unaffiliated/rda-mac) has joined #Ubuntu-es
+2017-07-23 16:28:52	>	Nel1x (~Nel1x@mail1.oncosmos.com) has joined #Ubuntu-es
+2017-07-23 16:31:36	<	philipballew (~philip@ubuntu/member/philipballew) ha salido (Ping timeout: 260 seconds)
+2017-07-23 17:43:27	<	sanzante (~ricardo@210.178.132.37.dynamic.jazztel.es) ha salido (Ping timeout: 240 seconds)
+2017-07-23 18:22:56	<	Gaxpaxxo (~Gazpacho@20.red-83-36-227.dynamicip.rima-tde.net) ha salido (Quit: Leaving)
+2017-07-23 19:20:22	>	boottella (c87d498a@gateway/web/freenode/ip.200.125.73.138) has joined #Ubuntu-es
+2017-07-23 19:20:37	boottella	buenas noches
+2017-07-23 19:21:08	boottella	es posible instalar ubuntu desde windows ?
+2017-07-23 19:29:45	<	boottella (c87d498a@gateway/web/freenode/ip.200.125.73.138) ha abandonado #Ubuntu-es
+2017-07-23 20:17:21	mr-jules	Si
+2017-07-23 20:17:36	mr-jules	Si mal no recuerdo esta en la windows 10 store.
+2017-07-23 20:19:22	<	GridCube (~GridCube@unaffiliated/soupermanito) ha salido (Quit: Leaving)
+2017-07-23 22:01:24	<	Nel1x (~Nel1x@mail1.oncosmos.com) ha salido (Ping timeout: 240 seconds)
+2017-07-23 22:18:50	>	leom33 (~ivedci@190.191.131.229) has joined #Ubuntu-es
+2017-07-24 16:05:42	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #Ubuntu-es
+2017-07-24 16:05:42	⇄	Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-07-24 16:05:42	⇄	Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 12:16:11
+2017-07-24 16:05:42	⇄	Channel #Ubuntu-es: 20 apodos (1 op, 0 voces, 19 normales)
+2017-07-24 16:05:42	⇄	PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-07-24 16:05:42	⇄	URL para #ubuntu-es: http://www.ubuntu.com/
+2017-07-24 16:05:47	⇄	Canal creado el sáb, 25 nov 2006 23:42:53
+2017-07-24 16:33:26	>	GridCube (~GridCube@unaffiliated/soupermanito) has joined #Ubuntu-es
+2017-07-24 16:35:01	>	roxacer (~ivedci@191.102.245.66) has joined #Ubuntu-es
+2017-07-24 16:54:57	<	roxacer (~ivedci@191.102.245.66) ha salido (Ping timeout: 248 seconds)
+2017-07-24 16:56:35	<	sanzante (~ricardo@210.178.132.37.dynamic.jazztel.es) ha salido (Ping timeout: 240 seconds)
+2017-07-24 17:06:15	>	jhony (~rufus@static-74-119-87-188.ipcom.comunitel.net) has joined #Ubuntu-es
+2017-07-24 17:15:01	>	roxacer (~ivedci@186.39.36.165) has joined #Ubuntu-es
+2017-07-24 17:34:55	>	roxacer1 (~ivedci@191.102.245.66) has joined #Ubuntu-es
+2017-07-24 17:36:36	<	roxacer (~ivedci@186.39.36.165) ha salido (Ping timeout: 260 seconds)
+2017-07-24 17:40:51	>	DarkPsydeLord (~DarkPsyde@189.162.213.108) has joined #Ubuntu-es
+2017-07-24 17:50:14	>	Souchiro (~Yuuji@unaffiliated/souchiro) has joined #Ubuntu-es
+2017-07-24 17:58:28	<	Souchiro (~Yuuji@unaffiliated/souchiro) ha salido (Ping timeout: 255 seconds)
+2017-07-24 17:59:35	<	roxacer1 (~ivedci@191.102.245.66) ha salido (Ping timeout: 240 seconds)
+2017-07-24 18:14:56	>	Souchiro (~Yuuji@unaffiliated/souchiro) has joined #Ubuntu-es
+2017-07-24 18:26:07	>	roxacer (~ivedci@191.102.245.66) has joined #Ubuntu-es
+2017-07-24 18:54:25	<	roxacer (~ivedci@191.102.245.66) ha salido (Quit: Leaving.)
+2017-07-24 18:55:07	>	roxacer (~ivedci@191.102.245.66) has joined #Ubuntu-es
+2017-07-24 18:59:50	<	roxacer (~ivedci@191.102.245.66) ha salido (Ping timeout: 240 seconds)
+2017-07-24 19:00:57	<	GridCube (~GridCube@unaffiliated/soupermanito) ha salido (Read error: Connection reset by peer)
+2017-07-24 19:03:22	>	GridCube (~GridCube@unaffiliated/soupermanito) has joined #Ubuntu-es
+2017-07-24 19:09:02	<	Souchiro (~Yuuji@unaffiliated/souchiro) ha salido (Quit: me fui xD)
+2017-07-24 22:07:35	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #Ubuntu-es
+2017-07-24 22:07:35	⇄	Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-07-24 22:07:35	⇄	Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 12:16:11
+2017-07-24 22:07:35	⇄	Channel #Ubuntu-es: 21 apodos (1 op, 0 voces, 20 normales)
+2017-07-24 22:07:36	⇄	PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-07-24 22:07:36	⇄	URL para #ubuntu-es: http://www.ubuntu.com/
+2017-07-24 22:07:40	⇄	Canal creado el sáb, 25 nov 2006 23:42:53
+2017-07-24 22:36:29	<	leom331 (~ivedci@190.191.131.229) ha salido (Quit: Leaving.)
+2017-07-24 22:38:19	>	leom33 (~ivedci@190.191.131.229) has joined #Ubuntu-es
+2017-07-24 22:54:57	<	DarkPsydeLord (~DarkPsyde@189.162.213.108) ha salido (Quit: Leaving)
+2017-07-24 22:58:31	>	Mikelevel (~MoVeWoRk@unaffiliated/mikelevel) has joined #Ubuntu-es
+2017-07-25 00:47:52	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #Ubuntu-es
+2017-07-25 00:47:52	⇄	Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-07-25 00:47:52	⇄	Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 12:16:11
+2017-07-25 00:47:52	⇄	Channel #Ubuntu-es: 20 apodos (1 op, 0 voces, 19 normales)
+2017-07-25 00:47:53	⇄	PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-07-25 00:47:53	⇄	URL para #ubuntu-es: http://www.ubuntu.com/
+2017-07-25 00:47:56	⇄	Canal creado el sáb, 25 nov 2006 23:42:53
+2017-07-25 01:02:14	>	jhony_ (~rufus@static-202-87-84-188.ipcom.comunitel.net) has joined #Ubuntu-es
+2017-07-25 01:04:57	<	jhony (~rufus@static-74-119-87-188.ipcom.comunitel.net) ha salido (Ping timeout: 260 seconds)
+2017-07-25 01:06:44	>	fviciana (~fviciana@111.red-88-2-19.staticip.rima-tde.net) has joined #Ubuntu-es
+2017-07-25 01:07:25	<	fviciana (~fviciana@111.red-88-2-19.staticip.rima-tde.net) ha abandonado #Ubuntu-es
+2017-07-25 01:34:38	<	Buda (~Budadona@2a00:d880:5:702::5cad) ha salido (Read error: Connection reset by peer)
+2017-07-25 01:41:01	>	Buda (~Budadona@2a00:d880:5:702::5cad) has joined #Ubuntu-es
+2017-07-25 02:01:24	>	sanzante (~ricardo@37.red-212-170-183.staticip.rima-tde.net) has joined #Ubuntu-es
+2017-07-25 02:17:11	<	sanzante (~ricardo@37.red-212-170-183.staticip.rima-tde.net) ha salido (Quit: Cerrando Konversastion!)
+2017-07-25 02:19:02	>	sanzante (~ricardo@37.red-212-170-183.staticip.rima-tde.net) has joined #Ubuntu-es
+2017-07-25 03:07:59	⇄	irc: desconectado del servidor
+2017-07-25 03:17:52	>	mr-jules (~mr-jules@189.173.19.142) has joined #Ubuntu-es
+2017-07-25 03:17:52	⇄	Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-07-25 03:17:52	⇄	Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 12:18:19
+2017-07-25 03:17:52	⇄	Channel #Ubuntu-es: 23 apodos (1 op, 0 voces, 22 normales)
+2017-07-25 03:17:52	⇄	PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-07-25 03:17:52	⇄	URL para #ubuntu-es: http://www.ubuntu.com/
+2017-07-25 03:18:16	⇄	Canal creado el sáb, 25 nov 2006 23:42:53
+2017-07-25 04:22:24	<	Buda (~Budadona@2a00:d880:5:702::5cad) ha salido (Remote host closed the connection)
+2017-07-25 04:31:02	>	Buda (~Budadona@2a00:d880:5:702::5cad) has joined #Ubuntu-es
+2017-07-25 08:47:47	⇄	irc: desconectado del servidor
+2017-07-25 08:48:10	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #Ubuntu-es
+2017-07-25 08:48:10	⇄	Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-07-25 08:48:10	⇄	Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 12:16:11
+2017-07-25 08:48:10	⇄	Channel #Ubuntu-es: 23 apodos (1 op, 0 voces, 22 normales)
+2017-07-25 08:48:11	⇄	PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-07-25 08:48:11	⇄	URL para #ubuntu-es: http://www.ubuntu.com/
+2017-07-25 08:48:34	⇄	Canal creado el sáb, 25 nov 2006 23:42:53
+2017-07-25 08:49:59	>	Mikelevel (~MoVeWoRk@unaffiliated/mikelevel) has joined #Ubuntu-es
+2017-07-25 09:20:37	>	t0n1 (~t0n1@host146.181-14-255.telecom.net.ar) has joined #Ubuntu-es
+2017-07-25 09:48:06	⇄	irc: desconectado del servidor
+2017-07-25 09:48:32	>	mr-jules (~mr-jules@189.173.192.251) has joined #Ubuntu-es
+2017-07-25 09:48:32	⇄	Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-07-25 09:48:32	⇄	Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 12:16:11
+2017-07-25 09:48:32	⇄	Channel #Ubuntu-es: 24 apodos (1 op, 0 voces, 23 normales)
+2017-07-25 09:48:32	⇄	PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-07-25 09:48:32	⇄	URL para #ubuntu-es: http://www.ubuntu.com/
+2017-07-25 09:48:57	⇄	Canal creado el sáb, 25 nov 2006 23:42:53
+2017-07-25 10:12:47	>	ZaZ (~ZaZ@165.red-2-138-225.dynamicip.rima-tde.net) has joined #Ubuntu-es
+2017-07-25 10:17:18	>	Ciclista_47 (~usuario@47.62.53.173) has joined #Ubuntu-es
+2017-07-25 10:18:16	<	Ciclista_47 (~usuario@47.62.53.173) ha salido (Client Quit)
+2017-07-25 10:39:42	⇄	irc: desconectado del servidor
+2017-07-25 10:40:28	>	mr-jules (~mr-jules@189.173.192.251) has joined #Ubuntu-es
+2017-07-25 10:40:28	⇄	Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-07-25 10:40:28	⇄	Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 12:16:11
+2017-07-25 10:40:28	⇄	Channel #Ubuntu-es: 26 apodos (1 op, 0 voces, 25 normales)
+2017-07-25 23:06:43	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #Ubuntu-es
+2017-07-25 23:06:43	⇄	Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-07-25 23:06:43	⇄	Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 12:16:11
+2017-07-25 23:06:43	⇄	Channel #Ubuntu-es: 21 apodos (1 op, 0 voces, 20 normales)
+2017-07-25 23:06:44	⇄	PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-07-25 23:06:44	⇄	URL para #ubuntu-es: http://www.ubuntu.com/
+2017-07-25 23:06:47	⇄	Canal creado el sáb, 25 nov 2006 23:42:53
+2017-07-25 23:26:37	<	philipballew (~philip@ubuntu/member/philipballew) ha salido (Ping timeout: 260 seconds)
+2017-07-26 14:44:21	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #Ubuntu-es
+2017-07-26 14:44:21	⇄	Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-07-26 14:44:21	⇄	Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 12:16:11
+2017-07-26 14:44:21	⇄	Channel #Ubuntu-es: 24 apodos (1 op, 0 voces, 23 normales)
+2017-07-26 14:44:21	⇄	PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-07-26 14:44:21	⇄	URL para #ubuntu-es: http://www.ubuntu.com/
+2017-07-26 14:44:26	⇄	Canal creado el sáb, 25 nov 2006 23:42:53
+2017-07-26 14:58:53	>	sanzante (~ricardo@210.178.132.37.dynamic.jazztel.es) has joined #Ubuntu-es
+2017-07-26 15:18:49	>	ivedci89 (~ivedci@181.24.149.227) has joined #Ubuntu-es
+2017-07-26 15:24:45	>	NePtUnO (~Trancero@142.red-81-43-146.staticip.rima-tde.net) has joined #Ubuntu-es
+2017-07-26 15:39:21	<	sanzante (~ricardo@210.178.132.37.dynamic.jazztel.es) ha salido (Ping timeout: 240 seconds)
+2017-07-26 15:53:30	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #Ubuntu-es
+2017-07-26 15:53:30	⇄	Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-07-26 15:53:30	⇄	Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 12:16:11
+2017-07-26 15:53:30	⇄	Channel #Ubuntu-es: 26 apodos (1 op, 0 voces, 25 normales)
+2017-07-26 15:53:30	⇄	PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-07-26 15:53:30	⇄	URL para #ubuntu-es: http://www.ubuntu.com/
+2017-07-26 15:53:35	⇄	Canal creado el sáb, 25 nov 2006 23:42:53
+2017-07-26 16:02:53	>	_mateo_ (~javi@3.215.117.91.dynamic.reverse-mundo-r.com) has joined #Ubuntu-es
+2017-07-26 16:03:30	>	GridCube (~GridCube@unaffiliated/soupermanito) has joined #Ubuntu-es
+2017-07-26 16:05:37	<	_mateo_ (~javi@3.215.117.91.dynamic.reverse-mundo-r.com) ha salido (Remote host closed the connection)
+2017-07-26 16:22:05	<	philipballew (~philip@ubuntu/member/philipballew) ha salido (Read error: Connection reset by peer)
+2017-07-26 16:22:31	<	NePtUnO (~Trancero@142.red-81-43-146.staticip.rima-tde.net) ha salido (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2017-07-26 16:22:35	>	philipballew (~philip@ubuntu/member/philipballew) has joined #Ubuntu-es
+2017-07-26 16:23:45	>	Tonnntinn (~kampyacr@84.77.34.69) has joined #Ubuntu-es
+2017-07-26 16:23:51	<	Tonnntinn (~kampyacr@84.77.34.69) ha salido (Client Quit)
+2017-07-26 16:24:19	<	Mikelevel (~MoVeWoRk@unaffiliated/mikelevel) ha salido (Remote host closed the connection)
+2017-07-26 16:45:22	<	Gaxpaxxo (~Gazpacho@61.red-81-47-144.staticip.rima-tde.net) ha salido (Quit: Leaving)
+2017-07-26 17:22:18	<	philipballew (~philip@ubuntu/member/philipballew) ha salido (Read error: Connection reset by peer)
+2017-07-26 17:22:38	>	philipballew (~philip@ubuntu/member/philipballew) has joined #Ubuntu-es
+2017-07-26 17:29:45	pacer	alguien sabe como instalar canaon pixma g3100 en ubuntu 16.04
+2017-07-26 17:30:20	>	magu42 (~magu@r167-56-186-165.dialup.adsl.anteldata.net.uy) has joined #Ubuntu-es
+2017-07-26 17:30:20	<	magu42 (~magu@r167-56-186-165.dialup.adsl.anteldata.net.uy) ha salido (Changing host)
+2017-07-26 17:30:20	>	magu42 (~magu@unaffiliated/magu42) has joined #Ubuntu-es
+2017-07-26 17:31:30	>	roxacer (~ivedci@191.102.245.66) has joined #Ubuntu-es
+2017-07-26 17:32:41	pacer	alguien sabe como instalar canaon pixma g3100 en ubuntu 16.04
+2017-07-26 17:41:15	<	pacer (~pacer@pc-88-106-45-190.cm.vtr.net) ha salido (Quit: Ex-Chat)
+2017-07-26 17:44:33	<	m4v (~znc@ubuntu/member/m4v) ha salido (Ping timeout: 248 seconds)
+2017-07-26 17:50:49	<	roxacer (~ivedci@191.102.245.66) ha salido (Quit: Leaving.)
+2017-07-26 17:58:37	>	m4v (~znc@ubuntu/member/m4v) has joined #Ubuntu-es
+2017-07-26 17:59:45	<	philipballew (~philip@ubuntu/member/philipballew) ha salido (Ping timeout: 268 seconds)
+2017-07-26 18:17:21	>	Tacoder (~DarkPsyde@189.162.213.108) has joined #Ubuntu-es
+2017-07-26 18:42:36	>	philipballew (~philip@ubuntu/member/philipballew) has joined #Ubuntu-es
+2017-07-26 19:08:19	⇄	irc: desconectado del servidor
+2017-07-26 19:08:47	>	mr-jules (~mr-jules@189.173.192.251) has joined #Ubuntu-es
+2017-07-26 19:08:47	⇄	Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-07-26 19:08:47	⇄	Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 12:16:11
+2017-07-26 19:08:47	⇄	Channel #Ubuntu-es: 25 apodos (1 op, 0 voces, 24 normales)
+2017-07-26 19:08:47	⇄	PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-07-26 19:08:47	⇄	URL para #ubuntu-es: http://www.ubuntu.com/
+2017-07-26 19:09:12	⇄	Canal creado el sáb, 25 nov 2006 23:42:53
+2017-07-26 22:17:08	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #Ubuntu-es
+2017-07-26 22:17:08	⇄	Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-07-26 22:17:08	⇄	Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 12:16:11
+2017-07-26 22:17:08	⇄	Channel #Ubuntu-es: 22 apodos (1 op, 0 voces, 21 normales)
+2017-07-26 22:17:09	⇄	PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-07-26 22:17:09	⇄	URL para #ubuntu-es: http://www.ubuntu.com/
+2017-07-26 22:17:12	⇄	Canal creado el sáb, 25 nov 2006 23:42:53
+2017-07-26 22:28:15	>	OERIAS (~OERIAS@47.137.234.90) has joined #Ubuntu-es
+2017-07-26 22:35:37	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #Ubuntu-es
+2017-07-26 22:35:37	⇄	Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-07-26 22:35:37	⇄	Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 12:16:11
+2017-07-26 22:35:37	⇄	Channel #Ubuntu-es: 23 apodos (1 op, 0 voces, 22 normales)
+2017-07-26 22:35:37	⇄	PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-07-26 22:35:37	⇄	URL para #ubuntu-es: http://www.ubuntu.com/
+2017-07-26 22:35:43	⇄	Canal creado el sáb, 25 nov 2006 23:42:53
+2017-07-26 22:36:23	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #Ubuntu-es
+2017-07-26 22:36:23	⇄	Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-07-26 22:36:23	⇄	Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 12:16:11
+2017-07-26 22:36:23	⇄	Channel #Ubuntu-es: 23 apodos (1 op, 0 voces, 22 normales)
+2017-07-26 22:36:23	⇄	PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-07-26 22:36:23	⇄	URL para #ubuntu-es: http://www.ubuntu.com/
+2017-07-26 22:36:27	⇄	Canal creado el sáb, 25 nov 2006 23:42:53
+2017-07-26 23:25:14	<	philipballew (~philip@ubuntu/member/philipballew) ha salido (Read error: Connection reset by peer)
+2017-07-26 23:27:42	>	skeptical (~ale@186.138.171.139) has joined #Ubuntu-es
+2017-07-26 23:29:31	<	skeptical (~ale@186.138.171.139) ha salido (Client Quit)
+2017-07-27 00:05:41	>	philipballew (~philip@ubuntu/member/philipballew) has joined #Ubuntu-es
+2017-07-28 21:50:31	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #Ubuntu-es
+2017-07-28 21:50:31	⇄	Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-07-28 21:50:31	⇄	Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 12:16:11
+2017-07-28 21:50:31	⇄	Channel #Ubuntu-es: 23 apodos (1 op, 0 voces, 22 normales)
+2017-07-28 21:50:31	⇄	PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-07-28 21:50:31	⇄	URL para #ubuntu-es: http://www.ubuntu.com/
+2017-07-28 21:50:34	⇄	Canal creado el sáb, 25 nov 2006 23:42:53
+2017-07-28 21:51:14	<	salapin (ircap@81.202.112.86.dyn.user.ono.com) ha salido (Quit:  IRcap  8.72 )
+2017-07-28 21:55:36	>	leom33 (~ivedci@190.191.131.229) has joined #Ubuntu-es
+2017-07-28 21:57:55	>	salapin (~salapin@81.202.112.86.dyn.user.ono.com) has joined #Ubuntu-es
+2017-07-28 22:34:41	<	LOQUILLO (LOQUILLO@190.42.107.3) ha salido (Quit: A descansar!!!)
+2017-07-28 22:44:17	>	deep-book-gk_ (~1wm_su@159.122.132.44) has joined #Ubuntu-es
+2017-07-28 22:44:59	<	deep-book-gk_ (~1wm_su@159.122.132.44) ha abandonado #Ubuntu-es
+2017-07-28 22:56:30	<	salapin (~salapin@81.202.112.86.dyn.user.ono.com) ha salido (Ping timeout: 240 seconds)
+2017-07-28 23:01:22	>	david__ (~david@201.249.99.175) has joined #Ubuntu-es
+2017-07-28 23:01:23	<	david__ (~david@201.249.99.175) ha salido (Client Quit)
+2017-07-29 00:02:20	>	Ulisses_ (~jose@81.203.113.219.dyn.user.ono.com) has joined #Ubuntu-es
+2017-07-29 00:05:30	<	Ulisses_ (~jose@81.203.113.219.dyn.user.ono.com) ha salido (Client Quit)
+2017-07-29 00:57:31	>	philipballew (~philip@ubuntu/member/philipballew) has joined #Ubuntu-es
+2017-07-29 01:13:30	<	philipballew (~philip@ubuntu/member/philipballew) ha salido (Ping timeout: 240 seconds)
+2017-07-29 02:22:18	>	Tiffon (~name@unaffiliated/tiff0n) has joined #Ubuntu-es
+2017-07-29 03:32:43	>	OERIAS (~OERIAS@47.137.234.90) has joined #Ubuntu-es
+2017-07-29 03:43:57	<	nameless_CL (~snake@200-28-172-157.baf.movistar.cl) ha salido (Ping timeout: 240 seconds)
+2017-07-29 04:28:36	⇄	irc: desconectado del servidor
+2017-07-29 04:55:12	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #Ubuntu-es
+2017-07-29 04:55:12	⇄	Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-07-29 04:55:12	⇄	Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 12:16:11
+2017-07-29 04:55:12	⇄	Channel #Ubuntu-es: 24 apodos (1 op, 0 voces, 23 normales)
+2017-07-29 04:55:12	⇄	PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-07-29 04:55:12	⇄	URL para #ubuntu-es: http://www.ubuntu.com/
+2017-07-29 04:55:36	⇄	Canal creado el sáb, 25 nov 2006 23:42:53
+2017-07-29 05:07:32	>	Tonnntinn (~kampyacr@84.77.34.69) has joined #Ubuntu-es
+2017-07-29 05:08:10	<	Tonnntinn (~kampyacr@84.77.34.69) ha salido (Client Quit)
+2017-07-29 05:10:14	<	m3n3chm0 (~XFCE@static-179-255-86-188.ipcom.comunitel.net) ha salido (Quit: A simple man with simple shoes.)
+2017-07-29 05:16:43	<	Tiffon (~name@unaffiliated/tiff0n) ha salido (Quit: exit)
+2017-07-29 05:17:15	>	Tiffon (~name@unaffiliated/tiff0n) has joined #Ubuntu-es
+2017-07-29 05:37:04	>	Ocsi (~francisco@90.168.181.96) has joined #Ubuntu-es
+2017-07-29 05:38:47	<	Ocsi (~francisco@90.168.181.96) ha salido (Client Quit)
+2017-07-29 05:39:04	>	Ocsi (~francisco@90.168.181.96) has joined #Ubuntu-es
+2017-07-29 05:43:39	<	Ocsi (~francisco@90.168.181.96) ha salido (Client Quit)
+2017-07-29 05:55:36	>	Ocsi (~francisco@90.168.181.96) has joined #Ubuntu-es
+2017-07-29 06:02:06	<	Ocsi (~francisco@90.168.181.96) ha salido (Quit: Ex-Chat)
+2017-07-29 07:35:45	>	roxacer (~ivedci@191.102.245.66) has joined #Ubuntu-es
+2017-07-29 08:01:30	>	GridCube (uid10553@gateway/web/irccloud.com/x-dnivklzlvharvwnk) has joined #Ubuntu-es
+2017-07-29 08:03:18	<	roxacer (~ivedci@191.102.245.66) ha salido (Ping timeout: 240 seconds)
+2017-07-29 08:32:02	<	OERIAS (~OERIAS@47.137.234.90) ha salido (Remote host closed the connection)
+2017-07-29 08:37:21	>	philipballew (~philip@ubuntu/member/philipballew) has joined #Ubuntu-es
+2017-07-29 08:37:48	<	ivedci89 (~ivedci@181.24.171.124) ha salido (Ping timeout: 240 seconds)
+2017-07-29 08:39:54	>	ivedci89 (~ivedci@181.24.177.232) has joined #Ubuntu-es
+2017-07-29 09:36:17	>	psychicist (~psychicis@134.249.49.197) has joined #Ubuntu-es
+2017-07-29 09:54:18	<	philipballew (~philip@ubuntu/member/philipballew) ha salido (Ping timeout: 240 seconds)
+2017-07-29 09:54:54	>	philipballew (~philip@ubuntu/member/philipballew) has joined #Ubuntu-es
+2017-07-29 10:10:40	<	philipballew (~philip@ubuntu/member/philipballew) ha salido (Ping timeout: 260 seconds)
+2017-07-29 10:14:44	>	nameless_CL (~snake@200-28-172-157.baf.movistar.cl) has joined #Ubuntu-es
+2017-07-29 10:15:46	<	psychicist (~psychicis@134.249.49.197) ha salido (Ping timeout: 268 seconds)
+2017-07-29 10:19:06	>	Gaxpaxxo (~Gazpacho@191.red-83-42-43.dynamicip.rima-tde.net) has joined #Ubuntu-es
+2017-07-29 10:28:04	>	philipballew (~philip@ubuntu/member/philipballew) has joined #Ubuntu-es
+2017-07-29 10:37:07	>	psychicist (~psychicis@134.249.49.197) has joined #Ubuntu-es
+2017-07-29 10:43:18	<	psychicist (~psychicis@134.249.49.197) ha salido (Ping timeout: 240 seconds)
+2017-07-29 10:49:40	>	GatoLoko (~GatoLoko@85.136.181.101.dyn.user.ono.com) has joined #Ubuntu-es
+2017-07-29 11:00:07	<	ivedci89 (~ivedci@181.24.177.232) ha salido (Quit: Leaving.)
+2017-07-29 11:01:31	<	nameless_CL (~snake@200-28-172-157.baf.movistar.cl) ha salido (Ping timeout: 246 seconds)
+2017-07-29 11:23:56	<	philipballew (~philip@ubuntu/member/philipballew) ha salido (Ping timeout: 260 seconds)
+2017-07-29 11:29:22	>	psychicist (~psychicis@134.249.49.197) has joined #Ubuntu-es
+2017-07-29 11:30:11	>	nameless1CL (~snake@200-28-172-157.baf.movistar.cl) has joined #Ubuntu-es
+2017-07-29 11:35:00	<	Tiffon (~name@unaffiliated/tiff0n) ha salido (Quit: exit)
+2017-07-29 11:47:23	>	MrTulias (~misco@unaffiliated/mrtulias) has joined #Ubuntu-es
+2017-07-29 11:48:53	<	psychicist (~psychicis@134.249.49.197) ha salido (Ping timeout: 246 seconds)
+2017-07-29 12:03:37	<	Buda (~Budadona@2a00:d880:5:702::5cad) ha salido (Read error: Connection reset by peer)
+2017-07-29 12:11:01	>	Buda (~Budadona@2a00:d880:5:702::5cad) has joined #Ubuntu-es
+2017-07-29 12:56:04	>	Ocsi (~francisco@90.168.181.96) has joined #Ubuntu-es
+2017-07-29 13:02:10	<	GridCube (uid10553@gateway/web/irccloud.com/x-dnivklzlvharvwnk) ha salido
+2017-07-29 13:15:03	>	roxacer (~ivedci@191.102.245.66) has joined #Ubuntu-es
+2017-07-29 13:18:13	<	leom33 (~ivedci@190.191.131.229) ha salido (Quit: Leaving.)
+2017-07-29 13:28:37	<	Ocsi (~francisco@90.168.181.96) ha salido (Quit: Ex-Chat)
+2017-07-29 13:30:05	>	philipballew (~philip@ubuntu/member/philipballew) has joined #Ubuntu-es
+2017-07-29 13:41:08	<	philipballew (~philip@ubuntu/member/philipballew) ha salido (Ping timeout: 276 seconds)
+2017-07-29 14:34:29	>	salapin (~salapin@81.202.112.86.dyn.user.ono.com) has joined #Ubuntu-es
+2017-07-29 14:35:16	<	roxacer (~ivedci@191.102.245.66) ha salido (Ping timeout: 260 seconds)
+2017-07-29 14:56:45	>	philipballew (~philip@ubuntu/member/philipballew) has joined #Ubuntu-es
+2017-07-29 15:16:30	<	salapin (~salapin@81.202.112.86.dyn.user.ono.com) ha salido (Remote host closed the connection)
+2017-07-29 15:25:07	>	GridCube (~GridCube@unaffiliated/soupermanito) has joined #Ubuntu-es
+2017-07-29 15:37:28	<	philipballew (~philip@ubuntu/member/philipballew) ha salido (Read error: Connection reset by peer)
+2017-07-29 15:37:48	>	philipballew (~philip@ubuntu/member/philipballew) has joined #Ubuntu-es
+2017-07-29 16:01:37	<	m4v (~znc@ubuntu/member/m4v) ha salido (Ping timeout: 248 seconds)
+2017-07-29 16:01:45	>	m4v (~znc@ubuntu/member/m4v) has joined #Ubuntu-es
+2017-07-29 16:08:50	<	MrTulias (~misco@unaffiliated/mrtulias) ha salido (Quit: Leaving)
+2017-07-29 16:14:18	<	nameless1CL (~snake@200-28-172-157.baf.movistar.cl) ha salido (Ping timeout: 240 seconds)
+2017-07-29 16:34:09	<	philipballew (~philip@ubuntu/member/philipballew) ha salido (Ping timeout: 248 seconds)
+2017-07-29 17:28:05	<	GatoLoko (~GatoLoko@85.136.181.101.dyn.user.ono.com) ha salido (Remote host closed the connection)
+2017-08-02 03:55:39	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #Ubuntu-es
+2017-08-02 03:55:39	⇄	Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-08-02 03:55:39	⇄	Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 12:16:11
+2017-08-02 03:55:39	⇄	Channel #Ubuntu-es: 19 apodos (1 op, 0 voces, 18 normales)
+2017-08-02 03:55:40	⇄	PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-08-02 03:55:40	⇄	URL para #ubuntu-es: http://www.ubuntu.com/
+2017-08-02 03:55:44	⇄	Canal creado el sáb, 25 nov 2006 23:42:53
+2017-08-02 04:00:07	<	rda-mac (~rda-mac@unaffiliated/rda-mac) ha salido (Ping timeout: 255 seconds)
+2017-08-02 04:35:44	>	rda-mac (~rda-mac@unaffiliated/rda-mac) has joined #Ubuntu-es
+2017-08-02 04:37:08	>	sanzante (~ricardo@37.red-212-170-183.staticip.rima-tde.net) has joined #Ubuntu-es
+2017-08-02 04:43:14	<	rda-mac (~rda-mac@unaffiliated/rda-mac) ha salido (Read error: Connection reset by peer)
+2017-08-02 04:48:15	>	rda-mac (~rda-mac@unaffiliated/rda-mac) has joined #Ubuntu-es
+2017-08-02 04:57:05	<	rda-mac (~rda-mac@unaffiliated/rda-mac) ha salido (Read error: Connection reset by peer)
+2017-08-02 05:31:57	>	rda-mac (~rda-mac@unaffiliated/rda-mac) has joined #Ubuntu-es
+2017-08-02 05:42:32	<	rda-mac (~rda-mac@unaffiliated/rda-mac) ha salido (Read error: Connection reset by peer)
+2017-08-02 05:42:41	>	Ocsi (~francisco@90.168.181.96) has joined #Ubuntu-es
+2017-08-02 05:51:51	>	rda-mac (~rda-mac@unaffiliated/rda-mac) has joined #Ubuntu-es
+2017-08-02 05:58:38	<	rda-mac (~rda-mac@unaffiliated/rda-mac) ha salido (Read error: Connection reset by peer)
+2017-08-02 06:02:15	<	Ocsi (~francisco@90.168.181.96) ha salido (Quit: Ex-Chat)
+2017-08-02 06:07:54	>	rda-mac (~rda-mac@unaffiliated/rda-mac) has joined #Ubuntu-es
+2017-08-02 06:09:24	>	Noob (c828d2f3@gateway/web/freenode/ip.200.40.210.243) has joined #Ubuntu-es
+2017-08-02 06:11:26	Noob	Buenos dias (tardes/noches) tengo una consulta, tengo un NAS y al momento de montarlo en Ubuntu Server me queda el directorio que lo monto con permisos 777 y necesito que sean 0770, no me permite cambiarlos, aunque sea root, solo desmontando el la unidad de almacenamiento del directorio, pero al montarlo me vuelve a tomar los permisos 777, alguien puede darme una ayuda?
+2017-08-02 06:14:31	<	rda-mac (~rda-mac@unaffiliated/rda-mac) ha salido (Read error: Connection reset by peer)
+2017-08-02 06:32:22	>	rda-mac (~rda-mac@unaffiliated/rda-mac) has joined #Ubuntu-es
+2017-08-02 06:41:38	Noob	me venia negando, pero veo que es verdad, las comunidades de Ubuntu murieron, IRC solia ser un lugar bueno para hablar con gente que compartia conocimientos, lamentablemente el dia de hoy solo estan conectados para que no bajen el canal, y no me vengan con, no seas ansioso, he pasado horas esperando en IRC para que me contesten y nadie da una respuesta, despues escribis algo fuera del #topic del canal y te corrigen pero preguntas te
+2017-08-02 06:42:23	Noob	Tienen el canal? despues como un idiota ayudas a los demas pero cuando necesitas una respuesta nadie dice nada, igual, sigo buscando, suerte en su silencio
+2017-08-02 06:43:13	<	rda-mac (~rda-mac@unaffiliated/rda-mac) ha salido (Read error: Connection reset by peer)
+2017-08-02 06:48:16	>	rda-mac (~rda-mac@unaffiliated/rda-mac) has joined #Ubuntu-es
+2017-08-02 06:56:10	<	usuario-vaio (~ivedci@191.102.245.194) ha salido (Ping timeout: 240 seconds)
+2017-08-02 06:58:08	<	rda-mac (~rda-mac@unaffiliated/rda-mac) ha salido (Read error: Connection reset by peer)
+2017-08-02 07:09:14	>	usuario-vaio (~ivedci@181.24.150.15) has joined #Ubuntu-es
+2017-08-02 07:13:37	<	usuario-vaio (~ivedci@181.24.150.15) ha salido (Ping timeout: 248 seconds)
+2017-08-02 07:19:28	<	sanzante (~ricardo@37.red-212-170-183.staticip.rima-tde.net) ha salido (Ping timeout: 260 seconds)
+2017-08-02 07:20:16	>	rda-mac (~rda-mac@unaffiliated/rda-mac) has joined #Ubuntu-es
+2017-08-02 07:57:15	<	Noob (c828d2f3@gateway/web/freenode/ip.200.40.210.243) ha salido (Quit: Page closed)
+2017-08-02 08:36:39	>	sanzante (~ricardo@75.178.132.37.dynamic.jazztel.es) has joined #Ubuntu-es
+2017-08-02 08:48:57	>	Miquel_ (~mangel@84.127.94.31.dyn.user.ono.com) has joined #Ubuntu-es
+2017-08-02 08:49:00	<	Miquel_ (~mangel@84.127.94.31.dyn.user.ono.com) ha salido (Client Quit)
+2017-08-02 08:54:41	>	usuario-vaio (~ivedci@181.24.150.15) has joined #Ubuntu-es
+2017-08-02 08:58:44	<	usuario-vaio (~ivedci@181.24.150.15) ha salido (Ping timeout: 240 seconds)
+2017-08-02 08:59:45	>	usuario-vaio (~ivedci@181.24.150.15) has joined #Ubuntu-es
+2017-08-02 09:01:06	>	Miquel_ (~mangel@84.127.94.31.dyn.user.ono.com) has joined #Ubuntu-es
+2017-08-02 09:01:11	<	Miquel_ (~mangel@84.127.94.31.dyn.user.ono.com) ha salido (Client Quit)
+2017-08-02 09:05:28	<	usuario-vaio (~ivedci@181.24.150.15) ha salido (Ping timeout: 240 seconds)
+2017-08-02 09:27:08	<	sanzante (~ricardo@75.178.132.37.dynamic.jazztel.es) ha salido (Ping timeout: 255 seconds)
+2017-08-02 09:42:54	>	sanzante (~ricardo@75.178.132.37.dynamic.jazztel.es) has joined #Ubuntu-es
+2017-08-02 09:49:56	>	libertycity (~cristian@46.222.172.153) has joined #Ubuntu-es
+2017-08-02 09:51:12	>	usuario-vaio (~ivedci@181.24.150.15) has joined #Ubuntu-es
+2017-08-02 09:59:51	libertycity	hola
+2017-08-02 09:59:56	libertycity	puedes ayudarmeç'
+2017-08-02 09:59:58	libertycity	ç'
+2017-08-02 09:59:59	<	usuario-vaio (~ivedci@181.24.150.15) ha salido (Ping timeout: 255 seconds)
+2017-08-02 10:00:00	libertycity	?
+2017-08-02 10:00:16	libertycity	necesito recuperar la información de un pendrive
+2017-08-02 10:00:21	libertycity	el cual no me deja montar
+2017-08-02 10:05:57	<	libertycity (~cristian@46.222.172.153) ha salido (Quit: Leaving)
+2017-08-02 10:06:08	>	usuario-vaio (~ivedci@181.24.150.15) has joined #Ubuntu-es
+2017-08-02 10:08:26	>	MrTulias (~misco@unaffiliated/mrtulias) has joined #Ubuntu-es
+2017-08-02 10:10:49	<	usuario-vaio (~ivedci@181.24.150.15) ha salido (Ping timeout: 276 seconds)
+2017-08-02 10:14:06	>	GridCube (uid10553@gateway/web/irccloud.com/x-ckgorfllthrrdarc) has joined #Ubuntu-es
+2017-08-02 10:21:56	>	aarrieta (~aarrieta@181.230.87.121) has joined #Ubuntu-es
+2017-08-02 10:26:59	>	philipballew (~philip@ubuntu/member/philipballew) has joined #Ubuntu-es
+2017-08-02 10:37:20	>	m4v (~znc@ubuntu/member/m4v) has joined #Ubuntu-es
+2017-08-02 10:57:46	>	mimecar (~mimecar@84.121.179.159.dyn.user.ono.com) has joined #Ubuntu-es
+2017-08-02 10:57:46	<	mimecar (~mimecar@84.121.179.159.dyn.user.ono.com) ha salido (Changing host)
+2017-08-02 10:57:46	>	mimecar (~mimecar@unaffiliated/mimecar) has joined #Ubuntu-es
+2017-08-02 11:03:06	>	Gaxpaxxo (~Gazpacho@206.red-83-53-31.dynamicip.rima-tde.net) has joined #Ubuntu-es
+2017-08-02 11:28:16	<	aarrieta (~aarrieta@181.230.87.121) ha salido (Quit: Ex-Chat)
+2017-08-02 11:48:35	>	roxacer (~ivedci@191.102.245.66) has joined #Ubuntu-es
+2017-08-02 12:10:44	<	sanzante (~ricardo@75.178.132.37.dynamic.jazztel.es) ha salido (Quit: Cerrando Konversastion!)
+2017-08-02 12:22:27	<	philipballew (~philip@ubuntu/member/philipballew) ha salido (Ping timeout: 260 seconds)
+2017-08-02 12:48:23	>	Ocsi (~francisco@90.168.181.96) has joined #Ubuntu-es
+2017-08-02 13:01:29	>	philipballew (~philip@ubuntu/member/philipballew) has joined #Ubuntu-es
+2017-08-02 13:09:41	<	roxacer (~ivedci@191.102.245.66) ha salido (Quit: Leaving.)
+2017-08-02 13:40:33	<	MrTulias (~misco@unaffiliated/mrtulias) ha salido (Quit: Leaving)
+2017-08-02 13:41:37	<	philipballew (~philip@ubuntu/member/philipballew) ha salido (Read error: Connection reset by peer)
+2017-08-02 13:42:07	>	philipballew (~philip@ubuntu/member/philipballew) has joined #Ubuntu-es
+2017-08-02 13:43:47	>	leom33 (~ivedci@190.191.131.229) has joined #Ubuntu-es
+2017-08-02 13:44:01	<	GridCube (uid10553@gateway/web/irccloud.com/x-ckgorfllthrrdarc) ha salido
+2017-08-02 13:44:13	<	Ocsi (~francisco@90.168.181.96) ha salido (Quit: Ex-Chat)
+2017-08-02 13:45:10	<	leom33 (~ivedci@190.191.131.229) ha salido (Read error: Connection reset by peer)
+2017-08-02 14:16:44	>	ivedci89 (~ivedci@181.24.128.181) has joined #Ubuntu-es
+2017-08-02 14:40:56	<	mimecar (~mimecar@unaffiliated/mimecar) ha salido (Read error: Connection reset by peer)
+2017-08-02 14:41:35	<	philipballew (~philip@ubuntu/member/philipballew) ha salido (Read error: Connection reset by peer)
+2017-08-02 14:41:56	>	philipballew (~philip@ubuntu/member/philipballew) has joined #Ubuntu-es
+2017-08-02 14:42:08	>	fr33co (~fr33co@201.208.5.196) has joined #Ubuntu-es
+2017-08-02 14:42:37	<	fr33co (~fr33co@201.208.5.196) ha salido (Remote host closed the connection)
+2017-08-02 15:13:48	>	leom33 (~ivedci@190.191.131.229) has joined #Ubuntu-es
+2017-08-02 15:43:07	<	philipballew (~philip@ubuntu/member/philipballew) ha salido (Ping timeout: 260 seconds)
+2017-08-02 16:00:55	>	Ocsi (~francisco@90.168.181.96) has joined #Ubuntu-es
+2017-08-02 16:02:03	<	Ocsi (~francisco@90.168.181.96) ha salido (Client Quit)
+2017-08-02 16:02:35	>	Ocsi (~francisco@90.168.181.96) has joined #Ubuntu-es
+2017-08-02 16:03:36	<	Ocsi (~francisco@90.168.181.96) ha salido (Client Quit)
+2017-08-02 16:25:07	>	nameless2CL (~snake@201.236.25.127) has joined #Ubuntu-es
+2017-08-02 16:28:01	<	nameless_CL (~snake@200-28-165-222.baf.movistar.cl) ha salido (Ping timeout: 255 seconds)
+2017-08-02 16:47:10	>	GridCube (~GridCube@unaffiliated/soupermanito) has joined #Ubuntu-es
+2017-08-02 23:17:49	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #Ubuntu-es
+2017-08-02 23:17:49	⇄	Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-08-02 23:17:49	⇄	Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 12:16:11
+2017-08-02 23:17:49	⇄	Channel #Ubuntu-es: 21 apodos (1 op, 0 voces, 20 normales)
+2017-08-02 23:17:49	⇄	PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-08-02 23:17:49	⇄	URL para #ubuntu-es: http://www.ubuntu.com/
+2017-08-02 23:17:53	⇄	Canal creado el sáb, 25 nov 2006 23:42:53
+2017-08-02 23:36:14	>	philipballew (~philip@ubuntu/member/philipballew) has joined #Ubuntu-es
+2017-08-03 00:27:03	>	OERIAS (~OERIAS@47.137.234.90) has joined #Ubuntu-es
+2017-08-03 00:28:41	<	philipballew (~philip@ubuntu/member/philipballew) ha salido (Ping timeout: 246 seconds)
+2017-08-03 01:50:15	<	Buda (~Budadona@2a00:d880:5:702::5cad) ha salido (Remote host closed the connection)
+2017-08-03 02:01:04	>	Buda (~Budadona@2a00:d880:5:702::5cad) has joined #Ubuntu-es
+2017-08-03 07:15:41	⇄	irc: desconectado del servidor
+2017-08-03 07:16:09	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #Ubuntu-es
+2017-08-03 07:16:09	⇄	Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-08-03 07:16:09	⇄	Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 12:16:11
+2017-08-03 07:16:09	⇄	Channel #Ubuntu-es: 21 apodos (1 op, 0 voces, 20 normales)
+2017-08-03 07:16:09	⇄	PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-08-03 07:16:09	⇄	URL para #ubuntu-es: http://www.ubuntu.com/
+2017-08-03 07:16:28	⇄	Canal creado el sáb, 25 nov 2006 23:42:53
+2017-08-03 07:54:52	>	usuario-vaio (~ivedci@191.102.245.194) has joined #Ubuntu-es
+2017-08-03 09:25:33	>	GridCube (uid10553@gateway/web/irccloud.com/x-fdnzmtbmdjodfhqf) has joined #Ubuntu-es
+2017-08-03 09:49:01	>	t0n1 (~t0n1@190.210.221.94) has joined #Ubuntu-es
+2017-08-03 10:10:28	<	usuario-vaio (~ivedci@191.102.245.194) ha salido (Ping timeout: 255 seconds)
+2017-08-03 10:15:25	>	usuario-vaio (~ivedci@191.102.245.194) has joined #Ubuntu-es
+2017-08-03 10:18:17	>	philipballew (~philip@ubuntu/member/philipballew) has joined #Ubuntu-es
+2017-08-03 10:33:03	<	philipballew (~philip@ubuntu/member/philipballew) ha salido (Ping timeout: 260 seconds)
+2017-08-03 11:08:03	>	philipballew (~philip@ubuntu/member/philipballew) has joined #Ubuntu-es
+2017-08-03 11:12:02	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #Ubuntu-es
+2017-08-03 11:12:02	⇄	Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-08-03 11:12:02	⇄	Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 12:16:11
+2017-08-03 11:12:02	⇄	Channel #Ubuntu-es: 25 apodos (1 op, 0 voces, 24 normales)
+2017-08-03 11:12:03	⇄	PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-08-03 11:12:03	⇄	URL para #ubuntu-es: http://www.ubuntu.com/
+2017-08-03 11:12:06	⇄	Canal creado el sáb, 25 nov 2006 23:42:53
+2017-08-03 11:12:23	<	leom33 (~ivedci@190.191.131.229) ha salido (Quit: Leaving.)
+2017-08-03 11:12:33	>	roxacer (~ivedci@191.102.245.66) has joined #Ubuntu-es
+2017-08-03 11:14:13	>	leom33 (~ivedci@190.191.131.229) has joined #Ubuntu-es
+2017-08-03 11:18:20	<	Tiffon (~name@unaffiliated/tiff0n) ha salido (Quit: exit)
+2017-08-03 11:29:18	<	roxacer (~ivedci@191.102.245.66) ha salido (Quit: Leaving.)
+2017-08-03 11:43:48	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #Ubuntu-es
+2017-08-03 11:43:48	⇄	Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-08-03 11:43:48	⇄	Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 12:16:11
+2017-08-03 11:43:48	⇄	Channel #Ubuntu-es: 24 apodos (1 op, 0 voces, 23 normales)
+2017-08-03 11:43:48	⇄	PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-08-03 11:43:48	⇄	URL para #ubuntu-es: http://www.ubuntu.com/
+2017-08-03 11:43:53	⇄	Canal creado el sáb, 25 nov 2006 23:42:53
+2017-08-03 11:44:28	>	MrTulias (~misco@80.red-79-158-140.dynamicip.rima-tde.net) has joined #Ubuntu-es
+2017-08-03 11:44:28	<	MrTulias (~misco@80.red-79-158-140.dynamicip.rima-tde.net) ha salido (Changing host)
+2017-08-03 11:44:28	>	MrTulias (~misco@unaffiliated/mrtulias) has joined #Ubuntu-es
+2017-08-03 11:48:08	>	GatoLoko (~GatoLoko@85.136.181.101.dyn.user.ono.com) has joined #Ubuntu-es
+2017-08-03 11:53:51	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #Ubuntu-es
+2017-08-03 11:53:51	⇄	Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-08-03 11:53:51	⇄	Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 12:16:11
+2017-08-03 11:53:51	⇄	Channel #Ubuntu-es: 26 apodos (1 op, 0 voces, 25 normales)
+2017-08-03 11:53:52	⇄	PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-08-03 11:53:52	⇄	URL para #ubuntu-es: http://www.ubuntu.com/
+2017-08-03 11:53:55	⇄	Canal creado el sáb, 25 nov 2006 23:42:53
+2017-08-03 12:09:17	>	Miquel_ (~mangel@84.127.94.31.dyn.user.ono.com) has joined #Ubuntu-es
+2017-08-03 12:09:32	<	Miquel_ (~mangel@84.127.94.31.dyn.user.ono.com) ha salido (Client Quit)
+2017-08-03 12:14:24	<	Buda (~Budadona@2a00:d880:5:702::5cad) ha salido (Remote host closed the connection)
+2017-08-03 12:21:08	>	Buda (~Budadona@2a00:d880:5:702::5cad) has joined #Ubuntu-es
+2017-08-03 12:42:32	<	philipballew (~philip@ubuntu/member/philipballew) ha salido (Ping timeout: 260 seconds)
+2017-08-03 12:56:47	<	t0n1 (~t0n1@190.210.221.94) ha salido (Quit: Leaving)
+2017-08-03 13:02:15	>	Ocsi (~francisco@90.168.181.96) has joined #Ubuntu-es
+2017-08-03 13:03:35	>	reinhard (~reinhard@244.red-81-34-100.dynamicip.rima-tde.net) has joined #Ubuntu-es
+2017-08-03 13:03:44	<	reinhard (~reinhard@244.red-81-34-100.dynamicip.rima-tde.net) ha salido (Read error: Connection reset by peer)
+2017-08-03 13:04:00	>	reinhard (~reinhard@244.red-81-34-100.dynamicip.rima-tde.net) has joined #Ubuntu-es
+2017-08-03 13:04:18	<	reinhard (~reinhard@244.red-81-34-100.dynamicip.rima-tde.net) ha salido (Client Quit)
+2017-08-03 13:31:19	>	Gaxpaxxo (~Gazpacho@22.red-79-144-227.dynamicip.rima-tde.net) has joined #Ubuntu-es
+2017-08-03 13:38:51	<	usuario-vaio (~ivedci@191.102.245.194) ha salido (Ping timeout: 268 seconds)
+2017-08-03 13:46:33	>	usuario-vaio (~ivedci@191.102.245.194) has joined #Ubuntu-es
+2017-08-03 13:48:13	<	MrTulias (~misco@unaffiliated/mrtulias) ha salido (Quit: Leaving)
+2017-08-03 13:51:38	<	GridCube (uid10553@gateway/web/irccloud.com/x-fdnzmtbmdjodfhqf) ha salido
+2017-08-03 13:56:14	<	usuario-vaio (~ivedci@191.102.245.194) ha salido (Ping timeout: 255 seconds)
+2017-08-03 14:02:10	>	usuario-vaio (~ivedci@191.102.245.194) has joined #Ubuntu-es
+2017-08-03 14:06:04	>	philipballew (~philip@ubuntu/member/philipballew) has joined #Ubuntu-es
+2017-08-03 14:12:06	<	Ocsi (~francisco@90.168.181.96) ha salido (Quit: Ex-Chat)
+2017-08-03 14:33:10	<	leom33 (~ivedci@190.191.131.229) ha salido (Quit: Leaving.)
+2017-08-03 14:35:04	<	rda-mac (~rda-mac@unaffiliated/rda-mac) ha salido (Read error: Connection reset by peer)
+2017-08-03 14:41:39	>	rda-mac (~rda-mac@unaffiliated/rda-mac) has joined #Ubuntu-es
+2017-08-03 14:48:40	>	OERIAS (~OERIAS@47.137.234.90) has joined #Ubuntu-es
+2017-08-03 14:51:00	<	usuario-vaio (~ivedci@191.102.245.194) ha salido (Ping timeout: 268 seconds)
+2017-08-03 14:58:58	<	philipballew (~philip@ubuntu/member/philipballew) ha salido (Read error: Connection reset by peer)
+2017-08-03 15:01:55	>	philipballew (~philip@ubuntu/member/philipballew) has joined #Ubuntu-es
+2017-08-03 15:33:41	>	Ocsi (~francisco@90.168.181.96) has joined #Ubuntu-es
+2017-08-03 15:59:01	<	philipballew (~philip@ubuntu/member/philipballew) ha salido (Read error: Connection reset by peer)
+2017-08-03 15:59:39	>	philipballew (~philip@ubuntu/member/philipballew) has joined #Ubuntu-es
+2017-08-03 16:11:46	<	Gaxpaxxo (~Gazpacho@22.red-79-144-227.dynamicip.rima-tde.net) ha salido (Quit: Leaving)
+2017-08-03 16:21:03	<	Ocsi (~francisco@90.168.181.96) ha salido (Quit: Ex-Chat)
+2017-08-03 16:47:07	>	GridCube (~GridCube@unaffiliated/soupermanito) has joined #Ubuntu-es
+2017-08-03 16:59:04	<	philipballew (~philip@ubuntu/member/philipballew) ha salido (Read error: Connection reset by peer)
+2017-08-03 16:59:30	>	philipballew (~philip@ubuntu/member/philipballew) has joined #Ubuntu-es
+2017-08-03 17:34:26	>	magu42 (~magu@r167-56-2-56.dialup.adsl.anteldata.net.uy) has joined #Ubuntu-es
+2017-08-03 17:34:39	<	magu42 (~magu@r167-56-2-56.dialup.adsl.anteldata.net.uy) ha salido (Changing host)
+2017-08-03 17:34:39	>	magu42 (~magu@unaffiliated/magu42) has joined #Ubuntu-es
+2017-08-03 17:56:21	<	GatoLoko (~GatoLoko@85.136.181.101.dyn.user.ono.com) ha salido (Quit: Leaving)
+2017-08-03 17:59:03	<	philipballew (~philip@ubuntu/member/philipballew) ha salido (Read error: Connection reset by peer)
+2017-08-03 17:59:27	>	philipballew (~philip@ubuntu/member/philipballew) has joined #Ubuntu-es
+2017-08-03 18:00:25	>	usuario-vaio (~ivedci@191.102.245.194) has joined #Ubuntu-es
+2017-08-03 18:03:37	>	Nel1x (~Nel1x@mail1.oncosmos.com) has joined #Ubuntu-es
+2017-08-03 18:21:29	>	roxacer (~ivedci@186.39.23.136) has joined #Ubuntu-es
+2017-08-03 18:22:50	>	roxacer1 (~ivedci@191.102.245.66) has joined #Ubuntu-es
+2017-08-03 18:25:42	<	roxacer (~ivedci@186.39.23.136) ha salido (Ping timeout: 240 seconds)
+2017-08-03 18:52:30	>	hashofet (~minino@200.82.150.39) has joined #Ubuntu-es
+2017-08-03 18:54:51	<	roxacer1 (~ivedci@191.102.245.66) ha salido (Quit: Leaving.)
+2017-08-03 18:58:12	<	philipballew (~philip@ubuntu/member/philipballew) ha salido (Ping timeout: 260 seconds)
+2017-08-03 19:53:22	<	hashofet (~minino@200.82.150.39) ha salido (Quit: Leaving.)
+2017-08-03 20:00:07	<	magu42 (~magu@unaffiliated/magu42) ha salido (Quit: Leaving)
+2017-08-03 20:05:45	<	GridCube (~GridCube@unaffiliated/soupermanito) ha salido (Quit: Leaving)
+2017-08-03 21:12:56	>	http_GK1wmSU (~deep-book@129.232.221.173) has joined #Ubuntu-es
+2017-08-03 21:14:02	<	http_GK1wmSU (~deep-book@129.232.221.173) ha abandonado #Ubuntu-es
+2017-08-03 21:17:22	>	philipballew (~philip@ubuntu/member/philipballew) has joined #Ubuntu-es
+2017-08-03 21:17:42	<	Nel1x (~Nel1x@mail1.oncosmos.com) ha salido (Ping timeout: 240 seconds)
+2017-08-03 21:25:25	>	nameless_CL (~snake@200-28-165-224.baf.movistar.cl) has joined #Ubuntu-es
+2017-08-03 21:28:10	<	nameless2CL (~snake@201.236.25.127) ha salido (Ping timeout: 240 seconds)
+2017-08-03 22:21:13	>	user-compaq (~ivedci@191.102.245.194) has joined #Ubuntu-es
+2017-08-03 22:22:28	user-compaq	usuario-vaio:
+2017-08-03 22:22:29	user-compaq	kkw
+2017-08-03 22:53:08	>	leom33 (~ivedci@190.191.131.229) has joined #Ubuntu-es
+2017-08-03 22:54:48	<	user-compaq (~ivedci@191.102.245.194) ha salido (Ping timeout: 260 seconds)
+2017-08-03 23:16:31	<	Buda (~Budadona@2a00:d880:5:702::5cad) ha salido (Remote host closed the connection)
+2017-08-03 23:21:07	>	Buda (~Budadona@2a00:d880:5:702::5cad) has joined #Ubuntu-es
+2017-08-03 23:36:01	<	usuario-vaio (~ivedci@191.102.245.194) ha salido (Ping timeout: 248 seconds)
+2017-08-03 23:40:45	>	usuario-vaio (~ivedci@191.102.245.194) has joined #Ubuntu-es
+2017-08-04 00:12:12	<	philipballew (~philip@ubuntu/member/philipballew) ha salido (Ping timeout: 240 seconds)
+2017-08-04 01:34:31	<	leom33 (~ivedci@190.191.131.229) ha salido (Quit: Leaving.)
+2017-08-04 02:57:25	<	nameless_CL (~snake@200-28-165-224.baf.movistar.cl) ha salido (Ping timeout: 276 seconds)
+2017-08-04 03:00:33	>	Tiffon (~name@unaffiliated/tiff0n) has joined #Ubuntu-es
+2017-08-04 03:02:51	<	Tiffon (~name@unaffiliated/tiff0n) ha salido (Remote host closed the connection)
+2017-08-04 03:04:18	>	Tiffon (~name@unaffiliated/tiff0n) has joined #Ubuntu-es
+2017-08-04 03:11:17	>	nameless1CL (~snake@200-28-165-224.baf.movistar.cl) has joined #Ubuntu-es
+2017-08-04 03:17:32	>	GatoLoko (~GatoLoko@85.136.181.101.dyn.user.ono.com) has joined #Ubuntu-es
+2017-08-04 04:17:02	>	leom33 (~ivedci@190.191.131.229) has joined #Ubuntu-es
+2017-08-04 04:20:23	>	sanzante (~ricardo@75.178.132.37.dynamic.jazztel.es) has joined #Ubuntu-es
+2017-08-04 05:37:17	<	nameless1CL (~snake@200-28-165-224.baf.movistar.cl) ha salido (Ping timeout: 246 seconds)
+2017-08-04 05:39:38	>	jhony (~rufus@159.147.154.43) has joined #Ubuntu-es
+2017-08-04 05:40:33	>	Ocsi (~francisco@90.168.181.96) has joined #Ubuntu-es
+2017-08-04 06:04:48	<	Ocsi (~francisco@90.168.181.96) ha salido (Quit: Ex-Chat)
+2017-08-04 08:20:47	<	Buda (~Budadona@2a00:d880:5:702::5cad) ha salido (Read error: Connection reset by peer)
+2017-08-04 08:31:07	>	Buda (~Budadona@2a00:d880:5:702::5cad) has joined #Ubuntu-es
+2017-08-04 08:44:46	>	GridCube (uid10553@gateway/web/irccloud.com/x-vuoyaohmhqadybza) has joined #Ubuntu-es
+2017-08-04 08:44:56	>	Akuw (~Akuw@190.74.197.216) has joined #Ubuntu-es
+2017-08-04 08:45:23	Akuw	es posible clonar una particion completa de linux y ejecutarla en otra pc ?
+2017-08-04 08:46:53	pesca	hola
+2017-08-04 08:54:22	mr-jules	Si
+2017-08-04 09:05:37	>	humillame__ (~user@82.158.193.18.dyn.user.ono.com) has joined #Ubuntu-es
+2017-08-04 09:05:52	<	humillame__ (~user@82.158.193.18.dyn.user.ono.com) ha abandonado #Ubuntu-es
+2017-08-04 09:49:46	>	rda-mac_ (~rda-mac@unaffiliated/rda-mac) has joined #Ubuntu-es
+2017-08-04 09:52:21	<	rda-mac (~rda-mac@unaffiliated/rda-mac) ha salido (Ping timeout: 260 seconds)
+2017-08-04 10:28:18	<	GatoLoko (~GatoLoko@85.136.181.101.dyn.user.ono.com) ha salido (Ping timeout: 258 seconds)
+2017-08-04 10:33:26	<	sanzante (~ricardo@75.178.132.37.dynamic.jazztel.es) ha salido (Ping timeout: 260 seconds)
+2017-08-04 10:57:04	>	Miquel_ (~mangel@84.127.94.31.dyn.user.ono.com) has joined #Ubuntu-es
+2017-08-04 10:57:12	<	Miquel_ (~mangel@84.127.94.31.dyn.user.ono.com) ha salido (Client Quit)
+2017-08-04 11:32:40	<	Tiffon (~name@unaffiliated/tiff0n) ha salido (Quit: exit)
+2017-08-04 11:51:02	>	GatoLoko (~GatoLoko@85.136.181.101.dyn.user.ono.com) has joined #Ubuntu-es
+2017-08-04 11:58:17	>	MrTulias (~misco@80.red-79-158-140.dynamicip.rima-tde.net) has joined #Ubuntu-es
+2017-08-04 11:58:17	<	MrTulias (~misco@80.red-79-158-140.dynamicip.rima-tde.net) ha salido (Changing host)
+2017-08-04 11:58:17	>	MrTulias (~misco@unaffiliated/mrtulias) has joined #Ubuntu-es
+2017-08-04 12:03:36	<	jhony (~rufus@159.147.154.43) ha salido (Remote host closed the connection)
+2017-08-04 12:05:24	>	nameless_CL (~snake@200-28-165-224.baf.movistar.cl) has joined #Ubuntu-es
+2017-08-04 12:08:22	<	GatoLoko (~GatoLoko@85.136.181.101.dyn.user.ono.com) ha salido (Read error: Connection reset by peer)
+2017-08-04 12:08:23	GridCube	Akuw claro
+2017-08-04 12:13:55	>	GatoLoko (~GatoLoko@85.136.181.101.dyn.user.ono.com) has joined #Ubuntu-es
+2017-08-04 12:19:27	>	philipballew (~philip@rrcs-24-43-127-99.west.biz.rr.com) has joined #Ubuntu-es
+2017-08-04 12:19:39	<	philipballew (~philip@rrcs-24-43-127-99.west.biz.rr.com) ha salido (Changing host)
+2017-08-04 12:19:39	>	philipballew (~philip@ubuntu/member/philipballew) has joined #Ubuntu-es
+2017-08-04 12:27:47	>	toscalix (~toscalix@90.174.2.52) has joined #Ubuntu-es
+2017-08-04 12:28:46	<	nameless_CL (~snake@200-28-165-224.baf.movistar.cl) ha salido (Ping timeout: 276 seconds)
+2017-08-04 12:29:29	>	robot (~robot@234.red-88-14-196.dynamicip.rima-tde.net) has joined #Ubuntu-es
+2017-08-04 12:29:40	<	guampa (~guampa@unaffiliated/guampa) ha salido (Quit: quit)
+2017-08-04 12:30:52	>	nameless1CL (~snake@200-28-165-224.baf.movistar.cl) has joined #Ubuntu-es
+2017-08-04 12:31:17	<	philipballew (~philip@ubuntu/member/philipballew) ha salido (Read error: Connection reset by peer)
+2017-08-04 12:31:38	>	philipballew (~philip@ubuntu/member/philipballew) has joined #Ubuntu-es
+2017-08-04 12:37:23	<	toscalix (~toscalix@90.174.2.52) ha salido (Quit: Konversation terminated!)
+2017-08-04 12:46:49	<	leom33 (~ivedci@190.191.131.229) ha salido (Quit: Leaving.)
+2017-08-04 12:58:35	<	robot (~robot@234.red-88-14-196.dynamicip.rima-tde.net) ha salido (Quit: Leaving)
+2017-08-04 13:21:59	>	Ocsi (~francisco@90.168.181.96) has joined #Ubuntu-es
+2017-08-04 13:27:50	<	philipballew (~philip@ubuntu/member/philipballew) ha salido (Ping timeout: 240 seconds)
+2017-08-04 13:29:18	>	roxacer (~ivedci@191.102.245.66) has joined #Ubuntu-es
+2017-08-04 13:48:20	>	guampa (~guampa@unaffiliated/guampa) has joined #Ubuntu-es
+2017-08-04 14:06:35	<	Ocsi (~francisco@90.168.181.96) ha salido (Quit: Ex-Chat)
+2017-08-04 14:07:25	>	malagueno (~rufus@159.147.154.43) has joined #Ubuntu-es
+2017-08-04 14:07:30	malagueno	hola
+2017-08-04 14:10:22	<	malagueno (~rufus@159.147.154.43) ha salido (Client Quit)
+2017-08-04 14:10:30	<	roxacer (~ivedci@191.102.245.66) ha salido (Quit: Leaving.)
+2017-08-04 14:14:03	<	GridCube (uid10553@gateway/web/irccloud.com/x-vuoyaohmhqadybza) ha salido
+2017-08-04 14:14:16	>	Gaxpaxxo (~Gazpacho@254.red-88-5-40.dynamicip.rima-tde.net) has joined #Ubuntu-es
+2017-08-04 14:22:16	>	Chullachaky (~Chullacha@186.47.47.105) has joined #Ubuntu-es
+2017-08-04 14:22:26	Chullachaky	Saludos compañeros
+2017-08-04 14:22:50	Chullachaky	alguien puede bloquear los puertos de usb de mi Pc
+2017-08-04 14:22:58	Chullachaky	uso ubuntu 14
+2017-08-04 14:35:05	<	sowe (~rvalenzue@219.red-213-98-62.staticip.rima-tde.net) ha salido (Ping timeout: 240 seconds)
+2017-08-04 14:35:28	>	sowe (~rvalenzue@107.red-80-38-7.staticip.rima-tde.net) has joined #Ubuntu-es
+2017-08-04 15:05:00	<	rda-mac_ (~rda-mac@unaffiliated/rda-mac) ha salido (Remote host closed the connection)
+2017-08-04 15:05:19	>	rda-mac (~rda-mac@unaffiliated/rda-mac) has joined #Ubuntu-es
+2017-08-04 15:21:26	mr-jules	como alguien?
+2017-08-04 15:21:31	mr-jules	remotamente ?
+2017-08-04 15:41:58	Chullachaky	me gustaria configurar mi pc .. para que no puedan usar los puertos usb
+2017-08-04 15:50:47	<	MrTulias (~misco@unaffiliated/mrtulias) ha salido (Quit: Leaving)
+2017-08-04 15:53:34	<	Chullachaky (~Chullacha@186.47.47.105) ha salido (Quit: Saliendo)
+2017-08-04 15:58:25	<	usuario-vaio (~ivedci@191.102.245.194) ha salido (Ping timeout: 248 seconds)
+2017-08-04 16:15:25	>	usuario-vaio (~ivedci@191.102.245.194) has joined #Ubuntu-es
+2017-08-04 16:29:20	>	philipballew (~philip@ubuntu/member/philipballew) has joined #Ubuntu-es
+2017-08-04 16:36:53	<	GatoLoko (~GatoLoko@85.136.181.101.dyn.user.ono.com) ha salido (Read error: Connection reset by peer)
+2017-08-04 16:40:31	>	roxacer (~ivedci@191.102.245.66) has joined #Ubuntu-es
+2017-08-04 17:06:54	<	philipballew (~philip@ubuntu/member/philipballew) ha salido (Remote host closed the connection)
+2017-08-04 17:27:47	>	GridCube (~GridCube@unaffiliated/soupermanito) has joined #Ubuntu-es
+2017-08-04 17:46:16	<	roxacer (~ivedci@191.102.245.66) ha salido (Quit: Leaving.)
+2017-08-04 17:54:56	>	ozkarz (~oscars@fixed-187-190-161-137.totalplay.net) has joined #Ubuntu-es
+2017-08-04 18:03:29	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #Ubuntu-es
+2017-08-04 18:03:29	⇄	Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-08-04 18:03:29	⇄	Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 12:16:11
+2017-08-04 18:03:29	⇄	Channel #Ubuntu-es: 25 apodos (1 op, 0 voces, 24 normales)
+2017-08-04 18:03:30	⇄	PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-08-04 18:03:30	⇄	URL para #ubuntu-es: http://www.ubuntu.com/
+2017-08-04 18:03:34	⇄	Canal creado el sáb, 25 nov 2006 23:42:53
+2017-08-04 18:03:41	<	ozkarz (~oscars@fixed-187-190-161-137.totalplay.net) ha salido (Quit: Ex-Chat)
+2017-08-04 18:05:47	<	usuario-vaio (~ivedci@191.102.245.194) ha salido (Ping timeout: 268 seconds)
+2017-08-04 18:07:45	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #Ubuntu-es
+2017-08-04 18:07:45	⇄	Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-08-04 18:07:45	⇄	Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 12:16:11
+2017-08-04 18:07:45	⇄	Channel #Ubuntu-es: 23 apodos (1 op, 0 voces, 22 normales)
+2017-08-04 18:07:45	⇄	PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-08-04 18:07:45	⇄	URL para #ubuntu-es: http://www.ubuntu.com/
+2017-08-04 18:07:49	⇄	Canal creado el sáb, 25 nov 2006 23:42:53
+2017-08-04 18:18:16	>	usuario-vaio (~ivedci@191.102.245.194) has joined #Ubuntu-es
+2017-08-04 18:22:53	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #Ubuntu-es
+2017-08-04 18:22:53	⇄	Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-08-04 18:22:53	⇄	Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 12:16:11
+2017-08-04 18:22:53	⇄	Channel #Ubuntu-es: 24 apodos (1 op, 0 voces, 23 normales)
+2017-08-04 18:22:53	⇄	PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-08-04 18:22:53	⇄	URL para #ubuntu-es: http://www.ubuntu.com/
+2017-08-04 18:22:57	⇄	Canal creado el sáb, 25 nov 2006 23:42:53
+2017-08-04 18:27:05	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #Ubuntu-es
+2017-08-04 18:27:05	⇄	Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-08-04 18:27:05	⇄	Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 12:16:11
+2017-08-04 18:27:06	⇄	Channel #Ubuntu-es: 24 apodos (1 op, 0 voces, 23 normales)
+2017-08-04 18:27:06	⇄	PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-08-04 18:27:06	⇄	URL para #ubuntu-es: http://www.ubuntu.com/
+2017-08-04 18:27:10	⇄	Canal creado el sáb, 25 nov 2006 23:42:53
+2017-08-05 21:21:19	-	mr-jules (~mr-jules@2806:101e:1:3b12:a41f:468a:98e6:531) has joined #Ubuntu-es
+2017-08-05 21:21:19		Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-08-05 21:21:19		Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 11:16:11
+2017-08-05 21:21:19		Channel #Ubuntu-es: 24 apodos (1 op, 0 voces, 23 normales)
+2017-08-05 21:21:19		PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-08-05 21:21:19		URL para #ubuntu-es: http://www.ubuntu.com/
+2017-08-05 21:21:23		Canal creado el sáb, 25 nov 2006 23:42:53
+2017-08-05 21:25:22	-	mr-jules (~mr-jules@2806:101e:1:3b12:a41f:468a:98e6:531) has joined #Ubuntu-es
+2017-08-05 21:25:22		Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-08-05 21:25:22		Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 11:16:11
+2017-08-05 21:25:22		Channel #Ubuntu-es: 24 apodos (1 op, 0 voces, 23 normales)
+2017-08-05 21:25:22		PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-08-05 21:25:22		URL para #ubuntu-es: http://www.ubuntu.com/
+2017-08-05 21:25:26		Canal creado el sáb, 25 nov 2006 23:42:53
+2017-08-05 21:26:01	>	mr-jules (~mr-jules@2806:101e:1:3b12:a41f:468a:98e6:531) has joined #Ubuntu-es
+2017-08-05 21:26:01	⇄	Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-08-05 21:26:01	⇄	Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 11:16:11
+2017-08-05 21:26:01	⇄	Channel #Ubuntu-es: 24 apodos (1 op, 0 voces, 23 normales)
+2017-08-05 21:26:01	⇄	PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-08-05 21:26:01	⇄	URL para #ubuntu-es: http://www.ubuntu.com/
+2017-08-05 21:26:05	⇄	Canal creado el sáb, 25 nov 2006 23:42:53
+2017-08-05 21:29:26	 > 	mr-jules (~mr-jules@2806:101e:1:3b12:a41f:468a:98e6:531) has joined #Ubuntu-es
+2017-08-05 21:29:26	 - 	Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-08-05 21:29:26	 - 	Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 11:16:11
+2017-08-05 21:29:26	 - 	Channel #Ubuntu-es: 24 apodos (1 op, 0 voces, 23 normales)
+2017-08-05 21:29:26	 - 	PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-08-05 21:29:26	 - 	URL para #ubuntu-es: http://www.ubuntu.com/
+2017-08-05 21:29:30	 - 	Canal creado el sáb, 25 nov 2006 23:42:53
+2017-08-05 21:30:56	◥	mr-jules (~mr-jules@2806:101e:1:3b12:a41f:468a:98e6:531) has joined #Ubuntu-es
+2017-08-05 21:30:56	--	Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-08-05 21:30:56	--	Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 11:16:11
+2017-08-05 21:30:56	--	Channel #Ubuntu-es: 24 apodos (1 op, 0 voces, 23 normales)
+2017-08-05 21:30:56	--	PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-08-05 21:30:56	--	URL para #ubuntu-es: http://www.ubuntu.com/
+2017-08-05 21:31:01	--	Canal creado el sáb, 25 nov 2006 23:42:53
+2017-08-05 21:36:51	◥	leom33 (~ivedci@190.191.131.229) has joined #Ubuntu-es
+2017-08-05 21:44:06	◥	mr-jules (~mr-jules@2806:101e:1:3b12:a41f:468a:98e6:531) has joined #Ubuntu-es
+2017-08-05 21:44:06	--	Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-08-05 21:44:06	--	Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 11:16:11
+2017-08-05 21:44:06	--	Channel #Ubuntu-es: 25 apodos (1 op, 0 voces, 24 normales)
+2017-08-05 21:44:07	--	PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-08-05 21:44:07	--	URL para #ubuntu-es: http://www.ubuntu.com/
+2017-08-05 21:44:11	--	Canal creado el sáb, 25 nov 2006 23:42:53
+2017-08-05 22:13:37	◣	usuario-vaio (~ivedci@186.143.199.17) ha salido (Ping timeout: 248 seconds)
+2017-08-05 22:27:36	◥	usuario-vaio (~ivedci@186.143.137.225) has joined #Ubuntu-es
+2017-08-05 23:52:47	◥	rda-mac_ (~rda-mac@unaffiliated/rda-mac) has joined #Ubuntu-es
+2017-08-05 23:55:00	◣	rda-mac (~rda-mac@unaffiliated/rda-mac) ha salido (Ping timeout: 260 seconds)
+2017-08-06 00:51:17	◣	usuario-vaio (~ivedci@186.143.137.225) ha salido (Ping timeout: 268 seconds)
+2017-08-06 02:31:46	◥	Miquel_ (~mangel@84.127.94.31.dyn.user.ono.com) has joined #Ubuntu-es
+2017-08-06 02:31:50	◣	Miquel_ (~mangel@84.127.94.31.dyn.user.ono.com) ha salido (Client Quit)
+2017-08-06 02:35:11	◥	usuario-vaio (~ivedci@181.24.147.182) has joined #Ubuntu-es
+2017-08-06 02:49:32	◣	usuario-vaio (~ivedci@181.24.147.182) ha salido (Ping timeout: 260 seconds)
+2017-08-06 02:49:55	◥	usuario-vaio (~ivedci@181.24.147.182) has joined #Ubuntu-es
+2017-08-06 02:52:10	◥	Tiffon (~name@unaffiliated/tiff0n) has joined #Ubuntu-es
+2017-08-06 04:17:02	◣	usuario-vaio (~ivedci@181.24.147.182) ha salido (Ping timeout: 260 seconds)
+2017-08-06 04:44:03	◥	Ocsi (~francisco@90.168.181.96) has joined #Ubuntu-es
+2017-08-06 05:02:00	◥	MrTulias (~misco@unaffiliated/mrtulias) has joined #Ubuntu-es
+2017-08-06 05:02:38	◣	Ocsi (~francisco@90.168.181.96) ha salido (Quit: Ex-Chat)
+2017-08-06 06:06:26	◥	http_GK1wmSU (~deep-book@119.81.19.251) has joined #Ubuntu-es
+2017-08-06 06:08:32	◣	http_GK1wmSU (~deep-book@119.81.19.251) ha abandonado #Ubuntu-es
+2017-08-06 06:20:13	◥	usuario-vaio (~ivedci@181.24.147.182) has joined #Ubuntu-es
+2017-08-06 06:25:51	◥	nameless4CL (~snake@201.236.27.149) has joined #Ubuntu-es
+2017-08-06 06:28:48	◣	nameless_CL (~snake@201.236.24.225) ha salido (Ping timeout: 255 seconds)
+2017-08-06 06:28:50	◣	nameless2CL (~snake@201.236.24.225) ha salido (Ping timeout: 240 seconds)
+2017-08-06 06:30:38	◥	nameless_CL (~snake@201.236.27.149) has joined #Ubuntu-es
+2017-08-06 06:31:09	◣	usuario-vaio (~ivedci@181.24.147.182) ha salido (Ping timeout: 255 seconds)
+2017-08-06 06:38:22	◥	sergio__ (~user@82.158.193.18.dyn.user.ono.com) has joined #Ubuntu-es
+2017-08-06 06:38:27	◣	sergio__ (~user@82.158.193.18.dyn.user.ono.com) ha abandonado #Ubuntu-es
+2017-08-06 06:39:05	◥	sergio__esclavo (~user@82.158.193.18.dyn.user.ono.com) has joined #Ubuntu-es
+2017-08-06 06:39:10	◣	sergio__esclavo (~user@82.158.193.18.dyn.user.ono.com) ha abandonado #Ubuntu-es
+2017-08-06 06:42:46	◥	dabor (~dabor@152.169.79.42) has joined #Ubuntu-es
+2017-08-06 06:58:46	◣	dabor (~dabor@152.169.79.42) ha salido (Read error: Connection timed out)
+2017-08-06 07:00:08	◥	dabor (~dabor@152.169.79.42) has joined #Ubuntu-es
+2017-08-06 07:00:22	◥	GridCube (~GridCube@unaffiliated/soupermanito) has joined #Ubuntu-es
+2017-08-06 07:02:00	◥	dabor_ (~dabor@152.169.79.42) has joined #Ubuntu-es
+2017-08-06 07:04:05	◣	dabor (~dabor@152.169.79.42) ha salido (Ping timeout: 240 seconds)
+2017-08-06 07:04:06	--	dabor_ es conocido ahora como dabor
+2017-08-06 07:18:22	◣	dabor (~dabor@152.169.79.42) ha salido (Read error: Connection timed out)
+2017-08-06 07:18:46	◥	dabor_ (~dabor@152.169.79.42) has joined #Ubuntu-es
+2017-08-06 07:18:46	--	dabor_ es conocido ahora como dabor
+2017-08-06 07:21:23	◥	dabor_ (~dabor@152.169.79.42) has joined #Ubuntu-es
+2017-08-06 07:21:23	◥	dabor__ (~dabor@152.169.79.42) has joined #Ubuntu-es
+2017-08-06 07:21:27	◣	dabor__ (~dabor@152.169.79.42) ha salido (Read error: Connection reset by peer)
+2017-08-06 07:21:46	◥	dabor__ (~dabor@152.169.79.42) has joined #Ubuntu-es
+2017-08-06 07:22:50	◣	dabor (~dabor@152.169.79.42) ha salido (Ping timeout: 240 seconds)
+2017-08-06 07:22:52	--	dabor__ es conocido ahora como dabor
+2017-08-06 07:24:31	◣	dabor_ (~dabor@152.169.79.42) ha salido (Ping timeout: 276 seconds)
+2017-08-06 07:38:23	◣	dabor (~dabor@152.169.79.42) ha salido (Read error: Connection timed out)
+2017-08-06 07:38:41	◥	dabor__ (~dabor@152.169.79.42) has joined #Ubuntu-es
+2017-08-06 07:38:41	--	dabor__ es conocido ahora como dabor
+2017-08-06 07:54:58	◥	deb-2 (b1f6cd9a@gateway/web/freenode/ip.177.246.205.154) has joined #Ubuntu-es
+2017-08-06 07:55:48	◣	dabor (~dabor@152.169.79.42) ha salido (Read error: Connection timed out)
+2017-08-06 07:56:11	◥	dabor__ (~dabor@152.169.79.42) has joined #Ubuntu-es
+2017-08-06 07:56:11	--	dabor__ es conocido ahora como dabor
+2017-08-06 08:10:09	◣	leom33 (~ivedci@190.191.131.229) ha salido (Quit: Leaving.)
+2017-08-06 08:14:11	◥	usuario-vaio (~ivedci@181.24.147.182) has joined #Ubuntu-es
+2017-08-06 08:16:55	◥	roxacer (~ivedci@191.102.245.66) has joined #Ubuntu-es
+2017-08-06 08:54:39	◣	roxacer (~ivedci@191.102.245.66) ha salido (Ping timeout: 240 seconds)
+2017-08-06 09:02:37	◣	usuario-vaio (~ivedci@181.24.147.182) ha salido (Ping timeout: 246 seconds)
+2017-08-06 09:16:06	◥	usuario-vaio (~ivedci@181.24.147.182) has joined #Ubuntu-es
+2017-08-06 09:20:16	◥	Mikelevel (~MoVeWoRk@unaffiliated/mikelevel) has joined #Ubuntu-es
+2017-08-06 09:34:28	◣	usuario-vaio (~ivedci@181.24.147.182) ha salido (Ping timeout: 240 seconds)
+2017-08-06 09:36:30	◥	bea19 (~bea19@85.203.9.11) has joined #Ubuntu-es
+2017-08-06 09:36:58	◣	bea19 (~bea19@85.203.9.11) ha salido (Client Quit)
+2017-08-06 09:37:14	◥	bea19 (~bea19@85.203.9.11) has joined #Ubuntu-es
+2017-08-06 09:37:16	◣	bea19 (~bea19@85.203.9.11) ha salido (Client Quit)
+2017-08-06 09:44:28	◥	kherheb (~meyer@175.137.217.87.dynamic.jazztel.es) has joined #Ubuntu-es
+2017-08-06 09:45:37	◥	bea19 (~bea19@85.203.9.11) has joined #Ubuntu-es
+2017-08-06 09:47:55	◣	kherheb (~meyer@175.137.217.87.dynamic.jazztel.es) ha salido (Client Quit)
+2017-08-06 09:51:20	◣	bea19 (~bea19@85.203.9.11) ha salido (Quit: Ex-Chat)
+2017-08-06 10:01:41	◥	usuario-vaio (~ivedci@181.24.147.182) has joined #Ubuntu-es
+2017-08-06 10:26:54	◣	Tiffon (~name@unaffiliated/tiff0n) ha salido (Quit: exit)
+2017-08-06 10:26:59	◥	angel_mendez (~aams01@187.172.112.172) has joined #Ubuntu-es
+2017-08-06 10:27:47	◣	angel_mendez (~aams01@187.172.112.172) ha salido (Remote host closed the connection)
+2017-08-06 11:01:39	◣	deb-2 (b1f6cd9a@gateway/web/freenode/ip.177.246.205.154) ha salido (Ping timeout: 260 seconds)
+2017-08-06 11:04:12	◣	usuario-vaio (~ivedci@181.24.147.182) ha salido (Ping timeout: 260 seconds)
+2017-08-06 11:08:56	◥	usuario-vaio (~ivedci@181.24.147.182) has joined #Ubuntu-es
+2017-08-06 11:47:50	◣	usuario-vaio (~ivedci@181.24.147.182) ha salido (Ping timeout: 255 seconds)
+2017-08-06 11:55:12	◥	AndresMad (~andres@40.196.134.37.dynamic.jazztel.es) has joined #Ubuntu-es
+2017-08-06 11:57:31	◣	AndresMad (~andres@40.196.134.37.dynamic.jazztel.es) ha salido (Client Quit)
+2017-08-06 11:58:40	◥	AndresMad (~andres@40.196.134.37.dynamic.jazztel.es) has joined #Ubuntu-es
+2017-08-06 12:01:24	◥	ubuntulog_ (~logbot@ubuntu/bot/ubuntulog) has joined #Ubuntu-es
+2017-08-06 12:05:19	◣	AndresMad (~andres@40.196.134.37.dynamic.jazztel.es) ha salido (Quit: Ex-Chat)
+2017-08-06 12:05:30	◥	AndresMad (~andres@40.196.134.37.dynamic.jazztel.es) has joined #Ubuntu-es
+2017-08-06 12:07:55	◣	ubuntulog (~logbot@ubuntu/bot/ubuntulog) ha salido (*.net *.split)
+2017-08-06 12:23:47	◣	dabor (~dabor@152.169.79.42) ha salido (Quit: Going offline, see ya! (www.adiirc.com))
+2017-08-06 12:28:03	◣	MrTulias (~misco@unaffiliated/mrtulias) ha salido (Quit: Leaving)
+2017-08-06 13:17:13	◥	mr-jules (~mr-jules@2806:101e:1:3b12:a41f:468a:98e6:531) has joined #Ubuntu-es
+2017-08-06 13:17:13	--	Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-08-06 13:17:13	--	Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 11:16:11
+2017-08-06 13:17:13	--	Channel #Ubuntu-es: 26 apodos (1 op, 0 voces, 25 normales)
+2017-08-06 13:17:13	--	PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-08-06 13:17:13	--	URL para #ubuntu-es: http://www.ubuntu.com/
+2017-08-06 13:17:17	--	Canal creado el sáb, 25 nov 2006 23:42:53
+2017-08-06 14:15:23	--	irc: desconectado del servidor
+2017-08-06 14:15:47	◥	mr-jules (~mr-jules@2806:101e:1:3b12:a41f:468a:98e6:531) has joined #Ubuntu-es
+2017-08-06 14:15:47	--	Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-08-06 14:15:47	--	Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 11:16:11
+2017-08-06 14:15:47	--	Channel #Ubuntu-es: 28 apodos (1 op, 0 voces, 27 normales)
+2017-08-06 14:15:47	--	PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-08-06 14:15:47	--	URL para #ubuntu-es: http://www.ubuntu.com/
+2017-08-06 14:16:06	--	Canal creado el sáb, 25 nov 2006 23:42:53
+2017-08-06 14:29:24	◥	GatoLoko (~GatoLoko@85.136.181.101.dyn.user.ono.com) has joined #Ubuntu-es
+2017-08-06 14:56:39	◣	AndresMad (~andres@40.196.134.37.dynamic.jazztel.es) ha salido (Quit: Ex-Chat)
+2017-08-06 15:01:39	◣	usuario-vaio (~ivedci@181.24.147.182) ha salido (Ping timeout: 240 seconds)
+2017-08-06 15:04:41	◥	JuanCuero32 (~juank@84.120.196.29.dyn.user.ono.com) has joined #Ubuntu-es
+2017-08-06 15:12:52	◣	Ocsi (~francisco@90.168.181.96) ha salido (Quit: Ex-Chat)
+2017-08-06 15:20:26	◣	Mikelevel (~MoVeWoRk@unaffiliated/mikelevel) ha salido (Remote host closed the connection)
+2017-08-06 15:23:24	◥	usuario-vaio (~ivedci@191.102.245.194) has joined #Ubuntu-es
+2017-08-06 15:32:28	◣	GatoLoko (~GatoLoko@85.136.181.101.dyn.user.ono.com) ha salido (Remote host closed the connection)
+2017-08-06 15:46:28	◥	GatoLoko (~GatoLoko@85.136.181.101.dyn.user.ono.com) has joined #Ubuntu-es
+2017-08-06 16:11:35	◣	nameless4CL (~snake@201.236.27.149) ha salido (Quit: good luck...)
+2017-08-06 16:12:14	◣	nameless_CL (~snake@201.236.27.149) ha salido (Remote host closed the connection)
+2017-08-06 16:20:00	◣	GatoLoko (~GatoLoko@85.136.181.101.dyn.user.ono.com) ha salido (Quit: Leaving)
+2017-08-06 20:20:25	--	irc: desconectado del servidor
+2017-08-06 20:20:48	◥	mr-jules (~mr-jules@2806:101e:1:2d1e:c0fa:c829:2156:83eb) has joined #Ubuntu-es
+2017-08-06 20:20:48	--	Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-08-06 20:20:48	--	Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 11:16:11
+2017-08-06 20:20:48	--	Channel #Ubuntu-es: 22 apodos (1 op, 0 voces, 21 normales)
+2017-08-06 20:20:48	--	PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-08-06 20:20:48	--	URL para #ubuntu-es: http://www.ubuntu.com/
+2017-08-06 20:21:08	--	Canal creado el sáb, 25 nov 2006 23:42:53
+2017-08-06 20:25:47	◥	leom33 (~ivedci@190.191.131.229) has joined #Ubuntu-es
+2017-08-06 20:37:31	◣	Nel1x (~Nel1x@69.61.93.45) ha salido (Ping timeout: 276 seconds)
+2017-08-06 21:57:09	◥	Mikelevel (~MoVeWoRk@unaffiliated/mikelevel) has joined #Ubuntu-es
+2017-08-06 22:20:54	◣	leom33 (~ivedci@190.191.131.229) ha salido (Quit: Leaving.)
+2017-08-06 23:45:23	◥	Tiffon (~name@unaffiliated/tiff0n) has joined #Ubuntu-es
+2017-08-07 00:44:05	◥	sanzante (~ricardo@75.178.132.37.dynamic.jazztel.es) has joined #Ubuntu-es
+2017-08-07 00:52:03	◣	sanzante (~ricardo@75.178.132.37.dynamic.jazztel.es) ha salido (Read error: No route to host)
+2017-08-07 02:30:01	◥	Miquel_ (~mangel@84.127.94.31.dyn.user.ono.com) has joined #Ubuntu-es
+2017-08-07 02:30:02	◣	Miquel_ (~mangel@84.127.94.31.dyn.user.ono.com) ha abandonado #Ubuntu-es
+2017-08-07 03:04:52	◥	[OFF]-SkavenXXI (~SXXI@114.pool80-103-92.dynamic.orange.es) has joined #Ubuntu-es
+2017-08-07 03:24:25	◣	OERIAS (~OERIAS@47.137.234.90) ha salido (Ping timeout: 276 seconds)
+2017-08-07 03:35:55	◣	JuanCuero32 (~juank@84.120.196.29.dyn.user.ono.com) ha salido (Remote host closed the connection)
+2017-08-07 04:44:15	◥	Ocsi (~francisco@90.168.181.96) has joined #Ubuntu-es
+2017-08-07 05:03:38	◣	Ocsi (~francisco@90.168.181.96) ha salido (Quit: Ex-Chat)
+2017-08-07 07:29:55	◥	GridCube (uid10553@gateway/web/irccloud.com/x-jfwiefqnrteqcpyg) has joined #Ubuntu-es
+2017-08-07 07:47:55	◥	AndresMad (~andres@40.196.134.37.dynamic.jazztel.es) has joined #Ubuntu-es
+2017-08-07 08:07:34	◣	Mikelevel (~MoVeWoRk@unaffiliated/mikelevel) ha salido (Ping timeout: 246 seconds)
+2017-08-07 08:25:04	◥	AndresMad_ (~andres@40.196.134.37.dynamic.jazztel.es) has joined #Ubuntu-es
+2017-08-07 08:25:04	◣	AndresMad (~andres@40.196.134.37.dynamic.jazztel.es) ha salido (Read error: Connection reset by peer)
+2017-08-07 08:51:24	◣	AndresMad_ (~andres@40.196.134.37.dynamic.jazztel.es) ha salido (Quit: Ex-Chat)
+2017-08-07 09:12:48	◣	usuario-vaio (~ivedci@191.102.245.194) ha salido (Ping timeout: 260 seconds)
+2017-08-07 09:13:49	◥	MrTulias (~misco@unaffiliated/mrtulias) has joined #Ubuntu-es
+2017-08-07 11:19:20	--	irc: desconectado del servidor
+2017-08-07 11:19:44	◥	mr-jules (~mr-jules@189.173.198.174) has joined #Ubuntu-es
+2017-08-07 11:19:44	--	Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-08-07 11:19:44	--	Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 11:16:11
+2017-08-07 11:19:44	--	Channel #Ubuntu-es: 24 apodos (1 op, 0 voces, 23 normales)
+2017-08-07 11:19:45	--	PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-08-07 11:19:45	--	URL para #ubuntu-es: http://www.ubuntu.com/
+2017-08-07 11:20:11	--	Canal creado el sáb, 25 nov 2006 23:42:53
+2017-08-07 11:29:08	◥	roxacer (~ivedci@191.102.245.66) has joined #Ubuntu-es
+2017-08-07 11:55:00	--	irc: desconectado del servidor
+2017-08-07 11:55:23	◥	mr-jules (~mr-jules@2806:101e:1:2d1e:c0fa:c829:2156:83eb) has joined #Ubuntu-es
+2017-08-07 11:55:23	--	Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-08-07 11:55:23	--	Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 11:16:11
+2017-08-07 11:55:23	--	Channel #Ubuntu-es: 25 apodos (1 op, 0 voces, 24 normales)
+2017-08-07 11:55:23	--	PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-08-07 11:55:23	--	URL para #ubuntu-es: http://www.ubuntu.com/
+2017-08-07 11:55:47	--	Canal creado el sáb, 25 nov 2006 23:42:53
+2017-08-07 11:58:10	◥	Ocsi (~francisco@90.168.181.96) has joined #Ubuntu-es
+2017-08-07 12:03:36	◣	roxacer (~ivedci@191.102.245.66) ha salido (Ping timeout: 260 seconds)
+2017-08-07 12:35:58	◣	Ocsi (~francisco@90.168.181.96) ha salido (Quit: Ex-Chat)
+2017-08-07 12:39:31	◥	AndresMad (~andres@40.196.134.37.dynamic.jazztel.es) has joined #Ubuntu-es
+2017-08-07 13:01:02	◣	MrTulias (~misco@unaffiliated/mrtulias) ha salido (Quit: Leaving)
+2017-08-07 13:03:50	◣	GridCube (uid10553@gateway/web/irccloud.com/x-jfwiefqnrteqcpyg) ha salido
+2017-08-07 13:25:27	◣	Pedro (~jmoral@200.123.138.101) ha salido (Quit: Ex-Chat)
+2017-08-07 15:10:46	◥	mr-jules (~mr-jules@2806:101e:1:2d1e:c0fa:c829:2156:83eb) has joined #Ubuntu-es
+2017-08-07 15:10:46	--	Topic for #Ubuntu-es is "Canal oficial de soporte de Ubuntu en español | Normas: https://wiki.ubuntu.com/IRC/Guidelines/es | Canal social: #ubuntu-es-cafe | Pegar textos: http://paste.ubuntu.com | Descargar Ubuntu: http://www.ubuntu.com/download | Versiones soportadas: 14.04, 16.04, 16.10, 17.04"
+2017-08-07 15:10:46	--	Tema establecido por GridCube (uid10553@gateway/web/irccloud.com/x-hdrobhwbcoznygow) el sáb, 29 abr 2017 11:16:11
+2017-08-07 15:10:46	--	Channel #Ubuntu-es: 25 apodos (1 op, 0 voces, 24 normales)
+2017-08-07 15:10:46	--	PvAviso(ChanServ): Bienvenidos al canal oficial de soporte Ubuntu en español  - Por favor respete el CoC https://wiki.ubuntu.com/esCodeOfConduct - Este canal se archiva públicamente en http://irclogs.ubuntu.com - Usar este canal implica la aceptación de los términos en https://wiki.ubuntu.com/IRC/TermsOfService/es
+2017-08-07 15:10:46	--	URL para #ubuntu-es: http://www.ubuntu.com/
+2017-08-07 15:10:50	--	Canal creado el sáb, 25 nov 2006 23:42:53
+2017-08-07 15:17:35	◥	roxacer1 (~ivedci@186.39.20.71) has joined #Ubuntu-es
+2017-08-07 15:20:05	◣	roxacer (~ivedci@191.102.245.66) ha salido (Ping timeout: 240 seconds)
+2017-08-07 15:21:57	◣	roxacer1 (~ivedci@186.39.20.71) ha salido (Ping timeout: 260 seconds)
+2017-08-07 15:22:06	◥	roxacer (~ivedci@191.102.245.66) has joined #Ubuntu-es
+2017-08-07 15:23:36	◥	GridCube (~GridCube@unaffiliated/soupermanito) has joined #Ubuntu-es
+2017-08-07 15:32:32	◣	Mikelevel (~MoVeWoRk@unaffiliated/mikelevel) ha salido (Remote host closed the connection)
+2017-08-07 15:47:00	◣	Ocsi (~francisco@90.168.181.96) ha salido (Quit: Ex-Chat)

@@ -1,0 +1,1397 @@
+2017-07-23 10:12:45	>	mr-jules (~mr-jules@189.173.19.142) has joined #debian-es
+2017-07-23 10:12:45	--	Topic for #debian-es is "Docs → debian.org/doc/FAQ debian.org/doc/manuals/reference wiki.debian.org || Para pegar usa paste.debian.net || Repositorios → www.debian.org/mirror/list || ESTO NO ES #ubuntu-es || RTFM → manpages.debian.net || Que imagen descargo? → cdimage-search.debian.org || Debian Estable → Stretch 9.0 || Actualizando a Stretch? → debian.org/releases/stable/releasenotes"
+2017-07-23 10:12:45	--	Tema establecido por MarlonBardo (ba120206@CAcert/Assurer/dererk) el mié, 05 jul 2017 17:40:07
+2017-07-23 10:12:45	--	Channel #debian-es: 49 apodos (0 ops, 0 voces, 49 normales)
+2017-07-23 10:12:45	--	PvAviso(ChanServ): Bienvenido a #debian-es. Este es un canal de discusión, si tienes preguntas acerca de Debian GNU/Linux, dispara, trataremos de dar nuestra mejor respuesta :)
+2017-07-23 10:12:45	--	URL para #debian-es: http://www.debian.org
+2017-07-23 10:13:08	--	Canal creado el sáb, 25 nov 2006 23:42:43
+2017-07-23 10:29:05	>	mr-jules (~mr-jules@189.173.19.142) has joined #debian-es
+2017-07-23 10:29:05	--	Topic for #debian-es is "Docs → debian.org/doc/FAQ debian.org/doc/manuals/reference wiki.debian.org || Para pegar usa paste.debian.net || Repositorios → www.debian.org/mirror/list || ESTO NO ES #ubuntu-es || RTFM → manpages.debian.net || Que imagen descargo? → cdimage-search.debian.org || Debian Estable → Stretch 9.0 || Actualizando a Stretch? → debian.org/releases/stable/releasenotes"
+2017-07-23 10:29:05	--	Tema establecido por MarlonBardo (ba120206@CAcert/Assurer/dererk) el mié, 05 jul 2017 17:40:07
+2017-07-23 10:29:05	--	Channel #debian-es: 50 apodos (0 ops, 0 voces, 50 normales)
+2017-07-23 10:29:05	--	PvAviso(ChanServ): Bienvenido a #debian-es. Este es un canal de discusión, si tienes preguntas acerca de Debian GNU/Linux, dispara, trataremos de dar nuestra mejor respuesta :)
+2017-07-23 10:29:05	--	URL para #debian-es: http://www.debian.org
+2017-07-23 10:29:27	--	Canal creado el sáb, 25 nov 2006 23:42:43
+2017-07-23 10:40:41	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #debian-es
+2017-07-23 10:40:41	⇄	Topic for #debian-es is "Docs → debian.org/doc/FAQ debian.org/doc/manuals/reference wiki.debian.org || Para pegar usa paste.debian.net || Repositorios → www.debian.org/mirror/list || ESTO NO ES #ubuntu-es || RTFM → manpages.debian.net || Que imagen descargo? → cdimage-search.debian.org || Debian Estable → Stretch 9.0 || Actualizando a Stretch? → debian.org/releases/stable/releasenotes"
+2017-07-23 10:40:41	⇄	Tema establecido por MarlonBardo (ba120206@CAcert/Assurer/dererk) el mié, 05 jul 2017 17:40:07
+2017-07-23 10:40:41	⇄	Channel #debian-es: 50 apodos (0 ops, 0 voces, 50 normales)
+2017-07-23 10:40:41	⇄	PvAviso(ChanServ): Bienvenido a #debian-es. Este es un canal de discusión, si tienes preguntas acerca de Debian GNU/Linux, dispara, trataremos de dar nuestra mejor respuesta :)
+2017-07-23 10:40:41	⇄	URL para #debian-es: http://www.debian.org
+2017-07-23 10:40:44	>	bit1 (~joseanton@86.red-213-96-250.staticip.rima-tde.net) has joined #debian-es
+2017-07-23 10:41:04	⇄	Canal creado el sáb, 25 nov 2006 23:42:43
+2017-07-23 10:43:32	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #debian-es
+2017-07-23 10:43:32	⇄	Topic for #debian-es is "Docs → debian.org/doc/FAQ debian.org/doc/manuals/reference wiki.debian.org || Para pegar usa paste.debian.net || Repositorios → www.debian.org/mirror/list || ESTO NO ES #ubuntu-es || RTFM → manpages.debian.net || Que imagen descargo? → cdimage-search.debian.org || Debian Estable → Stretch 9.0 || Actualizando a Stretch? → debian.org/releases/stable/releasenotes"
+2017-07-23 10:43:32	⇄	Tema establecido por MarlonBardo (ba120206@CAcert/Assurer/dererk) el mié, 05 jul 2017 17:40:07
+2017-07-23 10:43:32	⇄	Channel #debian-es: 51 apodos (0 ops, 0 voces, 51 normales)
+2017-07-23 10:43:32	⇄	PvAviso(ChanServ): Bienvenido a #debian-es. Este es un canal de discusión, si tienes preguntas acerca de Debian GNU/Linux, dispara, trataremos de dar nuestra mejor respuesta :)
+2017-07-23 10:43:32	⇄	URL para #debian-es: http://www.debian.org
+2017-07-23 10:43:52	⇄	Canal creado el sáb, 25 nov 2006 23:42:43
+2017-07-23 10:51:26	>	Windows7U (~CrisEd@unaffiliated/windows7u) has joined #debian-es
+2017-07-23 11:46:03	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #debian-es
+2017-07-23 11:46:03	⇄	Topic for #debian-es is "Docs → debian.org/doc/FAQ debian.org/doc/manuals/reference wiki.debian.org || Para pegar usa paste.debian.net || Repositorios → www.debian.org/mirror/list || ESTO NO ES #ubuntu-es || RTFM → manpages.debian.net || Que imagen descargo? → cdimage-search.debian.org || Debian Estable → Stretch 9.0 || Actualizando a Stretch? → debian.org/releases/stable/releasenotes"
+2017-07-23 11:46:03	⇄	Tema establecido por MarlonBardo (ba120206@CAcert/Assurer/dererk) el mié, 05 jul 2017 17:40:07
+2017-07-23 11:46:03	⇄	Channel #debian-es: 49 apodos (0 ops, 0 voces, 49 normales)
+2017-07-23 11:46:03	⇄	PvAviso(ChanServ): Bienvenido a #debian-es. Este es un canal de discusión, si tienes preguntas acerca de Debian GNU/Linux, dispara, trataremos de dar nuestra mejor respuesta :)
+2017-07-23 11:46:03	⇄	URL para #debian-es: http://www.debian.org
+2017-07-23 11:46:24	⇄	Canal creado el sáb, 25 nov 2006 23:42:43
+2017-07-23 11:54:28	>	marcfp (~Marc@unaffiliated/marcfp) has joined #debian-es
+2017-07-23 12:22:45	>	AlexLikeRock (~AlexLikeR@unaffiliated/alexlikerock) has joined #debian-es
+2017-07-23 12:31:32	<	AlexLikeRock (~AlexLikeR@unaffiliated/alexlikerock) ha salido (Quit: Leaving)
+2017-07-23 12:52:59	>	josejp2424 (~pupjibaro@unaffiliated/josejp2424) has joined #debian-es
+2017-07-23 13:02:27	<	Morgana33 (~Morgana33@79.108.122.30.dyn.user.ono.com) ha salido (Remote host closed the connection)
+2017-07-23 13:10:09	<	josejp2424 (~pupjibaro@unaffiliated/josejp2424) ha salido (Quit: Leaving)
+2017-07-23 13:40:19	<	marcfp (~Marc@unaffiliated/marcfp) ha salido (Quit: Lost terminal)
+2017-07-23 13:43:29	>	Heimy (~javi@unaffiliated/heimy) has joined #debian-es
+2017-07-23 13:48:17	<	Heimy (~javi@unaffiliated/heimy) ha salido (Ping timeout: 248 seconds)
+2017-07-23 14:13:39	>	redips (~spider@160.62-99-38.dynamic.clientes.euskaltel.es) has joined #debian-es
+2017-07-23 14:13:53	>	Heimy (~javi@unaffiliated/heimy) has joined #debian-es
+2017-07-23 14:18:13	<	redips (~spider@160.62-99-38.dynamic.clientes.euskaltel.es) ha salido (Quit: Leaving.)
+2017-07-23 14:25:33	>	Brigo (~Brigo@43.10.60.178.dynamic.reverse-mundo-r.com) has joined #debian-es
+2017-07-23 14:34:53	>	droman (~droman@80.246.23.95.dynamic.jazztel.es) has joined #debian-es
+2017-07-23 14:37:16	<	Heimy (~javi@unaffiliated/heimy) ha salido (Ping timeout: 255 seconds)
+2017-07-23 14:42:45	<	drymer (~drymer@unaffiliated/drymer) ha salido (Remote host closed the connection)
+2017-07-23 14:43:00	>	bit1 (~joseanton@86.red-213-96-250.staticip.rima-tde.net) has joined #debian-es
+2017-07-23 14:46:27	<	dasnetz (~dasnetz@189.148.52.243) ha salido (Read error: Connection reset by peer)
+2017-07-23 15:12:31	>	drymer (~drymer@unaffiliated/drymer) has joined #debian-es
+2017-07-23 15:32:44	>	free4fun (~libertad@hackspaceuy/member/barbanegra) has joined #debian-es
+2017-07-23 15:33:40	<	barbanegra (~libertad@hackspaceuy/member/barbanegra) ha salido (Read error: Connection reset by peer)
+2017-07-23 15:38:06	>	kobain (~kobain@unaffiliated/kobain) has joined #debian-es
+2017-07-23 15:53:50	>	josejp2424 (~pupjibaro@unaffiliated/josejp2424) has joined #debian-es
+2017-07-23 15:53:50	>	josejp24242 (~pupjibaro@168.90.72.7) has joined #debian-es
+2017-07-23 15:54:47	<	josejp24242 (~pupjibaro@168.90.72.7) ha salido (Client Quit)
+2017-07-23 15:55:17	>	NacionalCatolico (4f97e547@gateway/web/freenode/ip.79.151.229.71) has joined #debian-es
+2017-07-23 15:55:32	<	NacionalCatolico (4f97e547@gateway/web/freenode/ip.79.151.229.71) ha salido (Client Quit)
+2017-07-23 15:59:10	<	Lorduncan (~Thunderbi@87.125.134.59) ha salido (Quit: Lorduncan)
+2017-07-23 16:10:23	<	bit1 (~joseanton@86.red-213-96-250.staticip.rima-tde.net) ha salido (Quit: Abandonando)
+2017-07-23 16:10:49	>	bit1 (~joseanton@86.red-213-96-250.staticip.rima-tde.net) has joined #debian-es
+2017-07-23 16:12:35	<	bit1 (~joseanton@86.red-213-96-250.staticip.rima-tde.net) ha salido (Client Quit)
+2017-07-23 16:13:19	>	bit1 (~joseanton@86.red-213-96-250.staticip.rima-tde.net) has joined #debian-es
+2017-07-23 16:14:15	>	rda-mac (~rda-mac@unaffiliated/rda-mac) has joined #debian-es
+2017-07-23 16:15:55	<	josejp2424 (~pupjibaro@unaffiliated/josejp2424) ha salido (Remote host closed the connection)
+2017-07-23 16:24:19	bit1	hola, ¿alguna buena guia para empezar a configurar SLAPD?, gracias
+2017-07-23 16:28:52	>	Nel1x (~Nel1x@mail1.oncosmos.com) has joined #debian-es
+2017-07-23 16:31:23	<	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) ha salido (Ping timeout: 260 seconds)
+2017-07-23 16:33:23	>	techno_x64 (~techno_x6@unaffiliated/dark-wolf) has joined #debian-es
+2017-07-23 16:37:12	<	fuaa2 (~fuaa@host5.181-1-237.telecom.net.ar) ha salido (Quit: Leaving)
+2017-07-23 17:15:46	>	glz (~klf@4.143.60.178.unassigned.reverse-mundo-r.com) has joined #debian-es
+2017-07-23 17:18:55	<	glz (~klf@4.143.60.178.unassigned.reverse-mundo-r.com) ha salido (Client Quit)
+2017-07-23 17:20:12	<	drymer (~drymer@unaffiliated/drymer) ha salido (Remote host closed the connection)
+2017-07-23 17:20:57	<	Brigo (~Brigo@43.10.60.178.dynamic.reverse-mundo-r.com) ha salido (Ping timeout: 240 seconds)
+2017-07-23 17:27:49	<	techno_x64 (~techno_x6@unaffiliated/dark-wolf) ha salido (Quit: WeeChat 1.9)
+2017-07-23 17:31:39	>	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) has joined #debian-es
+2017-07-23 17:43:27	<	sanzante (~ricardo@210.178.132.37.dynamic.jazztel.es) ha salido (Ping timeout: 240 seconds)
+2017-07-23 17:43:48	<	droman (~droman@80.246.23.95.dynamic.jazztel.es) ha salido (Remote host closed the connection)
+2017-07-23 17:44:02	>	Heimy (~javi@unaffiliated/heimy) has joined #debian-es
+2017-07-23 17:53:48	>	fuaa (~fuaa@host179.190-30-113.telecom.net.ar) has joined #debian-es
+2017-07-23 17:54:27	<	Heimy (~javi@unaffiliated/heimy) ha salido (Ping timeout: 268 seconds)
+2017-07-23 17:55:22	>	Heimy (~javi@unaffiliated/heimy) has joined #debian-es
+2017-07-23 17:56:23	>	AlexLikeRock (~AlexLikeR@unaffiliated/alexlikerock) has joined #debian-es
+2017-07-23 18:13:48	>	Lorduncan (~Thunderbi@87.125.134.59) has joined #debian-es
+2017-07-23 18:17:25	<	fuaa (~fuaa@host179.190-30-113.telecom.net.ar) ha salido (Quit: Leaving)
+2017-07-23 18:18:54	<	AlexLikeRock (~AlexLikeR@unaffiliated/alexlikerock) ha salido (Ping timeout: 240 seconds)
+2017-07-23 18:22:56	<	Gaxpaxxo (~Gazpacho@20.red-83-36-227.dynamicip.rima-tde.net) ha salido (Quit: Leaving)
+2017-07-23 18:29:53	<	santamarta (~Juanjo@unaffiliated/santamarta) ha salido (Remote host closed the connection)
+2017-07-23 18:33:42	<	Lorduncan (~Thunderbi@87.125.134.59) ha salido (Quit: Lorduncan)
+2017-07-23 18:34:10	>	Lorduncan (~Thunderbi@87.125.134.59) has joined #debian-es
+2017-07-23 18:34:25	<	bit1 (~joseanton@86.red-213-96-250.staticip.rima-tde.net) ha salido (Ping timeout: 255 seconds)
+2017-07-23 18:39:00	>	AlexLikeRock (~AlexLikeR@unaffiliated/alexlikerock) has joined #debian-es
+2017-07-23 18:41:11	<	Windows7U (~CrisEd@unaffiliated/windows7u) ha salido (Quit: Me jui)
+2017-07-23 18:41:59	<	Lorduncan (~Thunderbi@87.125.134.59) ha salido (Quit: Lorduncan)
+2017-07-23 18:52:05	<	AlexLikeRock (~AlexLikeR@unaffiliated/alexlikerock) ha salido (Ping timeout: 240 seconds)
+2017-07-23 18:55:34	<	Heimy (~javi@unaffiliated/heimy) ha salido (Ping timeout: 255 seconds)
+2017-07-23 19:09:50	>	deb_webchat (b1f6cd9a@gateway/web/freenode/ip.177.246.205.154) has joined #debian-es
+2017-07-23 19:21:24	>	Windows7U (~CrisEd@181.93.19.99) has joined #debian-es
+2017-07-23 19:21:24	<	Windows7U (~CrisEd@181.93.19.99) ha salido (Changing host)
+2017-07-23 19:21:24	>	Windows7U (~CrisEd@unaffiliated/windows7u) has joined #debian-es
+2017-07-23 19:22:00	>	Heimy (~javi@unaffiliated/heimy) has joined #debian-es
+2017-07-23 19:42:22	<	Heimy (~javi@unaffiliated/heimy) ha salido (Ping timeout: 255 seconds)
+2017-07-23 20:01:26	>	critos (~critos@186.143.135.27) has joined #debian-es
+2017-07-23 20:04:17	<	critos (~critos@186.143.135.27) ha salido (Quit: Saliendo)
+2017-07-23 20:14:04	>	dasnetz (~dasnetz@189.148.52.243) has joined #debian-es
+2017-07-23 20:15:34	>	mwsd82 (~mwsd82@189.245.190.13) has joined #debian-es
+2017-07-23 20:21:26	<	kobain (~kobain@unaffiliated/kobain) ha salido (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2017-07-23 20:25:08	<	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) ha salido (Quit: WeeChat 1.9)
+2017-07-23 20:35:19	>	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) has joined #debian-es
+2017-07-23 20:54:29	>	likevinyl (~likevinyl@unaffiliated/likevinyl) has joined #debian-es
+2017-07-23 21:41:26	>	Heimy (~javi@unaffiliated/heimy) has joined #debian-es
+2017-07-23 21:54:27	<	Heimy (~javi@unaffiliated/heimy) ha salido (Ping timeout: 240 seconds)
+2017-07-23 22:01:24	<	Nel1x (~Nel1x@mail1.oncosmos.com) ha salido (Ping timeout: 240 seconds)
+2017-07-23 22:07:39	>	Heimy (~javi@unaffiliated/heimy) has joined #debian-es
+2017-07-24 16:05:42	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #debian-es
+2017-07-24 16:05:42	⇄	Topic for #debian-es is "Docs → debian.org/doc/FAQ debian.org/doc/manuals/reference wiki.debian.org || Para pegar usa paste.debian.net || Repositorios → www.debian.org/mirror/list || ESTO NO ES #ubuntu-es || RTFM → manpages.debian.net || Que imagen descargo? → cdimage-search.debian.org || Debian Estable → Stretch 9.0 || Actualizando a Stretch? → debian.org/releases/stable/releasenotes"
+2017-07-24 16:05:42	⇄	Tema establecido por MarlonBardo (ba120206@CAcert/Assurer/dererk) el mié, 05 jul 2017 17:40:07
+2017-07-24 16:05:42	⇄	Channel #debian-es: 43 apodos (0 ops, 0 voces, 43 normales)
+2017-07-24 16:05:42	⇄	PvAviso(ChanServ): Bienvenido a #debian-es. Este es un canal de discusión, si tienes preguntas acerca de Debian GNU/Linux, dispara, trataremos de dar nuestra mejor respuesta :)
+2017-07-24 16:05:42	⇄	URL para #debian-es: http://www.debian.org
+2017-07-24 16:06:04	⇄	Canal creado el sáb, 25 nov 2006 23:42:43
+2017-07-24 16:43:33	>	scan (~scan@unaffiliated/scan) has joined #debian-es
+2017-07-24 16:44:17	>	Windows7U (~CrisEd@181.93.19.99) has joined #debian-es
+2017-07-24 16:44:17	<	Windows7U (~CrisEd@181.93.19.99) ha salido (Changing host)
+2017-07-24 16:44:17	>	Windows7U (~CrisEd@unaffiliated/windows7u) has joined #debian-es
+2017-07-24 16:56:35	<	sanzante (~ricardo@210.178.132.37.dynamic.jazztel.es) ha salido (Ping timeout: 240 seconds)
+2017-07-24 17:04:24	<	drymer (~drymer@unaffiliated/drymer) ha salido (Remote host closed the connection)
+2017-07-24 17:05:12	>	drymer (~drymer@unaffiliated/drymer) has joined #debian-es
+2017-07-24 17:07:23	<	Brigo (~Brigo@43.10.60.178.dynamic.reverse-mundo-r.com) ha salido (Ping timeout: 240 seconds)
+2017-07-24 17:10:46	>	Lorduncan (~Thunderbi@87.125.134.59) has joined #debian-es
+2017-07-24 17:23:13	<	Lorduncan (~Thunderbi@87.125.134.59) ha salido (Quit: Lorduncan)
+2017-07-24 17:25:09	<	drymer (~drymer@unaffiliated/drymer) ha salido (Remote host closed the connection)
+2017-07-24 17:28:16	>	drymer (~drymer@unaffiliated/drymer) has joined #debian-es
+2017-07-24 17:42:58	<	kobain (~kobain@unaffiliated/kobain) ha salido (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2017-07-24 17:50:14	>	Souchiro (~Yuuji@unaffiliated/souchiro) has joined #debian-es
+2017-07-24 17:57:16	>	TheCoffeMaker (~TheCoffeM@181.171.179.94) has joined #debian-es
+2017-07-24 17:57:16	<	TheCoffeMaker (~TheCoffeM@181.171.179.94) ha salido (Changing host)
+2017-07-24 17:57:16	>	TheCoffeMaker (~TheCoffeM@unaffiliated/thecoffemaker) has joined #debian-es
+2017-07-24 17:58:28	<	Souchiro (~Yuuji@unaffiliated/souchiro) ha salido (Ping timeout: 255 seconds)
+2017-07-24 18:15:00	>	Souchiro (~Yuuji@unaffiliated/souchiro) has joined #debian-es
+2017-07-24 18:20:56	<	alekz (alekz@gateway/shell/insomnia247/x-vnoiczpbeonuztvf) ha salido (Ping timeout: 260 seconds)
+2017-07-24 18:31:57	⇄	Maguila es conocido ahora como Maguila|AWAY|
+2017-07-24 19:00:42	>	dasnetz (~dasnetz@189.148.16.189) has joined #debian-es
+2017-07-24 19:09:02	<	Souchiro (~Yuuji@unaffiliated/souchiro) ha salido (Quit: me fui xD)
+2017-07-24 19:23:05	<	Windows7U (~CrisEd@unaffiliated/windows7u) ha salido (Quit: Me jui)
+2017-07-24 19:28:53	>	alekz (alekz@gateway/shell/insomnia247/x-kttyaghkiphaqzeo) has joined #debian-es
+2017-07-24 22:07:36	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #debian-es
+2017-07-24 22:07:36	⇄	Topic for #debian-es is "Docs → debian.org/doc/FAQ debian.org/doc/manuals/reference wiki.debian.org || Para pegar usa paste.debian.net || Repositorios → www.debian.org/mirror/list || ESTO NO ES #ubuntu-es || RTFM → manpages.debian.net || Que imagen descargo? → cdimage-search.debian.org || Debian Estable → Stretch 9.0 || Actualizando a Stretch? → debian.org/releases/stable/releasenotes"
+2017-07-24 22:07:36	⇄	Tema establecido por MarlonBardo (ba120206@CAcert/Assurer/dererk) el mié, 05 jul 2017 17:40:07
+2017-07-24 22:07:36	⇄	Channel #debian-es: 44 apodos (0 ops, 0 voces, 44 normales)
+2017-07-24 22:07:36	⇄	PvAviso(ChanServ): Bienvenido a #debian-es. Este es un canal de discusión, si tienes preguntas acerca de Debian GNU/Linux, dispara, trataremos de dar nuestra mejor respuesta :)
+2017-07-24 22:07:36	⇄	URL para #debian-es: http://www.debian.org
+2017-07-24 22:08:02	⇄	Canal creado el sáb, 25 nov 2006 23:42:43
+2017-07-24 22:14:33	>	alekz (alekz@gateway/shell/insomnia247/x-zbaligzvlkcjohgv) has joined #debian-es
+2017-07-24 22:36:27	<	alekz (alekz@gateway/shell/insomnia247/x-zbaligzvlkcjohgv) ha salido (Ping timeout: 240 seconds)
+2017-07-24 22:46:11	>	alekz (alekz@gateway/shell/insomnia247/x-svgujscmptrwunww) has joined #debian-es
+2017-07-24 22:50:55	<	alekz (alekz@gateway/shell/insomnia247/x-svgujscmptrwunww) ha salido (Ping timeout: 255 seconds)
+2017-07-24 22:56:57	>	Heimy (~javi@unaffiliated/heimy) has joined #debian-es
+2017-07-25 00:47:53	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #debian-es
+2017-07-25 00:47:53	⇄	Topic for #debian-es is "Docs → debian.org/doc/FAQ debian.org/doc/manuals/reference wiki.debian.org || Para pegar usa paste.debian.net || Repositorios → www.debian.org/mirror/list || ESTO NO ES #ubuntu-es || RTFM → manpages.debian.net || Que imagen descargo? → cdimage-search.debian.org || Debian Estable → Stretch 9.0 || Actualizando a Stretch? → debian.org/releases/stable/releasenotes"
+2017-07-25 00:47:53	⇄	Tema establecido por MarlonBardo (ba120206@CAcert/Assurer/dererk) el mié, 05 jul 2017 17:40:07
+2017-07-25 00:47:53	⇄	Channel #debian-es: 43 apodos (0 ops, 0 voces, 43 normales)
+2017-07-25 00:47:53	⇄	PvAviso(ChanServ): Bienvenido a #debian-es. Este es un canal de discusión, si tienes preguntas acerca de Debian GNU/Linux, dispara, trataremos de dar nuestra mejor respuesta :)
+2017-07-25 00:47:53	⇄	URL para #debian-es: http://www.debian.org
+2017-07-25 00:48:14	⇄	Canal creado el sáb, 25 nov 2006 23:42:43
+2017-07-25 01:10:50	>	nachosalvador (~nacho@226.red-176-83-204.dynamicip.rima-tde.net) has joined #debian-es
+2017-07-25 01:11:03	>	Heimy (~javi@unaffiliated/heimy) has joined #debian-es
+2017-07-25 01:23:08	<	Heimy (~javi@unaffiliated/heimy) ha salido (Ping timeout: 246 seconds)
+2017-07-25 01:34:38	<	Buda (~Budadona@2a00:d880:5:702::5cad) ha salido (Read error: Connection reset by peer)
+2017-07-25 01:41:02	>	Buda (~Budadona@2a00:d880:5:702::5cad) has joined #debian-es
+2017-07-25 01:47:48	>	Heimy (~javi@unaffiliated/heimy) has joined #debian-es
+2017-07-25 02:01:24	>	sanzante (~ricardo@37.red-212-170-183.staticip.rima-tde.net) has joined #debian-es
+2017-07-25 02:17:11	<	sanzante (~ricardo@37.red-212-170-183.staticip.rima-tde.net) ha salido (Quit: Cerrando Konversastion!)
+2017-07-25 02:19:02	>	sanzante (~ricardo@37.red-212-170-183.staticip.rima-tde.net) has joined #debian-es
+2017-07-25 02:28:17	<	Heimy (~javi@unaffiliated/heimy) ha salido (Ping timeout: 248 seconds)
+2017-07-25 02:52:19	<	v4char (~v4char@167.red-79-147-192.dynamicip.rima-tde.net) ha salido (Quit: Lost terminal)
+2017-07-25 03:07:59	⇄	irc: desconectado del servidor
+2017-07-25 03:18:10	>	mr-jules (~mr-jules@189.173.19.142) has joined #debian-es
+2017-07-25 03:18:10	⇄	Topic for #debian-es is "Docs → debian.org/doc/FAQ debian.org/doc/manuals/reference wiki.debian.org || Para pegar usa paste.debian.net || Repositorios → www.debian.org/mirror/list || ESTO NO ES #ubuntu-es || RTFM → manpages.debian.net || Que imagen descargo? → cdimage-search.debian.org || Debian Estable → Stretch 9.0 || Actualizando a Stretch? → debian.org/releases/stable/releasenotes"
+2017-07-25 03:18:10	⇄	Tema establecido por MarlonBardo (ba120206@CAcert/Assurer/dererk) el mié, 05 jul 2017 17:41:17
+2017-07-25 03:18:10	⇄	Channel #debian-es: 46 apodos (0 ops, 0 voces, 46 normales)
+2017-07-25 03:18:10	⇄	PvAviso(ChanServ): Bienvenido a #debian-es. Este es un canal de discusión, si tienes preguntas acerca de Debian GNU/Linux, dispara, trataremos de dar nuestra mejor respuesta :)
+2017-07-25 03:18:10	⇄	URL para #debian-es: http://www.debian.org
+2017-07-25 03:18:34	⇄	Canal creado el sáb, 25 nov 2006 23:42:43
+2017-07-25 03:37:18	>	vimets (c351c769@gateway/web/freenode/ip.195.81.199.105) has joined #debian-es
+2017-07-25 03:37:23	vimets	hola buenos dias a todos
+2017-07-25 03:37:51	vimets	tengo un problema con un apache2.2 que se redirecciona a si mismo :(
+2017-07-25 03:38:00	vimets	alguien podria echarme una mano please?
+2017-07-25 03:38:48	>	grrrrrr (~libertad@hackspaceuy/member/barbanegra) has joined #debian-es
+2017-07-25 03:38:49	>	alekz (alekz@gateway/shell/insomnia247/x-cchwxqfvhmvdvpwi) has joined #debian-es
+2017-07-25 03:41:53	<	free4fun (~libertad@hackspaceuy/member/barbanegra) ha salido (Ping timeout: 240 seconds)
+2017-07-25 03:55:39	<	vimets (c351c769@gateway/web/freenode/ip.195.81.199.105) ha salido (Ping timeout: 260 seconds)
+2017-07-25 04:22:24	<	Buda (~Budadona@2a00:d880:5:702::5cad) ha salido (Remote host closed the connection)
+2017-07-25 04:31:02	>	Buda (~Budadona@2a00:d880:5:702::5cad) has joined #debian-es
+2017-07-25 04:31:10	<	dasnetz (~dasnetz@189.148.16.189) ha salido (Remote host closed the connection)
+2017-07-25 04:31:36	>	dasnetz (~dasnetz@189.148.16.189) has joined #debian-es
+2017-07-25 04:59:51	⇄	grrrrrr es conocido ahora como barbanegra
+2017-07-25 05:01:38	>	dasnetz_ (~dasnetz@189.148.103.12) has joined #debian-es
+2017-07-25 05:03:57	<	dasnetz (~dasnetz@189.148.16.189) ha salido (Ping timeout: 240 seconds)
+2017-07-25 05:20:34	>	Brigo (~Brigo@43.10.60.178.dynamic.reverse-mundo-r.com) has joined #debian-es
+2017-07-25 05:26:16	>	Brigo_ (~Brigo@43.10.60.178.dynamic.reverse-mundo-r.com) has joined #debian-es
+2017-07-25 05:28:01	<	Brigo (~Brigo@43.10.60.178.dynamic.reverse-mundo-r.com) ha salido (Ping timeout: 248 seconds)
+2017-07-25 05:35:50	<	Heimy (~javi@unaffiliated/heimy) ha salido (Ping timeout: 255 seconds)
+2017-07-25 08:47:47	⇄	irc: desconectado del servidor
+2017-07-25 08:48:25	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #debian-es
+2017-07-25 08:48:26	⇄	Topic for #debian-es is "Docs → debian.org/doc/FAQ debian.org/doc/manuals/reference wiki.debian.org || Para pegar usa paste.debian.net || Repositorios → www.debian.org/mirror/list || ESTO NO ES #ubuntu-es || RTFM → manpages.debian.net || Que imagen descargo? → cdimage-search.debian.org || Debian Estable → Stretch 9.0 || Actualizando a Stretch? → debian.org/releases/stable/releasenotes"
+2017-07-25 08:48:26	⇄	Tema establecido por MarlonBardo (ba120206@CAcert/Assurer/dererk) el mié, 05 jul 2017 17:40:07
+2017-07-25 08:48:26	⇄	Channel #debian-es: 48 apodos (0 ops, 0 voces, 48 normales)
+2017-07-25 08:48:26	⇄	PvAviso(ChanServ): Bienvenido a #debian-es. Este es un canal de discusión, si tienes preguntas acerca de Debian GNU/Linux, dispara, trataremos de dar nuestra mejor respuesta :)
+2017-07-25 08:48:26	⇄	URL para #debian-es: http://www.debian.org
+2017-07-25 08:48:51	⇄	Canal creado el sáb, 25 nov 2006 23:42:43
+2017-07-25 08:52:22	>	Lorduncan (~Thunderbi@87.125.134.59) has joined #debian-es
+2017-07-25 09:02:54	<	Lorduncan (~Thunderbi@87.125.134.59) ha salido (Read error: Connection reset by peer)
+2017-07-25 09:03:16	>	Lorduncan (~Thunderbi@47.61.50.31) has joined #debian-es
+2017-07-25 09:04:02	<	Lorduncan (~Thunderbi@47.61.50.31) ha salido (Client Quit)
+2017-07-25 09:15:19	>	Windows7U (~CrisEd@unaffiliated/windows7u) has joined #debian-es
+2017-07-25 09:48:06	⇄	irc: desconectado del servidor
+2017-07-25 09:48:51	>	mr-jules (~mr-jules@189.173.192.251) has joined #debian-es
+2017-07-25 09:48:51	⇄	Topic for #debian-es is "Docs → debian.org/doc/FAQ debian.org/doc/manuals/reference wiki.debian.org || Para pegar usa paste.debian.net || Repositorios → www.debian.org/mirror/list || ESTO NO ES #ubuntu-es || RTFM → manpages.debian.net || Que imagen descargo? → cdimage-search.debian.org || Debian Estable → Stretch 9.0 || Actualizando a Stretch? → debian.org/releases/stable/releasenotes"
+2017-07-25 09:48:51	⇄	Tema establecido por MarlonBardo (ba120206@CAcert/Assurer/dererk) el mié, 05 jul 2017 17:40:07
+2017-07-25 09:48:51	⇄	Channel #debian-es: 50 apodos (0 ops, 0 voces, 50 normales)
+2017-07-25 09:48:51	⇄	PvAviso(ChanServ): Bienvenido a #debian-es. Este es un canal de discusión, si tienes preguntas acerca de Debian GNU/Linux, dispara, trataremos de dar nuestra mejor respuesta :)
+2017-07-25 09:48:51	⇄	URL para #debian-es: http://www.debian.org
+2017-07-25 09:48:53	>	Krakakanok (~k4@244.red-83-37-216.dynamicip.rima-tde.net) has joined #debian-es
+2017-07-25 09:48:53	<	Krakakanok (~k4@244.red-83-37-216.dynamicip.rima-tde.net) ha salido (Changing host)
+2017-07-25 09:48:53	>	Krakakanok (~k4@unaffiliated/krakakanok) has joined #debian-es
+2017-07-25 09:49:15	⇄	Canal creado el sáb, 25 nov 2006 23:42:43
+2017-07-25 10:07:06	>	dasnetz (~dasnetz@189.148.103.12) has joined #debian-es
+2017-07-25 10:12:47	>	ZaZ (~ZaZ@165.red-2-138-225.dynamicip.rima-tde.net) has joined #debian-es
+2017-07-25 10:15:43	<	nesimo (~nesimo@73.red-79-152-242.dynamicip.rima-tde.net) ha salido (Quit: Leaving)
+2017-07-25 10:16:34	<	luar (~the@23.95.113.13) ha salido (Quit: No Ping reply in 180 seconds.)
+2017-07-25 10:17:50	>	luar (~the@23.95.113.13) has joined #debian-es
+2017-07-25 10:39:42	⇄	irc: desconectado del servidor
+2017-07-25 10:40:39	>	mr-jules (~mr-jules@189.173.192.251) has joined #debian-es
+2017-07-25 10:40:39	⇄	Topic for #debian-es is "Docs → debian.org/doc/FAQ debian.org/doc/manuals/reference wiki.debian.org || Para pegar usa paste.debian.net || Repositorios → www.debian.org/mirror/list || ESTO NO ES #ubuntu-es || RTFM → manpages.debian.net || Que imagen descargo? → cdimage-search.debian.org || Debian Estable → Stretch 9.0 || Actualizando a Stretch? → debian.org/releases/stable/releasenotes"
+2017-07-25 10:40:39	⇄	Tema establecido por MarlonBardo (ba120206@CAcert/Assurer/dererk) el mié, 05 jul 2017 17:40:07
+2017-07-25 10:40:39	⇄	Channel #debian-es: 52 apodos (0 ops, 0 voces, 52 normales)
+2017-07-25 23:06:44	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #debian-es
+2017-07-25 23:06:44	⇄	Topic for #debian-es is "Docs → debian.org/doc/FAQ debian.org/doc/manuals/reference wiki.debian.org || Para pegar usa paste.debian.net || Repositorios → www.debian.org/mirror/list || ESTO NO ES #ubuntu-es || RTFM → manpages.debian.net || Que imagen descargo? → cdimage-search.debian.org || Debian Estable → Stretch 9.0 || Actualizando a Stretch? → debian.org/releases/stable/releasenotes"
+2017-07-25 23:06:44	⇄	Tema establecido por MarlonBardo (ba120206@CAcert/Assurer/dererk) el mié, 05 jul 2017 17:40:07
+2017-07-25 23:06:44	⇄	Channel #debian-es: 42 apodos (0 ops, 0 voces, 42 normales)
+2017-07-25 23:06:44	⇄	PvAviso(ChanServ): Bienvenido a #debian-es. Este es un canal de discusión, si tienes preguntas acerca de Debian GNU/Linux, dispara, trataremos de dar nuestra mejor respuesta :)
+2017-07-25 23:06:44	⇄	URL para #debian-es: http://www.debian.org
+2017-07-25 23:07:06	⇄	Canal creado el sáb, 25 nov 2006 23:42:43
+2017-07-25 23:27:21	>	dasnetz_ (~dasnetz@189.148.16.189) has joined #debian-es
+2017-07-25 23:29:37	<	dasnetz (~dasnetz@189.148.103.12) ha salido (Ping timeout: 255 seconds)
+2017-07-25 23:45:47	>	Heimy (~javi@unaffiliated/heimy) has joined #debian-es
+2017-07-25 23:53:43	>	nachosalvador (~nacho@139.47.8.162) has joined #debian-es
+2017-07-26 14:44:21	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #debian-es
+2017-07-26 14:44:21	⇄	Topic for #debian-es is "Docs → debian.org/doc/FAQ debian.org/doc/manuals/reference wiki.debian.org || Para pegar usa paste.debian.net || Repositorios → www.debian.org/mirror/list || ESTO NO ES #ubuntu-es || RTFM → manpages.debian.net || Que imagen descargo? → cdimage-search.debian.org || Debian Estable → Stretch 9.0 || Actualizando a Stretch? → debian.org/releases/stable/releasenotes"
+2017-07-26 14:44:21	⇄	Tema establecido por MarlonBardo (ba120206@CAcert/Assurer/dererk) el mié, 05 jul 2017 17:40:07
+2017-07-26 14:44:21	⇄	Channel #debian-es: 50 apodos (0 ops, 0 voces, 50 normales)
+2017-07-26 14:44:21	⇄	PvAviso(ChanServ): Bienvenido a #debian-es. Este es un canal de discusión, si tienes preguntas acerca de Debian GNU/Linux, dispara, trataremos de dar nuestra mejor respuesta :)
+2017-07-26 14:44:21	⇄	URL para #debian-es: http://www.debian.org
+2017-07-26 14:44:44	⇄	Canal creado el sáb, 25 nov 2006 23:42:43
+2017-07-26 14:45:59	<	Fryntiz (~Thunderbi@89.129.144.214) ha salido (Remote host closed the connection)
+2017-07-26 14:46:14	>	Fryntiz (~Thunderbi@89.129.144.214) has joined #debian-es
+2017-07-26 14:51:26	<	Fryntiz (~Thunderbi@89.129.144.214) ha salido (Ping timeout: 276 seconds)
+2017-07-26 14:54:26	<	dasnetz (~dasnetz@189.148.16.189) ha salido (Remote host closed the connection)
+2017-07-26 14:58:53	>	sanzante (~ricardo@210.178.132.37.dynamic.jazztel.es) has joined #debian-es
+2017-07-26 14:59:12	<	nesimo (~nesimo@73.red-79-152-242.dynamicip.rima-tde.net) ha salido (Quit: Leaving)
+2017-07-26 15:06:43	<	likevinyl1 (~likevinyl@2800:810:49b:814b:87ac:c755:5160:25f7) ha salido (Quit: WeeChat 1.9)
+2017-07-26 15:08:46	>	likevinyl (~likevinyl@unaffiliated/likevinyl) has joined #debian-es
+2017-07-26 15:17:55	<	dasnetz_ (~dasnetz@189.148.16.189) ha salido (Remote host closed the connection)
+2017-07-26 15:18:18	>	dasnetz_ (~dasnetz@189.148.103.12) has joined #debian-es
+2017-07-26 15:39:21	<	sanzante (~ricardo@210.178.132.37.dynamic.jazztel.es) ha salido (Ping timeout: 240 seconds)
+2017-07-26 15:45:02	>	free4fun (~libertad@hackspaceuy/member/barbanegra) has joined #debian-es
+2017-07-26 15:47:40	<	barbanegra (~libertad@hackspaceuy/member/barbanegra) ha salido (Read error: Connection reset by peer)
+2017-07-26 15:47:41	<	dasnetz_ (~dasnetz@189.148.103.12) ha salido (Read error: Connection reset by peer)
+2017-07-26 15:47:53	>	dasnetz_ (~dasnetz@189.148.16.189) has joined #debian-es
+2017-07-26 15:53:30	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #debian-es
+2017-07-26 15:53:30	⇄	Topic for #debian-es is "Docs → debian.org/doc/FAQ debian.org/doc/manuals/reference wiki.debian.org || Para pegar usa paste.debian.net || Repositorios → www.debian.org/mirror/list || ESTO NO ES #ubuntu-es || RTFM → manpages.debian.net || Que imagen descargo? → cdimage-search.debian.org || Debian Estable → Stretch 9.0 || Actualizando a Stretch? → debian.org/releases/stable/releasenotes"
+2017-07-26 15:53:30	⇄	Tema establecido por MarlonBardo (ba120206@CAcert/Assurer/dererk) el mié, 05 jul 2017 17:40:07
+2017-07-26 15:53:30	⇄	Channel #debian-es: 47 apodos (0 ops, 0 voces, 47 normales)
+2017-07-26 15:53:30	⇄	PvAviso(ChanServ): Bienvenido a #debian-es. Este es un canal de discusión, si tienes preguntas acerca de Debian GNU/Linux, dispara, trataremos de dar nuestra mejor respuesta :)
+2017-07-26 15:53:30	⇄	URL para #debian-es: http://www.debian.org
+2017-07-26 15:53:53	⇄	Canal creado el sáb, 25 nov 2006 23:42:43
+2017-07-26 16:04:48	⇄	free4fun es conocido ahora como barbanegra
+2017-07-26 16:22:42	<	moonwatcher- (~pablo@unaffiliated/pabloj7) ha salido (Quit: WeeChat 1.9)
+2017-07-26 16:29:57	>	TheCoffeMaker (~TheCoffeM@unaffiliated/thecoffemaker) has joined #debian-es
+2017-07-26 16:32:45	<	barbanegra (~libertad@hackspaceuy/member/barbanegra) ha salido (Excess Flood)
+2017-07-26 16:33:16	>	barbanegra (~libertad@hackspaceuy/member/barbanegra) has joined #debian-es
+2017-07-26 16:33:33	>	Fryntiz (~Thunderbi@89.129.144.214) has joined #debian-es
+2017-07-26 16:39:47	>	Windows7U (~CrisEd@181.93.153.138) has joined #debian-es
+2017-07-26 16:39:47	<	Windows7U (~CrisEd@181.93.153.138) ha salido (Changing host)
+2017-07-26 16:39:47	>	Windows7U (~CrisEd@unaffiliated/windows7u) has joined #debian-es
+2017-07-26 16:45:22	<	Gaxpaxxo (~Gazpacho@61.red-81-47-144.staticip.rima-tde.net) ha salido (Quit: Leaving)
+2017-07-26 16:49:10	<	Brigo (~Brigo@43.10.60.178.dynamic.reverse-mundo-r.com) ha salido (Ping timeout: 255 seconds)
+2017-07-26 17:03:16	>	n-iCe (~niCe@Aircrack-NG/User/n-iCe) has joined #debian-es
+2017-07-26 17:10:15	>	bit1 (~joseanton@86.red-213-96-250.staticip.rima-tde.net) has joined #debian-es
+2017-07-26 17:30:20	>	magu42 (~magu@r167-56-186-165.dialup.adsl.anteldata.net.uy) has joined #debian-es
+2017-07-26 17:30:20	<	magu42 (~magu@r167-56-186-165.dialup.adsl.anteldata.net.uy) ha salido (Changing host)
+2017-07-26 17:30:20	>	magu42 (~magu@unaffiliated/magu42) has joined #debian-es
+2017-07-26 17:37:15	>	drinkndrive (~martin@190.190.174.5) has joined #debian-es
+2017-07-26 17:38:54	drinkndrive	buenas, tengo una pregunta sobre xev y una tecla que no funciona
+2017-07-26 17:39:09	drinkndrive	necesito identificarla, creo que el teclado es español (no latino ni otra variedad)
+2017-07-26 17:44:33	<	m4v (~znc@ubuntu/member/m4v) ha salido (Ping timeout: 248 seconds)
+2017-07-26 17:44:48	⇄	dasnetz_ es conocido ahora como dasnetz
+2017-07-26 17:50:39	<	n-iCe (~niCe@Aircrack-NG/User/n-iCe) ha salido (Remote host closed the connection)
+2017-07-26 17:57:41	<	fuaa (~fuaa@host128.190-139-94.telecom.net.ar) ha salido (Read error: Connection reset by peer)
+2017-07-26 17:58:06	>	fuaa (~fuaa@181.93.140.137) has joined #debian-es
+2017-07-26 17:59:08	>	m4v (~znc@ubuntu/member/m4v) has joined #debian-es
+2017-07-26 18:00:27	<	Fryntiz (~Thunderbi@89.129.144.214) ha salido (Ping timeout: 240 seconds)
+2017-07-26 18:04:03	>	fuaa2 (~fuaa@host119.190-138-56.telecom.net.ar) has joined #debian-es
+2017-07-26 18:07:05	<	fuaa (~fuaa@181.93.140.137) ha salido (Ping timeout: 240 seconds)
+2017-07-26 18:07:26	<	bit1 (~joseanton@86.red-213-96-250.staticip.rima-tde.net) ha salido (Ping timeout: 255 seconds)
+2017-07-26 18:21:10	<	Windows7U (~CrisEd@unaffiliated/windows7u) ha salido (Quit: Me jui)
+2017-07-26 18:38:38	⇄	Maguila es conocido ahora como Maguila|AWAY|
+2017-07-26 18:39:31	>	CHCl3 (~CHCl3@213.195.98.156) has joined #debian-es
+2017-07-26 18:42:39	<	drinkndrive (~martin@190.190.174.5) ha salido (Remote host closed the connection)
+2017-07-26 19:08:19	⇄	irc: desconectado del servidor
+2017-07-26 19:09:06	>	mr-jules (~mr-jules@189.173.192.251) has joined #debian-es
+2017-07-26 19:09:06	⇄	Topic for #debian-es is "Docs → debian.org/doc/FAQ debian.org/doc/manuals/reference wiki.debian.org || Para pegar usa paste.debian.net || Repositorios → www.debian.org/mirror/list || ESTO NO ES #ubuntu-es || RTFM → manpages.debian.net || Que imagen descargo? → cdimage-search.debian.org || Debian Estable → Stretch 9.0 || Actualizando a Stretch? → debian.org/releases/stable/releasenotes"
+2017-07-26 19:09:06	⇄	Tema establecido por MarlonBardo (ba120206@CAcert/Assurer/dererk) el mié, 05 jul 2017 17:40:07
+2017-07-26 19:09:06	⇄	Channel #debian-es: 46 apodos (0 ops, 0 voces, 46 normales)
+2017-07-26 19:09:06	⇄	PvAviso(ChanServ): Bienvenido a #debian-es. Este es un canal de discusión, si tienes preguntas acerca de Debian GNU/Linux, dispara, trataremos de dar nuestra mejor respuesta :)
+2017-07-26 19:09:06	⇄	URL para #debian-es: http://www.debian.org
+2017-07-26 19:09:30	⇄	Canal creado el sáb, 25 nov 2006 23:42:43
+2017-07-26 22:17:09	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #debian-es
+2017-07-26 22:17:09	⇄	Topic for #debian-es is "Docs → debian.org/doc/FAQ debian.org/doc/manuals/reference wiki.debian.org || Para pegar usa paste.debian.net || Repositorios → www.debian.org/mirror/list || ESTO NO ES #ubuntu-es || RTFM → manpages.debian.net || Que imagen descargo? → cdimage-search.debian.org || Debian Estable → Stretch 9.0 || Actualizando a Stretch? → debian.org/releases/stable/releasenotes"
+2017-07-26 22:17:09	⇄	Tema establecido por MarlonBardo (ba120206@CAcert/Assurer/dererk) el mié, 05 jul 2017 17:40:07
+2017-07-26 22:17:09	⇄	Channel #debian-es: 44 apodos (0 ops, 0 voces, 44 normales)
+2017-07-26 22:17:09	⇄	PvAviso(ChanServ): Bienvenido a #debian-es. Este es un canal de discusión, si tienes preguntas acerca de Debian GNU/Linux, dispara, trataremos de dar nuestra mejor respuesta :)
+2017-07-26 22:17:09	⇄	URL para #debian-es: http://www.debian.org
+2017-07-26 22:17:30	⇄	Canal creado el sáb, 25 nov 2006 23:42:43
+2017-07-26 22:35:37	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #debian-es
+2017-07-26 22:35:37	⇄	Topic for #debian-es is "Docs → debian.org/doc/FAQ debian.org/doc/manuals/reference wiki.debian.org || Para pegar usa paste.debian.net || Repositorios → www.debian.org/mirror/list || ESTO NO ES #ubuntu-es || RTFM → manpages.debian.net || Que imagen descargo? → cdimage-search.debian.org || Debian Estable → Stretch 9.0 || Actualizando a Stretch? → debian.org/releases/stable/releasenotes"
+2017-07-26 22:35:37	⇄	Tema establecido por MarlonBardo (ba120206@CAcert/Assurer/dererk) el mié, 05 jul 2017 17:40:07
+2017-07-26 22:35:37	⇄	Channel #debian-es: 43 apodos (0 ops, 0 voces, 43 normales)
+2017-07-26 22:35:37	⇄	PvAviso(ChanServ): Bienvenido a #debian-es. Este es un canal de discusión, si tienes preguntas acerca de Debian GNU/Linux, dispara, trataremos de dar nuestra mejor respuesta :)
+2017-07-26 22:35:37	⇄	URL para #debian-es: http://www.debian.org
+2017-07-26 22:36:01	⇄	Canal creado el sáb, 25 nov 2006 23:42:43
+2017-07-26 22:36:23	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #debian-es
+2017-07-26 22:36:23	⇄	Topic for #debian-es is "Docs → debian.org/doc/FAQ debian.org/doc/manuals/reference wiki.debian.org || Para pegar usa paste.debian.net || Repositorios → www.debian.org/mirror/list || ESTO NO ES #ubuntu-es || RTFM → manpages.debian.net || Que imagen descargo? → cdimage-search.debian.org || Debian Estable → Stretch 9.0 || Actualizando a Stretch? → debian.org/releases/stable/releasenotes"
+2017-07-26 22:36:23	⇄	Tema establecido por MarlonBardo (ba120206@CAcert/Assurer/dererk) el mié, 05 jul 2017 17:40:07
+2017-07-26 22:36:23	⇄	Channel #debian-es: 43 apodos (0 ops, 0 voces, 43 normales)
+2017-07-26 22:36:23	⇄	PvAviso(ChanServ): Bienvenido a #debian-es. Este es un canal de discusión, si tienes preguntas acerca de Debian GNU/Linux, dispara, trataremos de dar nuestra mejor respuesta :)
+2017-07-26 22:36:23	⇄	URL para #debian-es: http://www.debian.org
+2017-07-26 22:36:47	⇄	Canal creado el sáb, 25 nov 2006 23:42:43
+2017-07-26 22:51:02	<	CHCl3 (~CHCl3@213.195.98.156) ha salido (Quit: Saliendo)
+2017-07-26 23:34:36	<	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) ha salido (Quit: WeeChat 1.9)
+2017-07-27 00:00:04	>	nachosalvador (~nacho@139.47.8.162) has joined #debian-es
+2017-07-28 21:50:31	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #debian-es
+2017-07-28 21:50:31	⇄	Topic for #debian-es is "Docs → debian.org/doc/FAQ debian.org/doc/manuals/reference wiki.debian.org || Para pegar usa paste.debian.net || Repositorios → www.debian.org/mirror/list || ESTO NO ES #ubuntu-es || RTFM → manpages.debian.net || Que imagen descargo? → cdimage-search.debian.org || Debian Estable → Stretch 9.0 || Actualizando a Stretch? → debian.org/releases/stable/releasenotes"
+2017-07-28 21:50:31	⇄	Tema establecido por MarlonBardo (ba120206@CAcert/Assurer/dererk) el mié, 05 jul 2017 17:40:07
+2017-07-28 21:50:31	⇄	Channel #debian-es: 42 apodos (0 ops, 0 voces, 42 normales)
+2017-07-28 21:50:31	⇄	PvAviso(ChanServ): Bienvenido a #debian-es. Este es un canal de discusión, si tienes preguntas acerca de Debian GNU/Linux, dispara, trataremos de dar nuestra mejor respuesta :)
+2017-07-28 21:50:31	⇄	URL para #debian-es: http://www.debian.org
+2017-07-28 21:50:34	>	Gnhugo (~yaaic@187.228.248.96) has joined #debian-es
+2017-07-28 21:50:52	⇄	Canal creado el sáb, 25 nov 2006 23:42:43
+2017-07-28 22:14:34	>	deep-book-gk_ (~1wm_su@159.122.132.44) has joined #debian-es
+2017-07-28 22:15:08	<	deep-book-gk_ (~1wm_su@159.122.132.44) ha abandonado #debian-es
+2017-07-28 22:27:25	<	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) ha salido (Quit: WeeChat 1.9)
+2017-07-28 22:42:27	<	Gnhugo (~yaaic@187.228.248.96) ha salido (Ping timeout: 240 seconds)
+2017-07-28 23:21:02	>	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) has joined #debian-es
+2017-07-28 23:59:27	<	Obi-Wan (~obi-wan@unaffiliated/obi-wan) ha salido (Ping timeout: 260 seconds)
+2017-07-29 00:11:05	>	Heimy (~javi@unaffiliated/heimy) has joined #debian-es
+2017-07-29 00:22:18	<	Heimy (~javi@unaffiliated/heimy) ha salido (Ping timeout: 240 seconds)
+2017-07-29 00:59:06	>	Heimy (~javi@unaffiliated/heimy) has joined #debian-es
+2017-07-29 01:19:39	>	dasnetz_ (~dasnetz@189.148.19.173) has joined #debian-es
+2017-07-29 01:21:30	<	dasnetz (~dasnetz@189.148.19.173) ha salido (Ping timeout: 240 seconds)
+2017-07-29 01:46:51	<	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) ha salido (Quit: WeeChat 1.9)
+2017-07-29 02:22:18	>	Tiffon (~name@unaffiliated/tiff0n) has joined #debian-es
+2017-07-29 03:03:12	<	Heimy (~javi@unaffiliated/heimy) ha salido (Ping timeout: 260 seconds)
+2017-07-29 03:43:57	<	nameless_CL (~snake@200-28-172-157.baf.movistar.cl) ha salido (Ping timeout: 240 seconds)
+2017-07-29 03:45:03	>	Heimy (~javi@unaffiliated/heimy) has joined #debian-es
+2017-07-29 03:53:57	<	Heimy (~javi@unaffiliated/heimy) ha salido (Ping timeout: 240 seconds)
+2017-07-29 03:55:33	>	grrrrrr (~libertad@hackspaceuy/member/barbanegra) has joined #debian-es
+2017-07-29 03:56:06	<	free4fun (~libertad@hackspaceuy/member/barbanegra) ha salido (Read error: Connection reset by peer)
+2017-07-29 03:58:59	>	atotclic (~Atotclic@unaffiliated/atotclic) has joined #debian-es
+2017-07-29 04:12:59	>	Heimy (~javi@unaffiliated/heimy) has joined #debian-es
+2017-07-29 04:28:36	⇄	irc: desconectado del servidor
+2017-07-29 04:55:28	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #debian-es
+2017-07-29 04:55:28	⇄	Topic for #debian-es is "Docs → debian.org/doc/FAQ debian.org/doc/manuals/reference wiki.debian.org || Para pegar usa paste.debian.net || Repositorios → www.debian.org/mirror/list || ESTO NO ES #ubuntu-es || RTFM → manpages.debian.net || Que imagen descargo? → cdimage-search.debian.org || Debian Estable → Stretch 9.0 || Actualizando a Stretch? → debian.org/releases/stable/releasenotes"
+2017-07-29 04:55:28	⇄	Tema establecido por MarlonBardo (ba120206@CAcert/Assurer/dererk) el mié, 05 jul 2017 17:40:07
+2017-07-29 04:55:28	⇄	Channel #debian-es: 42 apodos (0 ops, 0 voces, 42 normales)
+2017-07-29 04:55:28	⇄	PvAviso(ChanServ): Bienvenido a #debian-es. Este es un canal de discusión, si tienes preguntas acerca de Debian GNU/Linux, dispara, trataremos de dar nuestra mejor respuesta :)
+2017-07-29 04:55:28	⇄	URL para #debian-es: http://www.debian.org
+2017-07-29 04:55:54	⇄	Canal creado el sáb, 25 nov 2006 23:42:43
+2017-07-29 05:01:58	<	barbanegra (~libertad@hackspaceuy/member/barbanegra) ha salido (Excess Flood)
+2017-07-29 05:02:28	>	barbanegra (~libertad@hackspaceuy/member/barbanegra) has joined #debian-es
+2017-07-29 05:16:43	<	Tiffon (~name@unaffiliated/tiff0n) ha salido (Quit: exit)
+2017-07-29 05:17:15	>	Tiffon (~name@unaffiliated/tiff0n) has joined #debian-es
+2017-07-29 05:24:35	<	drymer (~drymer@unaffiliated/drymer) ha salido (Remote host closed the connection)
+2017-07-29 05:25:36	>	drymer (~drymer@unaffiliated/drymer) has joined #debian-es
+2017-07-29 05:37:03	>	Brigo (~Brigo@43.10.60.178.dynamic.reverse-mundo-r.com) has joined #debian-es
+2017-07-29 05:59:49	>	bit1 (~joseanton@86.red-213-96-250.staticip.rima-tde.net) has joined #debian-es
+2017-07-29 06:17:27	<	Heimy (~javi@unaffiliated/heimy) ha salido (Ping timeout: 240 seconds)
+2017-07-29 06:37:39	<	bit1 (~joseanton@86.red-213-96-250.staticip.rima-tde.net) ha salido (Quit: Abandonando)
+2017-07-29 06:54:25	<	atotclic (~Atotclic@unaffiliated/atotclic) ha salido (Ping timeout: 246 seconds)
+2017-07-29 07:07:02	⇄	barbanegra es conocido ahora como beer4fun
+2017-07-29 07:15:08	<	drymer (~drymer@unaffiliated/drymer) ha salido (Remote host closed the connection)
+2017-07-29 07:16:08	>	drymer (~drymer@unaffiliated/drymer) has joined #debian-es
+2017-07-29 07:25:24	⇄	beer4fun es conocido ahora como barbanegra
+2017-07-29 07:31:54	⇄	barbanegra es conocido ahora como beer4fun
+2017-07-29 07:57:50	>	Krakakanok (~k4@156.red-176-85-137.dynamicip.rima-tde.net) has joined #debian-es
+2017-07-29 07:57:50	<	Krakakanok (~k4@156.red-176-85-137.dynamicip.rima-tde.net) ha salido (Changing host)
+2017-07-29 07:57:50	>	Krakakanok (~k4@unaffiliated/krakakanok) has joined #debian-es
+2017-07-29 08:03:58	<	drymer (~drymer@unaffiliated/drymer) ha salido (Remote host closed the connection)
+2017-07-29 08:04:41	>	drymer (~drymer@unaffiliated/drymer) has joined #debian-es
+2017-07-29 08:29:23	>	dasnetz__ (~dasnetz@189.148.9.30) has joined #debian-es
+2017-07-29 08:32:12	<	dasnetz_ (~dasnetz@189.148.19.173) ha salido (Ping timeout: 260 seconds)
+2017-07-29 08:35:07	<	scan (~scan@unaffiliated/scan) ha salido (Quit: Bye)
+2017-07-29 08:37:15	>	scan (~scan@181.30.69.130) has joined #debian-es
+2017-07-29 08:37:15	<	scan (~scan@181.30.69.130) ha salido (Changing host)
+2017-07-29 08:37:15	>	scan (~scan@unaffiliated/scan) has joined #debian-es
+2017-07-29 08:37:54	⇄	beer4fun es conocido ahora como barbanegra
+2017-07-29 08:52:02	>	dddddd (~dddddd@unaffiliated/dddddd) has joined #debian-es
+2017-07-29 09:24:31	<	dasnetz__ (~dasnetz@189.148.9.30) ha salido (Remote host closed the connection)
+2017-07-29 09:25:01	>	dasnetz__ (~dasnetz@189.148.19.173) has joined #debian-es
+2017-07-29 09:31:55	>	cr0n0s (~quassel@2001:1388:18c3:4380:21c:c0ff:fe02:cbc9) has joined #debian-es
+2017-07-29 09:32:07	>	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) has joined #debian-es
+2017-07-29 09:47:20	<	verovan (~verovan@unaffiliated/verovan) ha salido (Ping timeout: 258 seconds)
+2017-07-29 09:49:21	<	drymer (~drymer@unaffiliated/drymer) ha salido (Remote host closed the connection)
+2017-07-29 09:50:06	>	drymer (~drymer@unaffiliated/drymer) has joined #debian-es
+2017-07-29 10:12:31	>	santamarta (~Juanjo@unaffiliated/santamarta) has joined #debian-es
+2017-07-29 10:14:45	>	nameless_CL (~snake@200-28-172-157.baf.movistar.cl) has joined #debian-es
+2017-07-29 10:15:35	<	drymer (~drymer@unaffiliated/drymer) ha salido (Remote host closed the connection)
+2017-07-29 10:16:33	>	drymer (~drymer@unaffiliated/drymer) has joined #debian-es
+2017-07-29 10:19:06	>	Gaxpaxxo (~Gazpacho@191.red-83-42-43.dynamicip.rima-tde.net) has joined #debian-es
+2017-07-29 10:21:10	<	drymer (~drymer@unaffiliated/drymer) ha salido (Remote host closed the connection)
+2017-07-29 10:21:59	>	drymer (~drymer@unaffiliated/drymer) has joined #debian-es
+2017-07-29 10:22:30	<	dasnetz__ (~dasnetz@189.148.19.173) ha salido (Remote host closed the connection)
+2017-07-29 10:22:54	>	dasnetz__ (~dasnetz@189.148.9.30) has joined #debian-es
+2017-07-29 10:35:51	>	atotclic (~Atotclic@unaffiliated/atotclic) has joined #debian-es
+2017-07-29 10:54:18	<	atotclic (~Atotclic@unaffiliated/atotclic) ha salido (Ping timeout: 240 seconds)
+2017-07-29 11:01:31	<	nameless_CL (~snake@200-28-172-157.baf.movistar.cl) ha salido (Ping timeout: 246 seconds)
+2017-07-29 11:13:20	>	verovan (~verovan@unaffiliated/verovan) has joined #debian-es
+2017-07-29 11:28:11	>	atotclic (~Atotclic@unaffiliated/atotclic) has joined #debian-es
+2017-07-29 11:30:11	>	nameless1CL (~snake@200-28-172-157.baf.movistar.cl) has joined #debian-es
+2017-07-29 11:35:00	<	Tiffon (~name@unaffiliated/tiff0n) ha salido (Quit: exit)
+2017-07-29 11:56:10	<	Krakakanok (~k4@unaffiliated/krakakanok) ha salido (Ping timeout: 264 seconds)
+2017-07-29 11:59:02	<	atotclic (~Atotclic@unaffiliated/atotclic) ha salido (Ping timeout: 246 seconds)
+2017-07-29 12:00:21	>	Krakakanok (~k4@156.red-176-85-137.dynamicip.rima-tde.net) has joined #debian-es
+2017-07-29 12:00:21	<	Krakakanok (~k4@156.red-176-85-137.dynamicip.rima-tde.net) ha salido (Changing host)
+2017-07-29 12:00:21	>	Krakakanok (~k4@unaffiliated/krakakanok) has joined #debian-es
+2017-07-29 12:03:37	<	Buda (~Budadona@2a00:d880:5:702::5cad) ha salido (Read error: Connection reset by peer)
+2017-07-29 12:09:16	>	Heimy (~javi@unaffiliated/heimy) has joined #debian-es
+2017-07-29 12:10:48	<	Se-bash (~seba@unaffiliated/se-bash) ha salido (Read error: Connection reset by peer)
+2017-07-29 12:11:01	>	Buda (~Budadona@2a00:d880:5:702::5cad) has joined #debian-es
+2017-07-29 12:11:14	>	Se-bash (~seba@unaffiliated/se-bash) has joined #debian-es
+2017-07-29 12:21:22	<	santamarta (~Juanjo@unaffiliated/santamarta) ha salido (Remote host closed the connection)
+2017-07-29 12:33:56	<	Heimy (~javi@unaffiliated/heimy) ha salido (Ping timeout: 260 seconds)
+2017-07-29 12:38:21	>	atotclic (~Atotclic@unaffiliated/atotclic) has joined #debian-es
+2017-07-29 13:24:39	<	Krakakanok (~k4@unaffiliated/krakakanok) ha salido (Remote host closed the connection)
+2017-07-29 13:38:18	<	atotclic (~Atotclic@unaffiliated/atotclic) ha salido (Ping timeout: 240 seconds)
+2017-07-29 13:38:43	>	RockLee_BC (~RockLee_B@186.33.228.50) has joined #debian-es
+2017-07-29 13:39:19	RockLee_BC	buenas...
+2017-07-29 13:42:56	<	cr0n0s (~quassel@2001:1388:18c3:4380:21c:c0ff:fe02:cbc9) ha salido (Quit: http://quassel-irc.org - Chatee cómodamente donde sea.)
+2017-07-29 13:44:15	<	RockLee_BC (~RockLee_B@186.33.228.50) ha salido (Quit: Bueno me retiro saludos!)
+2017-07-29 13:50:58	>	cr0n0s (~quassel@2001:1388:18c3:4380:21c:c0ff:fe02:cbc9) has joined #debian-es
+2017-07-29 14:27:48	<	Brigo (~Brigo@43.10.60.178.dynamic.reverse-mundo-r.com) ha salido (Ping timeout: 240 seconds)
+2017-07-29 14:35:48	>	Heimy (~javi@unaffiliated/heimy) has joined #debian-es
+2017-07-29 14:44:19	<	TheCoffeMaker (~TheCoffeM@unaffiliated/thecoffemaker) ha salido (Quit: Saliendo)
+2017-07-29 15:00:37	>	atotclic (~Atotclic@unaffiliated/atotclic) has joined #debian-es
+2017-07-29 15:12:26	<	barbanegra (~libertad@hackspaceuy/member/barbanegra) ha salido (Excess Flood)
+2017-07-29 15:12:31	>	free4fun (~libertad@hackspaceuy/member/barbanegra) has joined #debian-es
+2017-07-29 15:15:17	<	scan (~scan@unaffiliated/scan) ha salido (Ping timeout: 260 seconds)
+2017-07-29 15:17:41	>	scan (~scan@181.30.69.130) has joined #debian-es
+2017-07-29 15:17:41	<	scan (~scan@181.30.69.130) ha salido (Changing host)
+2017-07-29 15:17:41	>	scan (~scan@unaffiliated/scan) has joined #debian-es
+2017-07-29 15:20:18	<	Heimy (~javi@unaffiliated/heimy) ha salido (Ping timeout: 240 seconds)
+2017-07-29 15:23:48	<	Dj_Dexter (djdexter@gentoo/user/dj-dexter) ha salido (Ping timeout: 260 seconds)
+2017-07-29 15:24:10	>	Dj_Dexter (djdexter@shell.bshellz.net) has joined #debian-es
+2017-07-29 15:24:44	<	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) ha salido (Ping timeout: 260 seconds)
+2017-07-29 15:25:16	>	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) has joined #debian-es
+2017-07-29 15:33:32	<	cr0n0s (~quassel@2001:1388:18c3:4380:21c:c0ff:fe02:cbc9) ha salido (Remote host closed the connection)
+2017-07-29 15:41:07	>	Heimy (~javi@unaffiliated/heimy) has joined #debian-es
+2017-07-29 15:57:02	<	Frikilinux (~Friki@unaffiliated/frikilinux) ha salido (Ping timeout: 246 seconds)
+2017-07-29 15:57:36	>	Frikilinux (~Friki@unaffiliated/frikilinux) has joined #debian-es
+2017-07-29 15:57:39	>	grrrrrr (~libertad@hackspaceuy/member/barbanegra) has joined #debian-es
+2017-07-29 15:59:18	<	drymer (~drymer@unaffiliated/drymer) ha salido (Ping timeout: 240 seconds)
+2017-07-29 16:01:10	<	free4fun (~libertad@hackspaceuy/member/barbanegra) ha salido (Ping timeout: 240 seconds)
+2017-07-29 16:01:37	<	m4v (~znc@ubuntu/member/m4v) ha salido (Ping timeout: 248 seconds)
+2017-07-29 16:02:44	>	m4v (~znc@ubuntu/member/m4v) has joined #debian-es
+2017-07-29 16:14:18	<	nameless1CL (~snake@200-28-172-157.baf.movistar.cl) ha salido (Ping timeout: 240 seconds)
+2017-07-29 16:17:42	<	Heimy (~javi@unaffiliated/heimy) ha salido (Ping timeout: 260 seconds)
+2017-07-29 16:21:57	<	atotclic (~Atotclic@unaffiliated/atotclic) ha salido (Ping timeout: 240 seconds)
+2017-07-29 16:27:01	<	dasnetz__ (~dasnetz@189.148.9.30) ha salido (Remote host closed the connection)
+2017-07-29 16:27:21	>	dasnetz__ (~dasnetz@189.148.19.173) has joined #debian-es
+2017-07-29 16:54:11	>	drymer (~drymer@unaffiliated/drymer) has joined #debian-es
+2017-07-29 17:05:27	<	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) ha salido (Ping timeout: 240 seconds)
+2017-07-29 17:13:32	>	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) has joined #debian-es
+2017-07-29 17:19:58	<	dasnetz__ (~dasnetz@189.148.19.173) ha salido (Remote host closed the connection)
+2017-07-29 17:20:20	>	dasnetz__ (~dasnetz@189.148.9.30) has joined #debian-es
+2017-08-02 03:55:40	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #debian-es
+2017-08-02 03:55:40	⇄	Topic for #debian-es is "Docs → debian.org/doc/FAQ debian.org/doc/manuals/reference wiki.debian.org || Para pegar usa paste.debian.net || Repositorios → www.debian.org/mirror/list || ESTO NO ES #ubuntu-es || RTFM → manpages.debian.net || Que imagen descargo? → cdimage-search.debian.org || Debian Estable → Stretch 9.0 || Actualizando a Stretch? → debian.org/releases/stable/releasenotes"
+2017-08-02 03:55:40	⇄	Tema establecido por MarlonBardo (ba120206@CAcert/Assurer/dererk) el mié, 05 jul 2017 17:40:07
+2017-08-02 03:55:40	⇄	Channel #debian-es: 46 apodos (0 ops, 0 voces, 46 normales)
+2017-08-02 03:55:40	⇄	PvAviso(ChanServ): Bienvenido a #debian-es. Este es un canal de discusión, si tienes preguntas acerca de Debian GNU/Linux, dispara, trataremos de dar nuestra mejor respuesta :)
+2017-08-02 03:55:40	⇄	URL para #debian-es: http://www.debian.org
+2017-08-02 03:56:02	⇄	Canal creado el sáb, 25 nov 2006 23:42:43
+2017-08-02 04:00:07	<	rda-mac (~rda-mac@unaffiliated/rda-mac) ha salido (Ping timeout: 255 seconds)
+2017-08-02 04:01:54	>	dasnetz__ (~dasnetz@189.148.48.192) has joined #debian-es
+2017-08-02 04:04:27	<	dasnetz_ (~dasnetz@189.148.6.157) ha salido (Ping timeout: 240 seconds)
+2017-08-02 04:09:11	⇄	free4fun es conocido ahora como barbanegra
+2017-08-02 04:19:02	>	free4fun (~libertad@hackspaceuy/member/barbanegra) has joined #debian-es
+2017-08-02 04:19:42	<	barbanegra (~libertad@hackspaceuy/member/barbanegra) ha salido (Read error: Connection reset by peer)
+2017-08-02 04:35:43	>	rda-mac (~rda-mac@unaffiliated/rda-mac) has joined #debian-es
+2017-08-02 04:37:08	>	sanzante (~ricardo@37.red-212-170-183.staticip.rima-tde.net) has joined #debian-es
+2017-08-02 04:43:14	<	rda-mac (~rda-mac@unaffiliated/rda-mac) ha salido (Read error: Connection reset by peer)
+2017-08-02 04:48:15	>	rda-mac (~rda-mac@unaffiliated/rda-mac) has joined #debian-es
+2017-08-02 04:56:57	⇄	free4fun es conocido ahora como barbanegra
+2017-08-02 04:57:05	<	rda-mac (~rda-mac@unaffiliated/rda-mac) ha salido (Read error: Connection reset by peer)
+2017-08-02 04:57:51	<	Krakakanok (~k4@unaffiliated/krakakanok) ha salido (Remote host closed the connection)
+2017-08-02 05:31:57	>	rda-mac (~rda-mac@unaffiliated/rda-mac) has joined #debian-es
+2017-08-02 05:42:32	<	rda-mac (~rda-mac@unaffiliated/rda-mac) ha salido (Read error: Connection reset by peer)
+2017-08-02 05:51:51	>	rda-mac (~rda-mac@unaffiliated/rda-mac) has joined #debian-es
+2017-08-02 05:58:38	<	rda-mac (~rda-mac@unaffiliated/rda-mac) ha salido (Read error: Connection reset by peer)
+2017-08-02 06:05:06	>	Section1 (~section1@178.33.109.106) has joined #debian-es
+2017-08-02 06:06:27	<	dasnetz__ (~dasnetz@189.148.48.192) ha salido (Remote host closed the connection)
+2017-08-02 06:06:51	>	dasnetz__ (~dasnetz@189.148.6.157) has joined #debian-es
+2017-08-02 06:07:54	>	rda-mac (~rda-mac@unaffiliated/rda-mac) has joined #debian-es
+2017-08-02 06:14:31	<	rda-mac (~rda-mac@unaffiliated/rda-mac) ha salido (Read error: Connection reset by peer)
+2017-08-02 06:32:21	>	rda-mac (~rda-mac@unaffiliated/rda-mac) has joined #debian-es
+2017-08-02 06:43:13	<	rda-mac (~rda-mac@unaffiliated/rda-mac) ha salido (Read error: Connection reset by peer)
+2017-08-02 06:44:48	>	dalmine (~rino@triton120.startdedicated.de) has joined #debian-es
+2017-08-02 06:48:16	>	rda-mac (~rda-mac@unaffiliated/rda-mac) has joined #debian-es
+2017-08-02 06:51:56	<	Heimy (~javi@unaffiliated/heimy) ha salido (Ping timeout: 268 seconds)
+2017-08-02 06:58:08	<	rda-mac (~rda-mac@unaffiliated/rda-mac) ha salido (Read error: Connection reset by peer)
+2017-08-02 07:08:07	<	nachosalvador (~nacho@139.47.26.227) ha salido (Quit: Leaving)
+2017-08-02 07:19:28	<	sanzante (~ricardo@37.red-212-170-183.staticip.rima-tde.net) ha salido (Ping timeout: 260 seconds)
+2017-08-02 07:20:16	>	rda-mac (~rda-mac@unaffiliated/rda-mac) has joined #debian-es
+2017-08-02 08:05:53	barbanegra	RonDamon: buenas
+2017-08-02 08:10:48	<	zamuro (~Samantha@unaffiliated/zamuro) ha abandonado #debian-es ("[IRSSI]")
+2017-08-02 08:14:30	>	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) has joined #debian-es
+2017-08-02 08:23:15	>	kobain (~kobain@unaffiliated/kobain) has joined #debian-es
+2017-08-02 08:36:37	RonDamon	barbanegra: capitan! buenas Sr!
+2017-08-02 08:36:38	>	sanzante (~ricardo@75.178.132.37.dynamic.jazztel.es) has joined #debian-es
+2017-08-02 08:43:49	barbanegra	buenas y drogatas
+2017-08-02 08:43:53	barbanegra	:P
+2017-08-02 08:44:11	barbanegra	que esas van pa delante
+2017-08-02 08:44:29	barbanegra	yo aca con un termo lleno de agua caliente
+2017-08-02 08:44:37	barbanegra	y yerba nueva en el mate
+2017-08-02 08:44:57	barbanegra	RonDamon: te pinta colaborar con paquetes?
+2017-08-02 08:45:01	barbanegra	si no lo haces aun
+2017-08-02 08:45:17	barbanegra	RonDamon: de que pais eres?
+2017-08-02 08:45:27	barbanegra	sin compromiso
+2017-08-02 08:53:54	RonDamon	jajaja
+2017-08-02 08:53:54	RonDamon	buenas y drogatas
+2017-08-02 08:53:54	RonDamon	barbanegra: argentina
+2017-08-02 08:54:31	barbanegra	excelente
+2017-08-02 08:54:47	barbanegra	y no has tenido contacto con debian.ar ?
+2017-08-02 08:54:55	barbanegra	y la pregunta de empaquetar?
+2017-08-02 08:54:59	barbanegra	te cuento
+2017-08-02 08:55:11	barbanegra	tengo debian.org.uy
+2017-08-02 08:55:14	RonDamon	barbanegra: me interesa , pero como ando de times ....
+2017-08-02 08:55:19	barbanegra	pero estoy mas solo que el 1
+2017-08-02 08:55:32	barbanegra	y quiero empezar a empaquetar
+2017-08-02 08:55:34	barbanegra	de a poco
+2017-08-02 08:55:40	barbanegra	con los times que tengo
+2017-08-02 08:55:42	barbanegra	que no es mucho
+2017-08-02 08:55:50	barbanegra	entonces andaba buscando sumar esfuerzos
+2017-08-02 08:55:56	RonDamon	con debian.ar nada
+2017-08-02 08:55:56	RonDamon	soy user de debian, hasta ahi llego
+2017-08-02 08:56:12	barbanegra	ahi li va
+2017-08-02 08:56:57	RonDamon	a ver comente mas
+2017-08-02 08:56:58	RonDamon	q paquetito ?
+2017-08-02 08:57:23	barbanegra	ninguno por ahora
+2017-08-02 08:57:30	barbanegra	sino empezar a aprender a empaquetar
+2017-08-02 08:57:43	barbanegra	probar armar un paquete que no este en los repos
+2017-08-02 08:58:05	barbanegra	y luego largarmae a empaquetar colaborando en un equipo de buena gente
+2017-08-02 08:58:28	pesca	nadie sabe empaquetar de verdad
+2017-08-02 08:58:59	RonDamon	me interesa
+2017-08-02 08:59:00	RonDamon	yo me debianizo paquetes a veces con dh_make
+2017-08-02 08:59:09	RonDamon	q te automatiza la cosa
+2017-08-02 09:00:00	RonDamon	pero entiendo q hay q respetar una estructura q va en el dir debian de cada source
+2017-08-02 09:00:01	RonDamon	no conozco las tools
+2017-08-02 09:00:01	RonDamon	otras veces use otra tool para debianizar sources
+2017-08-02 09:00:01	RonDamon	no recuerdo el nombre ahora
+2017-08-02 09:00:06	RonDamon	pero normalmente con dhÃ_make -createorig
+2017-08-02 09:00:10	RonDamon	dh_make
+2017-08-02 09:01:01	RonDamon	mi experiencia mas cercana
+2017-08-02 09:01:02	RonDamon	las veces q toque algun file del dir debian lo sone al packages
+2017-08-02 09:01:09	RonDamon	alguna vez lo hice p forzar las dependencias de un packages antes de crear el deb
+2017-08-02 09:02:17	barbanegra	y no te pinta aprender eso?
+2017-08-02 09:03:04	RonDamon	sip
+2017-08-02 09:03:21	RonDamon	estaria...
+2017-08-02 09:04:05	RonDamon	habra juegos de azar y mujerzuelas?
+2017-08-02 09:05:24	barbanegra	siempre los hay
+2017-08-02 09:05:33	barbanegra	te paso mi mail por pm
+2017-08-02 09:05:45	barbanegra	cuando tengas time, mandame mail y coordinamos
+2017-08-02 09:05:47	barbanegra	ok?
+2017-08-02 09:06:07	barbanegra	podemos usar esa wiki de debian.org.uy
+2017-08-02 09:13:26	>	libertycity (~cristian@46.222.172.153) has joined #debian-es
+2017-08-02 09:13:31	libertycity	Hola
+2017-08-02 09:13:40	libertycity	no sé si pueden ayudarme
+2017-08-02 09:13:53	libertycity	necesito recuperar la información de un pendrive
+2017-08-02 09:13:57	libertycity	y no me deja montarlo
+2017-08-02 09:14:10	libertycity	ni desde gparted ni desde la terminal
+2017-08-02 09:14:56	libertycity	dice algo así como solo lectura... pero no me lo monta ni siquiera con permiso de lectura (me bastaría para recuperar la información)
+2017-08-02 09:15:07	libertycity	alguna idea?
+2017-08-02 09:16:57	libertycity	me urge
+2017-08-02 09:17:14	libertycity	sé que aquí no hay que venir con prisas...
+2017-08-02 09:17:22	libertycity	he buscado por google pero no veo nada claro
+2017-08-02 09:27:08	<	sanzante (~ricardo@75.178.132.37.dynamic.jazztel.es) ha salido (Ping timeout: 255 seconds)
+2017-08-02 09:39:09	<	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) ha salido (Quit: WeeChat 1.9)
+2017-08-02 09:42:54	>	sanzante (~ricardo@75.178.132.37.dynamic.jazztel.es) has joined #debian-es
+2017-08-02 09:44:15	libertycity	gracias por la colaboración...
+2017-08-02 10:05:57	<	libertycity (~cristian@46.222.172.153) ha salido (Quit: Leaving)
+2017-08-02 10:33:42	<	dasnetz__ (~dasnetz@189.148.6.157) ha salido (Read error: Connection reset by peer)
+2017-08-02 10:37:50	>	m4v (~znc@ubuntu/member/m4v) has joined #debian-es
+2017-08-02 10:44:15	alekz	morning!
+2017-08-02 10:46:32	barbanegra	ya son casi las 14
+2017-08-02 10:46:39	barbanegra	en que utc vivis ?
+2017-08-02 10:46:53	barbanegra	yo ya voy por la segunda birra
+2017-08-02 10:46:55	barbanegra	que onda alekz
+2017-08-02 10:46:57	barbanegra	?
+2017-08-02 10:47:07	barbanegra	yo utc-3
+2017-08-02 10:47:30	barbanegra	como corresponde
+2017-08-02 10:47:39	barbanegra	pa hablar con los gringos de maniana
+2017-08-02 10:47:49	barbanegra	y con lo latino a la tarde
+2017-08-02 10:47:55	barbanegra	y a la noche con los rusos
+2017-08-02 10:48:03	barbanegra	que tambien son gringos
+2017-08-02 10:48:09	barbanegra	pero era para llenar el horario
+2017-08-02 10:48:49	barbanegra	te paso buena musica
+2017-08-02 10:48:55	barbanegra	y a darle al apt update
+2017-08-02 10:49:01	barbanegra	https://www.youtube.com/watch?v=BEhMjZGJQ-Y&index=17&list=PLL24PCE8BNk23eR2_tWZ30u8XZ7OEdMom
+2017-08-02 10:49:02	CoBot	AC/DC - Touch Too Much Duración: 00:04:27 Visto 2257000 veces, con 9906 Me gusta, 329 No me gusta (97%) y 750 comentarios
+2017-08-02 10:59:43	alekz	barbanegra: en México apenas van a ser las 12:00
+2017-08-02 11:00:25	barbanegra	y ya es mediodia
+2017-08-02 11:00:43	barbanegra	https://www.youtube.com/watch?v=oYP8v7ubLIE
+2017-08-02 11:00:44	alekz	¿Tú dónde vives?
+2017-08-02 11:00:44	CoBot	ACDC - Are You Ready Duración: 00:04:35 Visto 339564 veces, con 648 Me gusta, 24 No me gusta (96%) y 19 comentarios
+2017-08-02 11:00:47	barbanegra	o sea
+2017-08-02 11:00:51	barbanegra	utc-5
+2017-08-02 11:00:55	barbanegra	en u r gay
+2017-08-02 11:01:02	alekz	lol
+2017-08-02 11:01:13	barbanegra	jajaja
+2017-08-02 11:01:43	barbanegra	AC(rayito)DC++
+2017-08-02 11:02:14	barbanegra	AC⚡️DC++
+2017-08-02 11:02:34	barbanegra	!karma AC⚡️DC
+2017-08-02 11:02:46	barbanegra	978345
+2017-08-02 11:03:06	>	Gaxpaxxo (~Gazpacho@206.red-83-53-31.dynamicip.rima-tde.net) has joined #debian-es
+2017-08-02 11:03:51	alekz	lol
+2017-08-02 11:05:21	barbanegra	la ultima
+2017-08-02 11:05:22	barbanegra	https://www.youtube.com/watch?v=AEX2u5q7J7o
+2017-08-02 11:05:23	CoBot	AC/DC - Ride on Duración: 00:05:51 Visto 1192635 veces, con 7063 Me gusta, 725 No me gusta (91%) y 506 comentarios
+2017-08-02 11:05:29	alekz	¿Y qué hackean en hacerkspace uy?
+2017-08-02 11:05:43	barbanegra	no conoces los jargon files?
+2017-08-02 11:05:53	barbanegra	sos muy joven
+2017-08-02 11:05:57	barbanegra	sai jabem
+2017-08-02 11:06:01	barbanegra	?
+2017-08-02 11:07:09	barbanegra	alekz: http://www.catb.org/jargon/html/H/hacker.html
+2017-08-02 11:07:10	CoBot	hacker
+2017-08-02 11:07:24	barbanegra	SAI JABEM
+2017-08-02 11:07:29	alekz	jaja
+2017-08-02 11:07:33	barbanegra	es un error ser joven
+2017-08-02 11:07:37	barbanegra	mas alla de la edad
+2017-08-02 11:07:55	barbanegra	como ser inconciente
+2017-08-02 11:08:01	barbanegra	igual cargas con la culpa
+2017-08-02 11:08:09	barbanegra	de que el mundo vaya como va
+2017-08-02 11:08:18	barbanegra	al menos eso dice este loco
+2017-08-02 11:08:24	barbanegra	que no me acuerdo el nombre
+2017-08-02 11:08:25	alekz	afortunamente no cargo con ninguna culpa x)
+2017-08-02 11:08:30	barbanegra	pero parece que tiene razon
+2017-08-02 11:09:03	barbanegra	todos cargamos con culpas
+2017-08-02 11:09:13	barbanegra	y a los nihilistas hay que prenderlos fuego
+2017-08-02 11:09:28	barbanegra	si total
+2017-08-02 11:09:31	barbanegra	no les importa
+2017-08-02 11:10:04	alekz	cuánta filosofía
+2017-08-02 11:10:18	barbanegra	http://bot.hackspace.uy:9090/iTiQQAsV/giphy.mp4
+2017-08-02 11:10:20	barbanegra	y si
+2017-08-02 11:10:24	barbanegra	la vida es eso
+2017-08-02 11:10:28	barbanegra	ciencia, filosofia
+2017-08-02 11:10:37	barbanegra	arrte
+2017-08-02 11:10:47	barbanegra	dame un segundo que te paso el link
+2017-08-02 11:11:07	barbanegra	https://www.youtube.com/watch?v=CgI9USKe9H8
+2017-08-02 11:11:08	CoBot	Me gusta el arte Vídeo Original Duración: 00:01:57 Visto 1387473 veces, con 12975 Me gusta, 992 No me gusta (93%) y 3310 comentarios
+2017-08-02 11:11:31	barbanegra	pero para evitarte todos los links
+2017-08-02 11:12:04	Maguila	barbanegra: <BROMA>te recomiendo reducir el consumo de esas substancias</BROMA> :P
+2017-08-02 11:12:07	barbanegra	este lo resume
+2017-08-02 11:12:09	barbanegra	https://www.youtube.com/watch?v=eXdm0Yt7BFI
+2017-08-02 11:12:10	CoBot	Father And Son By Cat Stevens With Lyrics Duración: 00:03:50 Visto 178368 veces, con 981 Me gusta, 29 No me gusta (97%) y 81 comentarios
+2017-08-02 11:12:26	barbanegra	Maguila: mandame los denarios
+2017-08-02 11:12:32	barbanegra	y hago alquimia
+2017-08-02 11:12:36	Maguila	xD
+2017-08-02 11:12:45	Maguila	curioso su caso señor
+2017-08-02 11:12:51	barbanegra	jajaja
+2017-08-02 11:13:14	Maguila	pero por lo menos hace cobrar vida a este camposanto digital
+2017-08-02 11:13:19	barbanegra	y si
+2017-08-02 11:13:32	barbanegra	lo primero fue agitar con aprender a empaquetar
+2017-08-02 11:13:37	barbanegra	luego me tome libertades
+2017-08-02 11:13:43	barbanegra	ya que habia silencio
+2017-08-02 11:38:38	<	nesimo (~nesimo@151.red-79-151-246.dynamicip.rima-tde.net) ha salido (Quit: Leaving)
+2017-08-02 12:10:44	<	sanzante (~ricardo@75.178.132.37.dynamic.jazztel.es) ha salido (Quit: Cerrando Konversastion!)
+2017-08-02 12:38:09	>	starch (~starch@31.4.192.46) has joined #debian-es
+2017-08-02 12:56:00	<	starch (~starch@31.4.192.46) ha salido (Read error: Connection reset by peer)
+2017-08-02 13:45:44	>	CHCl3 (~CHCl3@static.169.221.213.82.ibercom.com) has joined #debian-es
+2017-08-02 14:00:44	<	Section1 (~section1@178.33.109.106) ha salido (Quit: Leaving)
+2017-08-02 14:03:05	>	atrapado_ (~atrapado@unaffiliated/atrapado) has joined #debian-es
+2017-08-02 14:27:53	>	bit1 (~joseanton@86.red-213-96-250.staticip.rima-tde.net) has joined #debian-es
+2017-08-02 14:47:06	>	fuaa (~fuaa@host50.181-1-239.telecom.net.ar) has joined #debian-es
+2017-08-02 15:01:24	>	Nas (532368b7@gateway/web/freenode/ip.83.35.104.183) has joined #debian-es
+2017-08-02 15:01:31	<	CHCl3 (~CHCl3@static.169.221.213.82.ibercom.com) ha salido (Quit: Saliendo)
+2017-08-02 15:01:42	<	Nas (532368b7@gateway/web/freenode/ip.83.35.104.183) ha salido (Client Quit)
+2017-08-02 15:02:44	>	https_GK1wmSU (~d33p-b00k@91.221.67.85) has joined #debian-es
+2017-08-02 15:04:28	<	https_GK1wmSU (~d33p-b00k@91.221.67.85) ha abandonado #debian-es
+2017-08-02 15:28:55	<	atrapado_ (~atrapado@unaffiliated/atrapado) ha salido (Quit: Leaving)
+2017-08-02 16:16:53	>	dasnetz (~dasnetz@189.148.6.157) has joined #debian-es
+2017-08-02 16:18:14	<	dasnetz (~dasnetz@189.148.6.157) ha salido (Remote host closed the connection)
+2017-08-02 16:21:02	>	free4fun (~libertad@hackspaceuy/member/barbanegra) has joined #debian-es
+2017-08-02 16:23:26	>	dasnetz (~dasnetz@189.148.48.192) has joined #debian-es
+2017-08-02 16:24:13	<	barbanegra (~libertad@hackspaceuy/member/barbanegra) ha salido (Ping timeout: 240 seconds)
+2017-08-02 16:25:08	>	nameless2CL (~snake@201.236.25.127) has joined #debian-es
+2017-08-02 16:27:07	<	Texou (~Texou@unaffiliated/texou) ha salido (Ping timeout: 255 seconds)
+2017-08-02 16:28:01	<	nameless_CL (~snake@200-28-165-222.baf.movistar.cl) ha salido (Ping timeout: 255 seconds)
+2017-08-02 16:36:06	>	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) has joined #debian-es
+2017-08-02 16:36:13	>	Texou (~Texou@unaffiliated/texou) has joined #debian-es
+2017-08-02 16:46:31	>	https_GK1wmSU (~deep-book@119.81.230.146) has joined #debian-es
+2017-08-02 16:46:47	<	https_GK1wmSU (~deep-book@119.81.230.146) ha abandonado #debian-es
+2017-08-02 16:54:47	>	edgardoweb (~edgardowe@gusl/staff/elinares) has joined #debian-es
+2017-08-02 23:17:49	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #debian-es
+2017-08-02 23:17:49	⇄	Topic for #debian-es is "Docs → debian.org/doc/FAQ debian.org/doc/manuals/reference wiki.debian.org || Para pegar usa paste.debian.net || Repositorios → www.debian.org/mirror/list || ESTO NO ES #ubuntu-es || RTFM → manpages.debian.net || Que imagen descargo? → cdimage-search.debian.org || Debian Estable → Stretch 9.0 || Actualizando a Stretch? → debian.org/releases/stable/releasenotes"
+2017-08-02 23:17:49	⇄	Tema establecido por MarlonBardo (ba120206@CAcert/Assurer/dererk) el mié, 05 jul 2017 17:40:07
+2017-08-02 23:17:49	⇄	Channel #debian-es: 47 apodos (0 ops, 0 voces, 47 normales)
+2017-08-02 23:17:49	⇄	PvAviso(ChanServ): Bienvenido a #debian-es. Este es un canal de discusión, si tienes preguntas acerca de Debian GNU/Linux, dispara, trataremos de dar nuestra mejor respuesta :)
+2017-08-02 23:17:49	⇄	URL para #debian-es: http://www.debian.org
+2017-08-02 23:18:11	⇄	Canal creado el sáb, 25 nov 2006 23:42:43
+2017-08-02 23:22:35	<	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) ha salido (Quit: WeeChat 1.9)
+2017-08-02 23:56:17	>	Heimy (~javi@unaffiliated/heimy) has joined #debian-es
+2017-08-03 01:05:52	<	Heimy (~javi@unaffiliated/heimy) ha salido (Ping timeout: 276 seconds)
+2017-08-03 01:50:15	<	Buda (~Budadona@2a00:d880:5:702::5cad) ha salido (Remote host closed the connection)
+2017-08-03 01:51:17	>	grrrrrr (~libertad@hackspaceuy/member/barbanegra) has joined #debian-es
+2017-08-03 01:52:56	<	free4fun (~libertad@hackspaceuy/member/barbanegra) ha salido (Ping timeout: 260 seconds)
+2017-08-03 02:01:04	>	Buda (~Budadona@2a00:d880:5:702::5cad) has joined #debian-es
+2017-08-03 07:15:41	⇄	irc: desconectado del servidor
+2017-08-03 07:16:22	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #debian-es
+2017-08-03 07:16:22	⇄	Topic for #debian-es is "Docs → debian.org/doc/FAQ debian.org/doc/manuals/reference wiki.debian.org || Para pegar usa paste.debian.net || Repositorios → www.debian.org/mirror/list || ESTO NO ES #ubuntu-es || RTFM → manpages.debian.net || Que imagen descargo? → cdimage-search.debian.org || Debian Estable → Stretch 9.0 || Actualizando a Stretch? → debian.org/releases/stable/releasenotes"
+2017-08-03 07:16:22	⇄	Tema establecido por MarlonBardo (ba120206@CAcert/Assurer/dererk) el mié, 05 jul 2017 17:40:07
+2017-08-03 07:16:22	⇄	Channel #debian-es: 51 apodos (0 ops, 0 voces, 51 normales)
+2017-08-03 07:16:22	⇄	PvAviso(ChanServ): Bienvenido a #debian-es. Este es un canal de discusión, si tienes preguntas acerca de Debian GNU/Linux, dispara, trataremos de dar nuestra mejor respuesta :)
+2017-08-03 07:16:22	⇄	URL para #debian-es: http://www.debian.org
+2017-08-03 07:16:46	⇄	Canal creado el sáb, 25 nov 2006 23:42:43
+2017-08-03 07:32:43	<	drymer (~drymer@unaffiliated/drymer) ha salido (Ping timeout: 240 seconds)
+2017-08-03 07:33:15	>	drymer (~drymer@unaffiliated/drymer) has joined #debian-es
+2017-08-03 07:40:54	<	likevinyl (~likevinyl@unaffiliated/likevinyl) ha salido (Quit: WeeChat 1.9)
+2017-08-03 08:00:45	<	dasnetz (~dasnetz@189.148.6.157) ha salido (Read error: Connection reset by peer)
+2017-08-03 08:42:02	>	dasnetz (~dasnetz@189.148.48.192) has joined #debian-es
+2017-08-03 08:45:56	<	Brigo (~Brigo@43.10.60.178.dynamic.reverse-mundo-r.com) ha salido (Ping timeout: 268 seconds)
+2017-08-03 08:48:13	<	bit1 (~joseanton@86.red-213-96-250.staticip.rima-tde.net) ha salido (Ping timeout: 240 seconds)
+2017-08-03 08:59:19	>	CdK1 (~kvirc@181.72.9.205) has joined #debian-es
+2017-08-03 08:59:23	CdK1	Section1: como va marica
+2017-08-03 09:01:01	Section1	que hacse CdK1
+2017-08-03 09:01:05	Section1	todo tranquilo laburando
+2017-08-03 09:01:06	Section1	vo
+2017-08-03 09:01:07	Section1	s
+2017-08-03 09:03:24	CdK1	en la misma
+2017-08-03 09:03:29	CdK1	trabajo trabajo trabajo
+2017-08-03 09:40:00	>	MA|Pablo3 (~fuaa@host63.186-109-19.telecom.net.ar) has joined #debian-es
+2017-08-03 09:42:58	<	fuaa2 (~fuaa@181.91.68.152) ha salido (Ping timeout: 255 seconds)
+2017-08-03 10:19:41	<	nesimo (~nesimo@151.red-79-151-246.dynamicip.rima-tde.net) ha salido (Quit: Leaving)
+2017-08-03 10:31:03	>	fcodiaz (~fdiaz@50-203-79-196-static.hfc.comcastbusiness.net) has joined #debian-es
+2017-08-03 10:37:22	>	dasnetz_ (~dasnetz@189.148.99.133) has joined #debian-es
+2017-08-03 10:39:28	<	dasnetz (~dasnetz@189.148.48.192) ha salido (Ping timeout: 240 seconds)
+2017-08-03 11:12:03	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #debian-es
+2017-08-03 11:12:03	⇄	Topic for #debian-es is "Docs → debian.org/doc/FAQ debian.org/doc/manuals/reference wiki.debian.org || Para pegar usa paste.debian.net || Repositorios → www.debian.org/mirror/list || ESTO NO ES #ubuntu-es || RTFM → manpages.debian.net || Que imagen descargo? → cdimage-search.debian.org || Debian Estable → Stretch 9.0 || Actualizando a Stretch? → debian.org/releases/stable/releasenotes"
+2017-08-03 11:12:03	⇄	Tema establecido por MarlonBardo (ba120206@CAcert/Assurer/dererk) el mié, 05 jul 2017 17:40:07
+2017-08-03 11:12:03	⇄	Channel #debian-es: 49 apodos (0 ops, 0 voces, 49 normales)
+2017-08-03 11:12:03	⇄	PvAviso(ChanServ): Bienvenido a #debian-es. Este es un canal de discusión, si tienes preguntas acerca de Debian GNU/Linux, dispara, trataremos de dar nuestra mejor respuesta :)
+2017-08-03 11:12:03	⇄	URL para #debian-es: http://www.debian.org
+2017-08-03 11:12:24	⇄	Canal creado el sáb, 25 nov 2006 23:42:43
+2017-08-03 11:18:20	<	Tiffon (~name@unaffiliated/tiff0n) ha salido (Quit: exit)
+2017-08-03 11:19:42	<	CdK1 (~kvirc@181.72.9.205) ha salido (Ping timeout: 240 seconds)
+2017-08-03 11:29:22	<	drymer (~drymer@unaffiliated/drymer) ha salido (Remote host closed the connection)
+2017-08-03 11:33:04	>	MarioMey (~mario@181.20.12.212) has joined #debian-es
+2017-08-03 11:33:08	MarioMey	Hola gente.
+2017-08-03 11:34:47	MarioMey	Estoy usando un addon en WordPress que captura todos los formularios. Este plugin me da la posibilidad de bajar esa base de datos que se va generando mediante una dirección. Yo pensaba usar wget en alguna especie de script/cron para ir bajando este archivo. El tema es que quiero que vaya creando nuevos archivos, con el agregado del fecha/hora en el nombre del archivo. ¿Cómo puedo hacer eso?
+2017-08-03 11:35:10	MarioMey	Si hago wget "http://www.pagina.com/archivo" -O archivo.txt...
+2017-08-03 11:35:11	CoBot	Pagina.com
+2017-08-03 11:35:19	MarioMey	Siempre me guarda en el mismo archivo.
+2017-08-03 11:43:48	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #debian-es
+2017-08-03 11:43:48	⇄	Topic for #debian-es is "Docs → debian.org/doc/FAQ debian.org/doc/manuals/reference wiki.debian.org || Para pegar usa paste.debian.net || Repositorios → www.debian.org/mirror/list || ESTO NO ES #ubuntu-es || RTFM → manpages.debian.net || Que imagen descargo? → cdimage-search.debian.org || Debian Estable → Stretch 9.0 || Actualizando a Stretch? → debian.org/releases/stable/releasenotes"
+2017-08-03 11:43:48	⇄	Tema establecido por MarlonBardo (ba120206@CAcert/Assurer/dererk) el mié, 05 jul 2017 17:40:07
+2017-08-03 11:43:48	⇄	Channel #debian-es: 48 apodos (0 ops, 0 voces, 48 normales)
+2017-08-03 11:43:48	⇄	PvAviso(ChanServ): Bienvenido a #debian-es. Este es un canal de discusión, si tienes preguntas acerca de Debian GNU/Linux, dispara, trataremos de dar nuestra mejor respuesta :)
+2017-08-03 11:43:48	⇄	URL para #debian-es: http://www.debian.org
+2017-08-03 11:44:11	⇄	Canal creado el sáb, 25 nov 2006 23:42:43
+2017-08-03 11:53:52	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #debian-es
+2017-08-03 11:53:52	⇄	Topic for #debian-es is "Docs → debian.org/doc/FAQ debian.org/doc/manuals/reference wiki.debian.org || Para pegar usa paste.debian.net || Repositorios → www.debian.org/mirror/list || ESTO NO ES #ubuntu-es || RTFM → manpages.debian.net || Que imagen descargo? → cdimage-search.debian.org || Debian Estable → Stretch 9.0 || Actualizando a Stretch? → debian.org/releases/stable/releasenotes"
+2017-08-03 11:53:52	⇄	Tema establecido por MarlonBardo (ba120206@CAcert/Assurer/dererk) el mié, 05 jul 2017 17:40:07
+2017-08-03 11:53:52	⇄	Channel #debian-es: 48 apodos (0 ops, 0 voces, 48 normales)
+2017-08-03 11:53:52	⇄	PvAviso(ChanServ): Bienvenido a #debian-es. Este es un canal de discusión, si tienes preguntas acerca de Debian GNU/Linux, dispara, trataremos de dar nuestra mejor respuesta :)
+2017-08-03 11:53:52	⇄	URL para #debian-es: http://www.debian.org
+2017-08-03 11:54:15	⇄	Canal creado el sáb, 25 nov 2006 23:42:43
+2017-08-03 11:58:38	<	MarioMey (~mario@181.20.12.212) ha abandonado #debian-es
+2017-08-03 11:58:42	<	drymer (~drymer@unaffiliated/drymer) ha salido (Ping timeout: 240 seconds)
+2017-08-03 12:03:02	>	kobain (~kobain@unaffiliated/kobain) has joined #debian-es
+2017-08-03 12:09:51	⇄	Maguila|AWAY| es conocido ahora como Maguila
+2017-08-03 12:14:24	<	Buda (~Budadona@2a00:d880:5:702::5cad) ha salido (Remote host closed the connection)
+2017-08-03 12:15:06	>	Brigo (~Brigo@43.10.60.178.dynamic.reverse-mundo-r.com) has joined #debian-es
+2017-08-03 12:21:08	>	Buda (~Budadona@2a00:d880:5:702::5cad) has joined #debian-es
+2017-08-03 12:50:50	<	edgardoweb (~edgardowe@gusl/staff/elinares) ha salido (Remote host closed the connection)
+2017-08-03 12:53:59	>	drymer (~drymer@unaffiliated/drymer) has joined #debian-es
+2017-08-03 13:06:49	>	dasnetz__ (~dasnetz@189.148.99.133) has joined #debian-es
+2017-08-03 13:10:27	<	dasnetz_ (~dasnetz@189.148.99.133) ha salido (Ping timeout: 240 seconds)
+2017-08-03 13:31:19	>	Gaxpaxxo (~Gazpacho@22.red-79-144-227.dynamicip.rima-tde.net) has joined #debian-es
+2017-08-03 14:16:36	<	Section1 (~section1@190.195.93.86) ha salido (Quit: Leaving)
+2017-08-03 14:31:46	>	bit1 (~joseanton@86.red-213-96-250.staticip.rima-tde.net) has joined #debian-es
+2017-08-03 14:35:04	<	rda-mac (~rda-mac@unaffiliated/rda-mac) ha salido (Read error: Connection reset by peer)
+2017-08-03 14:41:39	>	rda-mac (~rda-mac@unaffiliated/rda-mac) has joined #debian-es
+2017-08-03 14:44:10	>	free4fun (~libertad@hackspaceuy/member/barbanegra) has joined #debian-es
+2017-08-03 14:45:37	<	barbanegra (~libertad@hackspaceuy/member/barbanegra) ha salido (Read error: Connection reset by peer)
+2017-08-03 14:46:58	⇄	free4fun es conocido ahora como barbanegra
+2017-08-03 14:49:19	>	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) has joined #debian-es
+2017-08-03 14:53:51	<	dasnetz__ (~dasnetz@189.148.99.133) ha salido (Remote host closed the connection)
+2017-08-03 15:01:06	⇄	MA|Pablo3 es conocido ahora como fuaa
+2017-08-03 15:44:01	<	fcodiaz (~fdiaz@50-203-79-196-static.hfc.comcastbusiness.net) ha salido (Ping timeout: 276 seconds)
+2017-08-03 15:57:55	>	likevinyl (~likevinyl@unaffiliated/likevinyl) has joined #debian-es
+2017-08-03 16:11:46	<	Gaxpaxxo (~Gazpacho@22.red-79-144-227.dynamicip.rima-tde.net) ha salido (Quit: Leaving)
+2017-08-03 16:36:01	<	bit1 (~joseanton@86.red-213-96-250.staticip.rima-tde.net) ha salido (Ping timeout: 276 seconds)
+2017-08-03 16:42:24	<	drymer (~drymer@unaffiliated/drymer) ha salido (Remote host closed the connection)
+2017-08-03 16:43:42	>	drymer (~drymer@unaffiliated/drymer) has joined #debian-es
+2017-08-03 17:34:26	>	magu42 (~magu@r167-56-2-56.dialup.adsl.anteldata.net.uy) has joined #debian-es
+2017-08-03 17:34:39	<	magu42 (~magu@r167-56-2-56.dialup.adsl.anteldata.net.uy) ha salido (Changing host)
+2017-08-03 17:34:39	>	magu42 (~magu@unaffiliated/magu42) has joined #debian-es
+2017-08-03 18:02:55	<	moonwatcher- (~pablo@unaffiliated/pabloj7) ha salido (Quit: WeeChat 1.9)
+2017-08-03 18:03:37	>	Nel1x (~Nel1x@mail1.oncosmos.com) has joined #debian-es
+2017-08-03 19:06:41	<	Brigo (~Brigo@43.10.60.178.dynamic.reverse-mundo-r.com) ha salido (Ping timeout: 248 seconds)
+2017-08-03 19:47:37	>	dasnetz (~dasnetz@189.148.99.133) has joined #debian-es
+2017-08-03 20:00:07	<	magu42 (~magu@unaffiliated/magu42) ha salido (Quit: Leaving)
+2017-08-03 20:43:12	>	http_GK1wmSU (~deep-book@129.232.221.173) has joined #debian-es
+2017-08-03 20:44:11	<	http_GK1wmSU (~deep-book@129.232.221.173) ha abandonado #debian-es
+2017-08-03 20:46:57	<	dasnetz (~dasnetz@189.148.99.133) ha salido (Ping timeout: 240 seconds)
+2017-08-03 20:50:07	>	dasnetz (~dasnetz@189.148.99.133) has joined #debian-es
+2017-08-03 20:54:27	>	dasnetz_ (~dasnetz@189.148.99.133) has joined #debian-es
+2017-08-03 20:57:19	<	dasnetz (~dasnetz@189.148.99.133) ha salido (Ping timeout: 276 seconds)
+2017-08-03 20:59:47	<	fuaa (~fuaa@host63.186-109-19.telecom.net.ar) ha salido (Quit: Leaving)
+2017-08-03 21:03:23	>	fuaa (~fuaa@host63.186-109-19.telecom.net.ar) has joined #debian-es
+2017-08-03 21:17:42	<	Nel1x (~Nel1x@mail1.oncosmos.com) ha salido (Ping timeout: 240 seconds)
+2017-08-03 21:25:25	>	nameless_CL (~snake@200-28-165-224.baf.movistar.cl) has joined #debian-es
+2017-08-03 21:28:10	<	nameless2CL (~snake@201.236.25.127) ha salido (Ping timeout: 240 seconds)
+2017-08-03 21:43:58	>	mathesis (~ja1000@unaffiliated/mathesis) has joined #debian-es
+2017-08-03 22:34:23	<	kobain (~kobain@unaffiliated/kobain) ha salido (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2017-08-03 22:34:42	<	mathesis (~ja1000@unaffiliated/mathesis) ha salido (Ping timeout: 240 seconds)
+2017-08-03 22:49:29	<	fuaa (~fuaa@host63.186-109-19.telecom.net.ar) ha salido (Quit: Leaving)
+2017-08-03 23:06:03	>	Heimy (~javi@unaffiliated/heimy) has joined #debian-es
+2017-08-03 23:16:31	<	Buda (~Budadona@2a00:d880:5:702::5cad) ha salido (Remote host closed the connection)
+2017-08-03 23:21:07	>	Buda (~Budadona@2a00:d880:5:702::5cad) has joined #debian-es
+2017-08-03 23:21:27	<	Heimy (~javi@unaffiliated/heimy) ha salido (Ping timeout: 240 seconds)
+2017-08-03 23:40:59	>	Heimy (~javi@unaffiliated/heimy) has joined #debian-es
+2017-08-03 23:55:57	>	nachosalvador (~nacho@139.47.26.227) has joined #debian-es
+2017-08-03 23:57:30	<	Heimy (~javi@unaffiliated/heimy) ha salido (Ping timeout: 240 seconds)
+2017-08-04 00:00:15	>	nesimo (~nesimo@151.red-79-151-246.dynamicip.rima-tde.net) has joined #debian-es
+2017-08-04 00:37:34	<	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) ha salido (Quit: WeeChat 1.9)
+2017-08-04 00:43:43	>	zamuro (~Samantha@8.red-212-170-62.staticip.rima-tde.net) has joined #debian-es
+2017-08-04 00:43:43	<	zamuro (~Samantha@8.red-212-170-62.staticip.rima-tde.net) ha salido (Changing host)
+2017-08-04 00:43:43	>	zamuro (~Samantha@unaffiliated/zamuro) has joined #debian-es
+2017-08-04 01:03:06	<	drymer (~drymer@unaffiliated/drymer) ha salido (Remote host closed the connection)
+2017-08-04 01:04:26	>	drymer (~drymer@unaffiliated/drymer) has joined #debian-es
+2017-08-04 01:34:27	>	Brigo (~Brigo@43.10.60.178.dynamic.reverse-mundo-r.com) has joined #debian-es
+2017-08-04 01:49:50	<	likevinyl (~likevinyl@unaffiliated/likevinyl) ha salido (Ping timeout: 240 seconds)
+2017-08-04 02:45:24	>	free4fun (~libertad@hackspaceuy/member/barbanegra) has joined #debian-es
+2017-08-04 02:46:47	<	barbanegra (~libertad@hackspaceuy/member/barbanegra) ha salido (Read error: Connection reset by peer)
+2017-08-04 02:57:25	<	nameless_CL (~snake@200-28-165-224.baf.movistar.cl) ha salido (Ping timeout: 276 seconds)
+2017-08-04 03:00:33	>	Tiffon (~name@unaffiliated/tiff0n) has joined #debian-es
+2017-08-04 03:02:51	<	Tiffon (~name@unaffiliated/tiff0n) ha salido (Remote host closed the connection)
+2017-08-04 03:04:19	>	Tiffon (~name@unaffiliated/tiff0n) has joined #debian-es
+2017-08-04 03:11:18	>	nameless1CL (~snake@200-28-165-224.baf.movistar.cl) has joined #debian-es
+2017-08-04 03:48:04	>	v4char (~v4char@33.red-88-19-25.staticip.rima-tde.net) has joined #debian-es
+2017-08-04 04:01:51	>	dasnetz__ (~dasnetz@189.148.99.133) has joined #debian-es
+2017-08-04 04:04:12	<	dasnetz_ (~dasnetz@189.148.99.133) ha salido (Ping timeout: 240 seconds)
+2017-08-04 04:20:23	>	sanzante (~ricardo@75.178.132.37.dynamic.jazztel.es) has joined #debian-es
+2017-08-04 04:59:26	<	dasnetz__ (~dasnetz@189.148.99.133) ha salido (Remote host closed the connection)
+2017-08-04 04:59:48	>	dasnetz__ (~dasnetz@189.148.99.133) has joined #debian-es
+2017-08-04 05:07:15	>	Heimy (~javi@unaffiliated/heimy) has joined #debian-es
+2017-08-04 05:22:41	<	Heimy (~javi@unaffiliated/heimy) ha salido (Ping timeout: 248 seconds)
+2017-08-04 05:37:17	<	nameless1CL (~snake@200-28-165-224.baf.movistar.cl) ha salido (Ping timeout: 246 seconds)
+2017-08-04 06:31:16	>	Section1 (~section1@190.195.93.86) has joined #debian-es
+2017-08-04 06:31:34	<	zamuro (~Samantha@unaffiliated/zamuro) ha abandonado #debian-es ("[IRSSI]")
+2017-08-04 06:35:41	<	free4fun (~libertad@hackspaceuy/member/barbanegra) ha salido (Read error: Connection reset by peer)
+2017-08-04 06:35:56	>	barbanegra (~libertad@hackspaceuy/member/barbanegra) has joined #debian-es
+2017-08-04 06:39:27	>	bit1 (~joseanton@86.red-213-96-250.staticip.rima-tde.net) has joined #debian-es
+2017-08-04 06:55:09	<	nesimo (~nesimo@151.red-79-151-246.dynamicip.rima-tde.net) ha salido (Remote host closed the connection)
+2017-08-04 06:56:05	<	barbanegra (~libertad@hackspaceuy/member/barbanegra) ha salido (Ping timeout: 240 seconds)
+2017-08-04 06:57:55	>	barbanegra (~libertad@hackspaceuy/member/barbanegra) has joined #debian-es
+2017-08-04 07:05:38	<	nachosalvador (~nacho@139.47.26.227) ha salido (Quit: Leaving)
+2017-08-04 07:12:34	>	fcodiaz (~fdiaz@97-81-81-116.dhcp.athn.ga.charter.com) has joined #debian-es
+2017-08-04 07:19:37	>	likevinyl (~likevinyl@unaffiliated/likevinyl) has joined #debian-es
+2017-08-04 07:31:18	>	nesimo (~nesimo@151.red-79-151-246.dynamicip.rima-tde.net) has joined #debian-es
+2017-08-04 07:32:16	>	fuaa (~fuaa@host44.190-227-251.telecom.net.ar) has joined #debian-es
+2017-08-04 07:32:28	<	barbanegra (~libertad@hackspaceuy/member/barbanegra) ha salido (Quit: WeeChat 1.9)
+2017-08-04 07:33:17	<	v4char (~v4char@33.red-88-19-25.staticip.rima-tde.net) ha salido (Ping timeout: 255 seconds)
+2017-08-04 07:37:15	>	barbanegra (~libertad@hackspaceuy/member/barbanegra) has joined #debian-es
+2017-08-04 07:49:44	>	Krakakanok (~k4@72.red-176-85-139.dynamicip.rima-tde.net) has joined #debian-es
+2017-08-04 07:49:44	<	Krakakanok (~k4@72.red-176-85-139.dynamicip.rima-tde.net) ha salido (Changing host)
+2017-08-04 07:49:44	>	Krakakanok (~k4@unaffiliated/krakakanok) has joined #debian-es
+2017-08-04 08:00:59	>	dasnetz (~dasnetz@189.148.48.192) has joined #debian-es
+2017-08-04 08:02:21	>	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) has joined #debian-es
+2017-08-04 08:03:09	<	dasnetz (~dasnetz@189.148.48.192) ha salido (Read error: Connection reset by peer)
+2017-08-04 08:03:13	>	dasnetz_ (~dasnetz@189.148.48.192) has joined #debian-es
+2017-08-04 08:07:59	>	dasnetz (~dasnetz@189.148.99.133) has joined #debian-es
+2017-08-04 08:09:42	<	dasnetz_ (~dasnetz@189.148.48.192) ha salido (Ping timeout: 240 seconds)
+2017-08-04 08:19:58	<	nesimo (~nesimo@151.red-79-151-246.dynamicip.rima-tde.net) ha salido (Quit: Leaving)
+2017-08-04 08:20:47	<	Buda (~Budadona@2a00:d880:5:702::5cad) ha salido (Read error: Connection reset by peer)
+2017-08-04 08:31:07	>	Buda (~Budadona@2a00:d880:5:702::5cad) has joined #debian-es
+2017-08-04 09:41:10	>	dasnetz_ (~dasnetz@189.148.48.192) has joined #debian-es
+2017-08-04 09:43:56	<	dasnetz (~dasnetz@189.148.99.133) ha salido (Ping timeout: 260 seconds)
+2017-08-04 09:49:45	>	rda-mac_ (~rda-mac@unaffiliated/rda-mac) has joined #debian-es
+2017-08-04 09:51:21	>	RyanXFCE (~RyanChile@pc-55-13-104-200.cm.vtr.net) has joined #debian-es
+2017-08-04 09:51:29	<	ZenWalker (~r00t@unaffiliated/zenwalker) ha salido (Quit: reboot)
+2017-08-04 09:52:11	<	Brigo (~Brigo@43.10.60.178.dynamic.reverse-mundo-r.com) ha salido (Ping timeout: 240 seconds)
+2017-08-04 09:52:21	<	rda-mac (~rda-mac@unaffiliated/rda-mac) ha salido (Ping timeout: 260 seconds)
+2017-08-04 09:59:43	<	bit1 (~joseanton@86.red-213-96-250.staticip.rima-tde.net) ha salido (Remote host closed the connection)
+2017-08-04 10:08:12	>	ZenWalker (~r00t@unaffiliated/zenwalker) has joined #debian-es
+2017-08-04 10:09:36	>	Brigo (~Brigo@43.10.60.178.dynamic.reverse-mundo-r.com) has joined #debian-es
+2017-08-04 10:16:01	<	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) ha salido (Ping timeout: 248 seconds)
+2017-08-04 10:18:36	<	RyanXFCE (~RyanChile@pc-55-13-104-200.cm.vtr.net) ha salido (Quit: Saliendo)
+2017-08-04 10:19:51	<	Krakakanok (~k4@unaffiliated/krakakanok) ha salido (Remote host closed the connection)
+2017-08-04 10:22:46	>	RyanXFCE (~RyanChile@pc-55-13-104-200.cm.vtr.net) has joined #debian-es
+2017-08-04 10:24:32	<	Brigo (~Brigo@43.10.60.178.dynamic.reverse-mundo-r.com) ha salido (Ping timeout: 260 seconds)
+2017-08-04 10:29:27	<	RyanXFCE (~RyanChile@pc-55-13-104-200.cm.vtr.net) ha salido (Ping timeout: 268 seconds)
+2017-08-04 10:31:44	>	Heimy (~javi@unaffiliated/heimy) has joined #debian-es
+2017-08-04 10:33:15	>	RyanXFCE (~RyanChile@pc-55-13-104-200.cm.vtr.net) has joined #debian-es
+2017-08-04 10:33:26	<	sanzante (~ricardo@75.178.132.37.dynamic.jazztel.es) ha salido (Ping timeout: 260 seconds)
+2017-08-04 10:37:43	>	Brigo (~Brigo@43.10.60.178.dynamic.reverse-mundo-r.com) has joined #debian-es
+2017-08-04 10:38:31	<	Heimy (~javi@unaffiliated/heimy) ha salido (Ping timeout: 246 seconds)
+2017-08-04 10:57:31	>	mathesis (~ja1000@187.148.125.74) has joined #debian-es
+2017-08-04 11:06:54	>	dasnetz (~dasnetz@189.148.99.133) has joined #debian-es
+2017-08-04 11:08:17	<	dasnetz_ (~dasnetz@189.148.48.192) ha salido (Ping timeout: 248 seconds)
+2017-08-04 11:18:14	<	mathesis (~ja1000@187.148.125.74) ha salido (Ping timeout: 260 seconds)
+2017-08-04 11:23:51	>	dasnetz_ (~dasnetz@189.148.99.133) has joined #debian-es
+2017-08-04 11:26:11	<	dasnetz (~dasnetz@189.148.99.133) ha salido (Ping timeout: 240 seconds)
+2017-08-04 11:32:40	<	Tiffon (~name@unaffiliated/tiff0n) ha salido (Quit: exit)
+2017-08-04 11:37:05	>	mathesis (~ja1000@187.148.125.74) has joined #debian-es
+2017-08-04 11:49:19	>	dddddd (~dddddd@unaffiliated/dddddd) has joined #debian-es
+2017-08-04 12:00:12	<	Brigo (~Brigo@43.10.60.178.dynamic.reverse-mundo-r.com) ha salido (Ping timeout: 260 seconds)
+2017-08-04 12:05:25	>	nameless_CL (~snake@200-28-165-224.baf.movistar.cl) has joined #debian-es
+2017-08-04 12:11:44	>	Brigo (~Brigo@43.10.60.178.dynamic.reverse-mundo-r.com) has joined #debian-es
+2017-08-04 12:28:28	<	Brigo (~Brigo@43.10.60.178.dynamic.reverse-mundo-r.com) ha salido (Ping timeout: 268 seconds)
+2017-08-04 12:28:46	<	nameless_CL (~snake@200-28-165-224.baf.movistar.cl) ha salido (Ping timeout: 276 seconds)
+2017-08-04 12:28:47	<	mathesis (~ja1000@187.148.125.74) ha salido (Ping timeout: 276 seconds)
+2017-08-04 12:30:11	>	mathesis (~ja1000@187.146.229.209) has joined #debian-es
+2017-08-04 12:30:52	>	nameless1CL (~snake@200-28-165-224.baf.movistar.cl) has joined #debian-es
+2017-08-04 12:34:51	>	dasnetz (~dasnetz@189.148.48.192) has joined #debian-es
+2017-08-04 12:36:22	<	dasnetz_ (~dasnetz@189.148.99.133) ha salido (Ping timeout: 260 seconds)
+2017-08-04 12:45:12	>	robot (~robot@234.red-88-14-196.dynamicip.rima-tde.net) has joined #debian-es
+2017-08-04 12:49:27	<	dasnetz__ (~dasnetz@189.148.99.133) ha salido (Read error: Connection reset by peer)
+2017-08-04 12:49:42	<	dasnetz (~dasnetz@189.148.48.192) ha salido (Remote host closed the connection)
+2017-08-04 12:49:49	>	dasnetz__ (~dasnetz@189.148.99.133) has joined #debian-es
+2017-08-04 12:50:10	>	dasnetz (~dasnetz@189.148.48.192) has joined #debian-es
+2017-08-04 12:53:57	>	Brigo (~Brigo@2.58.27.77.dynamic.reverse-mundo-r.com) has joined #debian-es
+2017-08-04 12:58:35	<	robot (~robot@234.red-88-14-196.dynamicip.rima-tde.net) ha salido (Quit: Leaving)
+2017-08-04 12:59:57	<	dasnetz (~dasnetz@189.148.48.192) ha salido (Read error: Connection reset by peer)
+2017-08-04 12:59:57	<	dasnetz__ (~dasnetz@189.148.99.133) ha salido (Remote host closed the connection)
+2017-08-04 13:00:12	>	dasnetz (~dasnetz@189.148.99.133) has joined #debian-es
+2017-08-04 13:00:24	>	dasnetz__ (~dasnetz@189.148.99.133) has joined #debian-es
+2017-08-04 13:03:08	<	Brigo (~Brigo@2.58.27.77.dynamic.reverse-mundo-r.com) ha salido (Ping timeout: 255 seconds)
+2017-08-04 13:27:08	<	dddddd (~dddddd@unaffiliated/dddddd) ha salido (Remote host closed the connection)
+2017-08-04 13:27:28	>	Nas (532368b7@gateway/web/freenode/ip.83.35.104.183) has joined #debian-es
+2017-08-04 13:27:44	<	Nas (532368b7@gateway/web/freenode/ip.83.35.104.183) ha salido (Client Quit)
+2017-08-04 13:55:30	<	mathesis (~ja1000@187.146.229.209) ha salido (Ping timeout: 240 seconds)
+2017-08-04 14:09:39	<	Section1 (~section1@190.195.93.86) ha salido (Quit: Leaving)
+2017-08-04 14:09:53	⇄	barbanegra es conocido ahora como free4fun
+2017-08-04 14:14:16	>	Gaxpaxxo (~Gazpacho@254.red-88-5-40.dynamicip.rima-tde.net) has joined #debian-es
+2017-08-04 14:32:11	>	fuaa2 (~fuaa@host40.186-124-229.telecom.net.ar) has joined #debian-es
+2017-08-04 14:34:10	<	fuaa (~fuaa@host44.190-227-251.telecom.net.ar) ha salido (Ping timeout: 240 seconds)
+2017-08-04 14:44:09	>	calisto (~calisto@unaffiliated/calisto) has joined #debian-es
+2017-08-04 14:51:42	<	RyanXFCE (~RyanChile@pc-55-13-104-200.cm.vtr.net) ha salido (Quit: Saliendo)
+2017-08-04 14:56:30	<	calisto (~calisto@unaffiliated/calisto) ha salido (Ping timeout: 240 seconds)
+2017-08-04 14:58:43	⇄	free4fun es conocido ahora como free0fun
+2017-08-04 15:05:00	<	rda-mac_ (~rda-mac@unaffiliated/rda-mac) ha salido (Remote host closed the connection)
+2017-08-04 15:05:19	>	rda-mac (~rda-mac@unaffiliated/rda-mac) has joined #debian-es
+2017-08-04 15:09:24	<	dasnetz (~dasnetz@189.148.99.133) ha salido (Remote host closed the connection)
+2017-08-04 15:36:30	>	Basque (~donostiar@unaffiliated/basque) has joined #debian-es
+2017-08-04 15:40:10	<	thecoffemaker (~thecoffem@unaffiliated/thecoffemaker) ha salido (Ping timeout: 240 seconds)
+2017-08-04 15:51:41	>	thecoffemaker (~thecoffem@unaffiliated/thecoffemaker) has joined #debian-es
+2017-08-04 16:08:21	<	fcodiaz (~fdiaz@97-81-81-116.dhcp.athn.ga.charter.com) ha salido (Quit: Leaving)
+2017-08-04 16:08:26	⇄	fuaa2 es conocido ahora como fuaa
+2017-08-04 16:10:10	<	free0fun (~libertad@hackspaceuy/member/barbanegra) ha salido (Ping timeout: 240 seconds)
+2017-08-04 16:21:51	>	Gnhugo (~yaaic@201.157.93.221) has joined #debian-es
+2017-08-04 16:27:58	<	Gnhugo (~yaaic@201.157.93.221) ha salido (Quit: Yaaic - Yet another Android IRC client - http://www.yaaic.org)
+2017-08-04 17:03:06	<	Basque (~donostiar@unaffiliated/basque) ha salido (Quit: agur!)
+2017-08-04 17:15:32	>	Brigo (~Brigo@2.58.27.77.dynamic.reverse-mundo-r.com) has joined #debian-es
+2017-08-04 17:20:33	<	Brigo (~Brigo@2.58.27.77.dynamic.reverse-mundo-r.com) ha salido (Ping timeout: 248 seconds)
+2017-08-04 17:49:26	>	dererk (~dererk@CAcert/Assurer/dererk) has joined #debian-es
+2017-08-04 17:51:00	>	barbanegra (~libertad@hackspaceuy/member/barbanegra) has joined #debian-es
+2017-08-04 18:03:29	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #debian-es
+2017-08-04 18:03:29	⇄	Topic for #debian-es is "Docs → debian.org/doc/FAQ debian.org/doc/manuals/reference wiki.debian.org || Para pegar usa paste.debian.net || Repositorios → www.debian.org/mirror/list || ESTO NO ES #ubuntu-es || RTFM → manpages.debian.net || Que imagen descargo? → cdimage-search.debian.org || Debian Estable → Stretch 9.0 || Actualizando a Stretch? → debian.org/releases/stable/releasenotes"
+2017-08-04 18:03:29	⇄	Tema establecido por MarlonBardo (ba120206@CAcert/Assurer/dererk) el mié, 05 jul 2017 17:40:07
+2017-08-04 18:03:29	⇄	Channel #debian-es: 46 apodos (0 ops, 0 voces, 46 normales)
+2017-08-04 18:03:30	⇄	PvAviso(ChanServ): Bienvenido a #debian-es. Este es un canal de discusión, si tienes preguntas acerca de Debian GNU/Linux, dispara, trataremos de dar nuestra mejor respuesta :)
+2017-08-04 18:03:30	⇄	URL para #debian-es: http://www.debian.org
+2017-08-04 18:03:52	⇄	Canal creado el sáb, 25 nov 2006 23:42:43
+2017-08-04 18:07:45	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #debian-es
+2017-08-04 18:07:45	⇄	Topic for #debian-es is "Docs → debian.org/doc/FAQ debian.org/doc/manuals/reference wiki.debian.org || Para pegar usa paste.debian.net || Repositorios → www.debian.org/mirror/list || ESTO NO ES #ubuntu-es || RTFM → manpages.debian.net || Que imagen descargo? → cdimage-search.debian.org || Debian Estable → Stretch 9.0 || Actualizando a Stretch? → debian.org/releases/stable/releasenotes"
+2017-08-04 18:07:45	⇄	Tema establecido por MarlonBardo (ba120206@CAcert/Assurer/dererk) el mié, 05 jul 2017 17:40:07
+2017-08-04 18:07:45	⇄	Channel #debian-es: 46 apodos (0 ops, 0 voces, 46 normales)
+2017-08-04 18:07:45	⇄	PvAviso(ChanServ): Bienvenido a #debian-es. Este es un canal de discusión, si tienes preguntas acerca de Debian GNU/Linux, dispara, trataremos de dar nuestra mejor respuesta :)
+2017-08-04 18:07:45	⇄	URL para #debian-es: http://www.debian.org
+2017-08-04 18:08:07	⇄	Canal creado el sáb, 25 nov 2006 23:42:43
+2017-08-04 18:13:28	<	dererk (~dererk@CAcert/Assurer/dererk) ha salido (Ping timeout: 240 seconds)
+2017-08-04 18:22:53	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #debian-es
+2017-08-04 18:22:53	⇄	Topic for #debian-es is "Docs → debian.org/doc/FAQ debian.org/doc/manuals/reference wiki.debian.org || Para pegar usa paste.debian.net || Repositorios → www.debian.org/mirror/list || ESTO NO ES #ubuntu-es || RTFM → manpages.debian.net || Que imagen descargo? → cdimage-search.debian.org || Debian Estable → Stretch 9.0 || Actualizando a Stretch? → debian.org/releases/stable/releasenotes"
+2017-08-04 18:22:53	⇄	Tema establecido por MarlonBardo (ba120206@CAcert/Assurer/dererk) el mié, 05 jul 2017 17:40:07
+2017-08-04 18:22:53	⇄	Channel #debian-es: 45 apodos (0 ops, 0 voces, 45 normales)
+2017-08-04 18:22:53	⇄	PvAviso(ChanServ): Bienvenido a #debian-es. Este es un canal de discusión, si tienes preguntas acerca de Debian GNU/Linux, dispara, trataremos de dar nuestra mejor respuesta :)
+2017-08-04 18:22:53	⇄	URL para #debian-es: http://www.debian.org
+2017-08-04 18:23:16	⇄	Canal creado el sáb, 25 nov 2006 23:42:43
+2017-08-04 18:27:06	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #debian-es
+2017-08-04 18:27:06	⇄	Topic for #debian-es is "Docs → debian.org/doc/FAQ debian.org/doc/manuals/reference wiki.debian.org || Para pegar usa paste.debian.net || Repositorios → www.debian.org/mirror/list || ESTO NO ES #ubuntu-es || RTFM → manpages.debian.net || Que imagen descargo? → cdimage-search.debian.org || Debian Estable → Stretch 9.0 || Actualizando a Stretch? → debian.org/releases/stable/releasenotes"
+2017-08-04 18:27:06	⇄	Tema establecido por MarlonBardo (ba120206@CAcert/Assurer/dererk) el mié, 05 jul 2017 17:40:07
+2017-08-04 18:27:06	⇄	Channel #debian-es: 45 apodos (0 ops, 0 voces, 45 normales)
+2017-08-04 18:27:06	⇄	PvAviso(ChanServ): Bienvenido a #debian-es. Este es un canal de discusión, si tienes preguntas acerca de Debian GNU/Linux, dispara, trataremos de dar nuestra mejor respuesta :)
+2017-08-04 18:27:06	⇄	URL para #debian-es: http://www.debian.org
+2017-08-04 18:27:28	⇄	Canal creado el sáb, 25 nov 2006 23:42:43
+2017-08-04 18:34:28	>	dererk (~dererk@206.167.44.205) has joined #debian-es
+2017-08-04 18:34:49	<	dererk (~dererk@206.167.44.205) ha salido (Changing host)
+2017-08-04 18:34:49	>	dererk (~dererk@CAcert/Assurer/dererk) has joined #debian-es
+2017-08-05 21:21:19	-	mr-jules (~mr-jules@2806:101e:1:3b12:a41f:468a:98e6:531) has joined #debian-es
+2017-08-05 21:21:19		Topic for #debian-es is "Docs → debian.org/doc/FAQ debian.org/doc/manuals/reference wiki.debian.org || Para pegar usa paste.debian.net || Repositorios → www.debian.org/mirror/list || ESTO NO ES #ubuntu-es || RTFM → manpages.debian.net || Que imagen descargo? → cdimage-search.debian.org || Debian Estable → Stretch 9.0 || Actualizando a Stretch? → debian.org/releases/stable/releasenotes"
+2017-08-05 21:21:19		Tema establecido por MarlonBardo (ba120206@CAcert/Assurer/dererk) el mié, 05 jul 2017 16:40:07
+2017-08-05 21:21:19		Channel #debian-es: 49 apodos (0 ops, 0 voces, 49 normales)
+2017-08-05 21:21:19		PvAviso(ChanServ): Bienvenido a #debian-es. Este es un canal de discusión, si tienes preguntas acerca de Debian GNU/Linux, dispara, trataremos de dar nuestra mejor respuesta :)
+2017-08-05 21:21:19		URL para #debian-es: http://www.debian.org
+2017-08-05 21:21:57		Canal creado el sáb, 25 nov 2006 23:42:43
+2017-08-05 21:25:22	-	mr-jules (~mr-jules@2806:101e:1:3b12:a41f:468a:98e6:531) has joined #debian-es
+2017-08-05 21:25:22		Topic for #debian-es is "Docs → debian.org/doc/FAQ debian.org/doc/manuals/reference wiki.debian.org || Para pegar usa paste.debian.net || Repositorios → www.debian.org/mirror/list || ESTO NO ES #ubuntu-es || RTFM → manpages.debian.net || Que imagen descargo? → cdimage-search.debian.org || Debian Estable → Stretch 9.0 || Actualizando a Stretch? → debian.org/releases/stable/releasenotes"
+2017-08-05 21:25:22		Tema establecido por MarlonBardo (ba120206@CAcert/Assurer/dererk) el mié, 05 jul 2017 16:40:07
+2017-08-05 21:25:22		Channel #debian-es: 49 apodos (0 ops, 0 voces, 49 normales)
+2017-08-05 21:25:22		PvAviso(ChanServ): Bienvenido a #debian-es. Este es un canal de discusión, si tienes preguntas acerca de Debian GNU/Linux, dispara, trataremos de dar nuestra mejor respuesta :)
+2017-08-05 21:25:22		URL para #debian-es: http://www.debian.org
+2017-08-05 21:26:01	>	mr-jules (~mr-jules@2806:101e:1:3b12:a41f:468a:98e6:531) has joined #debian-es
+2017-08-05 21:26:01	⇄	Topic for #debian-es is "Docs → debian.org/doc/FAQ debian.org/doc/manuals/reference wiki.debian.org || Para pegar usa paste.debian.net || Repositorios → www.debian.org/mirror/list || ESTO NO ES #ubuntu-es || RTFM → manpages.debian.net || Que imagen descargo? → cdimage-search.debian.org || Debian Estable → Stretch 9.0 || Actualizando a Stretch? → debian.org/releases/stable/releasenotes"
+2017-08-05 21:26:01	⇄	Tema establecido por MarlonBardo (ba120206@CAcert/Assurer/dererk) el mié, 05 jul 2017 16:40:07
+2017-08-05 21:26:01	⇄	Channel #debian-es: 49 apodos (0 ops, 0 voces, 49 normales)
+2017-08-05 21:26:01	⇄	PvAviso(ChanServ): Bienvenido a #debian-es. Este es un canal de discusión, si tienes preguntas acerca de Debian GNU/Linux, dispara, trataremos de dar nuestra mejor respuesta :)
+2017-08-05 21:26:01	⇄	URL para #debian-es: http://www.debian.org
+2017-08-05 21:26:23	⇄	Canal creado el sáb, 25 nov 2006 23:42:43
+2017-08-05 21:29:26	 > 	mr-jules (~mr-jules@2806:101e:1:3b12:a41f:468a:98e6:531) has joined #debian-es
+2017-08-05 21:29:26	 - 	Topic for #debian-es is "Docs → debian.org/doc/FAQ debian.org/doc/manuals/reference wiki.debian.org || Para pegar usa paste.debian.net || Repositorios → www.debian.org/mirror/list || ESTO NO ES #ubuntu-es || RTFM → manpages.debian.net || Que imagen descargo? → cdimage-search.debian.org || Debian Estable → Stretch 9.0 || Actualizando a Stretch? → debian.org/releases/stable/releasenotes"
+2017-08-05 21:29:26	 - 	Tema establecido por MarlonBardo (ba120206@CAcert/Assurer/dererk) el mié, 05 jul 2017 16:40:07
+2017-08-05 21:29:26	 - 	Channel #debian-es: 49 apodos (0 ops, 0 voces, 49 normales)
+2017-08-05 21:29:26	 - 	PvAviso(ChanServ): Bienvenido a #debian-es. Este es un canal de discusión, si tienes preguntas acerca de Debian GNU/Linux, dispara, trataremos de dar nuestra mejor respuesta :)
+2017-08-05 21:29:26	 - 	URL para #debian-es: http://www.debian.org
+2017-08-05 21:30:56	◥	mr-jules (~mr-jules@2806:101e:1:3b12:a41f:468a:98e6:531) has joined #debian-es
+2017-08-05 21:30:56	--	Topic for #debian-es is "Docs → debian.org/doc/FAQ debian.org/doc/manuals/reference wiki.debian.org || Para pegar usa paste.debian.net || Repositorios → www.debian.org/mirror/list || ESTO NO ES #ubuntu-es || RTFM → manpages.debian.net || Que imagen descargo? → cdimage-search.debian.org || Debian Estable → Stretch 9.0 || Actualizando a Stretch? → debian.org/releases/stable/releasenotes"
+2017-08-05 21:30:56	--	Tema establecido por MarlonBardo (ba120206@CAcert/Assurer/dererk) el mié, 05 jul 2017 16:40:07
+2017-08-05 21:30:56	--	Channel #debian-es: 49 apodos (0 ops, 0 voces, 49 normales)
+2017-08-05 21:30:56	--	PvAviso(ChanServ): Bienvenido a #debian-es. Este es un canal de discusión, si tienes preguntas acerca de Debian GNU/Linux, dispara, trataremos de dar nuestra mejor respuesta :)
+2017-08-05 21:30:56	--	URL para #debian-es: http://www.debian.org
+2017-08-05 21:31:19	--	Canal creado el sáb, 25 nov 2006 23:42:43
+2017-08-05 21:41:05	◣	kobain (~kobain@unaffiliated/kobain) ha salido (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2017-08-05 21:41:39	◥	fuaa2 (~fuaa@host139.181-1-237.telecom.net.ar) has joined #debian-es
+2017-08-05 21:42:49	◣	fuaa (~fuaa@host81.190-31-98.telecom.net.ar) ha salido (Read error: Connection reset by peer)
+2017-08-05 21:44:07	◥	mr-jules (~mr-jules@2806:101e:1:3b12:a41f:468a:98e6:531) has joined #debian-es
+2017-08-05 21:44:07	--	Topic for #debian-es is "Docs → debian.org/doc/FAQ debian.org/doc/manuals/reference wiki.debian.org || Para pegar usa paste.debian.net || Repositorios → www.debian.org/mirror/list || ESTO NO ES #ubuntu-es || RTFM → manpages.debian.net || Que imagen descargo? → cdimage-search.debian.org || Debian Estable → Stretch 9.0 || Actualizando a Stretch? → debian.org/releases/stable/releasenotes"
+2017-08-05 21:44:07	--	Tema establecido por MarlonBardo (ba120206@CAcert/Assurer/dererk) el mié, 05 jul 2017 16:40:07
+2017-08-05 21:44:07	--	Channel #debian-es: 48 apodos (0 ops, 0 voces, 48 normales)
+2017-08-05 21:44:07	--	PvAviso(ChanServ): Bienvenido a #debian-es. Este es un canal de discusión, si tienes preguntas acerca de Debian GNU/Linux, dispara, trataremos de dar nuestra mejor respuesta :)
+2017-08-05 21:44:07	--	URL para #debian-es: http://www.debian.org
+2017-08-05 21:44:18	◥	fuaa (~fuaa@host129.190-225-78.telecom.net.ar) has joined #debian-es
+2017-08-05 21:44:29	--	Canal creado el sáb, 25 nov 2006 23:42:43
+2017-08-05 21:47:36	◣	fuaa2 (~fuaa@host139.181-1-237.telecom.net.ar) ha salido (Ping timeout: 260 seconds)
+2017-08-05 21:52:52	◥	fuaa2 (~fuaa@host42.190-139-249.telecom.net.ar) has joined #debian-es
+2017-08-05 21:52:52	◣	likevinyl (~likevinyl@unaffiliated/likevinyl) ha salido (Quit: WeeChat 1.9)
+2017-08-05 21:54:21	◣	fuaa (~fuaa@host129.190-225-78.telecom.net.ar) ha salido (Read error: Connection reset by peer)
+2017-08-05 21:55:40	◣	drymer (~drymer@unaffiliated/drymer) ha salido (Remote host closed the connection)
+2017-08-05 21:56:41	◥	drymer (~drymer@unaffiliated/drymer) has joined #debian-es
+2017-08-05 22:07:39	◥	dasnetz_ (~dasnetz@189.148.48.192) has joined #debian-es
+2017-08-05 22:10:00	◣	dasnetz (~dasnetz@189.148.99.133) ha salido (Ping timeout: 260 seconds)
+2017-08-05 22:17:27	◣	dasnetz_ (~dasnetz@189.148.48.192) ha salido (Read error: Connection reset by peer)
+2017-08-05 22:17:32	◥	dasnetz__ (~dasnetz@189.148.99.133) has joined #debian-es
+2017-08-05 22:30:39	◥	likevinyl (~likevinyl@unaffiliated/likevinyl) has joined #debian-es
+2017-08-05 22:41:55	--	fuaa2 es conocido ahora como fuaa
+2017-08-05 22:52:35	◣	fuaa (~fuaa@host42.190-139-249.telecom.net.ar) ha salido (Quit: Leaving)
+2017-08-05 22:59:15	◥	Heimy (~javi@unaffiliated/heimy) has joined #debian-es
+2017-08-05 23:01:42	◥	nobody_else (~chatzilla@89.189.104.92) has joined #debian-es
+2017-08-05 23:01:52	◣	nobody_else (~chatzilla@89.189.104.92) ha abandonado #debian-es
+2017-08-05 23:19:46	◣	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) ha salido (Quit: WeeChat 1.9)
+2017-08-05 23:33:10	RonDamon	dererk: que paso que paso vamos ayyy!!
+2017-08-05 23:41:42	◥	Gnhugo (~yaaic@187.169.253.5) has joined #debian-es
+2017-08-05 23:52:17	◣	Gnhugo (~yaaic@187.169.253.5) ha salido (Read error: Connection reset by peer)
+2017-08-05 23:52:46	◥	rda-mac_ (~rda-mac@unaffiliated/rda-mac) has joined #debian-es
+2017-08-05 23:55:00	◣	rda-mac (~rda-mac@unaffiliated/rda-mac) ha salido (Ping timeout: 260 seconds)
+2017-08-06 00:00:02	◣	Frikilinux (~Friki@unaffiliated/frikilinux) ha salido (Remote host closed the connection)
+2017-08-06 00:00:33	◥	Frikilinux (~Friki@unaffiliated/frikilinux) has joined #debian-es
+2017-08-06 00:12:18	◥	zamuro (~Samantha@8.red-79-147-69.dynamicip.rima-tde.net) has joined #debian-es
+2017-08-06 00:12:18	◣	zamuro (~Samantha@8.red-79-147-69.dynamicip.rima-tde.net) ha salido (Changing host)
+2017-08-06 00:12:18	◥	zamuro (~Samantha@unaffiliated/zamuro) has joined #debian-es
+2017-08-06 01:54:31	◥	Krakakanok (~k4@46.red-176-85-134.dynamicip.rima-tde.net) has joined #debian-es
+2017-08-06 01:54:31	◣	Krakakanok (~k4@46.red-176-85-134.dynamicip.rima-tde.net) ha salido (Changing host)
+2017-08-06 01:54:31	◥	Krakakanok (~k4@unaffiliated/krakakanok) has joined #debian-es
+2017-08-06 02:06:25	◣	drymer (~drymer@unaffiliated/drymer) ha salido (Remote host closed the connection)
+2017-08-06 02:07:12	◥	drymer (~drymer@unaffiliated/drymer) has joined #debian-es
+2017-08-06 02:15:54	◣	zamuro (~Samantha@unaffiliated/zamuro) ha salido (Remote host closed the connection)
+2017-08-06 02:52:10	◥	Tiffon (~name@unaffiliated/tiff0n) has joined #debian-es
+2017-08-06 03:32:36	◥	v4char (~v4char@173.red-88-19-29.staticip.rima-tde.net) has joined #debian-es
+2017-08-06 03:47:24	◥	moonwatcher- (~pablo@unaffiliated/pabloj7) has joined #debian-es
+2017-08-06 04:08:18	◥	dddddd (~dddddd@unaffiliated/dddddd) has joined #debian-es
+2017-08-06 04:08:25	◥	calisto (~calisto@unaffiliated/calisto) has joined #debian-es
+2017-08-06 04:08:42	◥	frangor (~pi@unaffiliated/frangor) has joined #debian-es
+2017-08-06 04:08:49	◣	calisto (~calisto@unaffiliated/calisto) ha salido (Client Quit)
+2017-08-06 04:54:39	◣	Heimy (~javi@unaffiliated/heimy) ha salido (Ping timeout: 240 seconds)
+2017-08-06 04:58:56	◣	v4char (~v4char@173.red-88-19-29.staticip.rima-tde.net) ha salido (Quit: Bye)
+2017-08-06 05:36:42	◥	http_GK1wmSU (~deep-book@119.81.19.251) has joined #debian-es
+2017-08-06 05:37:50	◣	http_GK1wmSU (~deep-book@119.81.19.251) ha abandonado #debian-es
+2017-08-06 05:45:16	◣	Krakakanok (~k4@unaffiliated/krakakanok) ha salido (Remote host closed the connection)
+2017-08-06 05:54:54	◥	Brigo (~Brigo@2.58.27.77.dynamic.reverse-mundo-r.com) has joined #debian-es
+2017-08-06 06:05:33	◥	barbanegra (~libertad@hackspaceuy/member/barbanegra) has joined #debian-es
+2017-08-06 06:07:10	◣	grrrrrr (~libertad@hackspaceuy/member/barbanegra) ha salido (Read error: Connection reset by peer)
+2017-08-06 06:07:58	◥	dasnetz_ (~dasnetz@189.148.48.192) has joined #debian-es
+2017-08-06 06:10:43	◣	dasnetz__ (~dasnetz@189.148.99.133) ha salido (Ping timeout: 268 seconds)
+2017-08-06 06:18:01	◥	dasnetz__ (~dasnetz@189.148.99.133) has joined #debian-es
+2017-08-06 06:19:00	◥	kobain (~kobain@unaffiliated/kobain) has joined #debian-es
+2017-08-06 06:20:28	◣	dasnetz_ (~dasnetz@189.148.48.192) ha salido (Ping timeout: 260 seconds)
+2017-08-06 06:25:51	◥	nameless4CL (~snake@201.236.27.149) has joined #debian-es
+2017-08-06 06:28:48	◣	nameless_CL (~snake@201.236.24.225) ha salido (Ping timeout: 255 seconds)
+2017-08-06 06:28:50	◣	nameless2CL (~snake@201.236.24.225) ha salido (Ping timeout: 240 seconds)
+2017-08-06 06:28:57	◥	dasnetz_ (~dasnetz@189.148.48.192) has joined #debian-es
+2017-08-06 06:30:39	◥	nameless_CL (~snake@201.236.27.149) has joined #debian-es
+2017-08-06 06:31:27	◣	dasnetz__ (~dasnetz@189.148.99.133) ha salido (Ping timeout: 240 seconds)
+2017-08-06 06:50:37	◥	AngelDeath (~angeldeat@201.242.3.110) has joined #debian-es
+2017-08-06 07:02:00	◣	AngelDeath (~angeldeat@201.242.3.110) ha salido (Ping timeout: 260 seconds)
+2017-08-06 07:05:27	◣	kobain (~kobain@unaffiliated/kobain) ha salido (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2017-08-06 07:07:45	dererk	jjajajaja xDD
+2017-08-06 07:07:47	dererk	RonDamon, \o
+2017-08-06 07:13:47	◥	AngelDeath (~angeldeat@201.242.3.110) has joined #debian-es
+2017-08-06 07:17:40	◣	verovan (~verovan@unaffiliated/verovan) ha salido (Remote host closed the connection)
+2017-08-06 07:21:23	◥	Krakakanok (~k4@unaffiliated/krakakanok) has joined #debian-es
+2017-08-06 07:25:49	◣	AngelDeath (~angeldeat@201.242.3.110) ha salido (Ping timeout: 276 seconds)
+2017-08-06 07:31:00	RonDamon	dererk: como va amiguito ?
+2017-08-06 07:31:18	RonDamon	no puedo escribir en #birras :-(
+2017-08-06 07:34:46	◥	verovan (~verovan@unaffiliated/verovan) has joined #debian-es
+2017-08-06 07:36:50	◥	AngelDeath (~angeldeat@201.242.3.110) has joined #debian-es
+2017-08-06 07:47:01	◥	Yukiteru (~Yukiteru@unaffiliated/yukiteru) has joined #debian-es
+2017-08-06 07:54:57	◥	deb-2 (b1f6cd9a@gateway/web/freenode/ip.177.246.205.154) has joined #debian-es
+2017-08-06 07:55:04	◣	Brigo (~Brigo@2.58.27.77.dynamic.reverse-mundo-r.com) ha salido (Ping timeout: 276 seconds)
+2017-08-06 08:24:36	◣	Yukiteru (~Yukiteru@unaffiliated/yukiteru) ha salido (Ping timeout: 260 seconds)
+2017-08-06 08:28:33	◣	AngelDeath (~angeldeat@201.242.3.110) ha salido (Ping timeout: 248 seconds)
+2017-08-06 08:31:58	◥	Brigo (~Brigo@2.58.27.77.dynamic.reverse-mundo-r.com) has joined #debian-es
+2017-08-06 08:40:02	◥	AngelDeath (~angeldeat@201.242.3.110) has joined #debian-es
+2017-08-06 08:47:43	◣	dddddd (~dddddd@unaffiliated/dddddd) ha salido (Ping timeout: 276 seconds)
+2017-08-06 08:50:01	◥	AlexLikeRock (~AlexLikeR@unaffiliated/alexlikerock) has joined #debian-es
+2017-08-06 08:54:41	◥	morci (~morci@unaffiliated/morci) has joined #debian-es
+2017-08-06 08:59:44	◥	dddddd (~dddddd@unaffiliated/dddddd) has joined #debian-es
+2017-08-06 09:00:56	◥	Yukiteru (~Yukiteru@unaffiliated/yukiteru) has joined #debian-es
+2017-08-06 09:04:25	◥	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) has joined #debian-es
+2017-08-06 09:06:45	◣	morci (~morci@unaffiliated/morci) ha abandonado #debian-es ("Leaving")
+2017-08-06 09:13:05	◣	dasnetz_ (~dasnetz@189.148.48.192) ha salido (Read error: Connection reset by peer)
+2017-08-06 09:13:29	◥	dasnetz_ (~dasnetz@189.148.48.192) has joined #debian-es
+2017-08-06 09:33:01	◥	kobain (~kobain@unaffiliated/kobain) has joined #debian-es
+2017-08-06 09:50:59	◣	Krakakanok (~k4@unaffiliated/krakakanok) ha salido (Remote host closed the connection)
+2017-08-06 10:00:45	◥	ja1000_ (~ja1000@187.146.229.209) has joined #debian-es
+2017-08-06 10:26:27	◣	ja1000_ (~ja1000@187.146.229.209) ha salido (Ping timeout: 240 seconds)
+2017-08-06 10:26:54	◣	Tiffon (~name@unaffiliated/tiff0n) ha salido (Quit: exit)
+2017-08-06 10:38:25	◥	dasnetz__ (~dasnetz@189.148.48.192) has joined #debian-es
+2017-08-06 10:41:28	◣	dasnetz_ (~dasnetz@189.148.48.192) ha salido (Ping timeout: 276 seconds)
+2017-08-06 10:42:57	◣	AlexLikeRock (~AlexLikeR@unaffiliated/alexlikerock) ha salido (Remote host closed the connection)
+2017-08-06 11:01:39	◣	deb-2 (b1f6cd9a@gateway/web/freenode/ip.177.246.205.154) ha salido (Ping timeout: 260 seconds)
+2017-08-06 11:11:47	◣	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) ha salido (Ping timeout: 260 seconds)
+2017-08-06 11:13:58	◣	AngelDeath (~angeldeat@201.242.3.110) ha salido (Ping timeout: 276 seconds)
+2017-08-06 11:18:55	◣	dasnetz__ (~dasnetz@189.148.48.192) ha salido (Remote host closed the connection)
+2017-08-06 11:21:11	◥	dasnetz (~dasnetz@189.148.48.192) has joined #debian-es
+2017-08-06 11:25:35	◥	AngelDeath (~angeldeat@201.242.3.110) has joined #debian-es
+2017-08-06 11:36:02	◥	marcfp (~Marc@33.red-213-98-129.staticip.rima-tde.net) has joined #debian-es
+2017-08-06 11:36:02	◣	marcfp (~Marc@33.red-213-98-129.staticip.rima-tde.net) ha salido (Changing host)
+2017-08-06 11:36:02	◥	marcfp (~Marc@unaffiliated/marcfp) has joined #debian-es
+2017-08-06 11:36:05	marcfp	hola
+2017-08-06 11:36:30	marcfp	sabeis de algun manual para configurar vnc en un pc, para tener acceso remoto en él des de internet ?
+2017-08-06 11:36:38	marcfp	se tiene que redirigir el puerto de vnc, no ?
+2017-08-06 11:36:49	dererk	Sip
+2017-08-06 11:36:51	marcfp	alguien lo ha echo ? o sabe donde puedo encontrar el puerto y demas ?
+2017-08-06 11:37:01	marcfp	lo hice hace años ... y ahora no me sale :S
+2017-08-06 11:37:21	marcfp	dererk: sabes que puerto es por defecto ?
+2017-08-06 11:37:26	marcfp	el 5900 ?
+2017-08-06 11:37:26	dererk	El puerto es 5900-5905, pero quizas te convenga no exponerlo a inet
+2017-08-06 11:37:31	marcfp	5901 ?
+2017-08-06 11:37:33	dererk	y entrar por ssh, por ejemplo
+2017-08-06 11:37:33	marcfp	:1 ?
+2017-08-06 11:37:36	dererk	si, son varios
+2017-08-06 11:37:50	marcfp	dererk: con ssh ya accedo ...
+2017-08-06 11:38:10	marcfp	el problema "que tengo" es que no puedo acceder a la interficie grafica por ssh ... almenos que yo sepa ...
+2017-08-06 11:38:37	marcfp	conoces de algun manual para conseguir X windows sobre ssh ?
+2017-08-06 11:38:39	marcfp	es posible ?
+2017-08-06 12:00:37	◥	nashgul_ (~nashgul@vps2.alcocer.net) has joined #debian-es
+2017-08-06 12:07:53	◣	verovan (~verovan@unaffiliated/verovan) ha salido (*.net *.split)
+2017-08-06 12:07:56	◣	nashgul (~nashgul@vps2.alcocer.net) ha salido (*.net *.split)
+2017-08-06 12:07:56	◣	vando (sid182538@gateway/web/irccloud.com/x-pvvilhuswiifbftx) ha salido (*.net *.split)
+2017-08-06 12:13:05	◥	verovan (~verovan@unaffiliated/verovan) has joined #debian-es
+2017-08-06 12:17:01	◥	Heimy (~javi@unaffiliated/heimy) has joined #debian-es
+2017-08-06 12:17:11	◣	M-alex_mayorga (alexmayorg@gateway/shell/matrix.org/x-igmccitghwxtsnoo) ha salido (Ping timeout: 255 seconds)
+2017-08-06 12:18:49	◥	vando (sid182538@gateway/web/irccloud.com/x-pvvilhuswiifbftx) has joined #debian-es
+2017-08-06 12:23:28	◣	marcfp (~Marc@unaffiliated/marcfp) ha salido (Quit: byez)
+2017-08-06 12:52:36	◥	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) has joined #debian-es
+2017-08-06 13:02:33	◥	alekz (alekz@gateway/shell/insomnia247/x-lkxbpjnpecatmfdk) has joined #debian-es
+2017-08-06 13:03:44	◣	Yukiteru (~Yukiteru@unaffiliated/yukiteru) ha salido (Quit: Leaving)
+2017-08-06 13:17:13	◥	mr-jules (~mr-jules@2806:101e:1:3b12:a41f:468a:98e6:531) has joined #debian-es
+2017-08-06 13:17:13	--	Topic for #debian-es is "Docs → debian.org/doc/FAQ debian.org/doc/manuals/reference wiki.debian.org || Para pegar usa paste.debian.net || Repositorios → www.debian.org/mirror/list || ESTO NO ES #ubuntu-es || RTFM → manpages.debian.net || Que imagen descargo? → cdimage-search.debian.org || Debian Estable → Stretch 9.0 || Actualizando a Stretch? → debian.org/releases/stable/releasenotes"
+2017-08-06 13:17:13	--	Tema establecido por MarlonBardo (ba120206@CAcert/Assurer/dererk) el mié, 05 jul 2017 16:40:07
+2017-08-06 13:17:13	--	Channel #debian-es: 54 apodos (0 ops, 0 voces, 54 normales)
+2017-08-06 13:17:13	--	PvAviso(ChanServ): Bienvenido a #debian-es. Este es un canal de discusión, si tienes preguntas acerca de Debian GNU/Linux, dispara, trataremos de dar nuestra mejor respuesta :)
+2017-08-06 13:17:13	--	URL para #debian-es: http://www.debian.org
+2017-08-06 13:17:37	--	Canal creado el sáb, 25 nov 2006 23:42:43
+2017-08-06 13:36:50	◣	dasnetz (~dasnetz@189.148.48.192) ha salido (Remote host closed the connection)
+2017-08-06 14:15:23	--	irc: desconectado del servidor
+2017-08-06 14:16:00	◥	mr-jules (~mr-jules@2806:101e:1:3b12:a41f:468a:98e6:531) has joined #debian-es
+2017-08-06 14:16:00	--	Topic for #debian-es is "Docs → debian.org/doc/FAQ debian.org/doc/manuals/reference wiki.debian.org || Para pegar usa paste.debian.net || Repositorios → www.debian.org/mirror/list || ESTO NO ES #ubuntu-es || RTFM → manpages.debian.net || Que imagen descargo? → cdimage-search.debian.org || Debian Estable → Stretch 9.0 || Actualizando a Stretch? → debian.org/releases/stable/releasenotes"
+2017-08-06 14:16:00	--	Tema establecido por MarlonBardo (ba120206@CAcert/Assurer/dererk) el mié, 05 jul 2017 16:40:07
+2017-08-06 14:16:00	--	Channel #debian-es: 54 apodos (0 ops, 0 voces, 54 normales)
+2017-08-06 14:16:00	--	PvAviso(ChanServ): Bienvenido a #debian-es. Este es un canal de discusión, si tienes preguntas acerca de Debian GNU/Linux, dispara, trataremos de dar nuestra mejor respuesta :)
+2017-08-06 14:16:00	--	URL para #debian-es: http://www.debian.org
+2017-08-06 14:16:07	◣	Warlock (~WarlockBS@90.106.149.7) ha salido (Quit: leaving)
+2017-08-06 14:16:24	--	Canal creado el sáb, 25 nov 2006 23:42:43
+2017-08-06 14:19:41	◥	M-alex_mayorga (alexmayorg@gateway/shell/matrix.org/x-ryflmslplryqxosw) has joined #debian-es
+2017-08-06 14:26:01	◥	SUSE_Nas (58106125@gateway/web/freenode/ip.88.16.97.37) has joined #debian-es
+2017-08-06 14:26:15	◣	SUSE_Nas (58106125@gateway/web/freenode/ip.88.16.97.37) ha salido (Client Quit)
+2017-08-06 14:26:38	◥	Nas (58106125@gateway/web/freenode/ip.88.16.97.37) has joined #debian-es
+2017-08-06 14:28:29	◥	dasnetz (~dasnetz@189.148.47.48) has joined #debian-es
+2017-08-06 14:29:09	◣	Nas (58106125@gateway/web/freenode/ip.88.16.97.37) ha salido (Client Quit)
+2017-08-06 14:43:53	◥	dasnetz_ (~dasnetz@189.148.47.48) has joined #debian-es
+2017-08-06 14:46:07	◣	dasnetz (~dasnetz@189.148.47.48) ha salido (Ping timeout: 255 seconds)
+2017-08-06 14:52:05	◣	moonwatcher- (~pablo@unaffiliated/pabloj7) ha salido (Quit: WeeChat 1.9)
+2017-08-06 15:08:13	◥	dasnetz__ (~dasnetz@189.148.22.118) has joined #debian-es
+2017-08-06 15:10:39	◣	dasnetz_ (~dasnetz@189.148.47.48) ha salido (Ping timeout: 240 seconds)
+2017-08-06 15:30:57	◣	AngelDeath (~angeldeat@201.242.3.110) ha salido (Ping timeout: 240 seconds)
+2017-08-06 15:46:28	◥	AngelDeath (~angeldeat@201.242.3.110) has joined #debian-es
+2017-08-06 15:50:47	dererk	Una Warlock
+2017-08-06 15:53:49	◣	dddddd (~dddddd@unaffiliated/dddddd) ha salido (Quit: Hasta otra..)
+2017-08-06 16:11:35	◣	nameless4CL (~snake@201.236.27.149) ha salido (Quit: good luck...)
+2017-08-06 16:12:14	◣	nameless_CL (~snake@201.236.27.149) ha salido (Remote host closed the connection)
+2017-08-06 16:22:00	◣	AngelDeath (~angeldeat@201.242.3.110) ha salido (Ping timeout: 260 seconds)
+2017-08-06 16:33:43	◥	AngelDeath (~angeldeat@201.242.3.110) has joined #debian-es
+2017-08-06 20:20:25	--	irc: desconectado del servidor
+2017-08-06 20:21:02	◥	mr-jules (~mr-jules@2806:101e:1:2d1e:c0fa:c829:2156:83eb) has joined #debian-es
+2017-08-06 20:21:02	--	Topic for #debian-es is "Docs → debian.org/doc/FAQ debian.org/doc/manuals/reference wiki.debian.org || Para pegar usa paste.debian.net || Repositorios → www.debian.org/mirror/list || ESTO NO ES #ubuntu-es || RTFM → manpages.debian.net || Que imagen descargo? → cdimage-search.debian.org || Debian Estable → Stretch 9.0 || Actualizando a Stretch? → debian.org/releases/stable/releasenotes"
+2017-08-06 20:21:02	--	Tema establecido por dererk (~dererk@CAcert/Assurer/dererk) el dom, 06 ago 2017 18:08:16
+2017-08-06 20:21:02	--	Channel #debian-es: 50 apodos (0 ops, 0 voces, 50 normales)
+2017-08-06 20:21:02	--	PvAviso(ChanServ): Bienvenido a #debian-es. Este es un canal de discusión, si tienes preguntas acerca de Debian GNU/Linux, dispara, trataremos de dar nuestra mejor respuesta :)
+2017-08-06 20:21:02	--	URL para #debian-es: http://www.debian.org
+2017-08-06 20:21:26	--	Canal creado el sáb, 25 nov 2006 23:42:43
+2017-08-06 20:25:50	◥	lordvalor (~lordvalor@gusl/staff/vlozada) has joined #debian-es
+2017-08-06 20:27:32	◣	lordvalor (~lordvalor@gusl/staff/vlozada) ha salido (Client Quit)
+2017-08-06 20:32:14	◣	dasnetz__ (~dasnetz@189.148.22.118) ha salido (Remote host closed the connection)
+2017-08-06 20:32:39	◥	dasnetz__ (~dasnetz@189.148.47.48) has joined #debian-es
+2017-08-06 20:37:31	◣	Nel1x (~Nel1x@69.61.93.45) ha salido (Ping timeout: 276 seconds)
+2017-08-06 20:46:23	◣	kobain (~kobain@unaffiliated/kobain) ha salido (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2017-08-06 20:53:00	◣	drymer (~drymer@unaffiliated/drymer) ha salido (Remote host closed the connection)
+2017-08-06 20:53:54	◥	drymer (~drymer@unaffiliated/drymer) has joined #debian-es
+2017-08-06 20:58:37	◣	AlexLikeRock (~AlexLikeR@unaffiliated/alexlikerock) ha salido (Ping timeout: 260 seconds)
+2017-08-06 21:23:14	◥	becerril (~becerril@45.5.53.18) has joined #debian-es
+2017-08-06 21:23:40	◣	becerril (~becerril@45.5.53.18) ha salido (Remote host closed the connection)
+2017-08-06 21:39:47	◥	AlexLikeRock (~AlexLikeR@unaffiliated/alexlikerock) has joined #debian-es
+2017-08-06 21:41:35	◣	AlexLikeRock (~AlexLikeR@unaffiliated/alexlikerock) ha salido (Client Quit)
+2017-08-06 22:00:10	◣	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) ha salido (Quit: WeeChat 1.9)
+2017-08-06 22:18:49	◣	dasnetz__ (~dasnetz@189.148.47.48) ha salido (Remote host closed the connection)
+2017-08-06 22:19:09	◥	dasnetz__ (~dasnetz@189.148.47.48) has joined #debian-es
+2017-08-06 22:22:44	◣	dasnetz__ (~dasnetz@189.148.47.48) ha salido (Remote host closed the connection)
+2017-08-06 22:23:10	◥	dasnetz__ (~dasnetz@189.148.47.48) has joined #debian-es
+2017-08-06 22:41:51	◥	AlexLikeRock (~AlexLikeR@unaffiliated/alexlikerock) has joined #debian-es
+2017-08-06 22:50:22	◥	nesimo (~nesimo@151.red-79-151-246.dynamicip.rima-tde.net) has joined #debian-es
+2017-08-06 22:50:54	◥	nachosalvador (~nacho@139.47.26.227) has joined #debian-es
+2017-08-06 22:54:07	◣	Gnhugo (~yaaic@187.169.230.155) ha salido (Ping timeout: 260 seconds)
+2017-08-06 23:02:58	◣	Heimy (~javi@unaffiliated/heimy) ha salido (Ping timeout: 255 seconds)
+2017-08-06 23:19:45	◥	arturo (~arturo@r2d2.cica.es) has joined #debian-es
+2017-08-06 23:26:09	◣	AlexLikeRock (~AlexLikeR@unaffiliated/alexlikerock) ha salido (Quit: Leaving)
+2017-08-06 23:34:05	◥	Heimy (~javi@unaffiliated/heimy) has joined #debian-es
+2017-08-06 23:45:23	◥	Tiffon (~name@unaffiliated/tiff0n) has joined #debian-es
+2017-08-07 00:09:33	◣	nesimo (~nesimo@151.red-79-151-246.dynamicip.rima-tde.net) ha salido (Quit: Leaving)
+2017-08-07 00:11:18	◥	zamuro (~Samantha@8.red-212-170-62.staticip.rima-tde.net) has joined #debian-es
+2017-08-07 00:11:18	◣	zamuro (~Samantha@8.red-212-170-62.staticip.rima-tde.net) ha salido (Changing host)
+2017-08-07 00:11:18	◥	zamuro (~Samantha@unaffiliated/zamuro) has joined #debian-es
+2017-08-07 00:34:45	◥	nesimo (~nesimo@151.red-79-151-246.dynamicip.rima-tde.net) has joined #debian-es
+2017-08-07 00:44:05	◥	sanzante (~ricardo@75.178.132.37.dynamic.jazztel.es) has joined #debian-es
+2017-08-07 00:52:03	◣	sanzante (~ricardo@75.178.132.37.dynamic.jazztel.es) ha salido (Read error: No route to host)
+2017-08-07 01:03:33	◣	drymer (~drymer@unaffiliated/drymer) ha salido (Remote host closed the connection)
+2017-08-07 01:04:49	◥	drymer (~drymer@unaffiliated/drymer) has joined #debian-es
+2017-08-07 01:11:43	◥	TeleGM2 (~telegm2@unaffiliated/telegm2) has joined #debian-es
+2017-08-07 01:21:39	◣	TeleGM2 (~telegm2@unaffiliated/telegm2) ha salido (Remote host closed the connection)
+2017-08-07 01:22:06	◥	TeleGM2 (~telegm2@unaffiliated/telegm2) has joined #debian-es
+2017-08-07 01:33:30	◣	TeleGM2 (~telegm2@unaffiliated/telegm2) ha salido (Remote host closed the connection)
+2017-08-07 01:33:52	◥	TeleGM2 (~telegm2@unaffiliated/telegm2) has joined #debian-es
+2017-08-07 01:42:04	◣	TeleGM2 (~telegm2@unaffiliated/telegm2) ha salido (Remote host closed the connection)
+2017-08-07 01:42:36	◥	TeleGM2 (~telegm2@unaffiliated/telegm2) has joined #debian-es
+2017-08-07 01:42:52	◣	TeleGM2 (~telegm2@unaffiliated/telegm2) ha salido (Remote host closed the connection)
+2017-08-07 01:43:19	◥	TeleGM2 (~telegm2@unaffiliated/telegm2) has joined #debian-es
+2017-08-07 01:55:45	◣	TeleGM2 (~telegm2@unaffiliated/telegm2) ha salido (Remote host closed the connection)
+2017-08-07 01:56:10	◥	TeleGM2 (~telegm2@unaffiliated/telegm2) has joined #debian-es
+2017-08-07 02:21:32	◣	nashgul_ (~nashgul@vps2.alcocer.net) ha salido (Quit: WeeChat 1.8-dev)
+2017-08-07 02:21:43	◥	nashgul (~nashgul@vps2.alcocer.net) has joined #debian-es
+2017-08-07 02:39:05	◣	TeleGM2 (~telegm2@unaffiliated/telegm2) ha salido (Quit: ...::: bye Friends :::...)
+2017-08-07 03:01:39	◥	dasnetz_ (~dasnetz@189.148.22.118) has joined #debian-es
+2017-08-07 03:04:17	◣	dasnetz__ (~dasnetz@189.148.47.48) ha salido (Ping timeout: 248 seconds)
+2017-08-07 03:18:34	◣	arturo (~arturo@r2d2.cica.es) ha salido (Remote host closed the connection)
+2017-08-07 03:50:52	◥	Brigo (~Brigo@2.58.27.77.dynamic.reverse-mundo-r.com) has joined #debian-es
+2017-08-07 03:57:11	◣	ZenWalker (~r00t@unaffiliated/zenwalker) ha salido (Quit: leaving)
+2017-08-07 04:02:33	◥	ZenWalker (~r00t@unaffiliated/zenwalker) has joined #debian-es
+2017-08-07 04:16:15	◥	dddddd (~dddddd@unaffiliated/dddddd) has joined #debian-es
+2017-08-07 04:19:52	◥	MarioMey (~mario@181.20.45.228) has joined #debian-es
+2017-08-07 04:46:59	◣	MarioMey (~mario@181.20.45.228) ha abandonado #debian-es
+2017-08-07 05:01:29	◣	alekz (alekz@gateway/shell/insomnia247/x-lkxbpjnpecatmfdk) ha salido (Ping timeout: 246 seconds)
+2017-08-07 05:02:36	◥	alekz (alekz@gateway/shell/insomnia247/x-bfshtzfjdovmgndl) has joined #debian-es
+2017-08-07 05:08:16	◥	Section1 (~section1@190.195.93.86) has joined #debian-es
+2017-08-07 05:37:20	◣	Heimy (~javi@unaffiliated/heimy) ha salido (Ping timeout: 268 seconds)
+2017-08-07 05:57:51	◥	bit1 (~joseanton@86.red-213-96-250.staticip.rima-tde.net) has joined #debian-es
+2017-08-07 06:02:54	◣	zamuro (~Samantha@unaffiliated/zamuro) ha abandonado #debian-es ("[IRSSI]")
+2017-08-07 06:05:58	◣	nachosalvador (~nacho@139.47.26.227) ha salido (Quit: Leaving)
+2017-08-07 06:09:53	◥	grrrrrr (~libertad@hackspaceuy/member/barbanegra) has joined #debian-es
+2017-08-07 06:10:18	◣	free4fun (~libertad@hackspaceuy/member/barbanegra) ha salido (Read error: Connection reset by peer)
+2017-08-07 06:24:37	◥	dasnetz (~dasnetz@189.148.47.48) has joined #debian-es
+2017-08-07 06:26:34	◣	RonDamon (~RonDamon@gateway/tor-sasl/rondamon) ha salido (Remote host closed the connection)
+2017-08-07 06:27:45	◥	Nas (58106125@gateway/web/freenode/ip.88.16.97.37) has joined #debian-es
+2017-08-07 06:32:54	◥	RonDamon (~RonDamon@gateway/tor-sasl/rondamon) has joined #debian-es
+2017-08-07 06:44:51	mr-jules	0/
+2017-08-07 06:48:33	◣	Brigo (~Brigo@2.58.27.77.dynamic.reverse-mundo-r.com) ha salido (Ping timeout: 240 seconds)
+2017-08-07 06:49:57	◥	Brigo (~Brigo@2.58.27.77.dynamic.reverse-mundo-r.com) has joined #debian-es
+2017-08-07 07:03:19	◣	Nas (58106125@gateway/web/freenode/ip.88.16.97.37) ha salido (Quit: Page closed)
+2017-08-07 07:07:47	◥	dasnetz__ (~dasnetz@189.148.47.48) has joined #debian-es
+2017-08-07 07:09:48	◣	dasnetz_ (~dasnetz@189.148.22.118) ha salido (Ping timeout: 240 seconds)
+2017-08-07 07:11:34	◣	RonDamon (~RonDamon@gateway/tor-sasl/rondamon) ha salido (Quit: WeeChat 1.9)
+2017-08-07 07:13:36	◥	RonDamon (~RonDamon@gateway/tor-sasl/rondamon) has joined #debian-es
+2017-08-07 07:18:42	◥	dasnetz_ (~dasnetz@189.148.47.48) has joined #debian-es
+2017-08-07 07:21:08	◣	dasnetz__ (~dasnetz@189.148.47.48) ha salido (Ping timeout: 240 seconds)
+2017-08-07 08:22:18	◥	moonwatcher- (~pablo@unaffiliated/pabloj7) has joined #debian-es
+2017-08-07 08:40:02	◥	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) has joined #debian-es
+2017-08-07 08:42:48	◣	RonDamon (~RonDamon@gateway/tor-sasl/rondamon) ha salido (Remote host closed the connection)
+2017-08-07 08:43:03	◥	RonDamon (~RonDamon@gateway/tor-sasl/rondamon) has joined #debian-es
+2017-08-07 08:55:05	dererk	Alguien de aqui que este asistiendo a la DebConf en Montreal?
+2017-08-07 11:19:21	--	irc: desconectado del servidor
+2017-08-07 11:20:01	◥	mr-jules (~mr-jules@189.173.198.174) has joined #debian-es
+2017-08-07 11:20:01	--	Topic for #debian-es is "Docs → debian.org/doc/FAQ debian.org/doc/manuals/reference wiki.debian.org || Para pegar usa paste.debian.net || Repositorios → www.debian.org/mirror/list || ESTO NO ES #ubuntu-es || RTFM → manpages.debian.net || Que imagen descargo? → cdimage-search.debian.org || Debian Estable → Stretch 9.0 || Actualizando a Stretch? → debian.org/releases/stable/releasenotes"
+2017-08-07 11:20:01	--	Tema establecido por dererk (~dererk@CAcert/Assurer/dererk) el dom, 06 ago 2017 18:08:17
+2017-08-07 11:20:01	--	Channel #debian-es: 51 apodos (0 ops, 0 voces, 51 normales)
+2017-08-07 11:20:01	--	PvAviso(ChanServ): Bienvenido a #debian-es. Este es un canal de discusión, si tienes preguntas acerca de Debian GNU/Linux, dispara, trataremos de dar nuestra mejor respuesta :)
+2017-08-07 11:20:01	--	URL para #debian-es: http://www.debian.org
+2017-08-07 11:20:30	--	Canal creado el sáb, 25 nov 2006 23:42:43
+2017-08-07 11:55:00	--	irc: desconectado del servidor
+2017-08-07 11:55:37	◥	mr-jules (~mr-jules@2806:101e:1:2d1e:c0fa:c829:2156:83eb) has joined #debian-es
+2017-08-07 11:55:37	--	Topic for #debian-es is "Docs → debian.org/doc/FAQ debian.org/doc/manuals/reference wiki.debian.org || Para pegar usa paste.debian.net || Repositorios → www.debian.org/mirror/list || ESTO NO ES #ubuntu-es || RTFM → manpages.debian.net || Que imagen descargo? → cdimage-search.debian.org || Debian Estable → Stretch 9.0 || Actualizando a Stretch? → debian.org/releases/stable/releasenotes"
+2017-08-07 11:55:37	--	Tema establecido por dererk (~dererk@CAcert/Assurer/dererk) el dom, 06 ago 2017 18:08:16
+2017-08-07 11:55:37	--	Channel #debian-es: 52 apodos (0 ops, 0 voces, 52 normales)
+2017-08-07 11:55:37	--	PvAviso(ChanServ): Bienvenido a #debian-es. Este es un canal de discusión, si tienes preguntas acerca de Debian GNU/Linux, dispara, trataremos de dar nuestra mejor respuesta :)
+2017-08-07 11:55:37	--	URL para #debian-es: http://www.debian.org
+2017-08-07 11:55:45	◥	TeleGM2_ (~telegm2@unaffiliated/telegm2) has joined #debian-es
+2017-08-07 11:56:03	dererk	que es lo que buscas hacer?
+2017-08-07 11:56:05	--	Canal creado el sáb, 25 nov 2006 23:42:43
+2017-08-07 11:56:27	dererk	por que swift es una infraestructura bastante grande
+2017-08-07 11:56:37	marcfp	dererk: pues por ahora ... encontrar un compilador de swift para debian ...
+2017-08-07 11:56:51	dererk	compilador de swift?
+2017-08-07 11:57:01	marcfp	que me permita incorporar librarias graficas como gtk, que en github hay un proyecto que lo estan haciendo ...
+2017-08-07 11:57:13	dererk	lo que conozco de swift no se compila
+2017-08-07 11:57:16	marcfp	en ubuntu ... existe ...
+2017-08-07 11:57:18	dererk	es un object storage
+2017-08-07 11:57:20	marcfp	es c
+2017-08-07 11:57:22	marcfp	no?
+2017-08-07 11:57:28	marcfp	objective c
+2017-08-07 11:58:04	marcfp	bueno ...
+2017-08-07 11:58:17	dererk	objective C es casi todo propietario, no se si vas a encontrar mucho via repos
+2017-08-07 11:59:00	marcfp	por ahora ... swift esta portado a ubuntu ...
+2017-08-07 11:59:04	marcfp	pero no a debian ...
+2017-08-07 11:59:09	marcfp	por lo que veo :S
+2017-08-07 11:59:14	◣	TeleGM2_ (~telegm2@unaffiliated/telegm2) ha salido (Client Quit)
+2017-08-07 12:01:29	◥	dasnetz__ (~dasnetz@189.148.47.48) has joined #debian-es
+2017-08-07 12:01:50	◣	dasnetz (~dasnetz@189.148.47.48) ha salido (Read error: Connection reset by peer)
+2017-08-07 12:01:55	marcfp	dererk: por eso me recomiendas que lo instale a partir de un paquete de ubuntu ?
+2017-08-07 12:02:36	dererk	yo no recomende nada :D
+2017-08-07 12:03:06	ZenWalker	yo te recomiendo que no aceptes recomendaciones xD
+2017-08-07 12:04:02	marcfp	okas
+2017-08-07 12:04:37	◥	bit1 (~joseanton@86.red-213-96-250.staticip.rima-tde.net) has joined #debian-es
+2017-08-07 12:12:46	dererk	Un ZenWalker
+2017-08-07 12:14:22	ZenWalker	un dererk :P
+2017-08-07 12:15:51	◥	Nas (58106125@gateway/web/freenode/ip.88.16.97.37) has joined #debian-es
+2017-08-07 12:17:14	◣	Nas (58106125@gateway/web/freenode/ip.88.16.97.37) ha salido (Client Quit)
+2017-08-07 12:18:21	◣	bit1 (~joseanton@86.red-213-96-250.staticip.rima-tde.net) ha salido (Remote host closed the connection)
+2017-08-07 12:26:46	marcfp	y para emular mac ... mas de lo mismo, no ?
+2017-08-07 12:26:56	marcfp	cosa complicada ...
+2017-08-07 12:33:15	Brigo	marcfp, conseguiste lo de las X en remoto con ssh?
+2017-08-07 12:34:02	◥	bit1 (~joseanton@86.red-213-96-250.staticip.rima-tde.net) has joined #debian-es
+2017-08-07 12:46:27	◥	Nas (58106125@gateway/web/freenode/ip.88.16.97.37) has joined #debian-es
+2017-08-07 12:46:47	◣	Nas (58106125@gateway/web/freenode/ip.88.16.97.37) ha salido (Client Quit)
+2017-08-07 12:49:36	◣	dasnetz__ (~dasnetz@189.148.47.48) ha salido (Read error: Connection reset by peer)
+2017-08-07 12:49:59	◥	dasnetz__ (~dasnetz@189.148.47.48) has joined #debian-es
+2017-08-07 13:01:26	◣	Section1 (~section1@190.195.93.86) ha salido (Quit: Leaving)
+2017-08-07 13:03:58	◣	dasnetz__ (~dasnetz@189.148.47.48) ha salido (Remote host closed the connection)
+2017-08-07 13:05:01	◥	dasnetz (~dasnetz@189.148.22.118) has joined #debian-es
+2017-08-07 13:12:02	◣	Obi-Wan (~obi-wan@unaffiliated/obi-wan) ha salido (Ping timeout: 276 seconds)
+2017-08-07 13:24:15	◣	marcfp (~Marc@unaffiliated/marcfp) ha salido (Quit: Lost terminal)
+2017-08-07 13:26:23	◥	Lorduncan (~Thunderbi@47.61.50.31) has joined #debian-es
+2017-08-07 15:10:46	◥	mr-jules (~mr-jules@2806:101e:1:2d1e:c0fa:c829:2156:83eb) has joined #debian-es
+2017-08-07 15:10:46	--	Topic for #debian-es is "Docs → debian.org/doc/FAQ debian.org/doc/manuals/reference wiki.debian.org || Para pegar usa paste.debian.net || Repositorios → www.debian.org/mirror/list || ESTO NO ES #ubuntu-es || RTFM → manpages.debian.net || Que imagen descargo? → cdimage-search.debian.org || Debian Estable → Stretch 9.0 || Actualizando a Stretch? → debian.org/releases/stable/releasenotes"
+2017-08-07 15:10:46	--	Tema establecido por dererk (~dererk@CAcert/Assurer/dererk) el dom, 06 ago 2017 18:08:16
+2017-08-07 15:10:46	--	Channel #debian-es: 50 apodos (0 ops, 0 voces, 50 normales)
+2017-08-07 15:10:46	--	PvAviso(ChanServ): Bienvenido a #debian-es. Este es un canal de discusión, si tienes preguntas acerca de Debian GNU/Linux, dispara, trataremos de dar nuestra mejor respuesta :)
+2017-08-07 15:10:46	--	URL para #debian-es: http://www.debian.org
+2017-08-07 15:11:08	◣	bit1 (~joseanton@86.red-213-96-250.staticip.rima-tde.net) ha salido (Ping timeout: 240 seconds)
+2017-08-07 15:11:08	--	Canal creado el sáb, 25 nov 2006 23:42:43
+2017-08-07 15:11:12	◣	fuaa (~fuaa@181.93.142.107) ha salido (Ping timeout: 260 seconds)
+2017-08-07 15:20:04	◣	moonwatcher- (~pablo@unaffiliated/pabloj7) ha salido (Quit: WeeChat 1.9)
+2017-08-07 16:02:04	◣	Brigo (~Brigo@2.58.27.77.dynamic.reverse-mundo-r.com) ha salido (Ping timeout: 260 seconds)
+2017-08-07 16:13:52	◥	atotclic (~Atotclic@unaffiliated/atotclic) has joined #debian-es
+2017-08-07 16:13:58	◥	Brigo (~Brigo@2.58.27.77.dynamic.reverse-mundo-r.com) has joined #debian-es

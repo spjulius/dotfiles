@@ -1,9 +1,13 @@
-
-
-! ------------------------------------------------------------------------------
-! URxvt standard archlabs theme
-! ------------------------------------------------------------------------------
-
+!
+!     ██╗  ██╗ ██████╗  ███████╗ ███████╗  ██████╗  ██╗   ██╗ ██████╗   ██████╗ ███████╗ ███████╗ 
+!     ╚██╗██╔╝ ██╔══██╗ ██╔════╝ ██╔════╝ ██╔═══██╗ ██║   ██║ ██╔══██╗ ██╔════╝ ██╔════╝ ██╔════╝ 
+!      ╚███╔╝  ██████╔╝ █████╗   ███████╗ ██║   ██║ ██║   ██║ ██████╔╝ ██║      █████╗   ███████╗ 
+!      ██╔██╗  ██╔══██╗ ██╔══╝   ╚════██║ ██║   ██║ ██║   ██║ ██╔══██╗ ██║      ██╔══╝   ╚════██║ 
+! ██╗ ██╔╝ ██╗ ██║  ██║ ███████╗ ███████║ ╚██████╔╝ ╚██████╔╝ ██║  ██║ ╚██████╗ ███████╗ ███████║ 
+! ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚══════╝ ╚══════╝  ╚═════╝   ╚═════╝  ╚═╝  ╚═╝  ╚═════╝ ╚══════╝ ╚══════╝ 
+!
+! JulesKLord (github/spjulius)(JulioGlez.93@gmail.com)
+!
 URxvt*perl-ext-common:		osc-xterm-clipboard,default,matcher
 URxvt*url-launcher:         /usr/bin/xdg-open
 URxvt*matcher.button:       1
@@ -20,7 +24,7 @@ URxvt*iconFile:  		/usr/share/icons/Sardi-Mono/scalable/apps/terminal.svg
 URxvt*depth:            32
 !URxvt*background:      rgba:0000/0000/0000/AAAA
 !URxvt*background:      #404552
-URxvt*background:       #131313
+URxvt*background:       #151515
 URxvt*foreground:       #FFFFFF
 URxvt.underlineColor:   #4682B4
 URxvt.highlightColor:   #4682B4
@@ -37,31 +41,40 @@ URxvt.colorUL:      	#87afd7
 
 xterm*dynamicColors: true
 urxvt*dynamicColors: on
-*color0:    #393939
-*color8:    #474747
-*color1:    #f26157
-*color9:    #ff8c85
-*color2:    #f1a66a
-*color10:   #ffc291
-*color3:    #f7ee7f
-*color11:   #fff9ab
-*color4:    #8d6a9f
-*color12:   #d0a5e6
-*color5:    #55a3c2
-*color13:   #70d6ff
-*color6:    #1b998b
-*color14:   #3dc4b5
-*color7:    #dddddd
-*color15:   #ece8c9
+
+!black
+*color0:     #393939
+*color8:     #AF875F
+!red
+*color1:     #BF1E2D
+*color9:     #E7212A
+!green
+*color2:     #9DBA3A
+*color10:    #A9C938
+!yellow
+*color3:     #F5B915
+*color11:    #F7D325
+!blue
+*color4:     #1CA1DB
+*color12:    #00AFDA
+!magenta
+*color5:     #652F90
+*color13:    #894E9F
+!cyan
+*color6:     #EA7D24
+*color14:    #F79321
+!white
+*color7:     #E7E8E9
+*color15:    #F3F3F4
 
 ! fonts
-URxvt*letterSpace: 	    	-2
+URxvt*letterSpace: 	    	-.5
 !Xft.size:						8.1
-URxvt*font:                 	xft:fira mono for powerline:bold:size=8
-URxvt*imFont:               	xft:fira mono for powerline:bold:size=8
-URxvt*boldFont:             	xft:fira mono for powerline:bold:size=8
-URxvt*italicFont:           	xft:fira mono for powerline:bold:size=8
-URxvt*boldItalicFont:     		xft:fira Mono for powerline:bold:size=8
+URxvt*font:                 	xft:tewi:medium:size=8
+URxvt*imFont:               	xft:tewi:medium:size=8
+URxvt*boldFont:             	xft:tewi:bold:size=8
+URxvt*italicFont:           	xft:tewi:bold:size=8
+URxvt*boldItalicFont:     		xft:tewi:bold:size=8
 ! run :.!fc-list | grep <font-name>
 
 ! perl extensions
@@ -77,7 +90,7 @@ URxvt.keysym.M-C-v:     perl:clipboard:paste_escaped
 URxvt.keysym.M-Escape:  perl:keyboard-select:activate
 URxvt.keysym.M-s:       perl:keyboard-select:search
 URxvt.keysym.M-u:       perl:url-select:select_next
-URxvt.urlLauncher:      chromium
+URxvt.urlLauncher:      firefox
 URxvt.underlineURLs:    true
 URxvt.urlButton:        1
 URxvt.geometry: 		90x30
@@ -89,8 +102,20 @@ URxvt.tabbed.tab-fg:    15
 URxvt.tabbed.tab-bg:    4
 URxvt*buffered:         false
 
+! ------------------------------------------------------------------------------
+! ROFI setup
+! ------------------------------------------------------------------------------
 
-
-
+rofi.separator-style:   solid
+rofi.font:              tewi 8
+rofi.color-enabled:     true
+rofi.padding:           50
+rofi.line-margin:       5
+rofi.lines:             10
+rofi.width:             720
+rofi.disable-history:   true
+rofi.modi:              keys,drun,window,run
+rofi.sidebar-mode:      true
+rofi.fullscreen:        false
                                                          
                                                            

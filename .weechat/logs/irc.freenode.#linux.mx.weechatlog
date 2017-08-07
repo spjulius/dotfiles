@@ -1,0 +1,951 @@
+2017-07-23 10:12:45	>	mr-jules (~mr-jules@189.173.19.142) has joined #linux.mx
+2017-07-23 10:12:45	--	Topic for #linux.mx is "GOOGLE ES TU BUSCADOR Y NADA TE FALTARA.... SOLO HAY QUE APRENDER A PREGUNTARLE :D"
+2017-07-23 10:12:45	--	Tema establecido por kurama10 el mié, 06 ago 2014 12:09:04
+2017-07-23 10:12:45	--	Channel #linux.mx: 9 apodos (1 op, 0 voces, 8 normales)
+2017-07-23 10:13:00	--	Canal creado el mar, 15 dic 2009 09:17:34
+2017-07-23 10:24:43	>	AFS (~afernande@189.148.246.232) has joined #linux.mx
+2017-07-23 10:24:51	AFS	Roa: que onda
+2017-07-23 10:24:57	AFS	where are u ?
+2017-07-23 10:29:05	>	mr-jules (~mr-jules@189.173.19.142) has joined #linux.mx
+2017-07-23 10:29:05	--	Topic for #linux.mx is "GOOGLE ES TU BUSCADOR Y NADA TE FALTARA.... SOLO HAY QUE APRENDER A PREGUNTARLE :D"
+2017-07-23 10:29:05	--	Tema establecido por kurama10 el mié, 06 ago 2014 12:09:04
+2017-07-23 10:29:05	--	Channel #linux.mx: 10 apodos (1 op, 0 voces, 9 normales)
+2017-07-23 10:29:19	--	Canal creado el mar, 15 dic 2009 09:17:34
+2017-07-23 10:40:41	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #linux.mx
+2017-07-23 10:40:41	⇄	Topic for #linux.mx is "GOOGLE ES TU BUSCADOR Y NADA TE FALTARA.... SOLO HAY QUE APRENDER A PREGUNTARLE :D"
+2017-07-23 10:40:41	⇄	Tema establecido por kurama10 el mié, 06 ago 2014 12:09:04
+2017-07-23 10:40:41	⇄	Channel #linux.mx: 10 apodos (1 op, 0 voces, 9 normales)
+2017-07-23 10:40:56	⇄	Canal creado el mar, 15 dic 2009 09:17:34
+2017-07-23 10:43:29	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #linux.mx
+2017-07-23 10:43:29	⇄	Topic for #linux.mx is "GOOGLE ES TU BUSCADOR Y NADA TE FALTARA.... SOLO HAY QUE APRENDER A PREGUNTARLE :D"
+2017-07-23 10:43:29	⇄	Tema establecido por kurama10 el mié, 06 ago 2014 12:09:04
+2017-07-23 10:43:29	⇄	Channel #linux.mx: 10 apodos (1 op, 0 voces, 9 normales)
+2017-07-23 10:43:45	⇄	Canal creado el mar, 15 dic 2009 09:17:34
+2017-07-23 10:50:41	<	AFS (~afernande@189.148.246.232) ha salido (Quit: [BX] Abort Retry Fail)
+2017-07-23 11:46:02	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #linux.mx
+2017-07-23 11:46:02	⇄	Topic for #linux.mx is "GOOGLE ES TU BUSCADOR Y NADA TE FALTARA.... SOLO HAY QUE APRENDER A PREGUNTARLE :D"
+2017-07-23 11:46:03	⇄	Tema establecido por kurama10 el mié, 06 ago 2014 12:09:04
+2017-07-23 11:46:03	⇄	Channel #linux.mx: 9 apodos (1 op, 0 voces, 8 normales)
+2017-07-23 11:46:16	⇄	Canal creado el mar, 15 dic 2009 09:17:34
+2017-07-23 12:52:58	>	josejp2424 (~pupjibaro@unaffiliated/josejp2424) has joined #linux.mx
+2017-07-23 13:10:09	<	josejp2424 (~pupjibaro@unaffiliated/josejp2424) ha salido (Quit: Leaving)
+2017-07-23 14:46:27	<	dasnetz (~dasnetz@189.148.52.243) ha salido (Read error: Connection reset by peer)
+2017-07-23 15:38:08	>	kobain (~kobain@unaffiliated/kobain) has joined #linux.mx
+2017-07-23 15:53:49	>	josejp2424 (~pupjibaro@unaffiliated/josejp2424) has joined #linux.mx
+2017-07-23 15:53:50	>	josejp24242 (~pupjibaro@168.90.72.7) has joined #linux.mx
+2017-07-23 15:54:47	<	josejp24242 (~pupjibaro@168.90.72.7) ha salido (Client Quit)
+2017-07-23 16:15:55	<	josejp2424 (~pupjibaro@unaffiliated/josejp2424) ha salido (Remote host closed the connection)
+2017-07-23 20:14:04	>	dasnetz (~dasnetz@189.148.52.243) has joined #linux.mx
+2017-07-23 20:21:26	<	kobain (~kobain@unaffiliated/kobain) ha salido (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2017-07-24 16:05:42	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #linux.mx
+2017-07-24 16:05:42	⇄	Topic for #linux.mx is "GOOGLE ES TU BUSCADOR Y NADA TE FALTARA.... SOLO HAY QUE APRENDER A PREGUNTARLE :D"
+2017-07-24 16:05:42	⇄	Tema establecido por kurama10 el mié, 06 ago 2014 12:09:04
+2017-07-24 16:05:42	⇄	Channel #linux.mx: 11 apodos (1 op, 0 voces, 10 normales)
+2017-07-24 16:05:56	⇄	Canal creado el mar, 15 dic 2009 09:17:34
+2017-07-24 16:13:21	<	GaRaGeD (~max@oztotl.cie.unam.mx) ha salido (Ping timeout: 248 seconds)
+2017-07-24 16:34:45	>	GaRaGeD (~max@oztotl.cie.unam.mx) has joined #linux.mx
+2017-07-24 17:42:58	<	kobain (~kobain@unaffiliated/kobain) ha salido (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2017-07-24 18:31:57	⇄	Maguila es conocido ahora como Maguila|AWAY|
+2017-07-24 19:00:42	>	dasnetz (~dasnetz@189.148.16.189) has joined #linux.mx
+2017-07-24 22:07:36	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #linux.mx
+2017-07-24 22:07:36	⇄	Topic for #linux.mx is "GOOGLE ES TU BUSCADOR Y NADA TE FALTARA.... SOLO HAY QUE APRENDER A PREGUNTARLE :D"
+2017-07-24 22:07:36	⇄	Tema establecido por kurama10 el mié, 06 ago 2014 12:09:04
+2017-07-24 22:07:36	⇄	Channel #linux.mx: 11 apodos (1 op, 0 voces, 10 normales)
+2017-07-24 22:07:52	⇄	Canal creado el mar, 15 dic 2009 09:17:34
+2017-07-25 00:47:53	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #linux.mx
+2017-07-25 00:47:53	⇄	Topic for #linux.mx is "GOOGLE ES TU BUSCADOR Y NADA TE FALTARA.... SOLO HAY QUE APRENDER A PREGUNTARLE :D"
+2017-07-25 00:47:53	⇄	Tema establecido por kurama10 el mié, 06 ago 2014 12:09:04
+2017-07-25 00:47:53	⇄	Channel #linux.mx: 10 apodos (1 op, 0 voces, 9 normales)
+2017-07-25 00:48:06	⇄	Canal creado el mar, 15 dic 2009 09:17:34
+2017-07-25 03:07:59	⇄	irc: desconectado del servidor
+2017-07-25 03:18:02	>	mr-jules (~mr-jules@189.173.19.142) has joined #linux.mx
+2017-07-25 03:18:02	⇄	Topic for #linux.mx is "GOOGLE ES TU BUSCADOR Y NADA TE FALTARA.... SOLO HAY QUE APRENDER A PREGUNTARLE :D"
+2017-07-25 03:18:02	⇄	Tema establecido por kurama10 el mié, 06 ago 2014 12:09:04
+2017-07-25 03:18:02	⇄	Channel #linux.mx: 10 apodos (1 op, 0 voces, 9 normales)
+2017-07-25 03:18:26	⇄	Canal creado el mar, 15 dic 2009 09:17:34
+2017-07-25 04:31:10	<	dasnetz (~dasnetz@189.148.16.189) ha salido (Remote host closed the connection)
+2017-07-25 04:31:36	>	dasnetz (~dasnetz@189.148.16.189) has joined #linux.mx
+2017-07-25 05:01:37	>	dasnetz_ (~dasnetz@189.148.103.12) has joined #linux.mx
+2017-07-25 05:03:57	<	dasnetz (~dasnetz@189.148.16.189) ha salido (Ping timeout: 240 seconds)
+2017-07-25 08:47:47	⇄	irc: desconectado del servidor
+2017-07-25 08:48:17	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #linux.mx
+2017-07-25 08:48:17	⇄	Topic for #linux.mx is "GOOGLE ES TU BUSCADOR Y NADA TE FALTARA.... SOLO HAY QUE APRENDER A PREGUNTARLE :D"
+2017-07-25 08:48:17	⇄	Tema establecido por kurama10 el mié, 06 ago 2014 12:09:04
+2017-07-25 08:48:17	⇄	Channel #linux.mx: 11 apodos (1 op, 0 voces, 10 normales)
+2017-07-25 08:48:43	⇄	Canal creado el mar, 15 dic 2009 09:17:34
+2017-07-25 09:14:59	Montecristo	que pinche weba, hasta parece martes
+2017-07-25 09:48:06	⇄	irc: desconectado del servidor
+2017-07-25 09:48:43	>	mr-jules (~mr-jules@189.173.192.251) has joined #linux.mx
+2017-07-25 09:48:43	⇄	Topic for #linux.mx is "GOOGLE ES TU BUSCADOR Y NADA TE FALTARA.... SOLO HAY QUE APRENDER A PREGUNTARLE :D"
+2017-07-25 09:48:43	⇄	Tema establecido por kurama10 el mié, 06 ago 2014 12:09:04
+2017-07-25 09:48:43	⇄	Channel #linux.mx: 11 apodos (1 op, 0 voces, 10 normales)
+2017-07-25 09:49:07	⇄	Canal creado el mar, 15 dic 2009 09:17:34
+2017-07-25 10:07:06	>	dasnetz (~dasnetz@189.148.103.12) has joined #linux.mx
+2017-07-25 10:20:46	<	GaRaGeD (~max@oztotl.cie.unam.mx) ha salido (Ping timeout: 255 seconds)
+2017-07-25 10:21:09	<	JosDzG (~Thunderbi@189.250.108.243) ha salido (Remote host closed the connection)
+2017-07-25 10:39:42	⇄	irc: desconectado del servidor
+2017-07-25 10:40:29	>	mr-jules (~mr-jules@189.173.192.251) has joined #linux.mx
+2017-07-25 10:40:29	⇄	Topic for #linux.mx is "GOOGLE ES TU BUSCADOR Y NADA TE FALTARA.... SOLO HAY QUE APRENDER A PREGUNTARLE :D"
+2017-07-25 10:40:29	⇄	Tema establecido por kurama10 el mié, 06 ago 2014 12:09:04
+2017-07-25 10:40:29	⇄	Channel #linux.mx: 12 apodos (1 op, 0 voces, 11 normales)
+2017-07-25 23:06:44	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #linux.mx
+2017-07-25 23:06:44	⇄	Topic for #linux.mx is "GOOGLE ES TU BUSCADOR Y NADA TE FALTARA.... SOLO HAY QUE APRENDER A PREGUNTARLE :D"
+2017-07-25 23:06:44	⇄	Tema establecido por kurama10 el mié, 06 ago 2014 12:09:04
+2017-07-25 23:06:44	⇄	Channel #linux.mx: 8 apodos (1 op, 0 voces, 7 normales)
+2017-07-25 23:06:57	⇄	Canal creado el mar, 15 dic 2009 09:17:34
+2017-07-25 23:27:20	>	dasnetz_ (~dasnetz@189.148.16.189) has joined #linux.mx
+2017-07-25 23:29:37	<	dasnetz (~dasnetz@189.148.103.12) ha salido (Ping timeout: 255 seconds)
+2017-07-26 14:44:21	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #linux.mx
+2017-07-26 14:44:21	⇄	Topic for #linux.mx is "GOOGLE ES TU BUSCADOR Y NADA TE FALTARA.... SOLO HAY QUE APRENDER A PREGUNTARLE :D"
+2017-07-26 14:44:21	⇄	Tema establecido por kurama10 el mié, 06 ago 2014 12:09:04
+2017-07-26 14:44:21	⇄	Channel #linux.mx: 13 apodos (1 op, 0 voces, 12 normales)
+2017-07-26 14:44:36	⇄	Canal creado el mar, 15 dic 2009 09:17:34
+2017-07-26 14:54:26	<	dasnetz (~dasnetz@189.148.16.189) ha salido (Remote host closed the connection)
+2017-07-26 15:17:55	<	dasnetz_ (~dasnetz@189.148.16.189) ha salido (Remote host closed the connection)
+2017-07-26 15:17:58	<	JosDzG (~Thunderbi@189.250.108.243) ha salido (Remote host closed the connection)
+2017-07-26 15:18:17	>	JosDzG (~Thunderbi@189.250.108.243) has joined #linux.mx
+2017-07-26 15:18:18	>	dasnetz_ (~dasnetz@189.148.103.12) has joined #linux.mx
+2017-07-26 15:28:31	<	JosDzG (~Thunderbi@189.250.108.243) ha salido (Remote host closed the connection)
+2017-07-26 15:28:47	>	JosDzG (~Thunderbi@189.250.108.243) has joined #linux.mx
+2017-07-26 15:45:05	<	JosDzG (~Thunderbi@189.250.108.243) ha salido (Remote host closed the connection)
+2017-07-26 15:45:25	>	JosDzG (~Thunderbi@189.250.108.243) has joined #linux.mx
+2017-07-26 15:47:41	<	dasnetz_ (~dasnetz@189.148.103.12) ha salido (Read error: Connection reset by peer)
+2017-07-26 15:47:53	>	dasnetz_ (~dasnetz@189.148.16.189) has joined #linux.mx
+2017-07-26 15:53:30	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #linux.mx
+2017-07-26 15:53:30	⇄	Topic for #linux.mx is "GOOGLE ES TU BUSCADOR Y NADA TE FALTARA.... SOLO HAY QUE APRENDER A PREGUNTARLE :D"
+2017-07-26 15:53:30	⇄	Tema establecido por kurama10 el mié, 06 ago 2014 12:09:04
+2017-07-26 15:53:30	⇄	Channel #linux.mx: 12 apodos (1 op, 0 voces, 11 normales)
+2017-07-26 15:53:45	⇄	Canal creado el mar, 15 dic 2009 09:17:34
+2017-07-26 17:44:48	⇄	dasnetz_ es conocido ahora como dasnetz
+2017-07-26 18:05:27	<	figabo (~figabo@201.165.119.82) ha salido (Ping timeout: 260 seconds)
+2017-07-26 18:06:18	<	jaoidor (~jose@201.165.55.86) ha salido (Quit: leaving)
+2017-07-26 18:20:08	>	makubex (~makubex@189.221.209.154.cable.dyn.cableonline.com.mx) has joined #linux.mx
+2017-07-26 18:21:22	<	JosDzG (~Thunderbi@189.250.108.243) ha salido (Remote host closed the connection)
+2017-07-26 18:21:41	>	JosDzG (~Thunderbi@189.250.108.243) has joined #linux.mx
+2017-07-26 18:30:29	makubex	pwd
+2017-07-26 18:30:30	makubex	ls
+2017-07-26 18:38:38	⇄	Maguila es conocido ahora como Maguila|AWAY|
+2017-07-26 19:08:19	⇄	irc: desconectado del servidor
+2017-07-26 19:08:58	>	mr-jules (~mr-jules@189.173.192.251) has joined #linux.mx
+2017-07-26 19:08:58	⇄	Topic for #linux.mx is "GOOGLE ES TU BUSCADOR Y NADA TE FALTARA.... SOLO HAY QUE APRENDER A PREGUNTARLE :D"
+2017-07-26 19:08:58	⇄	Tema establecido por kurama10 el mié, 06 ago 2014 12:09:04
+2017-07-26 19:08:58	⇄	Channel #linux.mx: 10 apodos (1 op, 0 voces, 9 normales)
+2017-07-26 19:09:22	⇄	Canal creado el mar, 15 dic 2009 09:17:34
+2017-07-26 19:09:33	<	JosDzG (~Thunderbi@189.250.108.243) ha salido (Remote host closed the connection)
+2017-07-26 19:09:49	>	JosDzG (~Thunderbi@189.250.108.243) has joined #linux.mx
+2017-07-26 22:17:08	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #linux.mx
+2017-07-26 22:17:08	⇄	Topic for #linux.mx is "GOOGLE ES TU BUSCADOR Y NADA TE FALTARA.... SOLO HAY QUE APRENDER A PREGUNTARLE :D"
+2017-07-26 22:17:08	⇄	Tema establecido por kurama10 el mié, 06 ago 2014 12:09:04
+2017-07-26 22:17:08	⇄	Channel #linux.mx: 8 apodos (1 op, 0 voces, 7 normales)
+2017-07-26 22:17:22	⇄	Canal creado el mar, 15 dic 2009 09:17:34
+2017-07-26 22:35:37	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #linux.mx
+2017-07-26 22:35:37	⇄	Topic for #linux.mx is "GOOGLE ES TU BUSCADOR Y NADA TE FALTARA.... SOLO HAY QUE APRENDER A PREGUNTARLE :D"
+2017-07-26 22:35:37	⇄	Tema establecido por kurama10 el mié, 06 ago 2014 12:09:04
+2017-07-26 22:35:37	⇄	Channel #linux.mx: 8 apodos (1 op, 0 voces, 7 normales)
+2017-07-26 22:35:51	⇄	Canal creado el mar, 15 dic 2009 09:17:34
+2017-07-26 22:36:23	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #linux.mx
+2017-07-26 22:36:23	⇄	Topic for #linux.mx is "GOOGLE ES TU BUSCADOR Y NADA TE FALTARA.... SOLO HAY QUE APRENDER A PREGUNTARLE :D"
+2017-07-26 22:36:23	⇄	Tema establecido por kurama10 el mié, 06 ago 2014 12:09:04
+2017-07-26 22:36:23	⇄	Channel #linux.mx: 8 apodos (1 op, 0 voces, 7 normales)
+2017-07-26 22:36:39	⇄	Canal creado el mar, 15 dic 2009 09:17:34
+2017-07-28 21:50:31	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #linux.mx
+2017-07-28 21:50:31	⇄	Topic for #linux.mx is "GOOGLE ES TU BUSCADOR Y NADA TE FALTARA.... SOLO HAY QUE APRENDER A PREGUNTARLE :D"
+2017-07-28 21:50:31	⇄	Tema establecido por kurama10 el mié, 06 ago 2014 12:09:04
+2017-07-28 21:50:31	⇄	Channel #linux.mx: 9 apodos (1 op, 0 voces, 8 normales)
+2017-07-28 21:50:44	⇄	Canal creado el mar, 15 dic 2009 09:17:34
+2017-07-28 23:43:50	>	deep-book-gk_ (~1wm_su@159.122.132.44) has joined #linux.mx
+2017-07-28 23:44:42	<	deep-book-gk_ (~1wm_su@159.122.132.44) ha abandonado #linux.mx
+2017-07-29 01:19:39	>	dasnetz_ (~dasnetz@189.148.19.173) has joined #linux.mx
+2017-07-29 01:21:30	<	dasnetz (~dasnetz@189.148.19.173) ha salido (Ping timeout: 240 seconds)
+2017-07-29 04:28:36	⇄	irc: desconectado del servidor
+2017-07-29 04:55:20	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #linux.mx
+2017-07-29 04:55:20	⇄	Topic for #linux.mx is "GOOGLE ES TU BUSCADOR Y NADA TE FALTARA.... SOLO HAY QUE APRENDER A PREGUNTARLE :D"
+2017-07-29 04:55:20	⇄	Tema establecido por kurama10 el mié, 06 ago 2014 12:09:04
+2017-07-29 04:55:20	⇄	Channel #linux.mx: 9 apodos (1 op, 0 voces, 8 normales)
+2017-07-29 04:55:46	⇄	Canal creado el mar, 15 dic 2009 09:17:34
+2017-07-29 08:29:23	>	dasnetz__ (~dasnetz@189.148.9.30) has joined #linux.mx
+2017-07-29 08:32:12	<	dasnetz_ (~dasnetz@189.148.19.173) ha salido (Ping timeout: 260 seconds)
+2017-07-29 09:24:31	<	dasnetz__ (~dasnetz@189.148.9.30) ha salido (Remote host closed the connection)
+2017-07-29 09:25:00	>	dasnetz__ (~dasnetz@189.148.19.173) has joined #linux.mx
+2017-07-29 09:34:45	>	JosDzG (~Thunderbi@189.250.108.243) has joined #linux.mx
+2017-07-29 10:22:30	<	dasnetz__ (~dasnetz@189.148.19.173) ha salido (Remote host closed the connection)
+2017-07-29 10:22:54	>	dasnetz__ (~dasnetz@189.148.9.30) has joined #linux.mx
+2017-07-29 11:40:27	<	JosDzG (~Thunderbi@189.250.108.243) ha salido (Remote host closed the connection)
+2017-07-29 11:40:45	>	JosDzG (~Thunderbi@189.250.108.243) has joined #linux.mx
+2017-07-29 11:57:21	<	JosDzG (~Thunderbi@189.250.108.243) ha salido (Remote host closed the connection)
+2017-07-29 11:57:40	>	JosDzG (~Thunderbi@189.250.108.243) has joined #linux.mx
+2017-07-29 12:16:30	<	JosDzG (~Thunderbi@189.250.108.243) ha salido (Ping timeout: 240 seconds)
+2017-07-29 12:24:01	>	JosDzG (~Thunderbi@189.250.108.243) has joined #linux.mx
+2017-07-29 12:29:06	<	JosDzG (~Thunderbi@189.250.108.243) ha salido (Read error: Connection reset by peer)
+2017-07-29 12:29:20	>	JosDzG (~Thunderbi@189.250.108.243) has joined #linux.mx
+2017-07-29 12:32:28	<	JosDzG (~Thunderbi@189.250.108.243) ha salido (Remote host closed the connection)
+2017-07-29 12:34:44	>	JosDzG (~Thunderbi@189.250.108.243) has joined #linux.mx
+2017-07-29 13:25:26	<	JosDzG (~Thunderbi@189.250.108.243) ha salido (Quit: JosDzG)
+2017-07-29 16:27:01	<	dasnetz__ (~dasnetz@189.148.9.30) ha salido (Remote host closed the connection)
+2017-07-29 16:27:20	>	dasnetz__ (~dasnetz@189.148.19.173) has joined #linux.mx
+2017-07-29 17:19:58	<	dasnetz__ (~dasnetz@189.148.19.173) ha salido (Remote host closed the connection)
+2017-07-29 17:20:20	>	dasnetz__ (~dasnetz@189.148.9.30) has joined #linux.mx
+2017-08-02 03:55:40	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #linux.mx
+2017-08-02 03:55:40	⇄	Topic for #linux.mx is "GOOGLE ES TU BUSCADOR Y NADA TE FALTARA.... SOLO HAY QUE APRENDER A PREGUNTARLE :D"
+2017-08-02 03:55:40	⇄	Tema establecido por kurama10 el mié, 06 ago 2014 12:09:04
+2017-08-02 03:55:40	⇄	Channel #linux.mx: 9 apodos (1 op, 0 voces, 8 normales)
+2017-08-02 03:55:54	⇄	Canal creado el mar, 15 dic 2009 09:17:34
+2017-08-02 04:01:54	>	dasnetz__ (~dasnetz@189.148.48.192) has joined #linux.mx
+2017-08-02 04:04:27	<	dasnetz_ (~dasnetz@189.148.6.157) ha salido (Ping timeout: 240 seconds)
+2017-08-02 06:06:27	<	dasnetz__ (~dasnetz@189.148.48.192) ha salido (Remote host closed the connection)
+2017-08-02 06:06:50	>	dasnetz__ (~dasnetz@189.148.6.157) has joined #linux.mx
+2017-08-02 08:14:32	>	figabo (~figabo@201.165.119.82) has joined #linux.mx
+2017-08-02 08:23:16	>	kobain (~kobain@unaffiliated/kobain) has joined #linux.mx
+2017-08-02 08:41:41	>	jaoidor (~jose@201.165.55.86) has joined #linux.mx
+2017-08-02 09:02:38	>	JosDzG (~Thunderbi@189.250.108.243) has joined #linux.mx
+2017-08-02 10:11:12	<	jaoidor (~jose@201.165.55.86) ha salido (Read error: Connection reset by peer)
+2017-08-02 10:27:46	>	jaoidor (~jose@201.165.55.86) has joined #linux.mx
+2017-08-02 10:33:42	<	dasnetz__ (~dasnetz@189.148.6.157) ha salido (Read error: Connection reset by peer)
+2017-08-02 10:36:37	Maguila	Buenos días
+2017-08-02 10:38:19	mr-jules	Buenas
+2017-08-02 10:39:07	<	JosDzG (~Thunderbi@189.250.108.243) ha salido (Remote host closed the connection)
+2017-08-02 10:39:23	>	JosDzG (~Thunderbi@189.250.108.243) has joined #linux.mx
+2017-08-02 11:50:00	<	JosDzG (~Thunderbi@189.250.108.243) ha salido (Remote host closed the connection)
+2017-08-02 11:50:17	>	JosDzG (~Thunderbi@189.250.108.243) has joined #linux.mx
+2017-08-02 13:24:49	>	juchipilo (~juchipilo@unaffiliated/juchipilo) has joined #linux.mx
+2017-08-02 13:25:36	juchipilo	wenas xotos
+2017-08-02 13:25:38	juchipilo	a chinga
+2017-08-02 13:25:45	juchipilo	el figabo, el carnal de josefig
+2017-08-02 13:35:47	juchipilo	on ta el conpa Montecristo 
+2017-08-02 13:38:17	<	JosDzG (~Thunderbi@189.250.108.243) ha salido (Remote host closed the connection)
+2017-08-02 13:38:34	>	JosDzG (~Thunderbi@189.250.108.243) has joined #linux.mx
+2017-08-02 15:15:44	>	zerver (~zerver@187-177-132-225.dynamic.axtel.net) has joined #linux.mx
+2017-08-02 15:15:54	zerver	wenas
+2017-08-02 15:15:57	zerver	wenas de las wenas
+2017-08-02 15:16:03	juchipilo	mastah
+2017-08-02 15:16:12	juchipilo	mastah
+2017-08-02 15:16:15	zerver	juchipilo: mastah 
+2017-08-02 15:16:20	zerver	juchipilo: que panochas mama?
+2017-08-02 15:16:20	juchipilo	que cuenta
+2017-08-02 15:16:27	zerver	lo  mismo digo 
+2017-08-02 15:16:38	juchipilo	cuentese algo
+2017-08-02 15:16:51	zerver	juchipilo: pos me casé
+2017-08-02 15:17:05	zerver	Eso le cuento pero uste lo sabe por que me tiene en feis
+2017-08-02 15:17:09	zerver	feis bukake
+2017-08-02 15:17:19	juchipilo	no lo sabia
+2017-08-02 15:17:26	juchipilo	a lo mejor me tiene blokiao
+2017-08-02 15:17:41	juchipilo	se caso con el mont
+2017-08-02 15:17:52	juchipilo	se caso con el month of august entrando?
+2017-08-02 15:17:53	zerver	juchipilo: no mastah ese es pa uste
+2017-08-02 15:17:55	juchipilo	che teclao
+2017-08-02 15:18:37	zerver	juchipilo: mastah
+2017-08-02 15:18:44	zerver	juchipilo: ahora que pitos toca?
+2017-08-02 15:18:44	juchipilo	e
+2017-08-02 15:18:50	juchipilo	nomas el mio, como sienpre
+2017-08-02 15:19:10	zerver	juchipilo: eso dice ...
+2017-08-02 15:19:16	juchipilo	eso hago
+2017-08-02 15:20:16	zerver	juchipilo: pero aqui entre nos sabemos que tambien le gusta tocarle la pa al mon
+2017-08-02 15:20:16	zerver	la pantunfla al montecristo
+2017-08-02 15:20:16	zerver	HAHA
+2017-08-02 15:20:16	juchipilo	no cojo putos
+2017-08-02 15:20:16	juchipilo	con ken se caso , mastah
+2017-08-02 15:20:16	zerver	pero de minimo se besa con ellos
+2017-08-02 15:20:16	zerver	juchipilo: con ken le impo
+2017-08-02 15:20:20	juchipilo	?
+2017-08-02 15:20:27	zerver	Es china
+2017-08-02 15:20:28	zerver	jajaja
+2017-08-02 15:20:41	juchipilo	no que espanola
+2017-08-02 15:22:39	zerver	ahh tan pen 
+2017-08-02 15:22:39	juchipilo	?
+2017-08-02 15:29:40	zerver	juchipilo: que cuenta mastah que dice el mundo del desarrrollo?
+2017-08-02 15:29:54	juchipilo	nada mastah
+2017-08-02 15:30:01	juchipilo	traigo una pinche hueva de la chingada
+2017-08-02 15:31:23	zerver	Pues pongase a trabajar pinche mastah 
+2017-08-02 15:32:34	juchipilo	estoy en eso. pero nomas qiero jetear
+2017-08-02 15:38:53	zerver	juchipilo: y su compa el necros?
+2017-08-02 15:39:15	juchipilo	se jue a tierras germanicas
+2017-08-02 15:49:32	<	zerver (~zerver@187-177-132-225.dynamic.axtel.net) ha salido (Read error: Connection reset by peer)
+2017-08-02 15:54:15	>	zerver (~zerver@187-177-132-225.dynamic.axtel.net) has joined #linux.mx
+2017-08-02 16:16:54	>	dasnetz (~dasnetz@189.148.6.157) has joined #linux.mx
+2017-08-02 16:18:14	<	dasnetz (~dasnetz@189.148.6.157) ha salido (Remote host closed the connection)
+2017-08-02 16:19:23	<	JosDzG (~Thunderbi@189.250.108.243) ha salido (Remote host closed the connection)
+2017-08-02 16:19:47	>	JosDzG (~Thunderbi@189.250.108.243) has joined #linux.mx
+2017-08-02 16:23:26	>	dasnetz (~dasnetz@189.148.48.192) has joined #linux.mx
+2017-08-02 16:44:27	zerver	juchipilo: mastah 
+2017-08-02 16:44:38	juchipilo	digalo
+2017-08-02 16:44:38	zerver	juchipilo: mejor ya no le digo nada por que es bien pu 
+2017-08-02 16:44:43	juchipilo	?
+2017-08-02 23:17:49	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #linux.mx
+2017-08-02 23:17:49	⇄	Topic for #linux.mx is "GOOGLE ES TU BUSCADOR Y NADA TE FALTARA.... SOLO HAY QUE APRENDER A PREGUNTARLE :D"
+2017-08-02 23:17:49	⇄	Tema establecido por kurama10 el mié, 06 ago 2014 12:09:04
+2017-08-02 23:17:49	⇄	Channel #linux.mx: 10 apodos (1 op, 0 voces, 9 normales)
+2017-08-02 23:18:03	⇄	Canal creado el mar, 15 dic 2009 09:17:34
+2017-08-03 07:15:41	⇄	irc: desconectado del servidor
+2017-08-03 07:16:14	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #linux.mx
+2017-08-03 07:16:14	⇄	Topic for #linux.mx is "GOOGLE ES TU BUSCADOR Y NADA TE FALTARA.... SOLO HAY QUE APRENDER A PREGUNTARLE :D"
+2017-08-03 07:16:14	⇄	Tema establecido por kurama10 el mié, 06 ago 2014 12:09:04
+2017-08-03 07:16:14	⇄	Channel #linux.mx: 10 apodos (1 op, 0 voces, 9 normales)
+2017-08-03 07:16:38	⇄	Canal creado el mar, 15 dic 2009 09:17:34
+2017-08-03 08:00:45	<	dasnetz (~dasnetz@189.148.6.157) ha salido (Read error: Connection reset by peer)
+2017-08-03 08:17:20	>	figabo (~figabo@201.165.119.82) has joined #linux.mx
+2017-08-03 08:42:02	>	dasnetz (~dasnetz@189.148.48.192) has joined #linux.mx
+2017-08-03 09:15:34	>	JosDzG (~Thunderbi@189.250.108.243) has joined #linux.mx
+2017-08-03 09:19:31	<	figabo (~figabo@201.165.119.82) ha salido (Ping timeout: 246 seconds)
+2017-08-03 09:26:25	>	figabo (~figabo@201.165.119.82) has joined #linux.mx
+2017-08-03 10:05:12	Roa	....
+2017-08-03 10:05:14	Roa	buenos dias
+2017-08-03 10:06:00	Roa	perras
+2017-08-03 10:06:02	Roa	Montecristo: 
+2017-08-03 10:06:04	Roa	juchipilo: puto
+2017-08-03 10:06:08	Roa	xDD
+2017-08-03 10:37:21	>	dasnetz_ (~dasnetz@189.148.99.133) has joined #linux.mx
+2017-08-03 10:39:28	<	dasnetz (~dasnetz@189.148.48.192) ha salido (Ping timeout: 240 seconds)
+2017-08-03 10:55:11	>	jaoidor (~jose@201.165.55.86) has joined #linux.mx
+2017-08-03 11:12:03	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #linux.mx
+2017-08-03 11:12:03	⇄	Topic for #linux.mx is "GOOGLE ES TU BUSCADOR Y NADA TE FALTARA.... SOLO HAY QUE APRENDER A PREGUNTARLE :D"
+2017-08-03 11:12:03	⇄	Tema establecido por kurama10 el mié, 06 ago 2014 12:09:04
+2017-08-03 11:12:03	⇄	Channel #linux.mx: 13 apodos (1 op, 0 voces, 12 normales)
+2017-08-03 11:12:16	⇄	Canal creado el mar, 15 dic 2009 09:17:34
+2017-08-03 11:43:48	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #linux.mx
+2017-08-03 11:43:48	⇄	Topic for #linux.mx is "GOOGLE ES TU BUSCADOR Y NADA TE FALTARA.... SOLO HAY QUE APRENDER A PREGUNTARLE :D"
+2017-08-03 11:43:48	⇄	Tema establecido por kurama10 el mié, 06 ago 2014 12:09:04
+2017-08-03 11:43:48	⇄	Channel #linux.mx: 13 apodos (1 op, 0 voces, 12 normales)
+2017-08-03 11:44:03	⇄	Canal creado el mar, 15 dic 2009 09:17:34
+2017-08-03 11:53:51	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #linux.mx
+2017-08-03 11:53:51	⇄	Topic for #linux.mx is "GOOGLE ES TU BUSCADOR Y NADA TE FALTARA.... SOLO HAY QUE APRENDER A PREGUNTARLE :D"
+2017-08-03 11:53:51	⇄	Tema establecido por kurama10 el mié, 06 ago 2014 12:09:04
+2017-08-03 11:53:51	⇄	Channel #linux.mx: 13 apodos (1 op, 0 voces, 12 normales)
+2017-08-03 11:54:05	⇄	Canal creado el mar, 15 dic 2009 09:17:34
+2017-08-03 12:03:03	>	kobain (~kobain@unaffiliated/kobain) has joined #linux.mx
+2017-08-03 12:09:51	⇄	Maguila|AWAY| es conocido ahora como Maguila
+2017-08-03 12:27:24	mr-jules	buenas
+2017-08-03 12:27:29	Roa	w
+2017-08-03 12:27:31	Roa	Rapido
+2017-08-03 12:27:34	Roa	una colecta URGE
+2017-08-03 12:27:36	Roa	https://www.sinembargo.mx/03-08-2017/3277165
+2017-08-03 12:27:42	Roa	es para sacar a esa maestra de la carcel
+2017-08-03 12:29:00	mr-jules	gobierno encerrado maestros, que raro
+2017-08-03 12:30:53	Roa	http://www.forocoatza.com/videos-maestra-en-monterrey-pide-sexo-para-pasar-a-sus-alumnos-de-secundaria/
+2017-08-03 12:30:56	Roa	xDD
+2017-08-03 12:31:02	Roa	hay video de la maestra
+2017-08-03 12:36:14	mr-jules	es lo que me pasa por hablar antes de abrir el link xD
+2017-08-03 12:36:38	mr-jules	donde esta el video jaja
+2017-08-03 12:41:36	Roa	last link
+2017-08-03 12:46:15	Roa	xDD
+2017-08-03 12:46:21	Roa	se oye el golpeteeeooo
+2017-08-03 12:46:30	Roa	juchipilo: weeee donde estbaban esas maestras 
+2017-08-03 12:46:33	Roa	xDD
+2017-08-03 12:46:47	mr-jules	puta madre, tendre que guardar el link, and el server no puedo abrir nada grafico
+2017-08-03 12:47:39	juchipilo	chale.. no puedo ver videos orita
+2017-08-03 12:47:43	juchipilo	hay ojos en la pader
+2017-08-03 12:49:52	Roa	jajajajajaja
+2017-08-03 12:49:59	Roa	inches jotitos
+2017-08-03 12:50:05	Roa	pero bueno la maestra esta chida.
+2017-08-03 12:50:07	Roa	xDD
+2017-08-03 12:50:13	Roa	gime chido.
+2017-08-03 12:50:49	<	jaoidor (~jose@201.165.55.86) ha salido (Quit: leaving)
+2017-08-03 13:01:44	mr-jules	ya lo vi
+2017-08-03 13:01:46	mr-jules	vaya que gime bien
+2017-08-03 13:02:00	mr-jules	jaja nomas que al compa ese le hace falta meterle mas galleta
+2017-08-03 13:04:03	>	jaoidor (~jose@201.165.55.86) has joined #linux.mx
+2017-08-03 13:04:11	juchipilo	ha de tener miedo de que si espuelea demasiado recio.lo puedan reprobar
+2017-08-03 13:04:54	mr-jules	al contrario amigo, se gana el diez y hasta la carta de buena conducta xD
+2017-08-03 13:05:28	juchipilo	si.. asi creo.. yo toy teorizando lo que el chavalo estaba pensando
+2017-08-03 13:06:49	>	dasnetz__ (~dasnetz@189.148.99.133) has joined #linux.mx
+2017-08-03 13:10:27	<	dasnetz_ (~dasnetz@189.148.99.133) ha salido (Ping timeout: 240 seconds)
+2017-08-03 13:34:19	Roa	 y ahi va " Un seis"
+2017-08-03 13:34:23	Roa	"Sube a 7"
+2017-08-03 13:34:25	Roa	"mejor un 8"
+2017-08-03 13:34:41	Roa	se ve nuevo el vato... son sus primeros culitos
+2017-08-03 13:34:50	Roa	ya uno como nosotros con experiencia..
+2017-08-03 13:34:54	Roa	le da mas  fuerte xDD
+2017-08-03 14:25:00	mr-jules	yeah
+2017-08-03 14:25:07	mr-jules	de donde son compatriotas
+2017-08-03 14:25:08	mr-jules	?
+2017-08-03 14:53:51	<	dasnetz__ (~dasnetz@189.148.99.133) ha salido (Remote host closed the connection)
+2017-08-03 15:06:10	Roa	xDDD
+2017-08-03 15:06:21	Roa	de muchos lugares y a su vez de ninguno
+2017-08-03 15:11:51	mr-jules	dejame adivinar: interior xD
+2017-08-03 15:12:55	<	JosDzG (~Thunderbi@189.250.108.243) ha salido (Remote host closed the connection)
+2017-08-03 15:13:11	>	JosDzG (~Thunderbi@189.250.108.243) has joined #linux.mx
+2017-08-03 15:13:46	Maguila	yo no vi el video, pasen el link
+2017-08-03 15:13:48	Maguila	xD
+2017-08-03 15:14:33	Maguila	che morboso que es uno
+2017-08-03 15:25:14	<	JosDzG (~Thunderbi@189.250.108.243) ha salido (Remote host closed the connection)
+2017-08-03 15:25:31	>	JosDzG (~Thunderbi@189.250.108.243) has joined #linux.mx
+2017-08-03 16:21:34	>	zerver (~zerver@187-177-132-225.dynamic.axtel.net) has joined #linux.mx
+2017-08-03 16:21:41	zerver	juchipilo: mastah 
+2017-08-03 16:22:31	<	JosDzG (~Thunderbi@189.250.108.243) ha salido (Remote host closed the connection)
+2017-08-03 16:22:51	>	JosDzG (~Thunderbi@189.250.108.243) has joined #linux.mx
+2017-08-03 16:22:58	juchipilo	que hay mastah
+2017-08-03 16:23:13	juchipilo	oiga mastah
+2017-08-03 16:23:13	zerver	juchipilo: ke
+2017-08-03 16:23:21	juchipilo	es cierto que se cojio una maestra en el colegio?
+2017-08-03 16:23:32	juchipilo	pa pasar su materia
+2017-08-03 16:25:04	zerver	no mastah 
+2017-08-03 16:25:07	zerver	fue por gusto 
+2017-08-03 16:25:08	zerver	jajajaja
+2017-08-03 16:25:32	zerver	juchipilo: mastah es cierto que se cog..
+2017-08-03 16:25:40	zerver	bueno se que es cierto ... pero cuantas veces se cogio al mon
+2017-08-03 16:26:21	juchipilo	tecris ya esta descontinuado en la app store eda?
+2017-08-03 16:26:26	juchipilo	andaba queriendo compralo orita
+2017-08-03 16:26:28	juchipilo	y no lo haye
+2017-08-03 16:26:35	juchipilo	aaah ya. es tetris
+2017-08-03 16:28:28	juchipilo	en que anda ora. mastah.. que tecnologias anda dominando ahora
+2017-08-03 16:28:35	juchipilo	mastah zerver
+2017-08-03 16:29:06	<	JosDzG (~Thunderbi@189.250.108.243) ha salido (Remote host closed the connection)
+2017-08-03 16:29:24	>	JosDzG (~Thunderbi@189.250.108.243) has joined #linux.mx
+2017-08-03 16:32:08	<	Montecristo (~Montecris@187.185.70.114) ha salido (Ping timeout: 260 seconds)
+2017-08-03 16:42:26	mr-jules	, como estas pinche putita
+2017-08-03 16:46:41	juchipilo	supongo lo de putita, es dirigido al roa...
+2017-08-03 16:50:40	mr-jules	soy el unico que opina que chrome/mium es una puta mierda?
+2017-08-03 16:52:43	juchipilo	probablemente si
+2017-08-03 16:52:53	juchipilo	que pero le pones?
+2017-08-03 16:56:20	mr-jules	el jodido consumo de ram y cpu
+2017-08-03 16:56:24	mr-jules	es bestial
+2017-08-03 16:56:30	mr-jules	tengo 16 gb de ram y ni asi me libro
+2017-08-03 16:56:42	mr-jules	5 gb de puro navegador es una tocada de huevos
+2017-08-03 16:56:56	mr-jules	firefox su pico llega a 1 giga o si acaso 1 y medio
+2017-08-03 16:57:07	mr-jules	pero lo malo de este es que el consumo de cpu es mas bestial aun
+2017-08-03 16:57:50	mr-jules	aunque las ultimas builds han ido recuperando terreno en eso
+2017-08-03 16:57:59	zerver	juchipilo: mastah
+2017-08-03 16:58:41	zerver	juchipilo: mastah 
+2017-08-03 16:58:49	juchipilo	diga
+2017-08-03 16:59:29	juchipilo	pues... si he oido que la gente se queja del consumo bestial de ram y cpu... lo raro es que yo nunca tengo problemas con eso.. y nomas tengo 16 gigas de ram tambien
+2017-08-03 17:00:13	juchipilo	<zerver> juchipilo: mastah  <<<< que chingados kere!!! hable!
+2017-08-03 17:00:56	zerver	juchipilo: o que la verga en su trompa
+2017-08-03 17:00:58	mr-jules	con 5 o 8 tabs, puedes navegar sin ningun problema, pero si como a mi lo normal es arriba de 15 o 20 pues estoy jodido 
+2017-08-03 17:01:05	zerver	juchipilo: por que regresa tan de malas
+2017-08-03 17:01:12	juchipilo	no pos si con razon
+2017-08-03 17:01:17	zerver	mr-jules: es tu computadora
+2017-08-03 17:01:35	zerver	mr-jules: yo no tengo pedos y tengo 1 chrome con puta madral de tabs , 1 firefox con putamadral de tabs y 1 safari igual 
+2017-08-03 17:02:18	juchipilo	uste porque es burgues
+2017-08-03 17:02:23	juchipilo	por eso tiene tanta cosa
+2017-08-03 17:02:26	mr-jules	burguesito
+2017-08-03 17:02:33	mr-jules	y que usa windows o osx
+2017-08-03 17:02:34	mr-jules	jaja
+2017-08-03 17:02:40	mr-jules	o ya salio safari para linu'
+2017-08-03 17:02:56	zerver	ya salió safari para linux
+2017-08-03 17:03:11	mr-jules	carajo y yo ni enterado
+2017-08-03 17:05:32	juchipilo	https://discussions.apple.com/thread/4837462?start=0&tstart=0
+2017-08-03 17:07:27	mr-jules	firefox |m|
+2017-08-03 17:07:33	mr-jules	o vivaldi lml
+2017-08-03 17:08:06	mr-jules	lo malo es que este ultimo esta basado en chromium, aunque solo en el motor, no es un pedazo de mierda rigida como chrome 
+2017-08-03 17:10:39	zerver	juchipilo: y la puta del adan 
+2017-08-03 17:11:05	juchipilo	pues se la cojieron
+2017-08-03 17:11:22	zerver	eso siempre pero por que no reporta el ingreso ?
+2017-08-03 17:11:23	zerver	por que?
+2017-08-03 17:11:33	zerver	Se está haciendo pendeja
+2017-08-03 17:11:36	juchipilo	si me esta reportando los dividendos
+2017-08-03 17:11:40	juchipilo	quien dijo que no
+2017-08-03 17:12:06	zerver	pues yo no veo mi wallet con bitcoins
+2017-08-03 17:12:26	juchipilo	le exigi la feria en efeutivo
+2017-08-03 17:12:38	zerver	ah bueno 
+2017-08-03 17:13:05	juchipilo	y que pues masta.. le pregunte y no me responde...
+2017-08-03 17:13:13	juchipilo	ora que tecnologias anda esplorando
+2017-08-03 17:15:16	>	zerver_ (~zerver@187-177-132-225.dynamic.axtel.net) has joined #linux.mx
+2017-08-03 17:15:52	<	zerver (~zerver@187-177-132-225.dynamic.axtel.net) ha salido (Read error: Connection reset by peer)
+2017-08-03 17:16:44	zerver_	juchipilo: estoy trabajando con Ansible + AWS 
+2017-08-03 17:17:38	juchipilo	a cabron. tonces es chingon, mastah
+2017-08-03 17:18:34	zerver_	que noooo
+2017-08-03 17:18:57	zerver_	y estaba viendo ruby para automatizar unas madres con capistrano 
+2017-08-03 17:19:16	zerver_	estoy tratando de usar Ansible con Capistrano pero es un dolor de bolas
+2017-08-03 17:19:20	juchipilo	ta mare. puras cosas que no conozco
+2017-08-03 17:19:32	juchipilo	si es chingon mastah
+2017-08-03 17:20:39	zerver_	Que no 
+2017-08-03 17:22:25	juchipilo	como no. mastah
+2017-08-03 17:22:28	juchipilo	no sia modesto
+2017-08-03 17:22:37	juchipilo	son cosas que no cualkera domina
+2017-08-03 17:22:57	juchipilo	ya ve. yo nomas mi triste php y javaescric
+2017-08-03 17:23:01	zerver_	Pues yo no las domio 
+2017-08-03 17:23:03	zerver_	*domino 
+2017-08-03 17:23:15	juchipilo	bueno pero ahi anda
+2017-08-03 17:23:19	zerver_	Tengo que leer la doc para poder armar lo que necesito 
+2017-08-03 17:23:26	zerver_	Está chido Ansible
+2017-08-03 17:23:40	juchipilo	no tengo ni puta idea de que es
+2017-08-03 17:43:04	zerver_	Vale verga mastah 
+2017-08-03 17:43:06	zerver_	vale pura verga
+2017-08-03 17:43:07	zerver_	jajaja
+2017-08-03 17:43:17	zerver_	juchipilo: mastah ya salio del jale?
+2017-08-03 17:44:11	juchipilo	nel nomas vine al bañio a hacerme una chaira
+2017-08-03 17:44:55	zerver_	Ah muy bien 
+2017-08-03 17:45:04	zerver_	esta con el Mon?
+2017-08-03 17:45:05	zerver_	jajaja
+2017-08-03 17:45:15	juchipilo	no cojo putos
+2017-08-03 17:45:46	zerver_	eso dice uste
+2017-08-03 17:45:55	zerver_	pero el(la) dice otra cosa
+2017-08-03 17:45:58	zerver_	jajaja
+2017-08-03 17:46:47	juchipilo	mi riata no la preban mas que puros seres humanos nacidos con cromosomas XX
+2017-08-03 17:46:59	zerver_	juchipilo: conteste mastah o que nues onbre 
+2017-08-03 17:47:05	kobain	me parece que esto huele a milanesa... ida y vuelta!
+2017-08-03 17:47:07	juchipilo	contestar que
+2017-08-03 17:47:09	zerver_	juchipilo: dejese de decir tantas mamadas
+2017-08-03 17:47:23	zerver_	juchipilo: pues se tarda en contestar 
+2017-08-03 17:47:25	juchipilo	ya se desperto el kurt kobain
+2017-08-03 17:47:28	juchipilo	mamesela
+2017-08-03 17:48:09	zerver_	jaja
+2017-08-03 17:48:17	zerver_	mastah cuando se regresa a su pueblo¿
+2017-08-03 17:48:30	juchipilo	cuando me lleven con los tenis por delante
+2017-08-03 17:48:45	zerver_	como los japoneses
+2017-08-03 17:48:49	Maguila	https://www.facebook.com/openenchilada/videos/vb.108906289180283/1636819916388905/?type=3&theater
+2017-08-03 17:48:50	zerver_	que se los quitan a la entrada
+2017-08-03 17:48:50	juchipilo	no se
+2017-08-03 17:49:13	juchipilo	oh no
+2017-08-03 17:49:14	Maguila	zerver_: hablando de
+2017-08-03 17:49:16	juchipilo	yo nome los kito
+2017-08-03 17:49:26	zerver_	Maguila: entonces entra con la mierda a su casa ?
+2017-08-03 17:49:29	zerver_	Maguila: o/
+2017-08-03 17:49:30	juchipilo	si un puto japones quere que entre a su casa... se tiene que aguantar
+2017-08-03 17:49:34	juchipilo	si no que se vaya a la verga
+2017-08-03 17:49:43	zerver_	y que se la chupe
+2017-08-03 17:49:51	zerver_	eso así me gusta leerlo con la pura verda
+2017-08-03 17:49:52	zerver_	jajaja
+2017-08-03 17:50:02	juchipilo	uste se las chupa_
+2017-08-03 17:50:05	juchipilo	_
+2017-08-03 17:50:10	juchipilo	puta interrogacion culera
+2017-08-03 17:50:12	juchipilo	?
+2017-08-03 17:50:42	zerver_	o uste
+2017-08-03 17:50:59	juchipilo	no hable mamadas mastah
+2017-08-03 17:51:03	juchipilo	diga algo de provecho
+2017-08-03 17:51:12	zerver_	ohhh chinga
+2017-08-03 17:51:18	zerver_	pues que no viene uno aqui a decir pura pendejada
+2017-08-03 17:51:21	juchipilo	como por ejemplo. algo sobre la lady ...
+2017-08-03 17:51:24	juchipilo	como es la diora?
+2017-08-03 17:51:34	juchipilo	ladi coyota?
+2017-08-03 17:51:43	juchipilo	chacala.. esa
+2017-08-03 17:51:44	zerver_	No se de que verga habla
+2017-08-03 17:51:52	zerver_	uste si le gana a cualquier a decir mamadas
+2017-08-03 17:51:55	juchipilo	google lady chacala
+2017-08-03 17:53:52	zerver_	sabe
+2017-08-03 17:53:57	zerver_	bueno que cuenta mastah 
+2017-08-03 17:54:12	zerver_	tiene 6 minutos
+2017-08-03 17:54:16	zerver_	ante de que me vaya a mi casa
+2017-08-03 17:54:30	juchipilo	por mi cojase al mon
+2017-08-03 17:54:38	zerver_	ese es de ust
+2017-08-03 17:54:44	juchipilo	aah ya va a empezar la nfl
+2017-08-03 17:54:45	juchipilo	ora
+2017-08-03 17:54:56	juchipilo	vaqueros vs arizona
+2017-08-03 17:57:01	zerver_	Pero que no esta en el trabajo?
+2017-08-03 17:57:04	zerver_	pinche mastah webon 
+2017-08-03 17:57:27	<	JosDzG (~Thunderbi@189.250.108.243) ha salido (Remote host closed the connection)
+2017-08-03 17:57:43	>	JosDzG (~Thunderbi@189.250.108.243) has joined #linux.mx
+2017-08-03 18:04:05	<	figabo (~figabo@201.165.119.82) ha salido (Ping timeout: 240 seconds)
+2017-08-03 18:08:02	<	zerver_ (~zerver@187-177-132-225.dynamic.axtel.net) ha salido (Ping timeout: 260 seconds)
+2017-08-03 18:28:21	<	JosDzG (~Thunderbi@189.250.108.243) ha salido (Remote host closed the connection)
+2017-08-03 18:28:36	>	JosDzG (~Thunderbi@189.250.108.243) has joined #linux.mx
+2017-08-03 18:45:33	juchipilo	mastah zerver... si pero uno ques chingon. se puede dar ciertos lujos
+2017-08-03 18:48:14	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-03 18:52:57	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 260 seconds)
+2017-08-03 18:57:10	Roa	..
+2017-08-03 18:58:10	Roa	....
+2017-08-03 18:58:14	Roa	juchipilo: ya vio el video?
+2017-08-03 18:58:28	Roa	andaba desaparecio compa pense que el trump le habia quitado su green card
+2017-08-03 18:59:20	juchipilo	hace rato lo vi pero no se ve bien
+2017-08-03 18:59:27	juchipilo	en la casa vua buscalo a mis anchas
+2017-08-03 18:59:48	juchipilo	porque se miase que aqui pueden ver las urls que visito.. con el nagios no?
+2017-08-03 19:01:00	Roa	:O
+2017-08-03 19:01:05	Roa	xDD pues
+2017-08-03 19:01:27	Roa	si mejor...
+2017-08-03 19:01:37	Roa	no sea la de malas que lo vean viendo a ladychacala
+2017-08-03 19:02:19	Roa	cuanto s culitos se chingo en su visita a MX juchipilo ?
+2017-08-03 19:02:29	Roa	yo ire en 1 mes o  1 1/2 a la gran ciudad
+2017-08-03 19:02:35	Roa	nomas de entrada por salida
+2017-08-03 19:03:10	juchipilo	nomas 1 culo
+2017-08-03 19:03:34	Roa	https://www.instagram.com/yolanda.palacios/
+2017-08-03 19:03:48	Roa	mientras no sea el * del mo
+2017-08-03 19:03:52	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-03 19:03:54	juchipilo	no esta fea la maestrita
+2017-08-03 19:03:55	Roa	..... numento del pueblo
+2017-08-03 19:04:03	Roa	naaaaaaaa se ve ponedora
+2017-08-03 19:04:08	Roa	como no tuve maistras asi
+2017-08-03 19:04:12	Roa	 chingada maadre :/
+2017-08-03 19:06:10	Roa	me tome una portuguesa en el gym
+2017-08-03 19:06:15	Roa	su madre che vieja ya milf
+2017-08-03 19:06:21	Roa	y van unas ptas rusas de no mames
+2017-08-03 19:06:23	Roa	xDDD
+2017-08-03 19:06:50	Roa	mr-jules:  interior de donde ? xD
+2017-08-03 19:06:59	juchipilo	y ya te las cojiste?
+2017-08-03 19:07:01	Roa	no todo gira al rededor de la puta "ciudad"
+2017-08-03 19:07:14	Roa	juchipilo: ando en eso compa
+2017-08-03 19:07:23	Roa	un amigo vino y el cabron se abrocho 3 al hilo
+2017-08-03 19:07:30	Roa	de apodo le puse el suggar daddy
+2017-08-03 19:07:39	Roa	el cabron conecto puras morras de 18,20 21
+2017-08-03 19:07:53	Roa	me dice "No mames esa de 18 hasta mal me senti podia ser mi hija"
+2017-08-03 19:07:55	Roa	xDDDDD
+2017-08-03 19:08:17	juchipilo	jajaja
+2017-08-03 19:08:22	Roa	https://www.instagram.com/jesssyrd/ << esa fue la de 18
+2017-08-03 19:08:23	juchipilo	ta madre
+2017-08-03 19:08:32	juchipilo	como dices que se llama ahi? pa buscar boletos ya
+2017-08-03 19:08:43	Roa	Punta Cana , nene xD
+2017-08-03 19:08:46	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 268 seconds)
+2017-08-03 19:08:53	juchipilo	a su mare que culo
+2017-08-03 19:08:56	juchipilo	esta chingona
+2017-08-03 19:08:58	Roa	18 añitos
+2017-08-03 19:09:01	Roa	depiladita
+2017-08-03 19:09:06	Roa	"zuculentaaaa"
+2017-08-03 19:09:13	Roa	pero se la ajusticio mi compa
+2017-08-03 19:09:18	Roa	y pss no quiero hacerlo sentir mal
+2017-08-03 19:09:20	Roa	xDDD
+2017-08-03 19:09:21	juchipilo	si que chingon
+2017-08-03 19:09:29	Roa	respeto ganado ajeno
+2017-08-03 19:09:38	Roa	el cabron viene en 2 meses de nuevo
+2017-08-03 19:09:38	juchipilo	feliciteme a ese cabron
+2017-08-03 19:09:40	Roa	xDDD
+2017-08-03 19:09:47	Roa	y hay otra de 21
+2017-08-03 19:09:51	Roa	que esta mejor que la de 18
+2017-08-03 19:09:56	Roa	esa si ando controlando
+2017-08-03 19:10:15	Roa	si como le digo a un compa,aqui lo que falta es tener 2 o 3 penes mas
+2017-08-03 19:10:22	Roa	pa follarlas al mismo tiempo a todas
+2017-08-03 19:10:31	juchipilo	chaaale
+2017-08-03 19:10:38	juchipilo	bueno.. yo termino mi labor por hoy
+2017-08-03 19:10:40	juchipilo	ahila
+2017-08-03 19:10:49	Roa	ora dale calor nene
+2017-08-03 19:10:56	juchipilo	XD
+2017-08-03 19:11:19	Roa	busquele al rato todos los videos de ladychacala
+2017-08-03 19:11:29	Roa	pa afilar al tuerto
+2017-08-03 19:16:59	Roa	..
+2017-08-03 19:19:26	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-03 19:21:22	<	JosDzG (~Thunderbi@189.250.108.243) ha salido (Quit: JosDzG)
+2017-08-03 19:23:42	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 240 seconds)
+2017-08-03 19:35:01	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-03 19:39:45	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 248 seconds)
+2017-08-03 19:47:36	>	dasnetz (~dasnetz@189.148.99.133) has joined #linux.mx
+2017-08-03 19:50:38	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-03 20:00:16	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 260 seconds)
+2017-08-03 20:11:46	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-03 20:17:01	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 276 seconds)
+2017-08-03 20:27:24	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-03 20:32:01	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 248 seconds)
+2017-08-03 20:42:55	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-03 20:46:57	<	dasnetz (~dasnetz@189.148.99.133) ha salido (Ping timeout: 240 seconds)
+2017-08-03 20:47:27	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 240 seconds)
+2017-08-03 20:50:08	>	dasnetz (~dasnetz@189.148.99.133) has joined #linux.mx
+2017-08-03 20:54:27	>	dasnetz_ (~dasnetz@189.148.99.133) has joined #linux.mx
+2017-08-03 20:57:19	<	dasnetz (~dasnetz@189.148.99.133) ha salido (Ping timeout: 276 seconds)
+2017-08-03 20:58:33	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-03 21:03:02	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 260 seconds)
+2017-08-03 21:14:08	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-03 21:18:47	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 260 seconds)
+2017-08-03 21:29:41	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-03 21:34:05	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 240 seconds)
+2017-08-03 21:42:18	>	mathesis (~ja1000@unaffiliated/mathesis) has joined #linux.mx
+2017-08-03 21:45:17	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-03 21:49:30	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 240 seconds)
+2017-08-03 22:00:56	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-03 22:05:24	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 255 seconds)
+2017-08-03 22:16:30	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-03 22:20:42	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 240 seconds)
+2017-08-03 22:32:03	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-03 22:34:23	<	kobain (~kobain@unaffiliated/kobain) ha salido (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2017-08-03 22:34:42	<	mathesis (~ja1000@unaffiliated/mathesis) ha salido (Ping timeout: 240 seconds)
+2017-08-03 22:37:12	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 268 seconds)
+2017-08-03 22:47:39	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-03 22:52:12	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 240 seconds)
+2017-08-03 23:12:35	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-03 23:16:57	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 240 seconds)
+2017-08-03 23:28:58	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-03 23:33:12	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 240 seconds)
+2017-08-03 23:45:11	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-03 23:49:30	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 240 seconds)
+2017-08-04 00:01:21	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-04 00:06:12	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 260 seconds)
+2017-08-04 00:17:33	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-04 00:22:04	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 260 seconds)
+2017-08-04 00:33:43	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-04 00:38:24	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 260 seconds)
+2017-08-04 00:50:00	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-04 00:54:12	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 240 seconds)
+2017-08-04 01:06:10	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-04 01:10:52	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 255 seconds)
+2017-08-04 01:22:13	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-04 01:26:56	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 260 seconds)
+2017-08-04 01:38:23	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-04 01:43:16	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 260 seconds)
+2017-08-04 01:54:34	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-04 01:58:57	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 248 seconds)
+2017-08-04 02:10:49	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-04 02:15:49	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 276 seconds)
+2017-08-04 02:27:00	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-04 02:31:12	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 240 seconds)
+2017-08-04 02:43:07	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-04 02:47:41	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 255 seconds)
+2017-08-04 02:59:19	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-04 03:04:34	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 276 seconds)
+2017-08-04 03:15:31	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-04 03:20:07	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 258 seconds)
+2017-08-04 03:31:45	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-04 03:36:12	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 260 seconds)
+2017-08-04 03:47:51	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-04 03:52:27	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 255 seconds)
+2017-08-04 04:01:51	>	dasnetz__ (~dasnetz@189.148.99.133) has joined #linux.mx
+2017-08-04 04:04:04	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-04 04:04:12	<	dasnetz_ (~dasnetz@189.148.99.133) ha salido (Ping timeout: 240 seconds)
+2017-08-04 04:08:38	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 255 seconds)
+2017-08-04 04:20:11	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-04 04:24:30	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 240 seconds)
+2017-08-04 04:36:22	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-04 04:40:42	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 240 seconds)
+2017-08-04 04:52:32	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-04 04:57:24	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 260 seconds)
+2017-08-04 04:59:26	<	dasnetz__ (~dasnetz@189.148.99.133) ha salido (Remote host closed the connection)
+2017-08-04 04:59:48	>	dasnetz__ (~dasnetz@189.148.99.133) has joined #linux.mx
+2017-08-04 05:08:43	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-04 05:13:12	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 240 seconds)
+2017-08-04 05:25:22	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-04 05:30:04	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 255 seconds)
+2017-08-04 05:41:32	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-04 05:45:50	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 240 seconds)
+2017-08-04 05:57:41	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-04 06:02:16	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 260 seconds)
+2017-08-04 06:13:47	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-04 06:18:14	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 246 seconds)
+2017-08-04 06:30:00	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-04 06:34:41	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 248 seconds)
+2017-08-04 06:46:07	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-04 06:51:10	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 268 seconds)
+2017-08-04 07:02:15	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-04 07:06:57	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 240 seconds)
+2017-08-04 07:18:55	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-04 07:23:11	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 240 seconds)
+2017-08-04 07:29:14	<	jaoidor (~jose@201.165.55.86) ha salido (Read error: Connection reset by peer)
+2017-08-04 07:35:29	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-04 07:40:01	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 258 seconds)
+2017-08-04 07:40:37	Roa	..
+2017-08-04 07:52:12	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-04 07:54:28	Roa	https://www.sinembargo.mx/03-08-2017/3277076
+2017-08-04 07:54:28	Roa	zerver: arregla tu conexion
+2017-08-04 07:56:41	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 240 seconds)
+2017-08-04 07:57:16	>	zerver (~zerver@189.146.85.113) has joined #linux.mx
+2017-08-04 08:01:00	>	dasnetz (~dasnetz@189.148.48.192) has joined #linux.mx
+2017-08-04 08:01:46	<	zerver (~zerver@189.146.85.113) ha salido (Ping timeout: 255 seconds)
+2017-08-04 08:03:09	<	dasnetz (~dasnetz@189.148.48.192) ha salido (Read error: Connection reset by peer)
+2017-08-04 08:03:12	>	dasnetz_ (~dasnetz@189.148.48.192) has joined #linux.mx
+2017-08-04 08:07:59	>	dasnetz (~dasnetz@189.148.99.133) has joined #linux.mx
+2017-08-04 08:09:42	<	dasnetz_ (~dasnetz@189.148.48.192) ha salido (Ping timeout: 240 seconds)
+2017-08-04 08:16:59	mr-jules	buenasss
+2017-08-04 08:25:40	>	figabo (~figabo@201.165.119.82) has joined #linux.mx
+2017-08-04 08:37:46	Roa	eran
+2017-08-04 08:43:25	>	zerver (~zerver@187.177.132.225) has joined #linux.mx
+2017-08-04 08:43:43	mr-jules	malasss
+2017-08-04 09:06:25	>	jaoidor (~jose@201.165.55.86) has joined #linux.mx
+2017-08-04 09:10:24	Roa	.
+2017-08-04 09:14:21	>	JosDzG (~Thunderbi@189.250.108.243) has joined #linux.mx
+2017-08-04 09:34:19	zerver	ay weee
+2017-08-04 09:34:50	<	zerver (~zerver@187.177.132.225) ha salido (Quit: leaving)
+2017-08-04 09:36:09	mr-jules	zerve <<< arregla tu conexion xD
+2017-08-04 09:37:21	<	JosDzG (~Thunderbi@189.250.108.243) ha salido (Remote host closed the connection)
+2017-08-04 09:37:41	>	JosDzG (~Thunderbi@189.250.108.243) has joined #linux.mx
+2017-08-04 09:41:10	>	dasnetz_ (~dasnetz@189.148.48.192) has joined #linux.mx
+2017-08-04 09:43:56	<	dasnetz (~dasnetz@189.148.99.133) ha salido (Ping timeout: 260 seconds)
+2017-08-04 10:53:43	Roa	que pedooooo
+2017-08-04 10:53:46	Roa	culitos mios
+2017-08-04 10:57:31	>	mathesis (~ja1000@187.148.125.74) has joined #linux.mx
+2017-08-04 11:06:54	>	dasnetz (~dasnetz@189.148.99.133) has joined #linux.mx
+2017-08-04 11:08:17	<	dasnetz_ (~dasnetz@189.148.48.192) ha salido (Ping timeout: 248 seconds)
+2017-08-04 11:18:14	<	mathesis (~ja1000@187.148.125.74) ha salido (Ping timeout: 260 seconds)
+2017-08-04 11:23:50	>	dasnetz_ (~dasnetz@189.148.99.133) has joined #linux.mx
+2017-08-04 11:26:11	<	dasnetz (~dasnetz@189.148.99.133) ha salido (Ping timeout: 240 seconds)
+2017-08-04 11:37:05	>	mathesis (~ja1000@187.148.125.74) has joined #linux.mx
+2017-08-04 12:04:37	<	JosDzG (~Thunderbi@189.250.108.243) ha salido (Remote host closed the connection)
+2017-08-04 12:04:54	>	JosDzG (~Thunderbi@189.250.108.243) has joined #linux.mx
+2017-08-04 12:27:15	<	JosDzG (~Thunderbi@189.250.108.243) ha salido (Remote host closed the connection)
+2017-08-04 12:27:33	>	JosDzG (~Thunderbi@189.250.108.243) has joined #linux.mx
+2017-08-04 12:28:47	<	mathesis (~ja1000@187.148.125.74) ha salido (Ping timeout: 276 seconds)
+2017-08-04 12:30:11	>	mathesis (~ja1000@187.146.229.209) has joined #linux.mx
+2017-08-04 12:34:51	>	dasnetz (~dasnetz@189.148.48.192) has joined #linux.mx
+2017-08-04 12:36:22	<	dasnetz_ (~dasnetz@189.148.99.133) ha salido (Ping timeout: 260 seconds)
+2017-08-04 12:49:27	<	dasnetz__ (~dasnetz@189.148.99.133) ha salido (Read error: Connection reset by peer)
+2017-08-04 12:49:42	<	dasnetz (~dasnetz@189.148.48.192) ha salido (Remote host closed the connection)
+2017-08-04 12:49:48	>	dasnetz__ (~dasnetz@189.148.99.133) has joined #linux.mx
+2017-08-04 12:50:10	>	dasnetz (~dasnetz@189.148.48.192) has joined #linux.mx
+2017-08-04 12:59:57	<	dasnetz (~dasnetz@189.148.48.192) ha salido (Read error: Connection reset by peer)
+2017-08-04 12:59:57	<	dasnetz__ (~dasnetz@189.148.99.133) ha salido (Remote host closed the connection)
+2017-08-04 13:00:11	>	dasnetz (~dasnetz@189.148.99.133) has joined #linux.mx
+2017-08-04 13:00:23	>	dasnetz__ (~dasnetz@189.148.99.133) has joined #linux.mx
+2017-08-04 13:01:26	Roa	que paseeee el desgraciadooooo
+2017-08-04 13:08:23	juchipilo	wenas xotos
+2017-08-04 13:14:31	Roa	xDD
+2017-08-04 13:14:36	Roa	que pedo juchipilo 
+2017-08-04 13:14:40	juchipilo	nariz
+2017-08-04 13:14:46	juchipilo	aqui nomas chingandole
+2017-08-04 13:15:43	<	JosDzG (~Thunderbi@189.250.108.243) ha salido (Remote host closed the connection)
+2017-08-04 13:16:03	>	JosDzG (~Thunderbi@189.250.108.243) has joined #linux.mx
+2017-08-04 13:34:31	Roa	eso es todo
+2017-08-04 13:34:36	Roa	a generar puro $$$
+2017-08-04 13:34:48	Roa	no compras bitcoin juchipilo ?
+2017-08-04 13:35:01	Roa	o inviertes  $$?
+2017-08-04 13:55:30	<	mathesis (~ja1000@187.146.229.209) ha salido (Ping timeout: 240 seconds)
+2017-08-04 14:29:01	juchipilo	dls
+2017-08-04 15:09:24	<	dasnetz (~dasnetz@189.148.99.133) ha salido (Remote host closed the connection)
+2017-08-04 17:04:04	<	jaoidor (~jose@201.165.55.86) ha salido (Quit: leaving)
+2017-08-04 17:57:49	<	JosDzG (~Thunderbi@189.250.108.243) ha salido (Remote host closed the connection)
+2017-08-04 17:58:07	>	JosDzG (~Thunderbi@189.250.108.243) has joined #linux.mx
+2017-08-04 18:03:29	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #linux.mx
+2017-08-04 18:03:29	⇄	Topic for #linux.mx is "GOOGLE ES TU BUSCADOR Y NADA TE FALTARA.... SOLO HAY QUE APRENDER A PREGUNTARLE :D"
+2017-08-04 18:03:29	⇄	Tema establecido por kurama10 el mié, 06 ago 2014 12:09:04
+2017-08-04 18:03:29	⇄	Channel #linux.mx: 11 apodos (1 op, 0 voces, 10 normales)
+2017-08-04 18:03:44	⇄	Canal creado el mar, 15 dic 2009 09:17:34
+2017-08-04 18:07:45	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #linux.mx
+2017-08-04 18:07:45	⇄	Topic for #linux.mx is "GOOGLE ES TU BUSCADOR Y NADA TE FALTARA.... SOLO HAY QUE APRENDER A PREGUNTARLE :D"
+2017-08-04 18:07:45	⇄	Tema establecido por kurama10 el mié, 06 ago 2014 12:09:04
+2017-08-04 18:07:45	⇄	Channel #linux.mx: 11 apodos (1 op, 0 voces, 10 normales)
+2017-08-04 18:07:59	⇄	Canal creado el mar, 15 dic 2009 09:17:34
+2017-08-04 18:08:42	<	JosDzG (~Thunderbi@189.250.108.243) ha salido (Remote host closed the connection)
+2017-08-04 18:09:02	>	JosDzG (~Thunderbi@189.250.108.243) has joined #linux.mx
+2017-08-04 18:10:44	<	figabo (~figabo@201.165.119.82) ha salido (Ping timeout: 260 seconds)
+2017-08-04 18:22:53	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #linux.mx
+2017-08-04 18:22:53	⇄	Topic for #linux.mx is "GOOGLE ES TU BUSCADOR Y NADA TE FALTARA.... SOLO HAY QUE APRENDER A PREGUNTARLE :D"
+2017-08-04 18:22:53	⇄	Tema establecido por kurama10 el mié, 06 ago 2014 12:09:04
+2017-08-04 18:22:53	⇄	Channel #linux.mx: 10 apodos (1 op, 0 voces, 9 normales)
+2017-08-04 18:23:08	⇄	Canal creado el mar, 15 dic 2009 09:17:34
+2017-08-04 18:27:06	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #linux.mx
+2017-08-04 18:27:06	⇄	Topic for #linux.mx is "GOOGLE ES TU BUSCADOR Y NADA TE FALTARA.... SOLO HAY QUE APRENDER A PREGUNTARLE :D"
+2017-08-04 18:27:06	⇄	Tema establecido por kurama10 el mié, 06 ago 2014 12:09:04
+2017-08-04 18:27:06	⇄	Channel #linux.mx: 10 apodos (1 op, 0 voces, 9 normales)
+2017-08-04 18:27:20	⇄	Canal creado el mar, 15 dic 2009 09:17:34
+2017-08-05 21:21:19	-	mr-jules (~mr-jules@2806:101e:1:3b12:a41f:468a:98e6:531) has joined #linux.mx
+2017-08-05 21:21:19		Topic for #linux.mx is "GOOGLE ES TU BUSCADOR Y NADA TE FALTARA.... SOLO HAY QUE APRENDER A PREGUNTARLE :D"
+2017-08-05 21:21:19		Tema establecido por kurama10 el mié, 06 ago 2014 11:09:04
+2017-08-05 21:21:19		Channel #linux.mx: 11 apodos (1 op, 0 voces, 10 normales)
+2017-08-05 21:21:48	mr-jules	wenas
+2017-08-05 21:21:56		Canal creado el mar, 15 dic 2009 09:17:34
+2017-08-05 21:25:22	-	mr-jules (~mr-jules@2806:101e:1:3b12:a41f:468a:98e6:531) has joined #linux.mx
+2017-08-05 21:25:22		Topic for #linux.mx is "GOOGLE ES TU BUSCADOR Y NADA TE FALTARA.... SOLO HAY QUE APRENDER A PREGUNTARLE :D"
+2017-08-05 21:25:22		Tema establecido por kurama10 el mié, 06 ago 2014 11:09:04
+2017-08-05 21:25:22		Channel #linux.mx: 11 apodos (1 op, 0 voces, 10 normales)
+2017-08-05 21:26:01	>	mr-jules (~mr-jules@2806:101e:1:3b12:a41f:468a:98e6:531) has joined #linux.mx
+2017-08-05 21:26:01	⇄	Topic for #linux.mx is "GOOGLE ES TU BUSCADOR Y NADA TE FALTARA.... SOLO HAY QUE APRENDER A PREGUNTARLE :D"
+2017-08-05 21:26:01	⇄	Tema establecido por kurama10 el mié, 06 ago 2014 11:09:04
+2017-08-05 21:26:01	⇄	Channel #linux.mx: 11 apodos (1 op, 0 voces, 10 normales)
+2017-08-05 21:26:16	⇄	Canal creado el mar, 15 dic 2009 09:17:34
+2017-08-05 21:29:26	 > 	mr-jules (~mr-jules@2806:101e:1:3b12:a41f:468a:98e6:531) has joined #linux.mx
+2017-08-05 21:29:26	 - 	Topic for #linux.mx is "GOOGLE ES TU BUSCADOR Y NADA TE FALTARA.... SOLO HAY QUE APRENDER A PREGUNTARLE :D"
+2017-08-05 21:29:26	 - 	Tema establecido por kurama10 el mié, 06 ago 2014 11:09:04
+2017-08-05 21:29:26	 - 	Channel #linux.mx: 11 apodos (1 op, 0 voces, 10 normales)
+2017-08-05 21:30:56	◥	mr-jules (~mr-jules@2806:101e:1:3b12:a41f:468a:98e6:531) has joined #linux.mx
+2017-08-05 21:30:56	--	Topic for #linux.mx is "GOOGLE ES TU BUSCADOR Y NADA TE FALTARA.... SOLO HAY QUE APRENDER A PREGUNTARLE :D"
+2017-08-05 21:30:56	--	Tema establecido por kurama10 el mié, 06 ago 2014 11:09:04
+2017-08-05 21:30:56	--	Channel #linux.mx: 11 apodos (1 op, 0 voces, 10 normales)
+2017-08-05 21:31:11	--	Canal creado el mar, 15 dic 2009 09:17:34
+2017-08-05 21:41:05	◣	kobain (~kobain@unaffiliated/kobain) ha salido (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2017-08-05 21:44:07	◥	mr-jules (~mr-jules@2806:101e:1:3b12:a41f:468a:98e6:531) has joined #linux.mx
+2017-08-05 21:44:07	--	Topic for #linux.mx is "GOOGLE ES TU BUSCADOR Y NADA TE FALTARA.... SOLO HAY QUE APRENDER A PREGUNTARLE :D"
+2017-08-05 21:44:07	--	Tema establecido por kurama10 el mié, 06 ago 2014 11:09:04
+2017-08-05 21:44:07	--	Channel #linux.mx: 10 apodos (1 op, 0 voces, 9 normales)
+2017-08-05 21:44:21	--	Canal creado el mar, 15 dic 2009 09:17:34
+2017-08-05 22:07:38	◥	dasnetz_ (~dasnetz@189.148.48.192) has joined #linux.mx
+2017-08-05 22:10:00	◣	dasnetz (~dasnetz@189.148.99.133) ha salido (Ping timeout: 260 seconds)
+2017-08-05 22:17:27	◣	dasnetz_ (~dasnetz@189.148.48.192) ha salido (Read error: Connection reset by peer)
+2017-08-05 22:17:32	◥	dasnetz__ (~dasnetz@189.148.99.133) has joined #linux.mx
+2017-08-05 22:44:52	◣	ja1000_ (~ja1000@187.146.229.209) ha salido (Ping timeout: 246 seconds)
+2017-08-06 06:07:58	◥	dasnetz_ (~dasnetz@189.148.48.192) has joined #linux.mx
+2017-08-06 06:10:43	◣	dasnetz__ (~dasnetz@189.148.99.133) ha salido (Ping timeout: 268 seconds)
+2017-08-06 06:18:00	◥	dasnetz__ (~dasnetz@189.148.99.133) has joined #linux.mx
+2017-08-06 06:19:01	◥	kobain (~kobain@unaffiliated/kobain) has joined #linux.mx
+2017-08-06 06:20:28	◣	dasnetz_ (~dasnetz@189.148.48.192) ha salido (Ping timeout: 260 seconds)
+2017-08-06 06:28:57	◥	dasnetz_ (~dasnetz@189.148.48.192) has joined #linux.mx
+2017-08-06 06:31:27	◣	dasnetz__ (~dasnetz@189.148.99.133) ha salido (Ping timeout: 240 seconds)
+2017-08-06 07:05:27	◣	kobain (~kobain@unaffiliated/kobain) ha salido (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2017-08-06 09:13:05	◣	dasnetz_ (~dasnetz@189.148.48.192) ha salido (Read error: Connection reset by peer)
+2017-08-06 09:13:29	◥	dasnetz_ (~dasnetz@189.148.48.192) has joined #linux.mx
+2017-08-06 09:24:51	◥	ja1000_ (~ja1000@187.146.229.209) has joined #linux.mx
+2017-08-06 09:33:02	◥	kobain (~kobain@unaffiliated/kobain) has joined #linux.mx
+2017-08-06 10:26:27	◣	ja1000_ (~ja1000@187.146.229.209) ha salido (Ping timeout: 240 seconds)
+2017-08-06 10:38:25	◥	dasnetz__ (~dasnetz@189.148.48.192) has joined #linux.mx
+2017-08-06 10:41:28	◣	dasnetz_ (~dasnetz@189.148.48.192) ha salido (Ping timeout: 276 seconds)
+2017-08-06 11:18:55	◣	dasnetz__ (~dasnetz@189.148.48.192) ha salido (Remote host closed the connection)
+2017-08-06 11:21:11	◥	dasnetz (~dasnetz@189.148.48.192) has joined #linux.mx
+2017-08-06 13:17:13	◥	mr-jules (~mr-jules@2806:101e:1:3b12:a41f:468a:98e6:531) has joined #linux.mx
+2017-08-06 13:17:13	--	Topic for #linux.mx is "GOOGLE ES TU BUSCADOR Y NADA TE FALTARA.... SOLO HAY QUE APRENDER A PREGUNTARLE :D"
+2017-08-06 13:17:13	--	Tema establecido por kurama10 el mié, 06 ago 2014 11:09:04
+2017-08-06 13:17:13	--	Channel #linux.mx: 10 apodos (1 op, 0 voces, 9 normales)
+2017-08-06 13:17:29	--	Canal creado el mar, 15 dic 2009 09:17:34
+2017-08-06 13:36:50	◣	dasnetz (~dasnetz@189.148.48.192) ha salido (Remote host closed the connection)
+2017-08-06 14:15:23	--	irc: desconectado del servidor
+2017-08-06 14:15:52	◥	mr-jules (~mr-jules@2806:101e:1:3b12:a41f:468a:98e6:531) has joined #linux.mx
+2017-08-06 14:15:52	--	Topic for #linux.mx is "GOOGLE ES TU BUSCADOR Y NADA TE FALTARA.... SOLO HAY QUE APRENDER A PREGUNTARLE :D"
+2017-08-06 14:15:52	--	Tema establecido por kurama10 el mié, 06 ago 2014 11:09:04
+2017-08-06 14:15:52	--	Channel #linux.mx: 9 apodos (1 op, 0 voces, 8 normales)
+2017-08-06 14:16:16	--	Canal creado el mar, 15 dic 2009 09:17:34
+2017-08-06 14:28:30	◥	dasnetz (~dasnetz@189.148.47.48) has joined #linux.mx
+2017-08-06 14:43:53	◥	dasnetz_ (~dasnetz@189.148.47.48) has joined #linux.mx
+2017-08-06 14:46:07	◣	dasnetz (~dasnetz@189.148.47.48) ha salido (Ping timeout: 255 seconds)
+2017-08-06 15:05:47	◥	alvariux (~acolunga@187.195.217.155) has joined #linux.mx
+2017-08-06 15:06:14	◣	alvariux (~acolunga@187.195.217.155) ha salido (Client Quit)
+2017-08-06 15:08:13	◥	dasnetz__ (~dasnetz@189.148.22.118) has joined #linux.mx
+2017-08-06 15:10:39	◣	dasnetz_ (~dasnetz@189.148.47.48) ha salido (Ping timeout: 240 seconds)
+2017-08-06 20:20:25	--	irc: desconectado del servidor
+2017-08-06 20:20:54	◥	mr-jules (~mr-jules@2806:101e:1:2d1e:c0fa:c829:2156:83eb) has joined #linux.mx
+2017-08-06 20:20:54	--	Topic for #linux.mx is "GOOGLE ES TU BUSCADOR Y NADA TE FALTARA.... SOLO HAY QUE APRENDER A PREGUNTARLE :D"
+2017-08-06 20:20:54	--	Tema establecido por kurama10 el mié, 06 ago 2014 11:09:04
+2017-08-06 20:20:54	--	Channel #linux.mx: 11 apodos (1 op, 0 voces, 10 normales)
+2017-08-06 20:21:18	--	Canal creado el mar, 15 dic 2009 09:17:34
+2017-08-06 20:32:14	◣	dasnetz__ (~dasnetz@189.148.22.118) ha salido (Remote host closed the connection)
+2017-08-06 20:32:38	◥	dasnetz__ (~dasnetz@189.148.47.48) has joined #linux.mx
+2017-08-06 20:46:23	◣	kobain (~kobain@unaffiliated/kobain) ha salido (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2017-08-06 22:13:01	◣	ja1000 (~ja1000@187.146.229.209) ha salido (Quit: Lost terminal)
+2017-08-06 22:18:49	◣	dasnetz__ (~dasnetz@189.148.47.48) ha salido (Remote host closed the connection)
+2017-08-06 22:19:09	◥	dasnetz__ (~dasnetz@189.148.47.48) has joined #linux.mx
+2017-08-06 22:22:44	◣	dasnetz__ (~dasnetz@189.148.47.48) ha salido (Remote host closed the connection)
+2017-08-06 22:23:10	◥	dasnetz__ (~dasnetz@189.148.47.48) has joined #linux.mx
+2017-08-07 03:01:39	◥	dasnetz_ (~dasnetz@189.148.22.118) has joined #linux.mx
+2017-08-07 03:04:17	◣	dasnetz__ (~dasnetz@189.148.47.48) ha salido (Ping timeout: 248 seconds)
+2017-08-07 06:24:38	◥	dasnetz (~dasnetz@189.148.47.48) has joined #linux.mx
+2017-08-07 07:07:47	◥	dasnetz__ (~dasnetz@189.148.47.48) has joined #linux.mx
+2017-08-07 07:09:48	◣	dasnetz_ (~dasnetz@189.148.22.118) ha salido (Ping timeout: 240 seconds)
+2017-08-07 07:18:42	◥	dasnetz_ (~dasnetz@189.148.47.48) has joined #linux.mx
+2017-08-07 07:21:08	◣	dasnetz__ (~dasnetz@189.148.47.48) ha salido (Ping timeout: 240 seconds)
+2017-08-07 07:41:57	◥	figabo (~figabo@201.165.119.82) has joined #linux.mx
+2017-08-07 08:22:10	◥	jaoidor (~jose@201.165.55.86) has joined #linux.mx
+2017-08-07 11:19:21	--	irc: desconectado del servidor
+2017-08-07 11:19:53	◥	mr-jules (~mr-jules@189.173.198.174) has joined #linux.mx
+2017-08-07 11:19:53	--	Topic for #linux.mx is "GOOGLE ES TU BUSCADOR Y NADA TE FALTARA.... SOLO HAY QUE APRENDER A PREGUNTARLE :D"
+2017-08-07 11:19:53	--	Tema establecido por kurama10 el mié, 06 ago 2014 11:09:04
+2017-08-07 11:19:53	--	Channel #linux.mx: 13 apodos (1 op, 0 voces, 12 normales)
+2017-08-07 11:20:22	--	Canal creado el mar, 15 dic 2009 09:17:34
+2017-08-07 11:55:00	--	irc: desconectado del servidor
+2017-08-07 11:55:29	◥	mr-jules (~mr-jules@2806:101e:1:2d1e:c0fa:c829:2156:83eb) has joined #linux.mx
+2017-08-07 11:55:29	--	Topic for #linux.mx is "GOOGLE ES TU BUSCADOR Y NADA TE FALTARA.... SOLO HAY QUE APRENDER A PREGUNTARLE :D"
+2017-08-07 11:55:29	--	Tema establecido por kurama10 el mié, 06 ago 2014 11:09:04
+2017-08-07 11:55:29	--	Channel #linux.mx: 13 apodos (1 op, 0 voces, 12 normales)
+2017-08-07 11:55:57	--	Canal creado el mar, 15 dic 2009 09:17:34
+2017-08-07 12:01:29	◥	dasnetz__ (~dasnetz@189.148.47.48) has joined #linux.mx
+2017-08-07 12:01:50	◣	dasnetz (~dasnetz@189.148.47.48) ha salido (Read error: Connection reset by peer)
+2017-08-07 12:07:04	Roa	....
+2017-08-07 12:07:06	Roa	Buenas buenas
+2017-08-07 12:10:02	Roa	https://www.facebook.com/janna.morel.29?ft[qid]=6451611624248184843&ft[mf_story_key]=-4585632122431462121&ft[ego_id]=100002700050266&ft[ei]=&ft[tn]=H-R&ft[fbfeed_location]=1&ft[insertion_position]=1&ft[ordinal_position]=2%3A1&__md__=1
+2017-08-07 12:10:06	Roa	xDD
+2017-08-07 12:10:06	Roa	juchipilo: 
+2017-08-07 12:10:21	juchipilo	ea
+2017-08-07 12:10:40	juchipilo	aaa la merga
+2017-08-07 12:10:43	juchipilo	de donde es
+2017-08-07 12:10:45	juchipilo	la morra
+2017-08-07 12:10:53	juchipilo	ya vi. san jose
+2017-08-07 12:11:04	juchipilo	pero.. aca es ilegal eso.. a la nada es chota
+2017-08-07 12:12:20	Roa	xDDD
+2017-08-07 12:12:31	Roa	checate los videos que ha subido
+2017-08-07 12:12:42	Roa	hay uno que puso de cancun en enero
+2017-08-07 12:12:45	juchipilo	hay ojos en la pader
+2017-08-07 12:12:45	Roa	igual y si se dedica a eso
+2017-08-07 12:12:57	Roa	ese antro si existe
+2017-08-07 12:12:58	juchipilo	noma que orita se descuido el bato por eso pude ver la page
+2017-08-07 12:13:01	Roa	na no es p0rn
+2017-08-07 12:13:10	juchipilo	luego la checo en la casa con toda la calma
+2017-08-07 12:13:30	Roa	en tinder es donde hay mas 
+2017-08-07 12:13:31	Roa	xDD
+2017-08-07 12:13:33	Roa	me han contadoo
+2017-08-07 12:13:39	juchipilo	orale
+2017-08-07 12:49:36	◣	dasnetz__ (~dasnetz@189.148.47.48) ha salido (Read error: Connection reset by peer)
+2017-08-07 12:49:59	◥	dasnetz__ (~dasnetz@189.148.47.48) has joined #linux.mx
+2017-08-07 13:03:58	◣	dasnetz__ (~dasnetz@189.148.47.48) ha salido (Remote host closed the connection)
+2017-08-07 13:05:01	◥	dasnetz (~dasnetz@189.148.22.118) has joined #linux.mx
+2017-08-07 15:10:46	◥	mr-jules (~mr-jules@2806:101e:1:2d1e:c0fa:c829:2156:83eb) has joined #linux.mx
+2017-08-07 15:10:46	--	Topic for #linux.mx is "GOOGLE ES TU BUSCADOR Y NADA TE FALTARA.... SOLO HAY QUE APRENDER A PREGUNTARLE :D"
+2017-08-07 15:10:46	--	Tema establecido por kurama10 el mié, 06 ago 2014 11:09:04
+2017-08-07 15:10:46	--	Channel #linux.mx: 12 apodos (1 op, 0 voces, 11 normales)
+2017-08-07 15:11:00	--	Canal creado el mar, 15 dic 2009 09:17:34
+2017-08-07 15:34:00	zerver	Roa: vientos
+2017-08-07 15:59:14	zerver	¿Quien le mueve a RoR
+2017-08-07 15:59:16	zerver	?
+2017-08-07 15:59:45	zerver	Tengo un pedo para hacer el bundle install
+2017-08-07 15:59:55	zerver	Pinches gemas de mierda
+2017-08-07 16:01:05	zerver	pinche juchipilo de miercoles
+2017-08-07 16:01:07	zerver	jajaja
+2017-08-07 16:02:07	juchipilo	me cago en el hocico del zerver!!
+2017-08-07 16:02:10	juchipilo	no puede? 
+2017-08-07 16:02:14	juchipilo	si no pa hablarle al necros

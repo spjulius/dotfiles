@@ -1,7 +1,12 @@
-##############################################################################
-## This is the example configuration file. Copy it to $HOME/.ncmpcpp/config ##
-## or $XDG_CONFIG_HOME/ncmpcpp/config and set up your preferences.          ##
-##############################################################################
+#                                                                 
+#  ___      ___     ___ ___     _____     ___    _____    _____   
+#/' _ `\   /'___\ /' __` __`\  /\ '__`\  /'___\ /\ '__`\ /\ '__`\ 
+#/\ \/\ \ /\ \__/ /\ \/\ \/\ \ \ \ \_\ \/\ \__/ \ \ \_\ \\ \ \_\ \
+#\ \_\ \_\\ \____\\ \_\ \_\ \_\ \ \ ,__/\ \____\ \ \ ,__/ \ \ ,__/
+# \/_/\/_/ \/____/ \/_/\/_/\/_/  \ \ \/  \/____/  \ \ \/   \ \ \/ 
+#                                 \/_/             \/_/     \/_/  
+# JulesKLord (github/spjulius)(JulioGlez.93@gmail.com)
+#
 #
 ##### directories ######
 ##
@@ -82,7 +87,7 @@ visualizer_output_name = Visualizer feed
 ##
 visualizer_type = ellipse
 #
-visualizer_look = ●▮
+visualizer_look = "▋▋"
 #
 visualizer_color = blue, cyan, green, yellow, magenta, red
 #
@@ -543,48 +548,32 @@ visualizer_color = blue, cyan, green, yellow, magenta, red
 #active_window_border = red
 #
 
-# Display ..
-song_list_format = " $0%n $1• $8%t $R$0%a "
-song_columns_list_format = "(3)[]{}(85)[white]{t} (1)[blue]{a}"
-song_status_format = " $3%t $0 $1%a "
-playlist_display_mode = "columns" (classic/columns)
+main_window_highlight_color = "white"
 
-# Now Playing ..
-now_playing_prefix = "$3>"
+progressbar_look = "—▬—"
+progressbar_color = "white"
+progressbar_elapsed_color = "blue"
+
+song_list_format = " $5%a $2•  $8%t"
+#song_list_format = "$1• $8%t $1by $2%a$2 $R$1%l"
+#song_list_format = "$8 %t $R$8"
+song_status_format = " $6%a  $7%t  $5%b "
+
+
+#now_playing_prefix = "$b$8»$2»$4»$3» "
+now_playing_prefix = "$b$2> "
 now_playing_suffix = "$8$/b"
 
-# Playlist ..
-browser_playlist_prefix = "$2 ♥ $0 "
+song_columns_list_format = "(8f)[black]{l}  (32)[red]{a} (42)[yellow]{t|f} (18)[magenta]{b}"
+## song_columns_list_format = "(5)[]{} (22)[red]{a} (20)[white]{t|f} (49)[blue]{b} (4)[red]{l}"
 
-# Delays .. 
-playlist_disable_highlight_delay = "1"
-message_delay_time= "1"
+color1 = "white"
+color2 = "black"
 
-# Progress Bar ..
-progressbar_look = "━━─"
-progressbar_boldness = "yes"
-progressbar_color = "black"
-progressbar_elapsed_color = "green"
-
-# Colors ..
-colors_enabled = "yes"
-empty_tag_color = "red"
-statusbar_color = "black"
-state_line_color = "black"
-state_flags_color = "green"
-main_window_color = "green" 
-header_window_color = "black"
-main_window_highlight_color = "blue"
-
-# Misc ..   
-display_bitrate = "yes"
-autocenter_mode = "yes"
-centered_cursor = "yes"
-titles_visibility = "no"
-statusbar_visibility = "no"
-empty_tag_marker=" -- ‼ -- " 
 mouse_support = "yes"
 header_visibility = "no"
-display_remaining_time = "no"
-ask_before_clearing_playlists = "yes"
-discard_colors_if_item_is_selected = "yes"
+statusbar_visibility = "no"
+playlist_display_mode = "classic" (classic/columns)
+autocenter_mode = "yes"
+titles_visibility = "no"
+enable_window_title = "no"

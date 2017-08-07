@@ -1,0 +1,351 @@
+2017-07-23 09:05:11		Nuevo atajo (contexto "default"):  meta-meta-OQ => /bar scroll buflist * e
+2017-07-23 09:05:11		Nuevo atajo (contexto "default"):  meta-meta-OP => /bar scroll buflist * b
+2017-07-23 09:05:11		Nuevo atajo (contexto "default"):  meta-OQ => /bar scroll buflist * +100%
+2017-07-23 09:05:11		Nuevo atajo (contexto "default"):  meta-OP => /bar scroll buflist * -100%
+2017-07-23 09:05:11		Plugins cargados: alias, aspell, buflist, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-07-23 09:05:28	=!=	irc: unable to add temporary server "irc.freenode.net" because the addition of temporary servers with command /connect is currently disabled
+2017-07-23 09:05:28	=!=	irc: if you want to add a standard server, use the command "/server add" (see /help server); if you really want to add a temporary server (NOT SAVED), turn on the option irc.look.temporary_servers
+2017-07-23 09:05:38	=!=	Too few arguments for command "/server add" (help on command: /help server)
+2017-07-23 09:05:47	=!=	Too few arguments for command "/server add" (help on command: /help server)
+2017-07-23 09:05:58	=!=	Too few arguments for command "/server add" (help on command: /help server)
+2017-07-23 09:06:04	=!=	Error with command "/server help" (help on command: /help server)
+2017-07-23 09:06:11		[irc]  /server  list|listfull [<server>]
+2017-07-23 09:06:11		                add <server> <hostname>[/<port>] [-temp] [-<option>[=<value>]] [-no<option>]
+2017-07-23 09:06:11		                copy|rename <server> <new_name>
+2017-07-23 09:06:11		                reorder <server> [<server>...]
+2017-07-23 09:06:11		                open <server>|-all [<server>...]
+2017-07-23 09:06:11		                del|keep <server>
+2017-07-23 09:06:11		                deloutq|jump|raw
+2017-07-23 09:06:11		lista, añade o elimina servidores IRC
+2017-07-23 09:06:11		    list: list servers (without argument, this list is displayed)
+2017-07-23 09:06:11		listfull: list servers with detailed info for each server
+2017-07-23 09:06:11		     add: add a new server
+2017-07-23 09:06:11		  server: server name, for internal and display use
+2017-07-23 09:06:11		hostname: name or IP address of server, with optional port (default: 6667), many addresses can be separated by a comma
+2017-07-23 09:06:11		   -temp: add a temporary server (not saved)
+2017-07-23 09:06:11		  option: set option for server (for boolean option, value can be omitted)
+2017-07-23 09:06:11		nooption: set boolean option to 'off' (for example: -nossl)
+2017-07-23 09:06:11		    copy: duplicate a server
+2017-07-23 09:06:11		  rename: rename a server
+2017-07-23 09:06:11		 reorder: reorder list of servers
+2017-07-23 09:06:11		    open: open the server buffer without connecting
+2017-07-23 09:06:11		    keep: keep server in config file (for temporary servers only)
+2017-07-23 09:06:11		     del: delete a server
+2017-07-23 09:06:11		 deloutq: delete messages out queue for all servers (all messages WeeChat is currently sending)
+2017-07-23 09:06:11		    jump: jump to server buffer
+2017-07-23 09:06:11		     raw: open buffer with raw IRC data
+2017-07-23 09:06:11		Examples:
+2017-07-23 09:06:11		  /server listfull
+2017-07-23 09:06:11		  /server add freenode chat.freenode.net
+2017-07-23 09:06:11		  /server add freenode chat.freenode.net/6697 -ssl -autoconnect
+2017-07-23 09:06:11		  /server add chatspike irc.chatspike.net/6667,irc.duckspike.net/6667
+2017-07-23 09:06:11		  /server copy freenode freenode-test
+2017-07-23 09:06:11		  /server rename freenode-test freenode2
+2017-07-23 09:06:11		  /server reorder freenode2 freenode
+2017-07-23 09:06:11		  /server del freenode
+2017-07-23 09:06:11		  /server deloutq
+2017-07-23 09:06:23		irc: server freenode added
+2017-07-23 09:13:16		[core]
+2017-07-23 09:13:16		  away     command  filter   key      plugin   reload   set      version
+2017-07-23 09:13:16		  bar      cursor   help     layout   print    repeat   unset    wait   
+2017-07-23 09:13:16		  buffer   debug    history  mouse    proxy    save     upgrade  window 
+2017-07-23 09:13:16		  color    eval     input    mute     quit     secure   uptime 
+2017-07-23 09:13:16		[trigger]
+2017-07-23 09:13:16		  trigger
+2017-07-23 09:13:16		[tcl]
+2017-07-23 09:13:16		  tcl
+2017-07-23 09:13:16		[lua]
+2017-07-23 09:13:16		  lua
+2017-07-23 09:13:16		[xfer]
+2017-07-23 09:13:16		  me  xfer
+2017-07-23 09:13:16		[perl]
+2017-07-23 09:13:16		  perl
+2017-07-23 09:13:16		[ruby]
+2017-07-23 09:13:16		  ruby
+2017-07-23 09:13:16		[aspell]
+2017-07-23 09:13:16		  aspell
+2017-07-23 09:13:16		[buflist]
+2017-07-23 09:13:16		  buflist
+2017-07-23 09:13:16		[irc]
+2017-07-23 09:13:16		  admin       deop        kickban     nick        reconnect   servlist    users     
+2017-07-23 09:13:16		  allchan     devoice     kill        notice      rehash      squery      version   
+2017-07-23 09:13:16		  allpv       die         links       notify      remove      squit       voice     
+2017-07-23 09:13:16		  allserv     disconnect  list        op          restart     stats       wallchops 
+2017-07-23 09:13:16		  ban         halfop      lusers      oper        sajoin      summon      wallops   
+2017-07-23 09:13:16		  cap         ignore      map         part        samode      time        who       
+2017-07-23 09:13:16		  connect     info        me          ping        sanick      topic       whois     
+2017-07-23 09:13:16		  ctcp        invite      mode        pong        sapart      trace       whowas    
+2017-07-23 09:13:16		  cycle       ison        motd        query       saquit      unban     
+2017-07-23 09:13:16		  dcc         join        msg         quiet       server      unquiet   
+2017-07-23 09:13:16		  dehalfop    kick        names       quote       service     userhost  
+2017-07-23 09:13:16		[charset]
+2017-07-23 09:13:16		  charset
+2017-07-23 09:13:16		[relay]
+2017-07-23 09:13:16		  relay
+2017-07-23 09:13:16		[alias]
+2017-07-23 09:13:16		  AAWAY    ANICK    CHAT     IG       LEAVE    N        SIGNOFF  V        WII    
+2017-07-23 09:13:16		  alias    BEEP     CL       J        M        Q        T        W        WW     
+2017-07-23 09:13:16		  AME      BYE      CLOSE    K        MSGBUF   REDRAW   UB       WC     
+2017-07-23 09:13:16		  AMSG     C        EXIT     KB       MUB      SAY      UMODE    WI     
+2017-07-23 09:13:16		[python]
+2017-07-23 09:13:16		  python
+2017-07-23 09:13:16		[logger]
+2017-07-23 09:13:16		  logger
+2017-07-23 09:13:16		[script]
+2017-07-23 09:13:16		  script
+2017-07-23 09:13:16		[exec]
+2017-07-23 09:13:16		  exec
+2017-07-23 09:13:16		[fifo]
+2017-07-23 09:13:16		  fifo
+2017-07-23 09:15:25		Opción cambiada: weechat.bar.buflist.position = bottom  (predeterminado: left)
+2017-07-23 09:16:02		Opción cambiada: weechat.bar.buflist.position = top  (predeterminado: left)
+2017-07-23 09:16:58		Opción cambiada: weechat.bar.nicklist.position = right
+2017-07-23 09:17:17		Opción cambiada: weechat.bar.nicklist.hidden = off
+2017-07-23 09:17:21		Opción cambiada: weechat.bar.nicklist.hidden = on  (predeterminado: off)
+2017-07-23 09:17:25		Opción cambiada: weechat.bar.nicklist.hidden = off
+2017-07-23 09:17:33		Opción cambiada: weechat.bar.nicklist.hidden = on  (predeterminado: off)
+2017-07-23 09:17:39		Opción cambiada: weechat.bar.nicklist.hidden = off
+2017-07-23 09:18:18		Opción cambiada: weechat.bar.nicklist.size_max = 1  (predeterminado: 0)
+2017-07-23 09:18:24		Opción cambiada: weechat.bar.nicklist.size_max = 1  (predeterminado: 0)
+2017-07-23 09:18:31		Opción cambiada: weechat.bar.nicklist.size_max = 20  (predeterminado: 0)
+2017-07-23 09:18:36		Opción cambiada: weechat.bar.nicklist.size_max = 25  (predeterminado: 0)
+2017-07-23 09:18:45		Opción cambiada: weechat.bar.nicklist.size_max = 30  (predeterminado: 0)
+2017-07-23 09:18:53		Opción cambiada: weechat.bar.nicklist.size = 30  (predeterminado: 0)
+2017-07-23 09:18:57	=!=	Error: no se pudo configurar la opción "weechat.bar.nicklist.size"
+2017-07-23 09:18:59		Opción cambiada: weechat.bar.nicklist.size = 20  (predeterminado: 0)
+2017-07-23 09:19:03		Opción cambiada: weechat.bar.nicklist.size = 15  (predeterminado: 0)
+2017-07-23 09:19:45		Opción cambiada: weechat.bar.status.color_bg = cyan  (predeterminado: blue)
+2017-07-23 09:19:49		Opción cambiada: weechat.bar.status.color_bg = white  (predeterminado: blue)
+2017-07-23 09:20:04		Opción cambiada: weechat.bar.status.color_fg = black  (predeterminado: default)
+2017-07-23 09:20:29		Opción cambiada: weechat.bar.status.hidden = on  (predeterminado: off)
+2017-07-23 09:21:09		Opción cambiada: weechat.bar.title.color_bg = white  (predeterminado: blue)
+2017-07-23 09:21:45		Opción cambiada: weechat.bar.input.separator = on  (predeterminado: off)
+2017-07-23 09:22:11		Opción cambiada: weechat.bar.input.color_delim = white  (predeterminado: cyan)
+2017-07-23 09:22:28		Opción cambiada: weechat.bar.input.filling_left_right = horizontal  (predeterminado: vertical)
+2017-07-23 09:23:15		Opción cambiada: weechat.bar.input.separator = off
+2017-07-23 09:24:00		Opción cambiada: weechat.bar.input.size = 5  (predeterminado: 1)
+2017-07-23 09:24:05		Opción cambiada: weechat.bar.input.size = 1
+2017-07-23 09:25:16		Opción cambiada: weechat.color.separator = white  (predeterminado: blue)
+2017-07-23 09:25:22		Opción cambiada: weechat.color.separator = cyan  (predeterminado: blue)
+2017-07-23 09:25:37		Opción cambiada: weechat.bar.input.separator = on  (predeterminado: off)
+2017-07-23 09:26:09		Opción cambiada: weechat.bar.input.size = 0  (predeterminado: 1)
+2017-07-23 09:26:11		Opción cambiada: weechat.bar.input.size = 1
+2017-07-23 09:27:08		Opción cambiada: weechat.color.chat_nick_colors = "cyan,magenta,green,brown,lightblue,default,lightcyan,lightmagenta,lightgreen,blue"
+2017-07-23 09:27:59		Opción cambiada: weechat.color.nicklist_away = white  (predeterminado: cyan)
+2017-07-23 09:31:59		Opción cambiada: weechat.look.color_inactive_buffer = on
+2017-07-23 09:34:11	=!=	Error: comando "/colors" desconocido (use /help para ver la ayuda)
+2017-07-23 09:36:09		Ratón activado
+2017-07-23 09:38:21		fifo: tubería cerrada
+2017-07-23 09:38:25		Plugins cargados: alias, aspell, buflist, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-07-23 09:42:24	=!=	No es posible escribir texto en este buffer
+2017-07-23 09:42:25	=!=	No es posible escribir texto en este buffer
+2017-07-23 09:42:27		fifo: tubería cerrada
+2017-07-23 09:42:34		Plugins cargados: alias, aspell, buflist, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-07-23 09:42:47	=!=	No es posible escribir texto en este buffer
+2017-07-23 09:42:56	=!=	No es posible escribir texto en este buffer
+2017-07-23 09:43:07		fifo: tubería cerrada
+2017-07-23 09:43:17		Plugins cargados: alias, aspell, buflist, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-07-23 09:43:48		fifo: tubería cerrada
+2017-07-23 09:44:04		Plugins cargados: alias, aspell, buflist, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-07-23 09:44:23		fifo: tubería cerrada
+2017-07-23 09:44:26		Plugins cargados: alias, aspell, buflist, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-07-23 09:44:44	=!=	irc: el comando "join"debe ser ejecutado en un servidor irc conectado
+2017-07-23 09:45:36		Opción cambiada: weechat.bar.nicklist.separator = off  (predeterminado: on)
+2017-07-23 09:46:16		Opción cambiada: weechat.bar.nicklist.position = bottom  (predeterminado: right)
+2017-07-23 09:46:30		Opción cambiada: weechat.bar.nicklist.position = left  (predeterminado: right)
+2017-07-23 09:48:13		Opción cambiada: irc.look.color_nicks_in_names = on  (predeterminado: off)
+2017-07-23 09:48:47		Opción cambiada: irc.look.color_nicks_in_nicklist = on  (predeterminado: off)
+2017-07-23 09:49:46		Opción cambiada: irc.server.freenode.autoconnect = on  (default if null: off)
+2017-07-23 09:53:14		Opción cambiada: irc.server.freenode.autojoin = "#archlinux-es,#ubuntu,#ubuntu-es,#ubuntu-es-offtopic,#archlinux-offtopic,#unixporn,#archlabs,#linux-es"  (default if null: "")
+2017-07-23 09:53:23		fifo: tubería cerrada
+2017-07-23 09:53:26		Plugins cargados: alias, aspell, buflist, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-07-23 09:55:33		Opción cambiada: weechat.bar.nicklist.position = right  (predeterminado: left)
+2017-07-23 09:56:30		Opción cambiada: weechat.look.buffer_time_format = "%H:%M"  (predeterminado: "%H:%M:%S")
+2017-07-23 09:58:31		Opción cambiada: weechat.look.prefix_suffix = " "  (predeterminado: "|")
+2017-07-23 09:58:46		Opción cambiada: weechat.bar.buflist.separator = off  (predeterminado: on)
+2017-07-23 09:59:07		Opción cambiada: weechat.bar.buflist.size = 5  (predeterminado: 0)
+2017-07-23 09:59:09		Opción cambiada: weechat.bar.buflist.size = 1  (predeterminado: 0)
+2017-07-23 09:59:11		Opción cambiada: weechat.bar.buflist.size = 3  (predeterminado: 0)
+2017-07-23 10:00:29		Opción cambiada: weechat.look.prefix_join = ">"  (predeterminado: "-->")
+2017-07-23 10:00:41		Opción cambiada: weechat.look.prefix_join = ">"  (predeterminado: "-->")
+2017-07-23 10:01:06		Opción cambiada: weechat.look.prefix_quit = "<"  (predeterminado: "<--")
+2017-07-23 10:12:20		Opción cambiada: irc.server.freenode.autojoin = "#archlinux-es,#archlinux,#ubuntu-es,#ubuntu-mx,#ubuntu-es-offtopic,#unixporn,#linux-es,#linux.mx,#manjaro,#github,#dotshare,#debian-es,#debianitas,#debianmexico,#gentoo-es"  (default if null: "")
+2017-07-23 10:12:30		fifo: tubería cerrada
+2017-07-23 10:12:32		Plugins cargados: alias, aspell, buflist, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-07-23 10:13:53	=!=	Error: comando "/clear" desconocido (use /help para ver la ayuda)
+2017-07-23 10:16:10		Opción cambiada: weechat.bar.buflist.size = 2  (predeterminado: 3)
+2017-07-23 10:16:24		Opción cambiada: weechat.bar.buflist.size = 3
+2017-07-23 10:16:27		Opción cambiada: weechat.bar.buflist.size = 4  (predeterminado: 3)
+2017-07-23 10:17:19		Opción cambiada: weechat.bar.buflist.position = right  (predeterminado: top)
+2017-07-23 10:17:28		Opción cambiada: weechat.bar.buflist.position = bottom  (predeterminado: top)
+2017-07-23 10:18:34		Opción cambiada: weechat.bar.buflist.size = 5  (predeterminado: 3)
+2017-07-23 10:18:57		Opción cambiada: weechat.bar.input.size = 2  (predeterminado: 1)
+2017-07-23 10:19:27		Opción cambiada: weechat.bar.buflist.filling_top_bottom = columns_vertical
+2017-07-23 10:20:39		Opción cambiada: buflist.look.nick_prefix = on  (predeterminado: off)
+2017-07-23 10:20:44		Opción cambiada: buflist.look.nick_prefix = off
+2017-07-23 10:20:50		Opción cambiada: buflist.look.nick_prefix_empty = off  (predeterminado: on)
+2017-07-23 10:21:40	=!=	Option "weecchja" not found (tip: you can use wildcard "*" in option to see a sublist)
+2017-07-23 10:23:14		Opción cambiada: buflist.format.buffer = "${format_nick_prefix}${color_hotlist}${format_name}"  (predeterminado: "${format_number}${indent}${format_nick_prefix}${color_hotlist}${format_name}")
+2017-07-23 10:25:15		Opción cambiada: weechat.bar.buflist.size_max = 0
+2017-07-23 10:26:11		Opción cambiada: buflist.format.buffer = "${format_nick_prefix}${color_hotlist}"  (predeterminado: "${format_number}${indent}${format_nick_prefix}${color_hotlist}${format_name}")
+2017-07-23 10:26:46		Opción cambiada: buflist.format.buffer = "${format_nick_prefix}${color_hotlist}${format_name}"  (predeterminado: "${format_number}${indent}${format_nick_prefix}${color_hotlist}${format_name}")
+2017-07-23 10:27:04		Opción cambiada: weechat.bar.buflist.size = 4  (predeterminado: 3)
+2017-07-23 10:27:12		Opción cambiada: weechat.bar.buflist.size_max = 4  (predeterminado: 0)
+2017-07-23 10:28:01		fifo: tubería cerrada
+2017-07-23 10:28:51		Plugins cargados: alias, aspell, buflist, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-07-23 10:38:14		fifo: tubería cerrada
+2017-07-23 10:40:25		Plugins cargados: alias, aspell, buflist, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-07-23 10:40:42	+	Error: comando "/mousemode" desconocido (use /help para ver la ayuda)
+2017-07-23 10:40:55	+	Error with command "/mouse on" (help on command: /help mouse)
+2017-07-23 10:40:59		Ratón activado
+2017-07-23 10:41:26		fifo: tubería cerrada
+2017-07-23 10:43:12		Plugins cargados: alias, aspell, buflist, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-07-23 10:53:55		fifo: tubería cerrada
+2017-07-23 11:45:49		Plugins cargados: alias, aspell, buflist, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-07-23 22:21:06		fifo: tubería cerrada
+2017-07-24 16:05:26		Plugins cargados: alias, aspell, buflist, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-07-24 22:07:18		Plugins cargados: alias, aspell, buflist, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-07-24 23:02:39		fifo: tubería cerrada
+2017-07-25 00:47:38		Plugins cargados: alias, aspell, buflist, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-07-25 10:40:46		fifo: tubería cerrada
+2017-07-25 23:06:26		Plugins cargados: alias, aspell, buflist, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-07-26 00:00:07		fifo: tubería cerrada
+2017-07-26 14:44:03		Plugins cargados: alias, aspell, buflist, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-07-26 15:53:13		Plugins cargados: alias, aspell, buflist, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-07-26 19:12:00		fifo: tubería cerrada
+2017-07-26 22:16:50		Plugins cargados: alias, aspell, buflist, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-07-26 22:35:09		fifo: tubería cerrada
+2017-07-26 22:35:21		Plugins cargados: alias, aspell, buflist, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-07-26 22:36:07		fifo: tubería cerrada
+2017-07-26 22:36:11		Plugins cargados: alias, aspell, buflist, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-07-27 00:14:12		fifo: tubería cerrada
+2017-07-28 21:50:13		Plugins cargados: alias, aspell, buflist, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-08-02 03:55:22		Plugins cargados: alias, aspell, buflist, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-08-02 17:01:57		fifo: tubería cerrada
+2017-08-02 23:17:32		Plugins cargados: alias, aspell, buflist, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-08-03 11:08:37		fifo: tubería cerrada
+2017-08-03 11:11:45		Plugins cargados: alias, aspell, buflist, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-08-03 11:43:06		fifo: tubería cerrada
+2017-08-03 11:43:31		Plugins cargados: alias, aspell, buflist, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-08-03 11:53:31		fifo: tubería cerrada
+2017-08-03 11:53:35		Plugins cargados: alias, aspell, buflist, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-08-04 08:22:39		Opción cambiada: weechat.bar.status.hidden = on
+2017-08-04 08:23:04		Opción cambiada: weechat.bar.status.color_fg = black
+2017-08-04 08:23:28		Opción cambiada: weechat.bar.title.color_fg = black  (predeterminado: default)
+2017-08-04 18:02:33		fifo: tubería cerrada
+2017-08-04 18:03:14		Plugins cargados: alias, aspell, buflist, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-08-04 18:07:19		fifo: tubería cerrada
+2017-08-04 18:07:32		Plugins cargados: alias, aspell, buflist, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-08-04 18:22:15		fifo: tubería cerrada
+2017-08-04 18:22:36		Plugins cargados: alias, aspell, buflist, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-08-04 18:26:41		fifo: tubería cerrada
+2017-08-04 18:26:48		Plugins cargados: alias, aspell, buflist, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-08-04 18:37:11		fifo: tubería cerrada
+2017-08-05 21:21:05		Nuevo atajo (contexto "default"):  meta-meta-OQ => /bar scroll buflist * e
+2017-08-05 21:21:05		Nuevo atajo (contexto "default"):  meta-meta-OP => /bar scroll buflist * b
+2017-08-05 21:21:05		Nuevo atajo (contexto "default"):  meta-OQ => /bar scroll buflist * +100%
+2017-08-05 21:21:05		Nuevo atajo (contexto "default"):  meta-OP => /bar scroll buflist * -100%
+2017-08-05 21:21:05		Plugins cargados: alias, aspell, buflist, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-08-05 21:24:10		Opción cambiada: weechat.bar.buffers.position = bottom  (predeterminado: top)
+2017-08-05 21:24:46		Opción cambiada: weechat.bar.buffers.filling_top_bottom = columns_vertical
+2017-08-05 21:25:03		Opción cambiada: weechat.bar.buffers.hidden = on
+2017-08-05 21:25:08		Plugins cargados: alias, aspell, buflist, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-08-05 21:25:45		Plugins cargados: alias, aspell, buflist, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 2: identificador de sección desconocido ("color")
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 3: opción fuera de sección: current_bg = 240
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 4: opción fuera de sección: current_fg = *155
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 5: opción fuera de sección: default_bg = 237
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 6: opción fuera de sección: default_fg = *250
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 7: opción fuera de sección: hotlist_highlight_bg = 237
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 8: opción fuera de sección: hotlist_highlight_fg = *_250
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 9: opción fuera de sección: hotlist_low_bg = 237
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 10: opción fuera de sección: hotlist_low_fg = *_250
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 11: opción fuera de sección: hotlist_message_bg = 237
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 12: opción fuera de sección: hotlist_message_fg = *_250
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 13: opción fuera de sección: hotlist_private_bg = 237
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 14: opción fuera de sección: hotlist_private_fg = *_250
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 15: opción fuera de sección: none_channel_bg = 237
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 16: opción fuera de sección: none_channel_fg = *250
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 18: opción fuera de sección: number_char = lightgreen
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 19: opción fuera de sección: prefix_bufname = default
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 20: opción fuera de sección: queries_default_bg = default
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 21: opción fuera de sección: queries_default_fg = default
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 22: opción fuera de sección: queries_highlight_bg = default
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 23: opción fuera de sección: queries_highlight_fg = default
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 24: opción fuera de sección: queries_message_bg = default
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 25: opción fuera de sección: queries_message_fg = default
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 26: opción fuera de sección: suffix_bufname = default
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 27: opción fuera de sección: whitelist_default_bg = default
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 28: opción fuera de sección: whitelist_default_fg = default
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 29: opción fuera de sección: whitelist_highlight_bg = default
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 30: opción fuera de sección: whitelist_highlight_fg = default
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 31: opción fuera de sección: whitelist_low_bg = default
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 32: opción fuera de sección: whitelist_low_fg = default
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 33: opción fuera de sección: whitelist_message_bg = default
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 34: opción fuera de sección: whitelist_message_fg = default
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 35: opción fuera de sección: whitelist_private_bg = default
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 36: opción fuera de sección: whitelist_private_fg = default
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 39: opción desconocida para la sección "look": core_to_front = off
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 40: opción desconocida para la sección "look": detach = 0
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 41: opción desconocida para la sección "look": detach_buffer_immediately = ""
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 42: opción desconocida para la sección "look": detach_buffer_immediately_level = 2
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 43: opción desconocida para la sección "look": detach_display_window_number = off
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 44: opción desconocida para la sección "look": detach_displayed_buffers = on
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 45: opción desconocida para la sección "look": detach_free_content = off
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 46: opción desconocida para la sección "look": detach_query = off
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 47: opción desconocida para la sección "look": hide_merged_buffers = all
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 48: opción desconocida para la sección "look": hotlist_counter = off
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 49: opción desconocida para la sección "look": immune_detach_buffers = ""
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 50: opción desconocida para la sección "look": indenting = on
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 51: opción desconocida para la sección "look": indenting_amount = 2
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 52: opción desconocida para la sección "look": indenting_number = on
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 53: opción desconocida para la sección "look": jump_prev_next_visited_buffer = off
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 54: opción desconocida para la sección "look": mark_inactive = off
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 57: opción desconocida para la sección "look": name_crop_suffix = "+"
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 58: opción desconocida para la sección "look": name_size_max = 0
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 59: opción desconocida para la sección "look": number_char = "-"
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 60: opción desconocida para la sección "look": prefix = off
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 61: opción desconocida para la sección "look": prefix_bufname = ""
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 62: opción desconocida para la sección "look": prefix_empty = on
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 63: opción desconocida para la sección "look": prefix_for_query = ""
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 64: opción desconocida para la sección "look": short_names = on
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 65: opción desconocida para la sección "look": show_lag = off
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 66: opción desconocida para la sección "look": show_number = off
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 68: opción desconocida para la sección "look": suffix_bufname = ""
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 69: opción desconocida para la sección "look": toggle_bar = on
+2017-08-05 21:28:33	 !!! 	Atención: /home/mrjules/.weechat/buflist.conf, línea 70: opción desconocida para la sección "look": whitelist_buffers = ""
+2017-08-05 21:28:33		Nuevo atajo (contexto "default"):  meta-meta-OQ => /bar scroll buflist * e
+2017-08-05 21:28:33		Nuevo atajo (contexto "default"):  meta-meta-OP => /bar scroll buflist * b
+2017-08-05 21:28:33		Nuevo atajo (contexto "default"):  meta-OQ => /bar scroll buflist * +100%
+2017-08-05 21:28:33		Nuevo atajo (contexto "default"):  meta-OP => /bar scroll buflist * -100%
+2017-08-05 21:28:33		Plugins cargados: alias, aspell, buflist, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-08-05 21:29:11		Nuevo atajo (contexto "default"):  meta-meta-OQ => /bar scroll buflist * e
+2017-08-05 21:29:11		Nuevo atajo (contexto "default"):  meta-meta-OP => /bar scroll buflist * b
+2017-08-05 21:29:11		Nuevo atajo (contexto "default"):  meta-OQ => /bar scroll buflist * +100%
+2017-08-05 21:29:11		Nuevo atajo (contexto "default"):  meta-OP => /bar scroll buflist * -100%
+2017-08-05 21:29:11		Plugins cargados: alias, aspell, buflist, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-08-05 21:30:40		Nuevo atajo (contexto "default"):  meta-meta-OQ => /bar scroll buflist * e
+2017-08-05 21:30:40		Nuevo atajo (contexto "default"):  meta-meta-OP => /bar scroll buflist * b
+2017-08-05 21:30:40		Nuevo atajo (contexto "default"):  meta-OQ => /bar scroll buflist * +100%
+2017-08-05 21:30:40		Nuevo atajo (contexto "default"):  meta-OP => /bar scroll buflist * -100%
+2017-08-05 21:30:40		Plugins cargados: alias, aspell, buflist, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-08-05 21:31:29	=!=	Error with command "/mouse on" (help on command: /help mouse)
+2017-08-05 21:32:02		[core]  /mouse  enable|disable|toggle [<retraso>]
+2017-08-05 21:32:02		control del ratón
+2017-08-05 21:32:02		 enable: activa el ratón
+2017-08-05 21:32:02		disable: desactiva el ratón
+2017-08-05 21:32:02		 toggle: alterna el estado el ratón
+2017-08-05 21:32:02		retraso: retraso (en segundos) antes de restaurar el estado inicial del ratón (útil para desactivar el ratón temporalmente)
+2017-08-05 21:32:02		El estado del ratón se guarda en la opción "weechat.look.mouse".
+2017-08-05 21:32:02		Ejemplos:
+2017-08-05 21:32:02		  activar ratón:
+2017-08-05 21:32:02		    /mouse enable
+2017-08-05 21:32:02		  desactivar (o activar) el ratón por 5 segundos:
+2017-08-05 21:32:02		    /mouse toggle 5
+2017-08-05 21:32:12		Ratón activado
+2017-08-05 21:39:39		Opción cambiada: weechat.bar.title.color_fg = gray
+2017-08-05 21:43:45		Plugins cargados: alias, aspell, buflist, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-08-05 23:52:50	=!=	Error: comando "/paste" desconocido (use /help para ver la ayuda)
+2017-08-06 13:16:57		Plugins cargados: alias, aspell, buflist, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-08-07 07:13:34	=!=	Error: comando "/register" desconocido (use /help para ver la ayuda)
+2017-08-07 15:10:29		Plugins cargados: alias, aspell, buflist, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer

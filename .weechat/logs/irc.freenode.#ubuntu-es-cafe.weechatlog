@@ -1,0 +1,425 @@
+2017-07-23 09:09:15	-->	mr-jules (~mr-jules@189.173.19.142) has joined #ubuntu-es-cafe
+2017-07-23 09:09:15	--	Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-07-23 09:09:15	--	Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 11:59:48
+2017-07-23 09:09:15	--	Channel #ubuntu-es-cafe: 12 apodos (0 ops, 0 voces, 12 normales)
+2017-07-23 09:09:24	--	Canal creado el sáb, 12 dic 2009 12:18:18
+2017-07-23 09:53:40	-->	mr-jules (~mr-jules@189.173.19.142) has joined #ubuntu-es-cafe
+2017-07-23 09:53:40	--	Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-07-23 09:53:40	--	Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 11:59:48
+2017-07-23 09:53:40	--	Channel #ubuntu-es-cafe: 12 apodos (0 ops, 0 voces, 12 normales)
+2017-07-23 09:53:47	--	Canal creado el sáb, 12 dic 2009 12:18:18
+2017-07-23 09:57:46	mr-jules	Buenas
+2017-07-23 10:12:45	>	mr-jules (~mr-jules@189.173.19.142) has joined #ubuntu-es-cafe
+2017-07-23 10:12:45	--	Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-07-23 10:12:45	--	Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 11:59:48
+2017-07-23 10:12:45	--	Channel #ubuntu-es-cafe: 12 apodos (0 ops, 0 voces, 12 normales)
+2017-07-23 10:12:54	--	Canal creado el sáb, 12 dic 2009 12:18:18
+2017-07-23 10:29:05	>	mr-jules (~mr-jules@189.173.19.142) has joined #ubuntu-es-cafe
+2017-07-23 10:29:05	--	Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-07-23 10:29:05	--	Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 11:59:48
+2017-07-23 10:29:05	--	Channel #ubuntu-es-cafe: 12 apodos (0 ops, 0 voces, 12 normales)
+2017-07-23 10:29:13	--	Canal creado el sáb, 12 dic 2009 12:18:18
+2017-07-23 10:40:41	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #ubuntu-es-cafe
+2017-07-23 10:40:41	⇄	Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-07-23 10:40:41	⇄	Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 11:59:48
+2017-07-23 10:40:41	⇄	Channel #ubuntu-es-cafe: 12 apodos (0 ops, 0 voces, 12 normales)
+2017-07-23 10:40:50	⇄	Canal creado el sáb, 12 dic 2009 12:18:18
+2017-07-23 10:43:29	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #ubuntu-es-cafe
+2017-07-23 10:43:29	⇄	Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-07-23 10:43:29	⇄	Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 11:59:48
+2017-07-23 10:43:29	⇄	Channel #ubuntu-es-cafe: 12 apodos (0 ops, 0 voces, 12 normales)
+2017-07-23 10:43:39	⇄	Canal creado el sáb, 12 dic 2009 12:18:18
+2017-07-23 10:48:29	<	GridCube (~GridCube@unaffiliated/soupermanito) ha salido (Quit: Leaving)
+2017-07-23 10:48:49	>	GridCube (~GridCube@unaffiliated/soupermanito) has joined #ubuntu-es-cafe
+2017-07-23 11:46:02	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #ubuntu-es-cafe
+2017-07-23 11:46:02	⇄	Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-07-23 11:46:02	⇄	Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 11:59:48
+2017-07-23 11:46:02	⇄	Channel #ubuntu-es-cafe: 12 apodos (0 ops, 0 voces, 12 normales)
+2017-07-23 11:46:11	⇄	Canal creado el sáb, 12 dic 2009 12:18:18
+2017-07-23 13:46:38	boleybeach	!rpm
+2017-07-23 13:46:41	boleybeach	hi
+2017-07-23 13:59:45	mr-jules	whatsup
+2017-07-23 14:57:36	>	oscar1190 (~oscarsdfd@200.90.88.89) has joined #ubuntu-es-cafe
+2017-07-23 14:58:32	<	oscar1190 (~oscarsdfd@200.90.88.89) ha salido (Client Quit)
+2017-07-23 18:17:31	GridCube	http://i.imgur.com/JrvDLLK.png
+2017-07-23 18:22:56	<	Gaxpaxxo (~Gazpacho@20.red-83-36-227.dynamicip.rima-tde.net) ha salido (Quit: Leaving)
+2017-07-23 20:19:22	<	GridCube (~GridCube@unaffiliated/soupermanito) ha salido (Quit: Leaving)
+2017-07-24 16:05:42	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #ubuntu-es-cafe
+2017-07-24 16:05:42	⇄	Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-07-24 16:05:42	⇄	Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 11:59:48
+2017-07-24 16:05:42	⇄	Channel #ubuntu-es-cafe: 10 apodos (0 ops, 0 voces, 10 normales)
+2017-07-24 16:05:51	⇄	Canal creado el sáb, 12 dic 2009 12:18:18
+2017-07-24 16:33:26	>	GridCube (~GridCube@unaffiliated/soupermanito) has joined #ubuntu-es-cafe
+2017-07-24 16:44:00	>	scan (~scan@unaffiliated/scan) has joined #ubuntu-es-cafe
+2017-07-24 17:50:14	>	Souchiro (~Yuuji@unaffiliated/souchiro) has joined #ubuntu-es-cafe
+2017-07-24 17:58:28	<	Souchiro (~Yuuji@unaffiliated/souchiro) ha salido (Ping timeout: 255 seconds)
+2017-07-24 18:14:55	>	Souchiro (~Yuuji@unaffiliated/souchiro) has joined #ubuntu-es-cafe
+2017-07-24 19:00:57	<	GridCube (~GridCube@unaffiliated/soupermanito) ha salido (Read error: Connection reset by peer)
+2017-07-24 19:03:22	>	GridCube (~GridCube@unaffiliated/soupermanito) has joined #ubuntu-es-cafe
+2017-07-24 19:09:02	<	Souchiro (~Yuuji@unaffiliated/souchiro) ha salido (Quit: me fui xD)
+2017-07-24 22:07:36	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #ubuntu-es-cafe
+2017-07-24 22:07:36	⇄	Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-07-24 22:07:36	⇄	Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 11:59:48
+2017-07-24 22:07:36	⇄	Channel #ubuntu-es-cafe: 11 apodos (0 ops, 0 voces, 11 normales)
+2017-07-24 22:07:44	⇄	Canal creado el sáb, 12 dic 2009 12:18:18
+2017-07-24 22:22:30	exio4	malos 
+2017-07-24 22:22:39	exio4	el smart_filter no me gusta tanto
+2017-07-24 22:23:26	mr-jules	que loco, exio4, aun por aqui 
+2017-07-24 22:24:05	exio4	tamos iguales
+2017-07-25 00:47:52	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #ubuntu-es-cafe
+2017-07-25 00:47:52	⇄	Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-07-25 00:47:52	⇄	Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 11:59:48
+2017-07-25 00:47:52	⇄	Channel #ubuntu-es-cafe: 11 apodos (0 ops, 0 voces, 11 normales)
+2017-07-25 00:48:00	⇄	Canal creado el sáb, 12 dic 2009 12:18:18
+2017-07-25 02:33:10	<	exio4 (~exio4@unaffiliated/hacker) ha salido (Ping timeout: 240 seconds)
+2017-07-25 02:42:10	>	exio4 (~exio4@unaffiliated/hacker) has joined #ubuntu-es-cafe
+2017-07-25 02:59:52	>	cousteau (~cousteau@unaffiliated/cousteau) has joined #ubuntu-es-cafe
+2017-07-25 03:07:59	⇄	irc: desconectado del servidor
+2017-07-25 03:17:56	>	mr-jules (~mr-jules@189.173.19.142) has joined #ubuntu-es-cafe
+2017-07-25 03:17:56	⇄	Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-07-25 03:17:56	⇄	Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 11:59:48
+2017-07-25 03:17:56	⇄	Channel #ubuntu-es-cafe: 12 apodos (0 ops, 0 voces, 12 normales)
+2017-07-25 03:18:20	⇄	Canal creado el sáb, 12 dic 2009 12:18:18
+2017-07-25 08:47:47	⇄	irc: desconectado del servidor
+2017-07-25 08:48:13	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #ubuntu-es-cafe
+2017-07-25 08:48:13	⇄	Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-07-25 08:48:13	⇄	Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 11:59:48
+2017-07-25 08:48:13	⇄	Channel #ubuntu-es-cafe: 13 apodos (0 ops, 0 voces, 13 normales)
+2017-07-25 08:48:38	⇄	Canal creado el sáb, 12 dic 2009 12:18:18
+2017-07-25 09:48:06	⇄	irc: desconectado del servidor
+2017-07-25 09:48:37	>	mr-jules (~mr-jules@189.173.192.251) has joined #ubuntu-es-cafe
+2017-07-25 09:48:37	⇄	Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-07-25 09:48:37	⇄	Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 11:59:48
+2017-07-25 09:48:37	⇄	Channel #ubuntu-es-cafe: 13 apodos (0 ops, 0 voces, 13 normales)
+2017-07-25 09:49:01	⇄	Canal creado el sáb, 12 dic 2009 12:18:18
+2017-07-25 10:39:42	⇄	irc: desconectado del servidor
+2017-07-25 10:40:28	>	mr-jules (~mr-jules@189.173.192.251) has joined #ubuntu-es-cafe
+2017-07-25 10:40:28	⇄	Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-07-25 10:40:28	⇄	Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 11:59:48
+2017-07-25 10:40:28	⇄	Channel #ubuntu-es-cafe: 13 apodos (0 ops, 0 voces, 13 normales)
+2017-07-25 23:06:43	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #ubuntu-es-cafe
+2017-07-25 23:06:43	⇄	Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-07-25 23:06:43	⇄	Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 11:59:48
+2017-07-25 23:06:43	⇄	Channel #ubuntu-es-cafe: 11 apodos (0 ops, 0 voces, 11 normales)
+2017-07-25 23:06:51	⇄	Canal creado el sáb, 12 dic 2009 12:18:18
+2017-07-26 14:44:21	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #ubuntu-es-cafe
+2017-07-26 14:44:21	⇄	Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-07-26 14:44:21	⇄	Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 11:59:48
+2017-07-26 14:44:21	⇄	Channel #ubuntu-es-cafe: 12 apodos (0 ops, 0 voces, 12 normales)
+2017-07-26 14:44:30	⇄	Canal creado el sáb, 12 dic 2009 12:18:18
+2017-07-26 15:24:45	>	NePtUnO (~Trancero@142.red-81-43-146.staticip.rima-tde.net) has joined #ubuntu-es-cafe
+2017-07-26 15:53:30	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #ubuntu-es-cafe
+2017-07-26 15:53:30	⇄	Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-07-26 15:53:30	⇄	Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 11:59:48
+2017-07-26 15:53:30	⇄	Channel #ubuntu-es-cafe: 13 apodos (0 ops, 0 voces, 13 normales)
+2017-07-26 15:53:39	⇄	Canal creado el sáb, 12 dic 2009 12:18:18
+2017-07-26 16:03:30	>	GridCube (~GridCube@unaffiliated/soupermanito) has joined #ubuntu-es-cafe
+2017-07-26 16:22:31	<	NePtUnO (~Trancero@142.red-81-43-146.staticip.rima-tde.net) ha salido (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2017-07-26 16:45:22	<	Gaxpaxxo (~Gazpacho@61.red-81-47-144.staticip.rima-tde.net) ha salido (Quit: Leaving)
+2017-07-26 17:44:33	<	m4v (~znc@ubuntu/member/m4v) ha salido (Ping timeout: 248 seconds)
+2017-07-26 17:58:07	>	m4v (~znc@ubuntu/member/m4v) has joined #ubuntu-es-cafe
+2017-07-26 19:08:19	⇄	irc: desconectado del servidor
+2017-07-26 19:08:52	>	mr-jules (~mr-jules@189.173.192.251) has joined #ubuntu-es-cafe
+2017-07-26 19:08:52	⇄	Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-07-26 19:08:52	⇄	Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 11:59:48
+2017-07-26 19:08:52	⇄	Channel #ubuntu-es-cafe: 12 apodos (0 ops, 0 voces, 12 normales)
+2017-07-26 19:09:16	⇄	Canal creado el sáb, 12 dic 2009 12:18:18
+2017-07-26 22:17:08	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #ubuntu-es-cafe
+2017-07-26 22:17:08	⇄	Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-07-26 22:17:08	⇄	Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 11:59:48
+2017-07-26 22:17:08	⇄	Channel #ubuntu-es-cafe: 11 apodos (0 ops, 0 voces, 11 normales)
+2017-07-26 22:17:16	⇄	Canal creado el sáb, 12 dic 2009 12:18:18
+2017-07-26 22:35:37	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #ubuntu-es-cafe
+2017-07-26 22:35:37	⇄	Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-07-26 22:35:37	⇄	Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 11:59:48
+2017-07-26 22:35:37	⇄	Channel #ubuntu-es-cafe: 11 apodos (0 ops, 0 voces, 11 normales)
+2017-07-26 22:35:45	⇄	Canal creado el sáb, 12 dic 2009 12:18:18
+2017-07-26 22:36:23	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #ubuntu-es-cafe
+2017-07-26 22:36:23	⇄	Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-07-26 22:36:23	⇄	Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 11:59:48
+2017-07-26 22:36:23	⇄	Channel #ubuntu-es-cafe: 11 apodos (0 ops, 0 voces, 11 normales)
+2017-07-26 22:36:33	⇄	Canal creado el sáb, 12 dic 2009 12:18:18
+2017-07-28 21:50:31	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #ubuntu-es-cafe
+2017-07-28 21:50:31	⇄	Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-07-28 21:50:31	⇄	Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 11:59:48
+2017-07-28 21:50:31	⇄	Channel #ubuntu-es-cafe: 11 apodos (0 ops, 0 voces, 11 normales)
+2017-07-28 21:50:38	⇄	Canal creado el sáb, 12 dic 2009 12:18:18
+2017-07-28 23:27:08	>	deep-book-gk_ (~1wm_su@159.122.132.44) has joined #ubuntu-es-cafe
+2017-07-28 23:29:46	<	deep-book-gk_ (~1wm_su@159.122.132.44) ha abandonado #ubuntu-es-cafe
+2017-07-29 04:28:36	⇄	irc: desconectado del servidor
+2017-07-29 04:55:14	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #ubuntu-es-cafe
+2017-07-29 04:55:14	⇄	Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-07-29 04:55:14	⇄	Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 11:59:48
+2017-07-29 04:55:14	⇄	Channel #ubuntu-es-cafe: 11 apodos (0 ops, 0 voces, 11 normales)
+2017-07-29 04:55:40	⇄	Canal creado el sáb, 12 dic 2009 12:18:18
+2017-07-29 08:01:29	>	GridCube (uid10553@gateway/web/irccloud.com/x-dnivklzlvharvwnk) has joined #ubuntu-es-cafe
+2017-07-29 08:31:11	scan	Hola
+2017-07-29 08:31:16	scan	quien sirve el cafe
+2017-07-29 08:35:07	<	scan (~scan@unaffiliated/scan) ha salido (Quit: Bye)
+2017-07-29 08:37:15	>	scan (~scan@181.30.69.130) has joined #ubuntu-es-cafe
+2017-07-29 08:37:15	<	scan (~scan@181.30.69.130) ha salido (Changing host)
+2017-07-29 08:37:15	>	scan (~scan@unaffiliated/scan) has joined #ubuntu-es-cafe
+2017-07-29 09:03:38	GridCube	P:
+2017-07-29 09:03:43	GridCube	cada uno por separado
+2017-07-29 09:47:06	sirix	le gusta expreso o aguachento (american style)?
+2017-07-29 10:19:06	>	Gaxpaxxo (~Gazpacho@191.red-83-42-43.dynamicip.rima-tde.net) has joined #ubuntu-es-cafe
+2017-07-29 11:47:23	>	MrTulias (~misco@unaffiliated/mrtulias) has joined #ubuntu-es-cafe
+2017-07-29 11:47:34	MrTulias	o/
+2017-07-29 13:02:10	<	GridCube (uid10553@gateway/web/irccloud.com/x-dnivklzlvharvwnk) ha salido
+2017-07-29 15:15:17	<	scan (~scan@unaffiliated/scan) ha salido (Ping timeout: 260 seconds)
+2017-07-29 15:17:41	>	scan (~scan@181.30.69.130) has joined #ubuntu-es-cafe
+2017-07-29 15:17:41	<	scan (~scan@181.30.69.130) ha salido (Changing host)
+2017-07-29 15:17:41	>	scan (~scan@unaffiliated/scan) has joined #ubuntu-es-cafe
+2017-07-29 15:25:08	>	GridCube (~GridCube@unaffiliated/soupermanito) has joined #ubuntu-es-cafe
+2017-07-29 16:01:28	>	mkv (~znc@ubuntu/member/m4v) has joined #ubuntu-es-cafe
+2017-07-29 16:01:37	<	m4v (~znc@ubuntu/member/m4v) ha salido (Ping timeout: 248 seconds)
+2017-07-29 16:01:38	⇄	mkv es conocido ahora como m4v
+2017-07-29 16:08:50	<	MrTulias (~misco@unaffiliated/mrtulias) ha salido (Quit: Leaving)
+2017-08-02 03:55:40	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #ubuntu-es-cafe
+2017-08-02 03:55:40	⇄	Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-08-02 03:55:40	⇄	Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 11:59:48
+2017-08-02 03:55:40	⇄	Channel #ubuntu-es-cafe: 10 apodos (0 ops, 0 voces, 10 normales)
+2017-08-02 03:55:48	⇄	Canal creado el sáb, 12 dic 2009 12:18:18
+2017-08-02 10:08:26	>	MrTulias (~misco@unaffiliated/mrtulias) has joined #ubuntu-es-cafe
+2017-08-02 10:08:33	MrTulias	o/
+2017-08-02 10:14:05	>	GridCube (uid10553@gateway/web/irccloud.com/x-ckgorfllthrrdarc) has joined #ubuntu-es-cafe
+2017-08-02 10:36:49	>	m4v (~znc@ubuntu/member/m4v) has joined #ubuntu-es-cafe
+2017-08-02 10:38:08	mr-jules	O/
+2017-08-02 10:57:46	>	mimecar (~mimecar@84.121.179.159.dyn.user.ono.com) has joined #ubuntu-es-cafe
+2017-08-02 10:57:46	<	mimecar (~mimecar@84.121.179.159.dyn.user.ono.com) ha salido (Changing host)
+2017-08-02 10:57:46	>	mimecar (~mimecar@unaffiliated/mimecar) has joined #ubuntu-es-cafe
+2017-08-02 11:03:06	>	Gaxpaxxo (~Gazpacho@206.red-83-53-31.dynamicip.rima-tde.net) has joined #ubuntu-es-cafe
+2017-08-02 13:23:24	GridCube	o/
+2017-08-02 13:40:33	<	MrTulias (~misco@unaffiliated/mrtulias) ha salido (Quit: Leaving)
+2017-08-02 13:44:01	<	GridCube (uid10553@gateway/web/irccloud.com/x-ckgorfllthrrdarc) ha salido
+2017-08-02 14:40:56	<	mimecar (~mimecar@unaffiliated/mimecar) ha salido (Read error: Connection reset by peer)
+2017-08-02 16:47:10	>	GridCube (~GridCube@unaffiliated/soupermanito) has joined #ubuntu-es-cafe
+2017-08-02 23:17:49	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #ubuntu-es-cafe
+2017-08-02 23:17:49	⇄	Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-08-02 23:17:49	⇄	Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 11:59:48
+2017-08-02 23:17:49	⇄	Channel #ubuntu-es-cafe: 11 apodos (0 ops, 0 voces, 11 normales)
+2017-08-02 23:17:57	⇄	Canal creado el sáb, 12 dic 2009 12:18:18
+2017-08-03 01:27:47	exio4	\o/ 
+2017-08-03 01:27:48	exio4	increible
+2017-08-03 07:15:41	⇄	irc: desconectado del servidor
+2017-08-03 07:16:09	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #ubuntu-es-cafe
+2017-08-03 07:16:09	⇄	Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-08-03 07:16:09	⇄	Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 11:59:48
+2017-08-03 07:16:09	⇄	Channel #ubuntu-es-cafe: 11 apodos (0 ops, 0 voces, 11 normales)
+2017-08-03 07:16:32	⇄	Canal creado el sáb, 12 dic 2009 12:18:18
+2017-08-03 07:17:55	<	sirix (Elite16648@gateway/shell/elitebnc/x-hdavctiloxnptlak) ha salido (Remote host closed the connection)
+2017-08-03 09:25:33	>	GridCube (uid10553@gateway/web/irccloud.com/x-fdnzmtbmdjodfhqf) has joined #ubuntu-es-cafe
+2017-08-03 09:48:34	>	sirix (Elite16648@gateway/shell/elitebnc/x-agxooptvwyzvswja) has joined #ubuntu-es-cafe
+2017-08-03 11:12:03	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #ubuntu-es-cafe
+2017-08-03 11:12:03	⇄	Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-08-03 11:12:03	⇄	Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 11:59:48
+2017-08-03 11:12:03	⇄	Channel #ubuntu-es-cafe: 12 apodos (0 ops, 0 voces, 12 normales)
+2017-08-03 11:12:10	⇄	Canal creado el sáb, 12 dic 2009 12:18:18
+2017-08-03 11:43:48	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #ubuntu-es-cafe
+2017-08-03 11:43:48	⇄	Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-08-03 11:43:48	⇄	Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 11:59:48
+2017-08-03 11:43:48	⇄	Channel #ubuntu-es-cafe: 12 apodos (0 ops, 0 voces, 12 normales)
+2017-08-03 11:43:57	⇄	Canal creado el sáb, 12 dic 2009 12:18:18
+2017-08-03 11:44:28	>	MrTulias (~misco@80.red-79-158-140.dynamicip.rima-tde.net) has joined #ubuntu-es-cafe
+2017-08-03 11:44:28	<	MrTulias (~misco@80.red-79-158-140.dynamicip.rima-tde.net) ha salido (Changing host)
+2017-08-03 11:44:28	>	MrTulias (~misco@unaffiliated/mrtulias) has joined #ubuntu-es-cafe
+2017-08-03 11:44:37	MrTulias	o/
+2017-08-03 11:44:54	mr-jules	0/
+2017-08-03 11:45:26	MrTulias	hola mr-jules 
+2017-08-03 11:46:07	mr-jules	Como va todo ?
+2017-08-03 11:46:31	MrTulias	ahora ya bien :p
+2017-08-03 11:46:41	MrTulias	¿Y por ahí?
+2017-08-03 11:47:32	mr-jules	Igual tambien, checando unas fuentes monoespaciadas, no me convence ninguna bitmap :p
+2017-08-03 11:53:51	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #ubuntu-es-cafe
+2017-08-03 11:53:51	⇄	Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-08-03 11:53:51	⇄	Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 11:59:48
+2017-08-03 11:53:51	⇄	Channel #ubuntu-es-cafe: 13 apodos (0 ops, 0 voces, 13 normales)
+2017-08-03 11:53:59	⇄	Canal creado el sáb, 12 dic 2009 12:18:18
+2017-08-03 12:00:58	>	RioHam (~rioham@201.247.221.155) has joined #ubuntu-es-cafe
+2017-08-03 12:01:38	<	RioHam (~rioham@201.247.221.155) ha abandonado #ubuntu-es-cafe
+2017-08-03 12:07:28	GridCube	:)
+2017-08-03 12:07:42	GridCube	ubuntu-mono 
+2017-08-03 12:08:02	GridCube	inconsolata
+2017-08-03 12:29:35	mr-jules	fira mono en mi opinion es la mejor
+2017-08-03 12:29:49	mr-jules	estaba buscando alguna bitmap tipo terminus o fixed
+2017-08-03 13:31:19	>	Gaxpaxxo (~Gazpacho@22.red-79-144-227.dynamicip.rima-tde.net) has joined #ubuntu-es-cafe
+2017-08-03 13:48:13	<	MrTulias (~misco@unaffiliated/mrtulias) ha salido (Quit: Leaving)
+2017-08-03 13:51:38	<	GridCube (uid10553@gateway/web/irccloud.com/x-fdnzmtbmdjodfhqf) ha salido
+2017-08-03 16:11:46	<	Gaxpaxxo (~Gazpacho@22.red-79-144-227.dynamicip.rima-tde.net) ha salido (Quit: Leaving)
+2017-08-03 16:47:07	>	GridCube (~GridCube@unaffiliated/soupermanito) has joined #ubuntu-es-cafe
+2017-08-03 19:21:58	>	VenRastan (~root@190-201-191-0.dyn.dsl.cantv.net) has joined #ubuntu-es-cafe
+2017-08-03 19:23:03	VenRastan	buenas
+2017-08-03 19:42:50	<	VenRastan (~root@190-201-191-0.dyn.dsl.cantv.net) ha salido (Quit: Leaving)
+2017-08-03 20:05:45	<	GridCube (~GridCube@unaffiliated/soupermanito) ha salido (Quit: Leaving)
+2017-08-03 21:55:47	>	http_GK1wmSU (~deep-book@129.232.221.173) has joined #ubuntu-es-cafe
+2017-08-03 21:55:50	<	http_GK1wmSU (~deep-book@129.232.221.173) ha abandonado #ubuntu-es-cafe
+2017-08-03 22:09:50	mr-jules	buenas
+2017-08-03 22:25:02	exio4	tengo que conseguir laburo en TdF
+2017-08-03 22:25:08	exio4	el sue;o del pibe
+2017-08-03 22:25:16	exio4	laburar en TdF, comprar terrenos en entre rios 
+2017-08-03 22:25:23	exio4	y el sur pa' el futuro
+2017-08-03 22:35:18	mr-jules	que carajo s tdF
+2017-08-04 08:27:43	mr-jules	buenas
+2017-08-04 08:44:44	>	GridCube (uid10553@gateway/web/irccloud.com/x-vuoyaohmhqadybza) has joined #ubuntu-es-cafe
+2017-08-04 11:58:17	>	MrTulias (~misco@80.red-79-158-140.dynamicip.rima-tde.net) has joined #ubuntu-es-cafe
+2017-08-04 11:58:17	<	MrTulias (~misco@80.red-79-158-140.dynamicip.rima-tde.net) ha salido (Changing host)
+2017-08-04 11:58:17	>	MrTulias (~misco@unaffiliated/mrtulias) has joined #ubuntu-es-cafe
+2017-08-04 11:58:29	MrTulias	o/
+2017-08-04 12:07:49	GridCube	Oi
+2017-08-04 12:29:40	<	guampa (~guampa@unaffiliated/guampa) ha salido (Quit: quit)
+2017-08-04 13:48:21	>	guampa (~guampa@unaffiliated/guampa) has joined #ubuntu-es-cafe
+2017-08-04 14:14:03	<	GridCube (uid10553@gateway/web/irccloud.com/x-vuoyaohmhqadybza) ha salido
+2017-08-04 14:14:16	>	Gaxpaxxo (~Gazpacho@254.red-88-5-40.dynamicip.rima-tde.net) has joined #ubuntu-es-cafe
+2017-08-04 15:50:47	<	MrTulias (~misco@unaffiliated/mrtulias) ha salido (Quit: Leaving)
+2017-08-04 17:27:47	>	GridCube (~GridCube@unaffiliated/soupermanito) has joined #ubuntu-es-cafe
+2017-08-04 18:03:29	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #ubuntu-es-cafe
+2017-08-04 18:03:29	⇄	Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-08-04 18:03:29	⇄	Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 11:59:48
+2017-08-04 18:03:29	⇄	Channel #ubuntu-es-cafe: 13 apodos (0 ops, 0 voces, 13 normales)
+2017-08-04 18:03:38	⇄	Canal creado el sáb, 12 dic 2009 12:18:18
+2017-08-04 18:07:45	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #ubuntu-es-cafe
+2017-08-04 18:07:45	⇄	Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-08-04 18:07:45	⇄	Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 11:59:48
+2017-08-04 18:07:45	⇄	Channel #ubuntu-es-cafe: 13 apodos (0 ops, 0 voces, 13 normales)
+2017-08-04 18:07:54	⇄	Canal creado el sáb, 12 dic 2009 12:18:18
+2017-08-04 18:22:53	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #ubuntu-es-cafe
+2017-08-04 18:22:53	⇄	Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-08-04 18:22:53	⇄	Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 11:59:48
+2017-08-04 18:22:53	⇄	Channel #ubuntu-es-cafe: 13 apodos (0 ops, 0 voces, 13 normales)
+2017-08-04 18:23:02	⇄	Canal creado el sáb, 12 dic 2009 12:18:18
+2017-08-04 18:27:06	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #ubuntu-es-cafe
+2017-08-04 18:27:06	⇄	Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-08-04 18:27:06	⇄	Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 11:59:48
+2017-08-04 18:27:06	⇄	Channel #ubuntu-es-cafe: 13 apodos (0 ops, 0 voces, 13 normales)
+2017-08-04 18:27:14	⇄	Canal creado el sáb, 12 dic 2009 12:18:18
+2017-08-05 21:21:19	-	mr-jules (~mr-jules@2806:101e:1:3b12:a41f:468a:98e6:531) has joined #ubuntu-es-cafe
+2017-08-05 21:21:19		Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-08-05 21:21:19		Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 10:59:48
+2017-08-05 21:21:19		Channel #ubuntu-es-cafe: 12 apodos (0 ops, 0 voces, 12 normales)
+2017-08-05 21:21:28		Canal creado el sáb, 12 dic 2009 12:18:18
+2017-08-05 21:25:22	-	mr-jules (~mr-jules@2806:101e:1:3b12:a41f:468a:98e6:531) has joined #ubuntu-es-cafe
+2017-08-05 21:25:22		Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-08-05 21:25:22		Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 10:59:48
+2017-08-05 21:25:22		Channel #ubuntu-es-cafe: 12 apodos (0 ops, 0 voces, 12 normales)
+2017-08-05 21:25:30		Canal creado el sáb, 12 dic 2009 12:18:18
+2017-08-05 21:26:01	>	mr-jules (~mr-jules@2806:101e:1:3b12:a41f:468a:98e6:531) has joined #ubuntu-es-cafe
+2017-08-05 21:26:01	⇄	Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-08-05 21:26:01	⇄	Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 10:59:48
+2017-08-05 21:26:01	⇄	Channel #ubuntu-es-cafe: 12 apodos (0 ops, 0 voces, 12 normales)
+2017-08-05 21:26:09	⇄	Canal creado el sáb, 12 dic 2009 12:18:18
+2017-08-05 21:29:26	 > 	mr-jules (~mr-jules@2806:101e:1:3b12:a41f:468a:98e6:531) has joined #ubuntu-es-cafe
+2017-08-05 21:29:26	 - 	Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-08-05 21:29:26	 - 	Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 10:59:48
+2017-08-05 21:29:26	 - 	Channel #ubuntu-es-cafe: 12 apodos (0 ops, 0 voces, 12 normales)
+2017-08-05 21:30:56	◥	mr-jules (~mr-jules@2806:101e:1:3b12:a41f:468a:98e6:531) has joined #ubuntu-es-cafe
+2017-08-05 21:30:56	--	Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-08-05 21:30:56	--	Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 10:59:48
+2017-08-05 21:30:56	--	Channel #ubuntu-es-cafe: 12 apodos (0 ops, 0 voces, 12 normales)
+2017-08-05 21:31:05	--	Canal creado el sáb, 12 dic 2009 12:18:18
+2017-08-05 21:44:07	◥	mr-jules (~mr-jules@2806:101e:1:3b12:a41f:468a:98e6:531) has joined #ubuntu-es-cafe
+2017-08-05 21:44:07	--	Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-08-05 21:44:07	--	Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 10:59:48
+2017-08-05 21:44:07	--	Channel #ubuntu-es-cafe: 12 apodos (0 ops, 0 voces, 12 normales)
+2017-08-05 21:44:15	--	Canal creado el sáb, 12 dic 2009 12:18:18
+2017-08-05 23:02:30	mr-jules	buenas
+2017-08-06 05:02:00	◥	MrTulias (~misco@unaffiliated/mrtulias) has joined #ubuntu-es-cafe
+2017-08-06 05:02:11	MrTulias	o/
+2017-08-06 07:00:22	◥	GridCube (~GridCube@unaffiliated/soupermanito) has joined #ubuntu-es-cafe
+2017-08-06 07:28:16	mr-jules	o/
+2017-08-06 08:58:01	GridCube	\o oi mr-jules 
+2017-08-06 09:28:33	mr-jules	como te va? GridCube 
+2017-08-06 09:28:44	GridCube	no me quejo
+2017-08-06 09:28:46	GridCube	i uste?
+2017-08-06 09:30:04	mr-jules	muy bien batallando aqui con el dzen2, 
+2017-08-06 09:30:06	mr-jules	que lata
+2017-08-06 11:00:54	exio4	mr-jules: Tierra del Fuego
+2017-08-06 11:01:21	exio4	provincia argentina mas al sur, los sueldos son bastantes lindos por la zona, pero no se que tal el ambiente laboral
+2017-08-06 11:44:05	exio4	osea, son lindos, la contra es que un dia de verano es un dia de invierno por aca
+2017-08-06 12:28:03	◣	MrTulias (~misco@unaffiliated/mrtulias) ha salido (Quit: Leaving)
+2017-08-06 12:45:21	boleybeach	hi
+2017-08-06 12:45:27	boleybeach	!cafe
+2017-08-06 12:45:55	boleybeach	he tenido el ubuntu y ahora se va el bot
+2017-08-06 12:56:06	GridCube	lol
+2017-08-06 13:17:13	◥	mr-jules (~mr-jules@2806:101e:1:3b12:a41f:468a:98e6:531) has joined #ubuntu-es-cafe
+2017-08-06 13:17:13	--	Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-08-06 13:17:13	--	Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 10:59:48
+2017-08-06 13:17:13	--	Channel #ubuntu-es-cafe: 13 apodos (0 ops, 0 voces, 13 normales)
+2017-08-06 13:17:23	--	Canal creado el sáb, 12 dic 2009 12:18:18
+2017-08-06 13:30:14	exio4	GridCube: conseguime laburo en TdF
+2017-08-06 13:30:23	GridCube	el que
+2017-08-06 13:30:31	exio4	laburo
+2017-08-06 13:30:36	exio4	en TdF
+2017-08-06 13:30:54	GridCube	el que
+2017-08-06 13:31:07	GridCube	te vas a morir de frio
+2017-08-06 13:31:28	exio4	no quiero laburar mucho
+2017-08-06 13:31:32	exio4	quiero juntarla con pala un tiempo
+2017-08-06 13:31:38	exio4	ahorro en gas y electricidad
+2017-08-06 13:31:44	exio4	y ando con 4kg de ropa encima nomas
+2017-08-06 13:36:34	exio4	hay 1C / 73% humidity ahora mismo GridCube 
+2017-08-06 13:36:37	exio4	tan malo no puede ser
+2017-08-06 13:36:56	GridCube	es 1C antartico
+2017-08-06 13:37:05	GridCube	es mas frio que la mierda
+2017-08-06 13:37:54	exio4	https://www.meteored.com.ar/tiempo-en_Ushuaia-America+Sur-Argentina-Tierra+del+Fuego-SAWH-1-16858.html
+2017-08-06 13:37:56	exio4	esto dice -3
+2017-08-06 13:39:31	GridCube	esa temp en el sur no es lo mismo que esa temp acá
+2017-08-06 13:40:37	exio4	te acostumbras
+2017-08-06 13:40:44	exio4	si las estadisticas no mienten 
+2017-08-06 13:40:48	exio4	te acostumbras
+2017-08-06 13:42:01	exio4	a un compañero le habia salido un laburo de programador en TdF
+2017-08-06 13:42:51	exio4	osea, no le habia salido
+2017-08-06 13:42:59	exio4	se entero de uno donde habia amigos de amigos de amigos
+2017-08-06 13:47:48	exio4	no hay estadisticas reales de sueldos en nginun lado?
+2017-08-06 13:50:50	exio4	con algo de info detallada, no se, agrupada en rangos de menos de 10k ARS
+2017-08-06 13:53:20	exio4	el municipio donde estoy tiene todo online :D
+2017-08-06 13:53:24	exio4	ejecuciones presupuestarias y eso
+2017-08-06 13:56:34	exio4	GridCube: (tenes idea? re: estadisticas)
+2017-08-06 13:56:59	GridCube	no
+2017-08-06 13:57:08	exio4	quisiera algo asi, sueldo por area por provincia, agrupado de a 2500 ARS ponele
+2017-08-06 13:59:12	GridCube	http://opiniontdf.com.ar/noticias/economia/2017/01/04/7060/
+2017-08-06 14:00:08	GridCube	pero como dice el primer comentario
+2017-08-06 14:00:18	GridCube	el costo de vida supera los 20m facil
+2017-08-06 14:00:55	exio4	quiero detalles del costo de vida
+2017-08-06 14:00:59	GridCube	tenes que pagar por calefacción y toda la comida viene importada del norte asi que es bastante
+2017-08-06 14:01:01	GridCube	caro
+2017-08-06 14:15:23	--	irc: desconectado del servidor
+2017-08-06 14:15:47	◥	mr-jules (~mr-jules@2806:101e:1:3b12:a41f:468a:98e6:531) has joined #ubuntu-es-cafe
+2017-08-06 14:15:47	--	Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-08-06 14:15:47	--	Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 10:59:48
+2017-08-06 14:15:47	--	Channel #ubuntu-es-cafe: 13 apodos (0 ops, 0 voces, 13 normales)
+2017-08-06 14:16:10	--	Canal creado el sáb, 12 dic 2009 12:18:18
+2017-08-06 15:29:28	mr-jules	como va tdo 
+2017-08-06 15:46:28	GridCube	bien
+2017-08-06 15:46:28	GridCube	i vos
+2017-08-06 20:17:05	mr-jules	no me quejo
+2017-08-06 20:20:25	--	irc: desconectado del servidor
+2017-08-06 20:20:48	◥	mr-jules (~mr-jules@2806:101e:1:2d1e:c0fa:c829:2156:83eb) has joined #ubuntu-es-cafe
+2017-08-06 20:20:48	--	Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-08-06 20:20:48	--	Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 10:59:48
+2017-08-06 20:20:48	--	Channel #ubuntu-es-cafe: 11 apodos (0 ops, 0 voces, 11 normales)
+2017-08-06 20:21:12	--	Canal creado el sáb, 12 dic 2009 12:18:18
+2017-08-07 06:44:45	mr-jules	buenas o/
+2017-08-07 07:29:53	◥	GridCube (uid10553@gateway/web/irccloud.com/x-jfwiefqnrteqcpyg) has joined #ubuntu-es-cafe
+2017-08-07 09:13:50	◥	MrTulias (~misco@unaffiliated/mrtulias) has joined #ubuntu-es-cafe
+2017-08-07 09:13:59	MrTulias	o/
+2017-08-07 11:19:20	--	irc: desconectado del servidor
+2017-08-07 11:19:47	◥	mr-jules (~mr-jules@189.173.198.174) has joined #ubuntu-es-cafe
+2017-08-07 11:19:47	--	Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-08-07 11:19:47	--	Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 10:59:48
+2017-08-07 11:19:47	--	Channel #ubuntu-es-cafe: 14 apodos (0 ops, 0 voces, 14 normales)
+2017-08-07 11:20:15	--	Canal creado el sáb, 12 dic 2009 12:18:18
+2017-08-07 11:28:09	mr-jules	0/
+2017-08-07 11:31:32	MrTulias	\o
+2017-08-07 11:55:00	--	irc: desconectado del servidor
+2017-08-07 11:55:23	◥	mr-jules (~mr-jules@2806:101e:1:2d1e:c0fa:c829:2156:83eb) has joined #ubuntu-es-cafe
+2017-08-07 11:55:23	--	Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-08-07 11:55:23	--	Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 10:59:48
+2017-08-07 11:55:23	--	Channel #ubuntu-es-cafe: 14 apodos (0 ops, 0 voces, 14 normales)
+2017-08-07 11:55:51	--	Canal creado el sáb, 12 dic 2009 12:18:18
+2017-08-07 13:01:02	◣	MrTulias (~misco@unaffiliated/mrtulias) ha salido (Quit: Leaving)
+2017-08-07 13:03:50	◣	GridCube (uid10553@gateway/web/irccloud.com/x-jfwiefqnrteqcpyg) ha salido
+2017-08-07 15:10:46	◥	mr-jules (~mr-jules@2806:101e:1:2d1e:c0fa:c829:2156:83eb) has joined #ubuntu-es-cafe
+2017-08-07 15:10:46	--	Topic for #ubuntu-es-cafe is "Bienvenidos al canal Ubuntu de charla en español - Normas: https://wiki.ubuntu.com/IRC/Guidelines/es - SOPORTE: #ubuntu-es - TEMA: No hay tema"
+2017-08-07 15:10:46	--	Tema establecido por mimecar (~mimecar@unaffiliated/mimecar) el vie, 29 abr 2016 10:59:48
+2017-08-07 15:10:46	--	Channel #ubuntu-es-cafe: 12 apodos (0 ops, 0 voces, 12 normales)
+2017-08-07 15:10:54	--	Canal creado el sáb, 12 dic 2009 12:18:18
+2017-08-07 15:23:36	◥	GridCube (~GridCube@unaffiliated/soupermanito) has joined #ubuntu-es-cafe

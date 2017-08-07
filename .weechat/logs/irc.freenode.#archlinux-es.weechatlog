@@ -1,0 +1,1287 @@
+2017-07-23 09:09:15	-->	mr-jules (~mr-jules@189.173.19.142) has joined #archlinux-es
+2017-07-23 09:09:15	--	Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-07-23 09:09:15	--	Tema establecido por mefistofeles el sáb, 17 jun 2017 14:40:29
+2017-07-23 09:09:15	--	Channel #archlinux-es: 40 apodos (1 op, 0 voces, 39 normales)
+2017-07-23 09:09:15	--	PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-07-23 09:09:20	--	Canal creado el sáb, 25 nov 2006 23:42:39
+2017-07-23 09:18:57	<--	Skatox (~Thunderbi@190-78-85-35.dyn.dsl.cantv.net) ha salido (Ping timeout: 240 seconds)
+2017-07-23 09:34:45	-->	nuuuciano_ (~luuuciano@unaffiliated/luuuciano) has joined #archlinux-es
+2017-07-23 09:53:40	-->	mr-jules (~mr-jules@189.173.19.142) has joined #archlinux-es
+2017-07-23 09:53:40	--	Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-07-23 09:53:40	--	Tema establecido por mefistofeles el sáb, 17 jun 2017 14:40:29
+2017-07-23 09:53:40	--	Channel #archlinux-es: 39 apodos (1 op, 0 voces, 38 normales)
+2017-07-23 09:53:40	--	PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-07-23 09:53:41	--	Canal creado el sáb, 25 nov 2006 23:42:39
+2017-07-23 09:56:48	-->	Skatox (~Thunderbi@186-89-85-125.genericrev.cantv.net) has joined #archlinux-es
+2017-07-23 10:02:20	<	Skatox (~Thunderbi@186-89-85-125.genericrev.cantv.net) ha salido (Quit: Skatox)
+2017-07-23 10:12:05	<	nuuuciano_ (~luuuciano@unaffiliated/luuuciano) ha salido (Ping timeout: 240 seconds)
+2017-07-23 10:12:45	>	mr-jules (~mr-jules@189.173.19.142) has joined #archlinux-es
+2017-07-23 10:12:45	--	Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-07-23 10:12:45	--	Tema establecido por mefistofeles el sáb, 17 jun 2017 14:40:29
+2017-07-23 10:12:45	--	Channel #archlinux-es: 38 apodos (1 op, 0 voces, 37 normales)
+2017-07-23 10:12:45	--	PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-07-23 10:12:45	--	Canal creado el sáb, 25 nov 2006 23:42:39
+2017-07-23 10:18:06	>	fer750 (~umryk@unaffiliated/fer755) has joined #archlinux-es
+2017-07-23 10:26:01	>	nuuuciano (~luuuciano@unaffiliated/luuuciano) has joined #archlinux-es
+2017-07-23 10:29:05	>	mr-jules (~mr-jules@189.173.19.142) has joined #archlinux-es
+2017-07-23 10:29:05	--	Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-07-23 10:29:05	--	Tema establecido por mefistofeles el sáb, 17 jun 2017 14:40:29
+2017-07-23 10:29:05	--	Channel #archlinux-es: 40 apodos (1 op, 0 voces, 39 normales)
+2017-07-23 10:29:05	--	Canal creado el sáb, 25 nov 2006 23:42:39
+2017-07-23 10:29:05	--	PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-07-23 10:40:41	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #archlinux-es
+2017-07-23 10:40:41	⇄	Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-07-23 10:40:41	⇄	Tema establecido por mefistofeles el sáb, 17 jun 2017 14:40:29
+2017-07-23 10:40:41	⇄	Channel #archlinux-es: 40 apodos (1 op, 0 voces, 39 normales)
+2017-07-23 10:40:41	⇄	PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-07-23 10:40:42	⇄	Canal creado el sáb, 25 nov 2006 23:42:39
+2017-07-23 10:43:29	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #archlinux-es
+2017-07-23 10:43:29	⇄	Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-07-23 10:43:29	⇄	Tema establecido por mefistofeles el sáb, 17 jun 2017 14:40:29
+2017-07-23 10:43:29	⇄	Channel #archlinux-es: 40 apodos (1 op, 0 voces, 39 normales)
+2017-07-23 10:43:32	⇄	PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-07-23 10:43:34	⇄	Canal creado el sáb, 25 nov 2006 23:42:39
+2017-07-23 10:50:29	<	nuuuciano (~luuuciano@unaffiliated/luuuciano) ha salido (Remote host closed the connection)
+2017-07-23 10:52:34	>	nuuuciano (~luuuciano@unaffiliated/luuuciano) has joined #archlinux-es
+2017-07-23 11:46:02	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #archlinux-es
+2017-07-23 11:46:02	⇄	Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-07-23 11:46:02	⇄	Tema establecido por mefistofeles el sáb, 17 jun 2017 14:40:29
+2017-07-23 11:46:02	⇄	Channel #archlinux-es: 40 apodos (1 op, 0 voces, 39 normales)
+2017-07-23 11:46:03	⇄	PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-07-23 11:46:03	⇄	Canal creado el sáb, 25 nov 2006 23:42:39
+2017-07-23 11:59:06	>	setty1 (~weechat@139.47.31.115) has joined #archlinux-es
+2017-07-23 12:00:26	⇄	fer7_0 es conocido ahora como fer750
+2017-07-23 12:19:42	>	Skatox (~Thunderbi@190.153.115.231) has joined #archlinux-es
+2017-07-23 12:48:35	>	mefistofeles (~mefistofe@unaffiliated/mefistofeles) has joined #archlinux-es
+2017-07-23 12:49:13	mefistofeles	o/
+2017-07-23 12:49:45	fer750	Hola
+2017-07-23 12:54:21	techno_x64	la mefistofeles
+2017-07-23 12:56:28	<	Skatox (~Thunderbi@190.153.115.231) ha salido (Ping timeout: 240 seconds)
+2017-07-23 13:07:21	>	Noxbru (~Noxbru@host86-151-226-139.range86-151.btcentralplus.com) has joined #archlinux-es
+2017-07-23 13:08:48	mefistofeles	techno_x64: cómo va?
+2017-07-23 13:16:21	<	fer750 (~umryk@unaffiliated/fer755) ha salido (Quit: leaving)
+2017-07-23 13:20:14	mr-jules	alguno ha probado archlabs?
+2017-07-23 13:21:11	>	Skatox (~Thunderbi@190-199-33-42.dyn.dsl.cantv.net) has joined #archlinux-es
+2017-07-23 13:34:48	techno_x64	mefistofeles: todo bien ud que tal?
+2017-07-23 13:42:14	<	Skatox (~Thunderbi@190-199-33-42.dyn.dsl.cantv.net) ha salido (Ping timeout: 268 seconds)
+2017-07-23 13:53:44	>	Skatox (~Thunderbi@190-199-152-227.dyn.dsl.cantv.net) has joined #archlinux-es
+2017-07-23 14:02:33	<	Noxbru (~Noxbru@host86-151-226-139.range86-151.btcentralplus.com) ha salido (Quit: Smoke bomb!!)
+2017-07-23 14:24:27	<	Skatox (~Thunderbi@190-199-152-227.dyn.dsl.cantv.net) ha salido (Ping timeout: 240 seconds)
+2017-07-23 14:39:21	pesca	buenas
+2017-07-23 14:42:52	>	Skatox (~Thunderbi@200.84.67.196) has joined #archlinux-es
+2017-07-23 15:03:09	>	Noxbru (~Noxbru@host86-151-226-139.range86-151.btcentralplus.com) has joined #archlinux-es
+2017-07-23 15:47:40	<	setty1 (~weechat@139.47.31.115) ha salido (Quit: WeeChat 1.9)
+2017-07-23 15:48:58	<	coellobranco (~FoRcEr@103.37.117.91.dynamic.reverse-mundo-r.com) ha salido (Quit: Arch User...)
+2017-07-23 16:02:51	mefistofeles	pesca: ea o/
+2017-07-23 16:02:58	mefistofeles	techno_x64: bien, acá descansando
+2017-07-23 16:03:02	mefistofeles	a tocar batería un rato xD
+2017-07-23 16:31:23	<	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) ha salido (Ping timeout: 260 seconds)
+2017-07-23 16:33:23	>	techno_x64 (~techno_x6@unaffiliated/dark-wolf) has joined #archlinux-es
+2017-07-23 16:37:33	pesca	mefistofeles, seguis con la bateria?
+2017-07-23 16:37:52	mefistofeles	pesca: sep
+2017-07-23 16:45:04	<	mefistofeles (~mefistofe@unaffiliated/mefistofeles) ha salido (Ping timeout: 255 seconds)
+2017-07-23 16:50:37	<	Skatox (~Thunderbi@200.84.67.196) ha salido (Ping timeout: 260 seconds)
+2017-07-23 16:57:54	>	Skatox (~Thunderbi@200.84.67.196) has joined #archlinux-es
+2017-07-23 17:20:07	<	Noxbru (~Noxbru@host86-151-226-139.range86-151.btcentralplus.com) ha salido (Quit: Smoke bomb!!)
+2017-07-23 17:27:49	<	techno_x64 (~techno_x6@unaffiliated/dark-wolf) ha salido (Quit: WeeChat 1.9)
+2017-07-23 17:31:39	>	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) has joined #archlinux-es
+2017-07-23 17:48:30	<	Skatox (~Thunderbi@200.84.67.196) ha salido (Read error: Connection reset by peer)
+2017-07-23 17:49:12	>	Skatox (~Thunderbi@201.243.136.247) has joined #archlinux-es
+2017-07-23 17:54:13	<	Spliffer (~spliff@pc-155-28-215-201.cm.vtr.net) ha salido (Quit: Lost terminal)
+2017-07-23 17:57:24	<	Skatox (~Thunderbi@201.243.136.247) ha salido (Ping timeout: 240 seconds)
+2017-07-23 17:58:08	>	Skatox (~Thunderbi@190-78-88-43.dyn.dsl.cantv.net) has joined #archlinux-es
+2017-07-23 18:03:35	>	Skatox1 (~Thunderbi@186-185-240-41.genericrev.telcel.net.ve) has joined #archlinux-es
+2017-07-23 18:05:24	<	Skatox (~Thunderbi@190-78-88-43.dyn.dsl.cantv.net) ha salido (Ping timeout: 260 seconds)
+2017-07-23 18:07:54	<	Skatox1 (~Thunderbi@186-185-240-41.genericrev.telcel.net.ve) ha salido (Ping timeout: 240 seconds)
+2017-07-23 18:14:31	>	Skatox (~Thunderbi@190-199-33-42.dyn.dsl.cantv.net) has joined #archlinux-es
+2017-07-23 18:22:56	<	Gaxpaxxo (~Gazpacho@20.red-83-36-227.dynamicip.rima-tde.net) ha salido (Quit: Leaving)
+2017-07-23 18:45:38	<	Skatox (~Thunderbi@190-199-33-42.dyn.dsl.cantv.net) ha salido (Ping timeout: 268 seconds)
+2017-07-23 18:49:13	>	Skatox (~Thunderbi@186-185-246-232.genericrev.telcel.net.ve) has joined #archlinux-es
+2017-07-23 19:08:27	<	Skatox (~Thunderbi@186-185-246-232.genericrev.telcel.net.ve) ha salido (Ping timeout: 268 seconds)
+2017-07-23 19:29:18	>	fer750 (~umryk@unaffiliated/fer755) has joined #archlinux-es
+2017-07-23 19:57:34	<	fer750 (~umryk@unaffiliated/fer755) ha salido (Quit: leaving)
+2017-07-23 20:00:54	>	fer750 (~umryk@unaffiliated/fer755) has joined #archlinux-es
+2017-07-23 20:05:54	>	stevz (~stevz@190.150.179.60) has joined #archlinux-es
+2017-07-23 20:05:55	>	stevz_ (~stevz@190.150.179.60) has joined #archlinux-es
+2017-07-23 20:25:08	<	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) ha salido (Quit: WeeChat 1.9)
+2017-07-23 20:29:52	>	nuuuciano_ (~luuuciano@unaffiliated/luuuciano) has joined #archlinux-es
+2017-07-23 20:30:00	>	luuuciano_ (~luuuciano@unaffiliated/luuuciano) has joined #archlinux-es
+2017-07-23 20:30:54	<	luuuciano (~luuuciano@unaffiliated/luuuciano) ha salido (Ping timeout: 240 seconds)
+2017-07-23 20:30:57	<	nuuuciano (~luuuciano@unaffiliated/luuuciano) ha salido (Ping timeout: 248 seconds)
+2017-07-23 20:35:19	>	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) has joined #archlinux-es
+2017-07-23 20:54:33	>	likevinyl (~likevinyl@unaffiliated/likevinyl) has joined #archlinux-es
+2017-07-23 21:40:26	<	fer750 (~umryk@unaffiliated/fer755) ha salido (Remote host closed the connection)
+2017-07-23 21:52:03	>	fer750 (~umryk@unaffiliated/fer755) has joined #archlinux-es
+2017-07-24 16:05:42	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #archlinux-es
+2017-07-24 16:05:42	⇄	Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-07-24 16:05:42	⇄	Tema establecido por mefistofeles el sáb, 17 jun 2017 14:40:29
+2017-07-24 16:05:42	⇄	Channel #archlinux-es: 40 apodos (1 op, 0 voces, 39 normales)
+2017-07-24 16:05:42	⇄	PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-07-24 16:05:42	⇄	Canal creado el sáb, 25 nov 2006 23:42:39
+2017-07-24 16:19:11	<	setty1 (~weechat@139.47.29.84) ha salido (Quit: WeeChat 1.9)
+2017-07-24 17:11:11	<	mefistofeles (~mefistofe@unaffiliated/mefistofeles) ha salido (Ping timeout: 255 seconds)
+2017-07-24 17:40:52	>	DarkPsydeLord (~DarkPsyde@189.162.213.108) has joined #archlinux-es
+2017-07-24 19:08:34	>	Skatox (~Thunderbi@190-78-88-112.dyn.dsl.cantv.net) has joined #archlinux-es
+2017-07-24 19:19:20	>	kraftwerk (~Thunderbi@151.182.101.3) has joined #archlinux-es
+2017-07-24 19:24:50	>	usuario (~usuario@237.red-80-27-32.dynamicip.rima-tde.net) has joined #archlinux-es
+2017-07-24 19:25:24	<	usuario (~usuario@237.red-80-27-32.dynamicip.rima-tde.net) ha salido (Quit: Leaving)
+2017-07-24 19:30:09	>	mefistofeles (~mefistofe@unaffiliated/mefistofeles) has joined #archlinux-es
+2017-07-24 19:30:29	mefistofeles	o/
+2017-07-24 22:07:35	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #archlinux-es
+2017-07-24 22:07:35	⇄	Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-07-24 22:07:35	⇄	Tema establecido por mefistofeles el sáb, 17 jun 2017 14:40:29
+2017-07-24 22:07:35	⇄	Channel #archlinux-es: 42 apodos (1 op, 0 voces, 41 normales)
+2017-07-24 22:07:36	⇄	PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-07-24 22:07:36	⇄	Canal creado el sáb, 25 nov 2006 23:42:39
+2017-07-24 22:30:57	<	mefistofeles (~mefistofe@unaffiliated/mefistofeles) ha salido (Ping timeout: 248 seconds)
+2017-07-24 22:33:23	<	nuuuciano (~luuuciano@unaffiliated/luuuciano) ha salido (Ping timeout: 240 seconds)
+2017-07-24 22:49:16	<	luuuciano (~luuuciano@unaffiliated/luuuciano) ha salido (Ping timeout: 260 seconds)
+2017-07-24 22:54:57	<	DarkPsydeLord (~DarkPsyde@189.162.213.108) ha salido (Quit: Leaving)
+2017-07-25 00:47:52	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #archlinux-es
+2017-07-25 00:47:52	⇄	Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-07-25 00:47:52	⇄	Tema establecido por mefistofeles el sáb, 17 jun 2017 14:40:29
+2017-07-25 00:47:52	⇄	Channel #archlinux-es: 36 apodos (1 op, 0 voces, 35 normales)
+2017-07-25 00:47:53	⇄	PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-07-25 00:47:53	⇄	Canal creado el sáb, 25 nov 2006 23:42:39
+2017-07-25 01:34:38	<	Buda (~Budadona@2a00:d880:5:702::5cad) ha salido (Read error: Connection reset by peer)
+2017-07-25 01:41:02	>	Buda (~Budadona@2a00:d880:5:702::5cad) has joined #archlinux-es
+2017-07-25 02:37:18	<	exos (~exos@198.211.97.50) ha salido (Ping timeout: 268 seconds)
+2017-07-25 02:39:22	>	exos (~exos@198.211.97.50) has joined #archlinux-es
+2017-07-25 03:07:59	⇄	irc: desconectado del servidor
+2017-07-25 03:17:52	>	mr-jules (~mr-jules@189.173.19.142) has joined #archlinux-es
+2017-07-25 03:17:52	⇄	Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-07-25 03:17:52	⇄	Tema establecido por mefistofeles el sáb, 17 jun 2017 14:40:29
+2017-07-25 03:17:52	⇄	Channel #archlinux-es: 36 apodos (1 op, 0 voces, 35 normales)
+2017-07-25 03:17:52	⇄	PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-07-25 03:17:52	⇄	Canal creado el sáb, 25 nov 2006 23:42:39
+2017-07-25 03:34:01	>	Noxbru (~Noxbru@138-38-166-37.eduroam.bath.ac.uk) has joined #archlinux-es
+2017-07-25 03:52:55	>	luuuciano (~luuuciano@unaffiliated/luuuciano) has joined #archlinux-es
+2017-07-25 03:53:17	>	nuuuciano (~luuuciano@unaffiliated/luuuciano) has joined #archlinux-es
+2017-07-25 04:22:24	<	Buda (~Budadona@2a00:d880:5:702::5cad) ha salido (Remote host closed the connection)
+2017-07-25 04:31:02	>	Buda (~Budadona@2a00:d880:5:702::5cad) has joined #archlinux-es
+2017-07-25 08:47:46	⇄	irc: desconectado del servidor
+2017-07-25 08:48:10	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #archlinux-es
+2017-07-25 08:48:10	⇄	Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-07-25 08:48:10	⇄	Tema establecido por mefistofeles el sáb, 17 jun 2017 14:40:29
+2017-07-25 08:48:10	⇄	Channel #archlinux-es: 40 apodos (1 op, 0 voces, 39 normales)
+2017-07-25 08:48:11	⇄	PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-07-25 08:48:30	⇄	Canal creado el sáb, 25 nov 2006 23:42:39
+2017-07-25 09:05:42	techno_x64	voy a ver ese keepassxc
+2017-07-25 09:05:54	techno_x64	tengo demasiadas claves y aveces se me olvidan xD
+2017-07-25 09:07:58	techno_x64	y no hay app para android?
+2017-07-25 09:09:45	pesca	keepassdroid
+2017-07-25 09:09:58	pesca	o keepass2android
+2017-07-25 09:10:19	pesca	https://play.google.com/store/apps/details?id=keepass2android.keepass2android&hl=es_419
+2017-07-25 09:10:25	pesca	soporta varias cosas y funciona bien
+2017-07-25 09:10:41	techno_x64	pesca: ok, gracias
+2017-07-25 09:17:27	mefistofeles	uy ena ndroid yo no guardaría ninguna contraseña sensible
+2017-07-25 09:17:28	mefistofeles	:P
+2017-07-25 09:19:34	techno_x64	cambie de celular
+2017-07-25 09:19:39	techno_x64	compre otro xiaomi mas gama alta
+2017-07-25 09:19:47	techno_x64	que cosas tan baratas y con tan buen hardware
+2017-07-25 09:19:49	techno_x64	xD
+2017-07-25 09:20:09	mefistofeles	en china esas cosas las regalan
+2017-07-25 09:20:15	techno_x64	seee
+2017-07-25 09:20:27	mefistofeles	ahora que vaya a china voy a traer un par
+2017-07-25 09:48:05	⇄	irc: desconectado del servidor
+2017-07-25 09:48:32	>	mr-jules (~mr-jules@189.173.192.251) has joined #archlinux-es
+2017-07-25 09:48:32	⇄	Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-07-25 09:48:32	⇄	Tema establecido por mefistofeles el sáb, 17 jun 2017 14:40:29
+2017-07-25 09:48:32	⇄	Channel #archlinux-es: 41 apodos (1 op, 0 voces, 40 normales)
+2017-07-25 09:48:32	⇄	PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-07-25 09:48:33	⇄	Canal creado el sáb, 25 nov 2006 23:42:39
+2017-07-25 09:48:44	mefistofeles	pesca: claro, era de esperarse
+2017-07-25 09:49:03	mefistofeles	es casi como reescribir todo el engine
+2017-07-25 09:49:26	pesca	imagino que vale la pena, pero cuesta
+2017-07-25 09:50:11	techno_x64	a mi me da igual
+2017-07-25 09:50:17	techno_x64	yo las paginas de mucho js para chrome
+2017-07-25 09:50:20	techno_x64	que ff es una shit
+2017-07-25 09:50:23	|	techno_x64 runs
+2017-07-25 09:50:35	mefistofeles	pues use chrome y ya
+2017-07-25 09:50:36	mefistofeles	xD
+2017-07-25 09:50:37	pesca	jaja
+2017-07-25 09:50:39	mefistofeles	deje de llorar
+2017-07-25 09:50:45	techno_x64	uso los dos
+2017-07-25 09:50:49	techno_x64	y ya
+2017-07-25 09:50:51	techno_x64	xD
+2017-07-25 09:50:59	mefistofeles	listo, caso cerrado
+2017-07-25 09:51:07	pesca	cosas que hay que hacer cuando tenes una pc con poca potencia
+2017-07-25 09:51:12	pesca	a nosotros los ricos no nos pasa
+2017-07-25 09:51:15	pesca	!next
+2017-07-25 09:51:16	phrik	Another satisfied customer! NEXT!
+2017-07-25 09:51:17	techno_x64	ajajaja
+2017-07-25 09:51:25	techno_x64	caundo hay ram de sobra
+2017-07-25 09:51:28	techno_x64	no importa
+2017-07-25 09:51:30	techno_x64	xD
+2017-07-25 09:51:34	pesca	nono, cpu digo
+2017-07-25 09:51:51	techno_x64	pesca: lo que mas se come la navegacion con tantas tabs es la ram
+2017-07-25 09:52:04	mefistofeles	también CPU
+2017-07-25 09:52:09	mefistofeles	por eso lo limito
+2017-07-25 09:52:18	pesca	por ejemplo si tenes un i7 de generacion vieja se nota la lentitud
+2017-07-25 09:52:21	mefistofeles	no me parece buena idea dedicarle tantos recursos a un navegador
+2017-07-25 09:52:22	pesca	no como nosotros con nuestros i9
+2017-07-25 09:52:23	techno_x64	peor cpu no mucho, ya que solo se usa la tab activa
+2017-07-25 09:52:44	mefistofeles	techno_x64: pueden haber varias tabs activas al tiempo corriendo js
+2017-07-25 09:52:56	techno_x64	mefistofeles: pues la navegacion hoy en dia se volvio una tarea robusta y ya todas las plataformas y demas es web, el escriotrio esta ya obsoleto
+2017-07-25 09:53:00	techno_x64	es normal que se coma recursos
+2017-07-25 09:53:14	mefistofeles	no, eso depende del trabajo
+2017-07-25 09:53:24	mefistofeles	pero sí, la mayoría se la pasan en un navegador
+2017-07-25 09:53:27	mefistofeles	menos mal a mi no me toca
+2017-07-25 09:53:29	techno_x64	pesca: i9 de 18/36
+2017-07-25 09:53:38	mefistofeles	con los bugs que no dejan usarlo al 100
+2017-07-25 09:53:41	techno_x64	y un extintor al lado
+2017-07-25 09:53:42	mefistofeles	buena intel
+2017-07-25 09:53:42	mefistofeles	xD
+2017-07-25 09:53:46	techno_x64	mefistofeles: ++
+2017-07-25 09:53:51	techno_x64	y el extintor
+2017-07-25 09:56:40	mefistofeles	yo espero que ARM termine los procesadores con x86
+2017-07-25 09:57:36	pesca	querés que los mate?
+2017-07-25 09:57:49	pesca	hasta que no hagan cosas empresariales piolas en esa plataforma
+2017-07-25 09:57:52	pesca	estan medios jugados
+2017-07-25 09:58:19	techno_x64	ademas arm ganarle a intel que ha llevado toda la investigacion toda la vida de x86 lo veo algo dificil
+2017-07-25 09:58:27	techno_x64	le apuesto mas a nvidia con arquitectura milicore
+2017-07-25 09:58:41	techno_x64	nvidia quiere crear un soc con cpu
+2017-07-25 09:59:10	pesca	ya hizo cosos en arm y se fue con la cola entre las patas
+2017-07-25 09:59:14	mefistofeles	xD
+2017-07-25 09:59:16	mefistofeles	seh
+2017-07-25 09:59:17	techno_x64	seee
+2017-07-25 09:59:19	techno_x64	como intel
+2017-07-25 09:59:21	techno_x64	xD
+2017-07-25 09:59:31	mefistofeles	ARM sin duda está ganando
+2017-07-25 09:59:33	mefistofeles	a todos
+2017-07-25 09:59:34	techno_x64	peor no hablo de arm, si no de soc para pc
+2017-07-25 09:59:43	techno_x64	mefistofeles: en dispositivos moviles xD
+2017-07-25 09:59:45	pesca	es que por mas que tengan investigacion de toda la vida, el mercado se maneja por otras reglas
+2017-07-25 09:59:59	mefistofeles	techno_x64: que son millones de veces más que los no-móviles
+2017-07-25 10:00:19	techno_x64	pero es que arm es de bajo consumo y otras tareas exigencias, no es comparable con x86 que es otra cosa
+2017-07-25 10:00:20	pesca	los procesadores de intel que usan en todas esas tablets genericas son x86?
+2017-07-25 10:00:20	mefistofeles	y cada vez son más
+2017-07-25 10:00:26	techno_x64	pesca: si
+2017-07-25 10:00:29	mefistofeles	pesca: deben ser atom
+2017-07-25 10:00:31	mefistofeles	pero son un asco
+2017-07-25 10:00:40	pesca	y sí, fijate que digo genéricas
+2017-07-25 10:00:49	pesca	las venden más barato que las MEDIATEK
+2017-07-25 10:00:57	mefistofeles	intel fracasó también en el IoT con su Galileo y la otra, fracaso total
+2017-07-25 10:01:10	techno_x64	nvidia it's the future
+2017-07-25 10:01:26	techno_x64	nvidia se esta comiendo el mercado de IA
+2017-07-25 10:01:33	techno_x64	con cuda
+2017-07-25 10:01:38	mefistofeles	nvidia tiene un gran problema
+2017-07-25 10:01:38	pesca	canonical se esta comiendo el iot
+2017-07-25 10:01:40	pesca	...dicen
+2017-07-25 10:01:48	mefistofeles	y es que es muy cerrado para ser tan caro
+2017-07-25 10:01:49	techno_x64	los cohes autonomos estan usando gpu para hacer los calculos
+2017-07-25 10:02:05	techno_x64	y si nvidia se mete en el mercado de autos, es una entrada bien grande
+2017-07-25 10:02:16	techno_x64	ademas que tienen mas aplicaciones con cuda
+2017-07-25 10:02:30	techno_x64	pesca: microsoft se va a comer el opensource andan diciendo...
+2017-07-25 10:02:59	mefistofeles	los chinos hace rato que tienen self-driving cars
+2017-07-25 10:03:06	mefistofeles	no sé por qué ahora todos piensan qeu es algo muy novedoso
+2017-07-25 10:03:30	techno_x64	mefistofeles: pero aun no hay ningun cohce autonomo totalmente seguro y bueno para las condiciones reales
+2017-07-25 10:03:41	mefistofeles	mi jefe se ha montado en dos
+2017-07-25 10:03:46	mefistofeles	en Shanghai se usan
+2017-07-25 10:04:01	mefistofeles	China hace rato que ganó esa competencia
+2017-07-25 10:04:26	>	spl1ff (~spliff@pc-155-28-215-201.cm.vtr.net) has joined #archlinux-es
+2017-07-25 10:04:35	pesca	nadie quiere los chinos, eso se ignora
+2017-07-25 10:04:46	techno_x64	pesca: iba a decir eso ++
+2017-07-25 10:04:48	techno_x64	xD
+2017-07-25 10:04:52	techno_x64	a nadie le importa china
+2017-07-25 10:04:59	techno_x64	desde que eeuu diga que no son seguros para el uso real
+2017-07-25 10:05:03	techno_x64	xD
+2017-07-25 10:05:03	mefistofeles	nadie los quiere pero siguen siendo los que más avances tienen y la economía más grande
+2017-07-25 10:05:06	mefistofeles	duela al que le duela
+2017-07-25 10:05:20	techno_x64	mefistofeles: y porque no han creado un navegador bueno de verdad los chinos?
+2017-07-25 10:05:22	techno_x64	xD
+2017-07-25 10:05:33	mefistofeles	lol
+2017-07-25 10:05:36	techno_x64	punto para eeuu
+2017-07-25 10:05:39	techno_x64	xD
+2017-07-25 10:05:42	mefistofeles	como si los navegadores fueran algo sumamente importante
+2017-07-25 10:05:49	techno_x64	mefistofeles: estoy trolleando
+2017-07-25 10:05:51	techno_x64	:P
+2017-07-25 10:06:08	pesca	mefistofeles, obvio, por eso se los ignora
+2017-07-25 10:06:08	pesca	jaja
+2017-07-25 10:06:19	mefistofeles	además la mayoría de commits de académicos en Google son chinos
+2017-07-25 10:06:19	mefistofeles	xD
+2017-07-25 10:06:39	mefistofeles	luego vienen lso Indios
+2017-07-25 10:06:54	mefistofeles	y luego los colombianos
+2017-07-25 10:06:55	mefistofeles	xD
+2017-07-25 10:07:20	pesca	mefistofeles 20% de los commits mundiales
+2017-07-25 10:07:31	pesca	los indios son buenos?
+2017-07-25 10:07:38	techno_x64	los de india?
+2017-07-25 10:07:44	techno_x64	si creo que si son buenos me han dicho
+2017-07-25 10:07:50	<	Spliffer (~spliff@pc-155-28-215-201.cm.vtr.net) ha salido (Ping timeout: 260 seconds)
+2017-07-25 10:07:52	pesca	citation needed
+2017-07-25 10:07:59	pesca	[who?]
+2017-07-25 10:08:47	mefistofeles	pues...
+2017-07-25 10:08:47	mefistofeles	nosotros les vendemos hardware y software
+2017-07-25 10:08:47	mefistofeles	xD
+2017-07-25 10:08:47	mefistofeles	no son tan buenos, solo que tienen MUCHA gente y dinero
+2017-07-25 10:09:46	techno_x64	y la tienen grande y a mefistofeles le gusta eso
+2017-07-25 10:10:24	mefistofeles	y vitaminosa
+2017-07-25 10:12:03	pesca	http://www.taringa.net/comunidades/archlinux/6157379/Aporte-crear-un-canal-irc.html
+2017-07-25 10:12:05	phrik	Title: [aporte]crear un canal irc - Taringa! (at www.taringa.net)
+2017-07-25 10:12:09	pesca	mirá, me mencionan en taringa
+2017-07-25 10:12:15	pesca	dicen que tengo buenas anécdotas
+2017-07-25 10:12:32	pesca	no se en que universo paralelo ocurrió eso
+2017-07-25 10:13:07	mefistofeles	lol
+2017-07-25 10:13:52	techno_x64	ajajaja
+2017-07-25 10:14:32	pesca	vitaminosa le mandó
+2017-07-25 10:14:40	pesca	recién leí
+2017-07-25 10:14:40	pesca	jaja
+2017-07-25 10:14:41	mefistofeles	xD
+2017-07-25 10:14:45	likevinyl	pesca:
+2017-07-25 10:14:55	likevinyl	que risa esos comentarios
+2017-07-25 10:15:01	likevinyl	siempre se creen JENIOS
+2017-07-25 10:15:05	likevinyl	jajaja
+2017-07-25 10:15:05	techno_x64	ajaj si no estan contentos con las anecdotas de pesca
+2017-07-25 10:15:08	techno_x64	xD
+2017-07-25 10:15:22	pesca	viste lo de "los usuarios de arch linux tenemos la filosofia de no rendirnos con las dificultades"?
+2017-07-25 10:15:38	likevinyl	ay! sí! ay sí! uso archlínu... te paso el pacstrapo
+2017-07-25 10:15:50	techno_x64	likevinyl: hereje!
+2017-07-25 10:15:56	mefistofeles	techno_x64 usa arch porque la tiene más grande
+2017-07-25 10:15:59	techno_x64	mefistofeles: ++
+2017-07-25 10:16:17	|	techno_x64 confirm it's
+2017-07-25 10:16:26	likevinyl	techno_x64: en #birras si uno dice Arch salta otro con sourcemage, varios gentooseros que se rien de lejos...
+2017-07-25 10:16:27	likevinyl	que se yo..
+2017-07-25 10:16:35	likevinyl	hay loquito pa' todo'
+2017-07-25 10:16:35	likevinyl	jajaja
+2017-07-25 10:16:46	pesca	uh sí, el otro día vi el tema de instalar el OS sin un instalador
+2017-07-25 10:16:57	pesca	y no quise saber más
+2017-07-25 10:17:00	techno_x64	pues si cuando empece en arch hace mas de 5 años, fue porque decian que era muy dificil y lo ams cool y bla bla, ya lo sigo usando es por costumbre y porque realmente en aur y los repos esta todo y no debo agregar ppa ni cosas
+2017-07-25 10:17:00	techno_x64	xD
+2017-07-25 10:17:00	pesca	sobre distros
+2017-07-25 10:17:00	pesca	ni linux
+2017-07-25 10:17:01	pesca	nunca más
+2017-07-25 10:17:17	mefistofeles	dizque hace más de 5 años xD
+2017-07-25 10:17:29	techno_x64	mefistofeles: si ya llevo 5 años en arch y aqui de hecho
+2017-07-25 10:17:34	mefistofeles	jaja no
+2017-07-25 10:17:40	pesca	hmmm
+2017-07-25 10:17:44	likevinyl	cuando te cruzas con cualquiera que usa arch escribe como fumando en pipa
+2017-07-25 10:17:50	techno_x64	mefistofeles: mi nick lo registre mucho despues si se refiere a lo viejo de mi nick
+2017-07-25 10:17:52	likevinyl	y arrancó ayer seguro
+2017-07-25 10:17:53	mefistofeles	hasta tengo sus videos hablando de la instalación *AVANZADA*  de ubuntu
+2017-07-25 10:17:54	pesca	sí, me parece que sí
+2017-07-25 10:17:55	mefistofeles	y no tienen 5 años
+2017-07-25 10:18:00	likevinyl	otra es que la pipa es del logo de slackware.
+2017-07-25 10:18:01	likevinyl	:P
+2017-07-25 10:18:02	pesca	ah
+2017-07-25 10:18:07	pesca	bueno, que ande por acá es otra cosa
+2017-07-25 10:18:16	techno_x64	mefistofeles: ome yo se cuando empece a usar arch :P
+2017-07-25 10:18:16	pesca	hace 5 años sí andaba por acá
+2017-07-25 10:18:16	techno_x64	seee
+2017-07-25 10:18:16	mefistofeles	techno_x64: ok
+2017-07-25 10:18:16	pesca	pero cierto que preguntaba cosas de ubuntu
+2017-07-25 10:18:21	likevinyl	son como las anecdotas del abuelo simpson
+2017-07-25 10:18:28	techno_x64	pesca: si se acuerda que lindo <3
+2017-07-25 10:18:28	mefistofeles	igual ubuntu es mejor que arch
+2017-07-25 10:18:28	mefistofeles	xD
+2017-07-25 10:18:33	likevinyl	"recuerdo que nos atabamos una papa al cinturón"...
+2017-07-25 10:18:38	mefistofeles	todos usamos arch porque ya nos acostumbramos a lo malo
+2017-07-25 10:18:54	likevinyl	te lo regalo... sigo con freebsd
+2017-07-25 10:18:56	likevinyl	graciassssss
+2017-07-25 10:18:59	techno_x64	pero si muchos usan arch por ego, y lo admito a mi cuando empece en el, ahora es por costumbre
+2017-07-25 10:19:00	likevinyl	xD
+2017-07-25 10:19:01	techno_x64	xD
+2017-07-25 10:19:10	pesca	si mencionas freebsd
+2017-07-25 10:19:11	pesca	siempre sale uno con openbsd
+2017-07-25 10:19:12	pesca	o algo más raro
+2017-07-25 10:19:23	likevinyl	pesca: más raro que sourcemage...
+2017-07-25 10:19:25	pesca	"yo uso sajhfglksdgh blade servers en solarishjfsdgg"
+2017-07-25 10:19:25	techno_x64	mefistofeles: pacman lo acostumbra mucho a uno y el aur :P
+2017-07-25 10:19:26	likevinyl	no creo
+2017-07-25 10:19:41	pesca	"por favor contratenme"
+2017-07-25 10:19:43	likevinyl	en el canal, ese ismaell es el encargado de introducir bugs a casi todas las distros
+2017-07-25 10:19:45	pesca	les lamo los pies
+2017-07-25 10:19:47	likevinyl	jajaja
+2017-07-25 10:20:13	mefistofeles	techno_x64: sí, pero la verdad es que los snaps de ubuntu son mucho mejor
+2017-07-25 10:20:16	likevinyl	mefistofeles: estoy así todo el día
+2017-07-25 10:20:17	mefistofeles	es loq ue todos deberíamos usar
+2017-07-25 10:20:24	techno_x64	mefistofeles: los snaps si son muy buena idea la verdad
+2017-07-25 10:20:29	likevinyl	pkg add... pacman... apt
+2017-07-25 10:20:32	mefistofeles	likevinyl: jaja
+2017-07-25 10:20:35	likevinyl	borrando una y otra vez
+2017-07-25 10:20:41	likevinyl	porque confundo los equipos...
+2017-07-25 10:20:45	likevinyl	jajaja
+2017-07-25 10:20:52	techno_x64	mefistofeles: lo otro quizas bueno de arch es que se aprende un poco mas a administrar el OS
+2017-07-25 10:21:09	mefistofeles	de hecho tengo la tarea de hacer el snap del software que ahcemos acá
+2017-07-25 10:21:09	techno_x64	y se instala lo preciso
+2017-07-25 10:21:32	mefistofeles	techno_x64: pues para eso es mejor gentoo o slack
+2017-07-25 10:21:35	pesca	beford
+2017-07-25 10:21:36	pesca	: https://i.imgur.com/5YJSwea.jpg
+2017-07-25 10:21:36	pesca	air cooling
+2017-07-25 10:21:36	pesca	para techno,
+2017-07-25 10:21:36	pesca	y tambien es una obra de arte contemporaneo
+2017-07-25 10:21:37	mefistofeles	pero sí, se aprende alguito
+2017-07-25 10:21:42	pesca	uh, estupidos newlines que no se ven
+2017-07-25 10:21:44	pesca	yo tenia todo en un renglón
+2017-07-25 10:21:49	mefistofeles	xD
+2017-07-25 10:22:26	techno_x64	mefistofeles: peor gentoo que aprende uno? a ver el cpu sufriendo y lineas corriendo en la terminal?
+2017-07-25 10:22:35	techno_x64	y usar compilacion native para que corra 33% mas rapido?
+2017-07-25 10:22:37	techno_x64	xD
+2017-07-25 10:23:17	techno_x64	pesca: recuero cuando recien iba a comprar la pc nueva, como me molestaban, que los fans de leds calentaban mas el gabinete hdp's
+2017-07-25 10:23:20	techno_x64	xD
+2017-07-25 10:39:42	⇄	irc: desconectado del servidor
+2017-07-25 10:40:14	>	mr-jules (~mr-jules@189.173.192.251) has joined #archlinux-es
+2017-07-25 10:40:14	⇄	Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-07-25 10:40:14	⇄	Tema establecido por mefistofeles el sáb, 17 jun 2017 14:40:29
+2017-07-25 10:40:14	⇄	Channel #archlinux-es: 41 apodos (1 op, 0 voces, 40 normales)
+2017-07-25 10:40:30	likevinyl	yo tenia ganas de probar...
+2017-07-25 10:40:32	likevinyl	pero mejor no
+2017-07-25 23:06:43	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #archlinux-es
+2017-07-25 23:06:43	⇄	Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-07-25 23:06:43	⇄	Tema establecido por mefistofeles el sáb, 17 jun 2017 14:40:29
+2017-07-25 23:06:43	⇄	Channel #archlinux-es: 37 apodos (1 op, 0 voces, 36 normales)
+2017-07-25 23:06:44	⇄	PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-07-25 23:06:45	⇄	Canal creado el sáb, 25 nov 2006 23:42:39
+2017-07-26 14:44:21	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #archlinux-es
+2017-07-26 14:44:21	⇄	Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-07-26 14:44:21	⇄	Tema establecido por mefistofeles el sáb, 17 jun 2017 14:40:29
+2017-07-26 14:44:21	⇄	Channel #archlinux-es: 44 apodos (1 op, 0 voces, 43 normales)
+2017-07-26 14:44:21	⇄	PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-07-26 14:44:22	⇄	Canal creado el sáb, 25 nov 2006 23:42:39
+2017-07-26 14:45:59	<	Fryntiz (~Thunderbi@89.129.144.214) ha salido (Remote host closed the connection)
+2017-07-26 14:46:15	>	Fryntiz (~Thunderbi@89.129.144.214) has joined #archlinux-es
+2017-07-26 14:51:26	<	Fryntiz (~Thunderbi@89.129.144.214) ha salido (Ping timeout: 276 seconds)
+2017-07-26 14:55:20	>	luuuciano (~luuuciano@unaffiliated/luuuciano) has joined #archlinux-es
+2017-07-26 15:06:43	<	likevinyl1 (~likevinyl@2800:810:49b:814b:87ac:c755:5160:25f7) ha salido (Quit: WeeChat 1.9)
+2017-07-26 15:08:45	>	likevinyl (~likevinyl@unaffiliated/likevinyl) has joined #archlinux-es
+2017-07-26 15:11:06	<	Skatox (~Thunderbi@190-78-88-112.dyn.dsl.cantv.net) ha salido (Read error: Connection reset by peer)
+2017-07-26 15:18:03	mefistofeles	alguna idea de por qué el fucking vbox parece usar el puerto 5556?
+2017-07-26 15:18:07	mefistofeles	tcp        0      0 0.0.0.0:5556            0.0.0.0:*               LISTEN      17812/VirtualBox
+2017-07-26 15:18:10	mefistofeles	ese es el output de netstat
+2017-07-26 15:18:14	likevinyl	!ga
+2017-07-26 15:18:15	phrik	Good afternoon to all from likevinyl!
+2017-07-26 15:18:32	mefistofeles	!give likevinyl hi
+2017-07-26 15:18:32	likevinyl	maten al bot gringo
+2017-07-26 15:18:33	phrik	likevinyl: hi mefistofeles
+2017-07-26 15:18:37	likevinyl	arriba dice #-es
+2017-07-26 15:18:41	likevinyl	^_^
+2017-07-26 15:18:44	mefistofeles	likevinyl: haga uno mejor
+2017-07-26 15:18:44	mefistofeles	xD
+2017-07-26 15:18:47	likevinyl	esaaa mefistofeles \m/
+2017-07-26 15:18:49	likevinyl	mefistofeles:
+2017-07-26 15:18:52	likevinyl	ya está hecho
+2017-07-26 15:18:52	mefistofeles	y técnicamente es alemán el bot jaja
+2017-07-26 15:18:57	likevinyl	el de mi canal es el mismo bot
+2017-07-26 15:19:13	likevinyl	pero está pasado a Castellano
+2017-07-26 15:19:25	mefistofeles	claro, la idea es hacer lo mismo con este
+2017-07-26 15:19:33	mefistofeles	no es necseario cambiar el bot, sino grabarle factoids en español
+2017-07-26 15:19:36	mefistofeles	y ya está
+2017-07-26 15:24:09	techno_x64	tengo ganas de caminar, ultimamente estoy muy sedentario xD
+2017-07-26 15:26:25	mefistofeles	ok, era una regla de port forward de vbox
+2017-07-26 15:26:30	mefistofeles	!next
+2017-07-26 15:26:31	phrik	Another satisfied customer! NEXT!
+2017-07-26 15:26:47	mefistofeles	techno_x64: hágale!
+2017-07-26 15:28:17	>	Skatox (~Thunderbi@190-78-88-112.dyn.dsl.cantv.net) has joined #archlinux-es
+2017-07-26 15:53:30	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #archlinux-es
+2017-07-26 15:53:30	⇄	Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-07-26 15:53:30	⇄	Tema establecido por mefistofeles el sáb, 17 jun 2017 14:40:29
+2017-07-26 15:53:30	⇄	Channel #archlinux-es: 44 apodos (1 op, 0 voces, 43 normales)
+2017-07-26 15:53:30	⇄	PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-07-26 15:53:30	⇄	Canal creado el sáb, 25 nov 2006 23:42:39
+2017-07-26 16:07:35	<	Skatox (~Thunderbi@190-78-88-112.dyn.dsl.cantv.net) ha salido (Ping timeout: 240 seconds)
+2017-07-26 16:12:21	<	mefistofeles (~mefistofe@unaffiliated/mefistofeles) ha salido (Ping timeout: 240 seconds)
+2017-07-26 16:20:51	>	fer750 (~umryk@unaffiliated/fer755) has joined #archlinux-es
+2017-07-26 16:22:42	<	moonwatcher- (~pablo@unaffiliated/pabloj7) ha salido (Quit: WeeChat 1.9)
+2017-07-26 16:33:33	>	Fryntiz (~Thunderbi@89.129.144.214) has joined #archlinux-es
+2017-07-26 16:45:22	<	Gaxpaxxo (~Gazpacho@61.red-81-47-144.staticip.rima-tde.net) ha salido (Quit: Leaving)
+2017-07-26 16:51:21	<	sL1pKn07 (~sl1pkn07@unaffiliated/sl1pkn07) ha salido (Remote host closed the connection)
+2017-07-26 16:52:09	>	sL1pKn07 (~sl1pkn07@84.125.91.110.dyn.user.ono.com) has joined #archlinux-es
+2017-07-26 16:52:09	<	sL1pKn07 (~sl1pkn07@84.125.91.110.dyn.user.ono.com) ha salido (Changing host)
+2017-07-26 16:52:09	>	sL1pKn07 (~sl1pkn07@unaffiliated/sl1pkn07) has joined #archlinux-es
+2017-07-26 16:57:39	<	setty1 (~weechat@139.47.30.31) ha salido (Quit: WeeChat 1.9)
+2017-07-26 17:13:45	<	sL1pKn07 (~sl1pkn07@unaffiliated/sl1pkn07) ha salido (Remote host closed the connection)
+2017-07-26 17:14:33	>	sL1pKn07 (~sl1pkn07@unaffiliated/sl1pkn07) has joined #archlinux-es
+2017-07-26 17:44:33	<	m4v (~znc@ubuntu/member/m4v) ha salido (Ping timeout: 248 seconds)
+2017-07-26 17:58:38	>	m4v (~znc@ubuntu/member/m4v) has joined #archlinux-es
+2017-07-26 18:00:27	<	Fryntiz (~Thunderbi@89.129.144.214) ha salido (Ping timeout: 240 seconds)
+2017-07-26 18:07:43	>	Skatox (~Thunderbi@190-78-88-112.dyn.dsl.cantv.net) has joined #archlinux-es
+2017-07-26 18:17:21	>	Tacoder (~DarkPsyde@189.162.213.108) has joined #archlinux-es
+2017-07-26 19:08:19	⇄	irc: desconectado del servidor
+2017-07-26 19:08:47	>	mr-jules (~mr-jules@189.173.192.251) has joined #archlinux-es
+2017-07-26 19:08:47	⇄	Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-07-26 19:08:47	⇄	Tema establecido por mefistofeles el sáb, 17 jun 2017 14:40:29
+2017-07-26 19:08:47	⇄	Channel #archlinux-es: 43 apodos (1 op, 0 voces, 42 normales)
+2017-07-26 19:08:47	⇄	PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-07-26 19:08:48	⇄	Canal creado el sáb, 25 nov 2006 23:42:39
+2017-07-26 22:17:07	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #archlinux-es
+2017-07-26 22:17:08	⇄	Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-07-26 22:17:08	⇄	Tema establecido por mefistofeles el sáb, 17 jun 2017 14:40:29
+2017-07-26 22:17:08	⇄	Channel #archlinux-es: 41 apodos (1 op, 0 voces, 40 normales)
+2017-07-26 22:17:09	⇄	PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-07-26 22:17:09	⇄	Canal creado el sáb, 25 nov 2006 23:42:39
+2017-07-26 22:29:29	>	busygringo (~busygring@d108-180-125-159.bchsia.telus.net) has joined #archlinux-es
+2017-07-26 22:29:49	<	busygringo (~busygring@d108-180-125-159.bchsia.telus.net) ha salido (Client Quit)
+2017-07-26 22:35:37	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #archlinux-es
+2017-07-26 22:35:37	⇄	Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-07-26 22:35:37	⇄	Tema establecido por mefistofeles el sáb, 17 jun 2017 14:40:29
+2017-07-26 22:35:37	⇄	Channel #archlinux-es: 41 apodos (1 op, 0 voces, 40 normales)
+2017-07-26 22:35:37	⇄	PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-07-26 22:35:38	⇄	Canal creado el sáb, 25 nov 2006 23:42:39
+2017-07-26 22:36:23	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #archlinux-es
+2017-07-26 22:36:23	⇄	Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-07-26 22:36:23	⇄	Tema establecido por mefistofeles el sáb, 17 jun 2017 14:40:29
+2017-07-26 22:36:23	⇄	Channel #archlinux-es: 41 apodos (1 op, 0 voces, 40 normales)
+2017-07-26 22:36:23	⇄	Canal creado el sáb, 25 nov 2006 23:42:39
+2017-07-26 22:36:23	⇄	PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-07-26 22:49:10	<	nuuuciano (~luuuciano@unaffiliated/luuuciano) ha salido (Ping timeout: 276 seconds)
+2017-07-26 22:51:54	>	Jristz (~Pablo@190.96.79.218) has joined #archlinux-es
+2017-07-26 22:52:19	<	stevz (~stevz@190.150.179.60) ha salido (Quit: Vemox.....)
+2017-07-26 23:01:44	>	kraftwerk (~Thunderbi@151.182.101.3) has joined #archlinux-es
+2017-07-26 23:34:36	<	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) ha salido (Quit: WeeChat 1.9)
+2017-07-26 23:57:59	>	MrDoS (~root@pc-68-64-86-200.cm.vtr.net) has joined #archlinux-es
+2017-07-26 23:58:25	<	MrDoS (~root@pc-68-64-86-200.cm.vtr.net) ha salido (Client Quit)
+2017-07-28 21:50:30	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #archlinux-es
+2017-07-28 21:50:30	⇄	Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-07-28 21:50:30	⇄	Tema establecido por mefistofeles el sáb, 17 jun 2017 14:40:29
+2017-07-28 21:50:30	⇄	Channel #archlinux-es: 40 apodos (1 op, 0 voces, 39 normales)
+2017-07-28 21:50:31	⇄	PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-07-28 21:50:31	⇄	Canal creado el sáb, 25 nov 2006 23:42:39
+2017-07-28 21:50:33	>	Gnhugo (~yaaic@187.228.248.96) has joined #archlinux-es
+2017-07-28 22:23:55	>	deep-book-gk_ (~1wm_su@159.122.132.44) has joined #archlinux-es
+2017-07-28 22:24:05	<	deep-book-gk_ (~1wm_su@159.122.132.44) ha abandonado #archlinux-es
+2017-07-28 22:27:25	<	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) ha salido (Quit: WeeChat 1.9)
+2017-07-28 22:32:25	<	nuuuciano (~luuuciano@unaffiliated/luuuciano) ha salido (Ping timeout: 276 seconds)
+2017-07-28 22:42:27	<	Gnhugo (~yaaic@187.228.248.96) ha salido (Ping timeout: 240 seconds)
+2017-07-28 22:56:36	<	Spliffer (~spliff@pc-155-28-215-201.cm.vtr.net) ha salido (Remote host closed the connection)
+2017-07-28 23:15:07	likevinyl	ttps://www.youtube.com/watch?v=tyNuWCjc-bg
+2017-07-28 23:17:14	>	nuuuciano (~luuuciano@unaffiliated/luuuciano) has joined #archlinux-es
+2017-07-28 23:19:24	>	Mushindo (~Mushindo@84.236.246.21) has joined #archlinux-es
+2017-07-28 23:21:02	>	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) has joined #archlinux-es
+2017-07-28 23:39:02	<	nuuuciano (~luuuciano@unaffiliated/luuuciano) ha salido (Ping timeout: 260 seconds)
+2017-07-29 00:30:55	<	Mushindo (~Mushindo@84.236.246.21) ha salido (Remote host closed the connection)
+2017-07-29 01:46:51	<	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) ha salido (Quit: WeeChat 1.9)
+2017-07-29 03:43:57	<	nameless_CL (~snake@200-28-172-157.baf.movistar.cl) ha salido (Ping timeout: 240 seconds)
+2017-07-29 04:28:36	⇄	irc: desconectado del servidor
+2017-07-29 04:55:12	>	mr-jules (~mr-jules@2806:101e:1:93f0:b80d:e8ce:a4af:ed4e) has joined #archlinux-es
+2017-07-29 04:55:12	⇄	Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-07-29 04:55:12	⇄	Tema establecido por mefistofeles el sáb, 17 jun 2017 14:40:29
+2017-07-29 04:55:12	⇄	Channel #archlinux-es: 37 apodos (1 op, 0 voces, 36 normales)
+2017-07-29 04:55:12	⇄	PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-07-29 04:55:32	⇄	Canal creado el sáb, 25 nov 2006 23:42:39
+2017-07-29 05:27:31	>	Noxbru (~Noxbru@host86-156-11-64.range86-156.btcentralplus.com) has joined #archlinux-es
+2017-07-29 05:49:44	<	Noxbru (~Noxbru@host86-156-11-64.range86-156.btcentralplus.com) ha salido (Quit: Smoke bomb!!)
+2017-07-29 06:00:16	>	nuuuciano (~luuuciano@unaffiliated/luuuciano) has joined #archlinux-es
+2017-07-29 06:04:08	>	Mushindo (~Mushindo@84.236.246.21) has joined #archlinux-es
+2017-07-29 06:32:10	<	Mushindo (~Mushindo@84.236.246.21) ha salido (Remote host closed the connection)
+2017-07-29 06:54:03	pesca	buenas
+2017-07-29 08:09:59	>	mefistofeles (~mefistofe@unaffiliated/mefistofeles) has joined #archlinux-es
+2017-07-29 08:10:12	mefistofeles	o/
+2017-07-29 08:35:07	<	scan (~scan@unaffiliated/scan) ha salido (Quit: Bye)
+2017-07-29 08:37:15	>	scan (~scan@181.30.69.130) has joined #archlinux-es
+2017-07-29 08:37:15	<	scan (~scan@181.30.69.130) ha salido (Changing host)
+2017-07-29 08:37:15	>	scan (~scan@unaffiliated/scan) has joined #archlinux-es
+2017-07-29 08:42:19	<	setty1 (~weechat@139.47.24.151) ha salido (Quit: WeeChat 1.9)
+2017-07-29 08:53:22	>	Skatox (~Thunderbi@190-199-106-47.dyn.dsl.cantv.net) has joined #archlinux-es
+2017-07-29 09:09:58	<	coellobranco (~FoRcEr@103.37.117.91.dynamic.reverse-mundo-r.com) ha salido (Quit: Arch User...)
+2017-07-29 09:27:02	pesca	hola mefistofeles
+2017-07-29 09:31:55	>	cr0n0s (~quassel@2001:1388:18c3:4380:21c:c0ff:fe02:cbc9) has joined #archlinux-es
+2017-07-29 09:32:07	>	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) has joined #archlinux-es
+2017-07-29 09:37:36	techno_x64	una mefistofeles
+2017-07-29 10:14:45	>	nameless_CL (~snake@200-28-172-157.baf.movistar.cl) has joined #archlinux-es
+2017-07-29 10:19:06	>	Gaxpaxxo (~Gazpacho@191.red-83-42-43.dynamicip.rima-tde.net) has joined #archlinux-es
+2017-07-29 11:01:31	<	nameless_CL (~snake@200-28-172-157.baf.movistar.cl) ha salido (Ping timeout: 246 seconds)
+2017-07-29 11:30:11	>	nameless1CL (~snake@200-28-172-157.baf.movistar.cl) has joined #archlinux-es
+2017-07-29 11:32:20	<	Skatox (~Thunderbi@190-199-106-47.dyn.dsl.cantv.net) ha salido (Ping timeout: 260 seconds)
+2017-07-29 11:50:05	>	Skatox (~Thunderbi@190-199-106-47.dyn.dsl.cantv.net) has joined #archlinux-es
+2017-07-29 12:03:37	<	Buda (~Budadona@2a00:d880:5:702::5cad) ha salido (Read error: Connection reset by peer)
+2017-07-29 12:11:01	>	Buda (~Budadona@2a00:d880:5:702::5cad) has joined #archlinux-es
+2017-07-29 13:42:56	<	cr0n0s (~quassel@2001:1388:18c3:4380:21c:c0ff:fe02:cbc9) ha salido (Quit: http://quassel-irc.org - Chatee cómodamente donde sea.)
+2017-07-29 13:45:44	>	losingkeys (~losingkey@c-73-94-3-177.hsd1.mn.comcast.net) has joined #archlinux-es
+2017-07-29 13:50:58	>	cr0n0s (~quassel@2001:1388:18c3:4380:21c:c0ff:fe02:cbc9) has joined #archlinux-es
+2017-07-29 14:31:13	<	losingkeys (~losingkey@c-73-94-3-177.hsd1.mn.comcast.net) ha salido (Remote host closed the connection)
+2017-07-29 15:15:17	<	scan (~scan@unaffiliated/scan) ha salido (Ping timeout: 260 seconds)
+2017-07-29 15:17:41	>	scan (~scan@181.30.69.130) has joined #archlinux-es
+2017-07-29 15:17:41	<	scan (~scan@181.30.69.130) ha salido (Changing host)
+2017-07-29 15:17:41	>	scan (~scan@unaffiliated/scan) has joined #archlinux-es
+2017-07-29 15:24:44	<	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) ha salido (Ping timeout: 260 seconds)
+2017-07-29 15:25:15	>	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) has joined #archlinux-es
+2017-07-29 15:33:32	<	cr0n0s (~quassel@2001:1388:18c3:4380:21c:c0ff:fe02:cbc9) ha salido (Remote host closed the connection)
+2017-07-29 15:57:02	<	Frikilinux (~Friki@unaffiliated/frikilinux) ha salido (Ping timeout: 246 seconds)
+2017-07-29 15:57:37	>	Frikilinux (~Friki@unaffiliated/frikilinux) has joined #archlinux-es
+2017-07-29 16:01:37	<	m4v (~znc@ubuntu/member/m4v) ha salido (Ping timeout: 248 seconds)
+2017-07-29 16:01:45	>	m4v (~znc@ubuntu/member/m4v) has joined #archlinux-es
+2017-07-29 16:05:50	<	mefistofeles (~mefistofe@unaffiliated/mefistofeles) ha salido (Ping timeout: 240 seconds)
+2017-07-29 16:14:18	<	nameless1CL (~snake@200-28-172-157.baf.movistar.cl) ha salido (Ping timeout: 240 seconds)
+2017-07-29 17:03:40	<	Skatox (~Thunderbi@190-199-106-47.dyn.dsl.cantv.net) ha salido (Quit: Skatox)
+2017-07-29 17:05:27	<	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) ha salido (Ping timeout: 240 seconds)
+2017-07-29 17:13:32	>	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) has joined #archlinux-es
+2017-08-02 03:55:39	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #archlinux-es
+2017-08-02 03:55:39	⇄	Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-08-02 03:55:39	⇄	Tema establecido por mefistofeles el sáb, 17 jun 2017 14:40:29
+2017-08-02 03:55:39	⇄	Channel #archlinux-es: 34 apodos (1 op, 0 voces, 33 normales)
+2017-08-02 03:55:40	⇄	PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-08-02 03:55:40	⇄	Canal creado el sáb, 25 nov 2006 23:42:39
+2017-08-02 04:26:10	>	nuuuciano (~luuuciano@unaffiliated/luuuciano) has joined #archlinux-es
+2017-08-02 04:39:29	<	nuuuciano (~luuuciano@unaffiliated/luuuciano) ha salido (Ping timeout: 258 seconds)
+2017-08-02 05:07:10	<	luuuciano (~luuuciano@unaffiliated/luuuciano) ha salido (Ping timeout: 240 seconds)
+2017-08-02 05:24:06	>	luuuciano (~luuuciano@unaffiliated/luuuciano) has joined #archlinux-es
+2017-08-02 05:28:35	<	luuuciano (~luuuciano@unaffiliated/luuuciano) ha salido (Ping timeout: 240 seconds)
+2017-08-02 05:33:00	>	luuuciano (~luuuciano@unaffiliated/luuuciano) has joined #archlinux-es
+2017-08-02 05:58:13	>	Noxbru (~Noxbru@host109-147-134-246.range109-147.btcentralplus.com) has joined #archlinux-es
+2017-08-02 06:58:01	>	mefistofeles (~mefistofe@unaffiliated/mefistofeles) has joined #archlinux-es
+2017-08-02 07:53:34	<	Noxbru (~Noxbru@host109-147-134-246.range109-147.btcentralplus.com) ha salido (Quit: Smoke bomb!!)
+2017-08-02 08:11:28	mefistofeles	o/
+2017-08-02 08:14:30	>	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) has joined #archlinux-es
+2017-08-02 08:15:06	mefistofeles	techno_x64: ea
+2017-08-02 08:15:08	techno_x64	la mefistofeles
+2017-08-02 08:15:16	techno_x64	como va?
+2017-08-02 08:18:05	mefistofeles	techno_x64: bien, acá solucionando bugs xD
+2017-08-02 08:20:33	techno_x64	xD
+2017-08-02 08:20:39	techno_x64	yo tengo que ir a metodos numericos que pereza
+2017-08-02 08:21:06	techno_x64	tengo ganas de retirarme de la u mas bien :/
+2017-08-02 08:21:14	techno_x64	hay mucho trabajo y perder tiempo neee
+2017-08-02 08:23:06	mefistofeles	techno_x64: jaja métodos numéricos, qué verán ahí?
+2017-08-02 08:23:15	techno_x64	ni idea
+2017-08-02 08:23:18	techno_x64	es la primer clase
+2017-08-02 08:23:24	techno_x64	miercoles/viernes
+2017-08-02 08:23:26	mefistofeles	ah ok
+2017-08-02 08:23:30	techno_x64	seguro hoy dicen que vamos a ver
+2017-08-02 08:23:41	mefistofeles	normalmente esos cursos de métodos numéricos son bien desactualizados, ojalá no sea el caso
+2017-08-02 08:23:50	techno_x64	mefistofeles: sera el caso
+2017-08-02 08:23:52	techno_x64	xD
+2017-08-02 08:23:57	mefistofeles	pues sí, es lo más probable
+2017-08-02 08:24:21	techno_x64	se que hay unos profesores poquitos que dan el curso a los de sistemas con computador, osea para hacer los algoritmos en pc y aplicarlos a desarrollo
+2017-08-02 08:24:28	techno_x64	pero otors que es a papel y babosadas
+2017-08-02 08:32:59	mefistofeles	uff a papel? xD jajaja
+2017-08-02 08:33:05	mefistofeles	eso es bien inútil
+2017-08-02 08:51:53	mefistofeles	https://wiki.archlinux.org/index.php/Steam/Troubleshooting#Native_runtime
+2017-08-02 08:51:55	phrik	Title: Steam/Troubleshooting - ArchWiki (at wiki.archlinux.org)
+2017-08-02 08:51:56	mefistofeles	para los que usan steam
+2017-08-02 09:00:48	pesca	buenas
+2017-08-02 09:03:02	pesca	mefistofeles: ya encontré la solución
+2017-08-02 09:03:05	pesca	WSL \O/
+2017-08-02 09:39:09	<	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) ha salido (Quit: WeeChat 1.9)
+2017-08-02 09:49:39	<	luuuciano (~luuuciano@unaffiliated/luuuciano) ha salido (Quit: Leaving)
+2017-08-02 10:37:16	>	Noxbru (~Noxbru@host109-147-134-246.range109-147.btcentralplus.com) has joined #archlinux-es
+2017-08-02 10:38:19	>	m4v (~znc@ubuntu/member/m4v) has joined #archlinux-es
+2017-08-02 11:03:06	>	Gaxpaxxo (~Gazpacho@206.red-83-53-31.dynamicip.rima-tde.net) has joined #archlinux-es
+2017-08-02 11:28:51	>	setty1 (~weechat@139.47.28.3) has joined #archlinux-es
+2017-08-02 11:34:22	mefistofeles	pesca: WSL? eso qué es?
+2017-08-02 13:14:52	<	Noxbru (~Noxbru@host109-147-134-246.range109-147.btcentralplus.com) ha salido (Quit: Smoke bomb!!)
+2017-08-02 13:38:28	>	nuuuciano (~luuuciano@unaffiliated/luuuciano) has joined #archlinux-es
+2017-08-02 14:38:08	<	nuuuciano (~luuuciano@unaffiliated/luuuciano) ha salido (Ping timeout: 260 seconds)
+2017-08-02 14:49:14	>	Noxbru (~Noxbru@host109-147-134-246.range109-147.btcentralplus.com) has joined #archlinux-es
+2017-08-02 15:16:20	>	Skatox (~Thunderbi@190.153.115.227) has joined #archlinux-es
+2017-08-02 15:22:39	<	Noxbru (~Noxbru@host109-147-134-246.range109-147.btcentralplus.com) ha salido (Quit: Smoke bomb!!)
+2017-08-02 15:43:03	>	coet-i3 (~coet_i3@14.red-79-145-57.dynamicip.rima-tde.net) has joined #archlinux-es
+2017-08-02 15:46:22	⇄	Crashbit_ es conocido ahora como Crashbit
+2017-08-02 15:46:29	<	Crashbit (~Crashbit@213.148.199.23) ha salido (Changing host)
+2017-08-02 15:46:29	>	Crashbit (~Crashbit@unaffiliated/crashbit) has joined #archlinux-es
+2017-08-02 16:16:55	>	nuuuciano (~luuuciano@unaffiliated/luuuciano) has joined #archlinux-es
+2017-08-02 16:25:08	>	nameless2CL (~snake@201.236.25.127) has joined #archlinux-es
+2017-08-02 16:25:27	<	setty1 (~weechat@139.47.28.3) ha salido (Quit: WeeChat 1.9)
+2017-08-02 16:28:01	<	nameless_CL (~snake@200-28-165-222.baf.movistar.cl) ha salido (Ping timeout: 255 seconds)
+2017-08-02 16:36:06	>	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) has joined #archlinux-es
+2017-08-02 16:52:30	<	nuuuciano (~luuuciano@unaffiliated/luuuciano) ha salido (Ping timeout: 240 seconds)
+2017-08-02 16:55:52	>	https_GK1wmSU (~deep-book@119.81.230.146) has joined #archlinux-es
+2017-08-02 16:56:17	<	https_GK1wmSU (~deep-book@119.81.230.146) ha abandonado #archlinux-es
+2017-08-02 23:17:48	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #archlinux-es
+2017-08-02 23:17:48	⇄	Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-08-02 23:17:48	⇄	Tema establecido por mefistofeles el sáb, 17 jun 2017 14:40:29
+2017-08-02 23:17:48	⇄	Channel #archlinux-es: 35 apodos (1 op, 0 voces, 34 normales)
+2017-08-02 23:17:49	⇄	PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-08-02 23:17:49	⇄	Canal creado el sáb, 25 nov 2006 23:42:39
+2017-08-02 23:22:35	<	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) ha salido (Quit: WeeChat 1.9)
+2017-08-02 23:34:59	>	carmelo12341 (~carmelo12@190.236.204.35) has joined #archlinux-es
+2017-08-02 23:37:53	<	carmelo12341 (~carmelo12@190.236.204.35) ha salido (Client Quit)
+2017-08-03 01:50:15	<	Buda (~Budadona@2a00:d880:5:702::5cad) ha salido (Remote host closed the connection)
+2017-08-03 02:01:04	>	Buda (~Budadona@2a00:d880:5:702::5cad) has joined #archlinux-es
+2017-08-03 07:15:41	⇄	irc: desconectado del servidor
+2017-08-03 07:16:09	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #archlinux-es
+2017-08-03 07:16:09	⇄	Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-08-03 07:16:09	⇄	Tema establecido por mefistofeles el sáb, 17 jun 2017 14:40:29
+2017-08-03 07:16:09	⇄	Channel #archlinux-es: 36 apodos (1 op, 0 voces, 35 normales)
+2017-08-03 07:16:09	⇄	PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-08-03 07:16:19	pesca	ahí andamo
+2017-08-03 07:16:26	⇄	Canal creado el sáb, 25 nov 2006 23:42:39
+2017-08-03 07:16:29	pesca	trabajando
+2017-08-03 07:16:35	pesca	los jueves son horrendos
+2017-08-03 07:17:35	mefistofeles	pesca: jaja por qué?
+2017-08-03 07:25:03	pesca	porque es como un viernes
+2017-08-03 07:25:18	pesca	pero sin eso de que te entusiasmas porque el día siguiente es sábado y te podes rascar
+2017-08-03 07:25:37	pesca	o sea, horrible como un viernes, pero sin lo bueno del viernes
+2017-08-03 07:25:47	pesca	mefistofeles: vosh que tal?
+2017-08-03 07:29:18	mefistofeles	pesca: acá fixing bugs
+2017-08-03 07:34:13	likevinyl	!gm
+2017-08-03 07:34:13	phrik	Good morning to all from likevinyl!
+2017-08-03 07:34:24	likevinyl	^_^
+2017-08-03 07:34:57	likevinyl	pesca: whip it!
+2017-08-03 07:35:19	likevinyl	trabaje, trabaje, "el trabajo dignifica"
+2017-08-03 07:35:45	likevinyl	y un montón de palabrerío en contrib.
+2017-08-03 07:40:54	<	likevinyl (~likevinyl@unaffiliated/likevinyl) ha salido (Quit: WeeChat 1.9)
+2017-08-03 08:09:56	>	Skatox (~Thunderbi@190-199-33-42.dyn.dsl.cantv.net) has joined #archlinux-es
+2017-08-03 08:46:00	<	Skatox (~Thunderbi@190-199-33-42.dyn.dsl.cantv.net) ha salido (Remote host closed the connection)
+2017-08-03 08:46:17	<	sL1pKn07 (~sl1pkn07@unaffiliated/sl1pkn07) ha salido (Remote host closed the connection)
+2017-08-03 08:47:24	mefistofeles	bah, me pusieron trabajo aburrido... :S
+2017-08-03 08:57:19	pesca	likevinyl: "la cultura del trabajo se perdió en el camino"
+2017-08-03 08:57:21	pesca	y esas cosas?
+2017-08-03 09:00:29	mefistofeles	"no bootea, se dañó el pc!!"
+2017-08-03 09:00:39	mefistofeles	fue que lo actualizó y no reinstaló el driver privativo de video ¬¬
+2017-08-03 09:00:50	mefistofeles	por qué no dicen esas cosas antes de hacerme perder mi tiempo ah? ah?!
+2017-08-03 09:00:54	pesca	no no, la clásica es "no prende el monitor"
+2017-08-03 09:00:58	mefistofeles	jajaja
+2017-08-03 09:01:10	mefistofeles	pero este es un ing electrónico que trabaja con linux hace años!!!
+2017-08-03 09:01:10	pesca	está re quemado el motherboard, pero el que no da imagen es el monitor
+2017-08-03 09:02:09	pesca	Terminus: A terminal for a more modern age
+2017-08-03 09:02:54	pesca	soy muy anticuado si me parece hereje usar un emulador de terminal hecho en JAVASCRIPT?
+2017-08-03 09:02:57	pesca	en el escritorio
+2017-08-03 09:03:13	mefistofeles	pesca: se ve interesante
+2017-08-03 09:03:32	pesca	la uso en windows a falta de otra cosa
+2017-08-03 09:03:33	pesca	es eyecandy
+2017-08-03 09:03:34	pesca	muy
+2017-08-03 09:03:38	pesca	despues no tiene muchas opciones
+2017-08-03 09:03:57	pesca	pero es lennnta como una babosa para iniciar y pesa como 200mb el instalador
+2017-08-03 09:04:00	pesca	jaja
+2017-08-03 09:05:07	mefistofeles	uh, no gracias
+2017-08-03 09:05:07	mefistofeles	xd
+2017-08-03 09:05:15	mefistofeles	yakuake for me all the way
+2017-08-03 09:05:17	>	sL1pKn07 (~sl1pkn07@unaffiliated/sl1pkn07) has joined #archlinux-es
+2017-08-03 09:05:23	pesca	nunca usaste un programa hecho en electron?
+2017-08-03 09:05:43	>	Skatox (~Thunderbi@186-24-13-106.static.telcel.net.ve) has joined #archlinux-es
+2017-08-03 09:05:48	pesca	en la super pc con i7 y ssd no se nota, pero son lerrrdas para arrancar
+2017-08-03 09:05:52	pesca	y pesadas de empaquetar
+2017-08-03 09:07:34	mefistofeles	pesca: pues he usado el vscode
+2017-08-03 09:07:40	pesca	mefistofeles: por cierto, WSFL o como se llame
+2017-08-03 09:07:41	pesca	muy bueno
+2017-08-03 09:07:42	mefistofeles	sí es medio lento par arrancar
+2017-08-03 09:07:49	mefistofeles	pesca: qué es eso?
+2017-08-03 09:07:54	pesca	el ubuntu en windows 10
+2017-08-03 09:08:03	mefistofeles	aah
+2017-08-03 09:08:06	mefistofeles	a mi no me sirvió
+2017-08-03 09:08:06	mefistofeles	xD
+2017-08-03 09:08:14	pesca	vos porque te haces el kernel kaker
+2017-08-03 09:08:36	pesca	para mi que uso ssh, scp, un poco de vim, irssi, y alguna giteada
+2017-08-03 09:08:37	pesca	me va como piña
+2017-08-03 09:23:45	mefistofeles	pues sí
+2017-08-03 09:40:49	<	Skatox (~Thunderbi@186-24-13-106.static.telcel.net.ve) ha salido (Ping timeout: 248 seconds)
+2017-08-03 10:22:18	>	stevz (~stevz@179.5.103.110) has joined #archlinux-es
+2017-08-03 10:41:47	<	PunkiD (~anarchy@unaffiliated/punkid) ha salido (Ping timeout: 246 seconds)
+2017-08-03 10:45:15	>	setty1 (~weechat@139.47.10.202) has joined #archlinux-es
+2017-08-03 10:45:27	>	PunkiD (~anarchy@unaffiliated/punkid) has joined #archlinux-es
+2017-08-03 11:12:02	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #archlinux-es
+2017-08-03 11:12:02	⇄	Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-08-03 11:12:02	⇄	Tema establecido por mefistofeles el sáb, 17 jun 2017 14:40:29
+2017-08-03 11:12:02	⇄	Channel #archlinux-es: 37 apodos (1 op, 0 voces, 36 normales)
+2017-08-03 11:12:03	⇄	PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-08-03 11:12:03	⇄	Canal creado el sáb, 25 nov 2006 23:42:39
+2017-08-03 11:22:33	>	coellobranco (~FoRcEr@103.37.117.91.dynamic.reverse-mundo-r.com) has joined #archlinux-es
+2017-08-03 11:43:48	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #archlinux-es
+2017-08-03 11:43:48	⇄	Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-08-03 11:43:48	⇄	Tema establecido por mefistofeles el sáb, 17 jun 2017 14:40:29
+2017-08-03 11:43:48	⇄	Channel #archlinux-es: 38 apodos (1 op, 0 voces, 37 normales)
+2017-08-03 11:43:48	⇄	PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-08-03 11:43:48	⇄	Canal creado el sáb, 25 nov 2006 23:42:39
+2017-08-03 11:53:51	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #archlinux-es
+2017-08-03 11:53:51	⇄	Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-08-03 11:53:51	⇄	Tema establecido por mefistofeles el sáb, 17 jun 2017 14:40:29
+2017-08-03 11:53:51	⇄	Channel #archlinux-es: 38 apodos (1 op, 0 voces, 37 normales)
+2017-08-03 11:53:52	⇄	PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-08-03 11:53:53	⇄	Canal creado el sáb, 25 nov 2006 23:42:39
+2017-08-03 12:14:24	<	Buda (~Budadona@2a00:d880:5:702::5cad) ha salido (Remote host closed the connection)
+2017-08-03 12:21:08	>	Buda (~Budadona@2a00:d880:5:702::5cad) has joined #archlinux-es
+2017-08-03 12:25:48	<	stevz (~stevz@179.5.103.110) ha salido (Ping timeout: 258 seconds)
+2017-08-03 13:31:18	>	Gaxpaxxo (~Gazpacho@22.red-79-144-227.dynamicip.rima-tde.net) has joined #archlinux-es
+2017-08-03 13:46:10	>	nuuuciano (~luuuciano@unaffiliated/luuuciano) has joined #archlinux-es
+2017-08-03 13:53:54	<	nuuuciano (~luuuciano@unaffiliated/luuuciano) ha salido (Ping timeout: 260 seconds)
+2017-08-03 14:29:41	<	coellobranco (~FoRcEr@103.37.117.91.dynamic.reverse-mundo-r.com) ha salido (Quit: Arch User...)
+2017-08-03 14:49:19	>	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) has joined #archlinux-es
+2017-08-03 14:50:15	techno_x64	la mefistofeles
+2017-08-03 15:03:21	mefistofeles	techno_x64: cómo va?
+2017-08-03 15:04:16	techno_x64	mefistofeles: todo bien, ud que tal?
+2017-08-03 15:04:40	mefistofeles	techno_x64: acá resolviendo bugs
+2017-08-03 15:04:50	mefistofeles	me da rabia que me toque resolver bugs que yo no genero
+2017-08-03 15:05:16	techno_x64	ajajaja
+2017-08-03 15:05:30	techno_x64	huy si que pareza hacer debug de un code que no es de uno
+2017-08-03 15:20:42	⇄	dmc es conocido ahora como lactose
+2017-08-03 15:54:52	techno_x64	mefistofeles: ud como redondea numeros en python?
+2017-08-03 15:55:22	techno_x64	en la doc veo una clase decimal con unos metodos de round, pero pregunto que usa usted o es mejor xD
+2017-08-03 15:57:56	>	likevinyl (~likevinyl@unaffiliated/likevinyl) has joined #archlinux-es
+2017-08-03 16:02:46	<	setty1 (~weechat@139.47.10.202) ha salido (Quit: WeeChat 1.9)
+2017-08-03 16:11:10	techno_x64	listo ya xD
+2017-08-03 16:11:46	<	Gaxpaxxo (~Gazpacho@22.red-79-144-227.dynamicip.rima-tde.net) ha salido (Quit: Leaving)
+2017-08-03 16:35:42	>	nuuuciano (~luuuciano@unaffiliated/luuuciano) has joined #archlinux-es
+2017-08-03 16:46:26	mefistofeles	techno_x64: sí tengo que redondear uso round sí
+2017-08-03 16:46:41	techno_x64	mefistofeles: si eso hice
+2017-08-03 16:46:41	mefistofeles	aunque eso falla bastante si la precisión que se necesita es alta (comparable con el epsilon de la máquina)
+2017-08-03 16:47:27	techno_x64	mmm
+2017-08-03 16:47:41	techno_x64	entonces sera hacer el calculo con javascript mas bien y mandarle el entero a python
+2017-08-03 16:47:44	techno_x64	xD
+2017-08-03 16:48:36	mefistofeles	techno_x64: javascript debe tener el mismo problema
+2017-08-03 16:48:37	mefistofeles	xD
+2017-08-03 16:48:42	mefistofeles	si no, peor
+2017-08-03 16:48:46	techno_x64	ajajaja
+2017-08-03 16:48:50	techno_x64	sucks
+2017-08-03 16:48:56	mefistofeles	ome, eso es algo de cómo se representan los números en un computador
+2017-08-03 16:48:59	techno_x64	aunque no tengo float con decimales tan grandes
+2017-08-03 16:49:01	techno_x64	xD
+2017-08-03 16:49:06	mefistofeles	no vio eso en programación?
+2017-08-03 16:49:06	mefistofeles	xD
+2017-08-03 16:49:14	techno_x64	no
+2017-08-03 16:49:16	techno_x64	xD
+2017-08-03 16:49:34	mefistofeles	jaja ok, pero sí, eso es algo de eso, tocaría usar una librería de arbitary precision o big numbers para solucionar eso
+2017-08-03 16:49:36	techno_x64	mefistofeles: como se llama eso y busco en wikipedia y me instruyo
+2017-08-03 16:49:38	techno_x64	xD
+2017-08-03 16:49:50	mefistofeles	!give techno_x64 google rounding error computation float
+2017-08-03 16:49:53	phrik	techno_x64: What Every Computer Scientist Should Know About Floating-Point ... <https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html>
+2017-08-03 16:49:58	mefistofeles	tal cual
+2017-08-03 16:49:58	mefistofeles	xD
+2017-08-03 16:49:59	techno_x64	mas o menos a los cuantos decimales puede fallar?
+2017-08-03 16:50:11	mefistofeles	muchos, como 15 o más decimales
+2017-08-03 16:50:29	techno_x64	aahh no problem
+2017-08-03 16:51:13	techno_x64	pero que doc tan grande xD
+2017-08-03 17:07:51	mefistofeles	techno_x64: ome, tiene que saber eso, en serio
+2017-08-03 17:07:58	mefistofeles	es MUY común caer en esos errores sin darse cuenta
+2017-08-03 17:21:47	mefistofeles	https://www.youtube.com/watch?v=oIracWuKEys
+2017-08-03 17:21:48	phrik	Title: Xarop - La travesía del Joropo - YouTube (at www.youtube.com)
+2017-08-03 17:23:42	<	nuuuciano (~luuuciano@unaffiliated/luuuciano) ha salido (Ping timeout: 240 seconds)
+2017-08-03 17:49:59	<	mefistofeles (~mefistofe@unaffiliated/mefistofeles) ha salido (Quit: Hay the guachu!)
+2017-08-03 18:02:55	<	moonwatcher- (~pablo@unaffiliated/pabloj7) ha salido (Quit: WeeChat 1.9)
+2017-08-03 18:06:59	>	nuuuciano (~luuuciano@unaffiliated/luuuciano) has joined #archlinux-es
+2017-08-03 18:17:38	<	nuuuciano (~luuuciano@unaffiliated/luuuciano) ha salido (Remote host closed the connection)
+2017-08-03 18:19:49	>	nuuuciano (~luuuciano@unaffiliated/luuuciano) has joined #archlinux-es
+2017-08-03 18:41:52	<	nuuuciano (~luuuciano@unaffiliated/luuuciano) ha salido (Ping timeout: 260 seconds)
+2017-08-03 18:51:56	>	nuuuciano (~luuuciano@unaffiliated/luuuciano) has joined #archlinux-es
+2017-08-03 18:52:30	>	hashofet (~minino@200.82.150.39) has joined #archlinux-es
+2017-08-03 18:57:37	<	nuuuciano (~luuuciano@unaffiliated/luuuciano) ha salido (Ping timeout: 248 seconds)
+2017-08-03 19:02:18	>	Skatox (~Thunderbi@190-36-185-68.dyn.dsl.cantv.net) has joined #archlinux-es
+2017-08-03 19:53:22	<	hashofet (~minino@200.82.150.39) ha salido (Quit: Leaving.)
+2017-08-03 20:04:24	<	Skatox (~Thunderbi@190-36-185-68.dyn.dsl.cantv.net) ha salido (Quit: Skatox)
+2017-08-03 20:31:03	>	nuuuciano (~luuuciano@unaffiliated/luuuciano) has joined #archlinux-es
+2017-08-03 20:52:33	>	http_GK1wmSU (~deep-book@129.232.221.173) has joined #archlinux-es
+2017-08-03 20:53:08	<	http_GK1wmSU (~deep-book@129.232.221.173) ha abandonado #archlinux-es
+2017-08-03 21:10:56	>	mefistofeles (~mefistofe@unaffiliated/mefistofeles) has joined #archlinux-es
+2017-08-03 21:15:14	mefistofeles	hella good!
+2017-08-03 21:25:25	>	nameless_CL (~snake@200-28-165-224.baf.movistar.cl) has joined #archlinux-es
+2017-08-03 21:28:10	<	nameless2CL (~snake@201.236.25.127) ha salido (Ping timeout: 240 seconds)
+2017-08-03 21:52:04	mefistofeles	techno_x64: a dormir!!
+2017-08-03 22:03:28	<	mefistofeles (~mefistofe@unaffiliated/mefistofeles) ha salido (Ping timeout: 260 seconds)
+2017-08-03 23:03:08	<	nuuuciano (~luuuciano@unaffiliated/luuuciano) ha salido (Remote host closed the connection)
+2017-08-03 23:05:19	>	nuuuciano (~luuuciano@unaffiliated/luuuciano) has joined #archlinux-es
+2017-08-03 23:14:09	<	nuuuciano (~luuuciano@unaffiliated/luuuciano) ha salido (Ping timeout: 248 seconds)
+2017-08-03 23:16:31	<	Buda (~Budadona@2a00:d880:5:702::5cad) ha salido (Remote host closed the connection)
+2017-08-03 23:21:07	>	Buda (~Budadona@2a00:d880:5:702::5cad) has joined #archlinux-es
+2017-08-03 23:53:30	>	wmoreno (~wmoreno@186.77.206.80) has joined #archlinux-es
+2017-08-03 23:53:30	<	wmoreno (~wmoreno@186.77.206.80) ha salido (Changing host)
+2017-08-03 23:53:30	>	wmoreno (~wmoreno@fedora/williamjmorenor) has joined #archlinux-es
+2017-08-04 00:00:22	<	wmoreno (~wmoreno@fedora/williamjmorenor) ha salido (Ping timeout: 260 seconds)
+2017-08-04 00:37:34	<	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) ha salido (Quit: WeeChat 1.9)
+2017-08-04 01:49:50	<	likevinyl (~likevinyl@unaffiliated/likevinyl) ha salido (Ping timeout: 240 seconds)
+2017-08-04 02:57:25	<	nameless_CL (~snake@200-28-165-224.baf.movistar.cl) ha salido (Ping timeout: 276 seconds)
+2017-08-04 03:11:18	>	nameless1CL (~snake@200-28-165-224.baf.movistar.cl) has joined #archlinux-es
+2017-08-04 04:48:59	>	Mushindo (~Mushindo@84.236.246.21) has joined #archlinux-es
+2017-08-04 05:37:17	<	nameless1CL (~snake@200-28-165-224.baf.movistar.cl) ha salido (Ping timeout: 246 seconds)
+2017-08-04 06:46:58	pesca	buenas
+2017-08-04 06:52:10	>	setty1 (~weechat@139.47.28.110) has joined #archlinux-es
+2017-08-04 07:19:37	>	likevinyl (~likevinyl@unaffiliated/likevinyl) has joined #archlinux-es
+2017-08-04 07:37:11	>	coellobranco (~FoRcEr@103.37.117.91.dynamic.reverse-mundo-r.com) has joined #archlinux-es
+2017-08-04 07:48:37	>	Skatox (~Thunderbi@190-36-185-68.dyn.dsl.cantv.net) has joined #archlinux-es
+2017-08-04 07:52:58	>	Spliffer (~spliff@pc-155-28-215-201.cm.vtr.net) has joined #archlinux-es
+2017-08-04 07:55:40	>	nuuuciano (~luuuciano@unaffiliated/luuuciano) has joined #archlinux-es
+2017-08-04 07:55:40	<	coellobranco (~FoRcEr@103.37.117.91.dynamic.reverse-mundo-r.com) ha salido (Quit: Arch User...)
+2017-08-04 08:01:45	<	setty1 (~weechat@139.47.28.110) ha salido (Quit: WeeChat 1.9)
+2017-08-04 08:02:21	>	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) has joined #archlinux-es
+2017-08-04 08:04:48	<	nuuuciano (~luuuciano@unaffiliated/luuuciano) ha salido (Ping timeout: 255 seconds)
+2017-08-04 08:06:12	>	Noxbru (~Noxbru@79.red-79-152-68.dynamicip.rima-tde.net) has joined #archlinux-es
+2017-08-04 08:12:31	>	nuuuciano (~luuuciano@unaffiliated/luuuciano) has joined #archlinux-es
+2017-08-04 08:17:05	mr-jules	buenas 
+2017-08-04 08:20:47	<	Buda (~Budadona@2a00:d880:5:702::5cad) ha salido (Read error: Connection reset by peer)
+2017-08-04 08:28:10	>	mefistofeles (~mefistofe@unaffiliated/mefistofeles) has joined #archlinux-es
+2017-08-04 08:31:07	>	Buda (~Budadona@2a00:d880:5:702::5cad) has joined #archlinux-es
+2017-08-04 08:44:57	<	mefistofeles (~mefistofe@unaffiliated/mefistofeles) ha salido (Ping timeout: 240 seconds)
+2017-08-04 09:14:41	<	Spliffer (~spliff@pc-155-28-215-201.cm.vtr.net) ha salido (Ping timeout: 240 seconds)
+2017-08-04 09:21:49	>	Spliffer (~spliff@pc-155-28-215-201.cm.vtr.net) has joined #archlinux-es
+2017-08-04 09:25:54	>	mefistofeles (~mefistofe@unaffiliated/mefistofeles) has joined #archlinux-es
+2017-08-04 09:47:01	<	Mushindo (~Mushindo@84.236.246.21) ha salido (Quit: Lost terminal)
+2017-08-04 09:51:29	<	ZenWalker (~r00t@unaffiliated/zenwalker) ha salido (Quit: reboot)
+2017-08-04 09:55:25	techno_x64	la mefistofeles
+2017-08-04 09:55:38	techno_x64	hagamos el commit y para la u :S
+2017-08-04 09:55:41	mefistofeles	techno_x64: cómo va?
+2017-08-04 09:55:43	mefistofeles	techno_x64: lol
+2017-08-04 09:55:47	mefistofeles	clase de algoritmos? xd
+2017-08-04 09:55:49	mefistofeles	xD
+2017-08-04 09:55:51	mefistofeles	digo, métodos numéricos
+2017-08-04 09:55:54	techno_x64	clase de metodos numeros
+2017-08-04 09:55:56	mefistofeles	eso
+2017-08-04 09:55:57	mefistofeles	jajaja
+2017-08-04 09:55:57	techno_x64	numericos*
+2017-08-04 09:56:01	techno_x64	see
+2017-08-04 09:56:28	techno_x64	mefistofeles: aunque el man nos va a pone run trabajo del 20% que lo podemos hacer o a mano calculando o dijo que los que saben programar que lo pueden hacer en el lenguaje que manejen
+2017-08-04 09:56:31	techno_x64	por lo menos
+2017-08-04 09:56:33	techno_x64	xD
+2017-08-04 09:57:18	mefistofeles	techno_x64: trabajo de qué?
+2017-08-04 09:57:21	mefistofeles	o todavía no se sabe
+2017-08-04 09:57:33	>	setty1 (~weechat@139.47.24.70) has joined #archlinux-es
+2017-08-04 09:58:00	mefistofeles	techno_x64: y ya saeb qué van a ver?
+2017-08-04 09:59:14	techno_x64	el trabajo aun no se sabe, pues como apenas estaba cuadrando la fecha de los parciales y eso
+2017-08-04 09:59:41	techno_x64	y el resto de clase dio un repaso y dijo que solo trabajamos funciones y que sean continuas, que el resto no nos interesa
+2017-08-04 09:59:45	pesca	repasar algebra lineal
+2017-08-04 09:59:46	techno_x64	vamos a ver hoy con que empieza
+2017-08-04 09:59:48	techno_x64	xD
+2017-08-04 09:59:56	pesca	ola, oy vamos a ver matrices
+2017-08-04 10:00:00	techno_x64	ajajja
+2017-08-04 10:00:01	pesca	que no tiene nada que ver con neo
+2017-08-04 10:00:15	mefistofeles	jajaja
+2017-08-04 10:00:23	techno_x64	que pereza la universidad, no creo que dure medio semestre con tanto trabajo ya
+2017-08-04 10:00:26	techno_x64	xD
+2017-08-04 10:00:27	mefistofeles	el problema es que techno_x64 nunca aprendió el álgebra lineal
+2017-08-04 10:00:27	mefistofeles	xD
+2017-08-04 10:00:31	techno_x64	si me aprueban lo de tronex pailas
+2017-08-04 10:00:32	techno_x64	xD
+2017-08-04 10:00:39	techno_x64	me retiro xD
+2017-08-04 10:01:00	techno_x64	algebra lineal eso que es?
+2017-08-04 10:01:04	mefistofeles	techno_x64: ome, termine, hacer páginas web para clientes locale no es algo que usted va a disfrutar toda su vida, se lo aseguro
+2017-08-04 10:01:21	techno_x64	y que me garantiza terminar?
+2017-08-04 10:01:25	pesca	esa materia donde ven las tres peliculas de matriz y aprenden a usar flechitas
+2017-08-04 10:01:31	techno_x64	ir a una empresa a trabajar en windows y java o C#?
+2017-08-04 10:01:32	techno_x64	xD
+2017-08-04 10:01:46	mefistofeles	eso
+2017-08-04 10:02:02	techno_x64	o peor aun, en un cargo que nada que ver con sistemas
+2017-08-04 10:02:04	techno_x64	blehh
+2017-08-04 10:02:11	pesca	bo, si querés ser buen programador es la más importante
+2017-08-04 10:02:19	mefistofeles	techno_x64: en medellín hay buenos trabajos de desarrollo y no son ni windows ni java ni C#
+2017-08-04 10:02:33	mefistofeles	globant tiene oficinas allá, o si no acá en bogotá tiene 2 oficinas también
+2017-08-04 10:02:33	techno_x64	mefistofeles: peor yo no estoy buscando trabajo xD
+2017-08-04 10:02:37	mefistofeles	esos tienen trabajos interesantes
+2017-08-04 10:02:41	techno_x64	globant es una mierda :S
+2017-08-04 10:02:54	mefistofeles	techno_x64: obvio, pero cuando le toque, porque se aburrió de hacer páginas web con django, verá necesario el título
+2017-08-04 10:02:56	techno_x64	ya varios amigos prefieron irse de alla, los explotan mucho
+2017-08-04 10:03:05	pesca	cual es tu sueño techno_x64?
+2017-08-04 10:03:07	pesca	tenes alguno?
+2017-08-04 10:03:13	mefistofeles	minar bitcoins
+2017-08-04 10:03:18	techno_x64	pesca: no ahora no tengo sueño, tome tinto
+2017-08-04 10:03:20	techno_x64	xD
+2017-08-04 10:03:23	pesca	jaja
+2017-08-04 10:03:25	pesca	en serio pregunto
+2017-08-04 10:03:27	techno_x64	mefistofeles: ++
+2017-08-04 10:03:31	mefistofeles	tinto = café negro en Colombia
+2017-08-04 10:03:38	pesca	ah
+2017-08-04 10:03:39	pesca	pense que vino
+2017-08-04 10:03:41	mefistofeles	xD
+2017-08-04 10:03:44	mefistofeles	por eso aclaro
+2017-08-04 10:03:45	techno_x64	lol
+2017-08-04 10:03:49	pesca	buena aclaración
+2017-08-04 10:03:53	pesca	buen domaje del argentinismo
+2017-08-04 10:04:01	pesca	tome su titulo universitario
+2017-08-04 10:04:09	mefistofeles	gracias licenciado!
+2017-08-04 10:04:14	pesca	licenciado en casi todo
+2017-08-04 10:04:17	pesca	ese es mi titulo
+2017-08-04 10:04:19	mefistofeles	jajaja
+2017-08-04 10:04:24	mefistofeles	el mío es casi lienciado en todo
+2017-08-04 10:04:32	pesca	jaja
+2017-08-04 10:04:41	techno_x64	mefistofeles: el tuyo es casi, porque no pudo con la u xD
+2017-08-04 10:04:45	|	techno_x64 runs
+2017-08-04 10:04:52	mefistofeles	techno_x64: seguro
+2017-08-04 10:04:53	mefistofeles	xD
+2017-08-04 10:04:54	pesca	techno_x64: aspiras a algo? algún objetivo?
+2017-08-04 10:08:21	techno_x64	pesca: obvio
+2017-08-04 10:08:23	>	ZenWalker (~r00t@unaffiliated/zenwalker) has joined #archlinux-es
+2017-08-04 10:08:36	mefistofeles	techno_x64: pero en serio termine la universidad, ni que fuera difícil xD
+2017-08-04 10:08:44	<	Noxbru (~Noxbru@79.red-79-152-68.dynamicip.rima-tde.net) ha salido (Quit: Smoke bomb!!)
+2017-08-04 10:08:48	mefistofeles	techno_x64: yo terminé la universidad hace años, solo lo estaba jodiendo, :P
+2017-08-04 10:09:21	techno_x64	pesca: yo tengo una sociedad con 3 amigos mas, ellos si son de maestria y todo eso, hay 3 proyectos en curso por el lado de lo que ellos saben de electronica y seguridad fisica y yo hago software y pues ya he cobrado dos y ando haciendo otros dos ahora
+2017-08-04 10:09:37	techno_x64	y ellos tienen los contactos
+2017-08-04 10:09:40	techno_x64	la gente
+2017-08-04 10:09:43	techno_x64	todo
+2017-08-04 10:09:51	mefistofeles	techno_x64: ok, pero fuera de broma, eso no lo aburrirá? Eso me parece bastante monótono
+2017-08-04 10:09:52	techno_x64	la experiencia, trabajaron en multinacionales mas de 10 años
+2017-08-04 10:10:38	techno_x64	mefistofeles: pues a mi me gusta desarrollar, web, movil y demas, claro algun dia me voy aburrir, pero el ideal es que si seguimos bien y entra mas dinero, poder contratar gente e irme meitneod a otra area de la informatica que quiera probar o aprender
+2017-08-04 10:11:21	pesca	claro, pero es un objetivo a corto/mediano plazo
+2017-08-04 10:11:22	<	Skatox (~Thunderbi@190-36-185-68.dyn.dsl.cantv.net) ha salido (Ping timeout: 255 seconds)
+2017-08-04 10:11:27	pesca	despues tenes planeado meterte a otra área
+2017-08-04 10:11:31	techno_x64	igual como le digo, es mejor trabajar para uno, que terminar en esas empresas donde lo epxlotan a uno a morir, donde esta uno estancado, un pago de mierda y tecnologias que ellos quieren y uno no
+2017-08-04 10:11:36	pesca	no hay algo a largo plazo definido?
+2017-08-04 10:12:16	mefistofeles	techno_x64: no siempre es así, pero bueno, igual el título es importante
+2017-08-04 10:12:26	mefistofeles	techno_x64: cuando todo fracase el título le puede dar de comer
+2017-08-04 10:12:36	mefistofeles	y la posibilidad de que las cosas fracasen siempre existe
+2017-08-04 10:13:12	mefistofeles	por eso fue que yo terminé, no porque crea que aprendía mucho en la universidad o cosas así, simplemente como backup por si lo que hago y disfruto fracasa y tengo que seguir comiendo
+2017-08-04 10:13:12	pesca	onda, yo quiero ser un tipo ing en electrónica piola, y algún día diseñar algo que deje la marca
+2017-08-04 10:13:16	mefistofeles	:P
+2017-08-04 10:13:17	pesca	y a la vez enseñar
+2017-08-04 10:13:24	mefistofeles	pesca: nver gonna happen
+2017-08-04 10:13:26	mefistofeles	xD
+2017-08-04 10:13:28	pesca	jaja
+2017-08-04 10:13:41	pesca	eh, siempre se puede ser un profesor mediocre
+2017-08-04 10:13:48	pesca	pero con onda
+2017-08-04 10:13:53	mefistofeles	bindo por eso
+2017-08-04 10:14:06	mefistofeles	yo ahora quiero meterme en esto de data science de manera seria, vamos a ver qué sucede
+2017-08-04 10:16:01	<	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) ha salido (Ping timeout: 248 seconds)
+2017-08-04 11:45:58	<	sL1pKn07 (~sl1pkn07@unaffiliated/sl1pkn07) ha salido (Quit: Client Excited...)
+2017-08-04 11:49:54	>	sL1pKn07 (~sl1pkn07@unaffiliated/sl1pkn07) has joined #archlinux-es
+2017-08-04 12:05:25	>	nameless_CL (~snake@200-28-165-224.baf.movistar.cl) has joined #archlinux-es
+2017-08-04 12:08:44	>	Skatox (~Thunderbi@190-36-185-68.dyn.dsl.cantv.net) has joined #archlinux-es
+2017-08-04 12:09:08	mefistofeles	https://abikogailmonxlzl.onion.casa/ interesante
+2017-08-04 12:09:10	phrik	Title: abiko - #1 Tor search engine (at abikogailmonxlzl.onion.casa)
+2017-08-04 12:28:46	<	nameless_CL (~snake@200-28-165-224.baf.movistar.cl) ha salido (Ping timeout: 276 seconds)
+2017-08-04 12:30:52	>	nameless1CL (~snake@200-28-165-224.baf.movistar.cl) has joined #archlinux-es
+2017-08-04 12:40:35	<	Skatox (~Thunderbi@190-36-185-68.dyn.dsl.cantv.net) ha salido (Remote host closed the connection)
+2017-08-04 13:53:11	<	nuuuciano (~luuuciano@unaffiliated/luuuciano) ha salido (Ping timeout: 240 seconds)
+2017-08-04 14:14:16	>	Gaxpaxxo (~Gazpacho@254.red-88-5-40.dynamicip.rima-tde.net) has joined #archlinux-es
+2017-08-04 15:03:53	>	s1luj (~s1luj@unaffiliated/s1luj) has joined #archlinux-es
+2017-08-04 15:19:45	>	carmelo12341 (~carmelo12@190.236.204.35) has joined #archlinux-es
+2017-08-04 15:20:06	<	carmelo12341 (~carmelo12@190.236.204.35) ha salido (Client Quit)
+2017-08-04 16:09:00	<	s1luj (~s1luj@unaffiliated/s1luj) ha salido (Quit: AtomicIRC: The nuclear option.)
+2017-08-04 16:21:50	>	Gnhugo (~yaaic@201.157.93.221) has joined #archlinux-es
+2017-08-04 16:26:31	>	Israphel (~quassel@181.28.197.175) has joined #archlinux-es
+2017-08-04 16:27:58	<	Gnhugo (~yaaic@201.157.93.221) ha salido (Quit: Yaaic - Yet another Android IRC client - http://www.yaaic.org)
+2017-08-04 17:24:03	Israphel	volvi perras
+2017-08-04 17:24:46	mefistofeles	no!
+2017-08-04 17:25:35	likevinyl	¡cállese!
+2017-08-04 17:25:44	likevinyl	^_^
+2017-08-04 17:25:49	likevinyl	!ga
+2017-08-04 17:25:50	phrik	Good afternoon to all from likevinyl!
+2017-08-04 17:26:16	mefistofeles	!fu
+2017-08-04 17:26:17	phrik	FFFFFFFUUUUUUUUUUUU--------
+2017-08-04 17:27:33	likevinyl	!wine
+2017-08-04 17:27:34	phrik	Do you want some cheese with that w(h)ine?
+2017-08-04 17:28:57	Israphel	si
+2017-08-04 17:36:28	Israphel	el sentimiento de un pacman -Syu dos semanas despues
+2017-08-04 17:36:41	Israphel	solo 300 megas, puta que ofertón
+2017-08-04 17:42:04	<	mefistofeles (~mefistofe@unaffiliated/mefistofeles) ha salido (Ping timeout: 276 seconds)
+2017-08-04 18:01:15	>	mefistofeles (~mefistofe@unaffiliated/mefistofeles) has joined #archlinux-es
+2017-08-04 18:03:29	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #archlinux-es
+2017-08-04 18:03:29	⇄	Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-08-04 18:03:29	⇄	Tema establecido por mefistofeles el sáb, 17 jun 2017 14:40:29
+2017-08-04 18:03:29	⇄	Channel #archlinux-es: 39 apodos (1 op, 0 voces, 38 normales)
+2017-08-04 18:03:30	⇄	PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-08-04 18:03:30	⇄	Canal creado el sáb, 25 nov 2006 23:42:39
+2017-08-04 18:07:45	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #archlinux-es
+2017-08-04 18:07:45	⇄	Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-08-04 18:07:45	⇄	Tema establecido por mefistofeles el sáb, 17 jun 2017 14:40:29
+2017-08-04 18:07:45	⇄	Channel #archlinux-es: 39 apodos (1 op, 0 voces, 38 normales)
+2017-08-04 18:07:45	⇄	PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-08-04 18:07:45	⇄	Canal creado el sáb, 25 nov 2006 23:42:39
+2017-08-04 18:15:49	⇄	lactose es conocido ahora como polyzen
+2017-08-04 18:22:53	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #archlinux-es
+2017-08-04 18:22:53	⇄	Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-08-04 18:22:53	⇄	Tema establecido por mefistofeles el sáb, 17 jun 2017 14:40:29
+2017-08-04 18:22:53	⇄	Channel #archlinux-es: 39 apodos (1 op, 0 voces, 38 normales)
+2017-08-04 18:22:53	⇄	PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-08-04 18:22:54	⇄	Canal creado el sáb, 25 nov 2006 23:42:39
+2017-08-04 18:27:05	>	mr-jules (~mr-jules@2806:101e:1:3b12:7b42:26a5:6da2:e283) has joined #archlinux-es
+2017-08-04 18:27:05	⇄	Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-08-04 18:27:05	⇄	Tema establecido por mefistofeles el sáb, 17 jun 2017 14:40:29
+2017-08-04 18:27:05	⇄	Channel #archlinux-es: 39 apodos (1 op, 0 voces, 38 normales)
+2017-08-04 18:27:06	⇄	PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-08-04 18:27:06	⇄	Canal creado el sáb, 25 nov 2006 23:42:39
+2017-08-05 21:21:19	-	mr-jules (~mr-jules@2806:101e:1:3b12:a41f:468a:98e6:531) has joined #archlinux-es
+2017-08-05 21:21:19		Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-08-05 21:21:19		Tema establecido por mefistofeles el sáb, 17 jun 2017 13:40:29
+2017-08-05 21:21:19		Channel #archlinux-es: 40 apodos (1 op, 0 voces, 39 normales)
+2017-08-05 21:21:19		PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-08-05 21:21:20		Canal creado el sáb, 25 nov 2006 23:42:39
+2017-08-05 21:25:22	-	mr-jules (~mr-jules@2806:101e:1:3b12:a41f:468a:98e6:531) has joined #archlinux-es
+2017-08-05 21:25:22		Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-08-05 21:25:22		Tema establecido por mefistofeles el sáb, 17 jun 2017 13:40:29
+2017-08-05 21:25:22		Channel #archlinux-es: 40 apodos (1 op, 0 voces, 39 normales)
+2017-08-05 21:25:22		PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-08-05 21:25:22		Canal creado el sáb, 25 nov 2006 23:42:39
+2017-08-05 21:26:01	>	mr-jules (~mr-jules@2806:101e:1:3b12:a41f:468a:98e6:531) has joined #archlinux-es
+2017-08-05 21:26:01	⇄	Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-08-05 21:26:01	⇄	Tema establecido por mefistofeles el sáb, 17 jun 2017 13:40:29
+2017-08-05 21:26:01	⇄	Channel #archlinux-es: 40 apodos (1 op, 0 voces, 39 normales)
+2017-08-05 21:26:01	⇄	Canal creado el sáb, 25 nov 2006 23:42:39
+2017-08-05 21:26:01	⇄	PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-08-05 21:29:26	 > 	mr-jules (~mr-jules@2806:101e:1:3b12:a41f:468a:98e6:531) has joined #archlinux-es
+2017-08-05 21:29:26	 - 	Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-08-05 21:29:26	 - 	Tema establecido por mefistofeles el sáb, 17 jun 2017 13:40:29
+2017-08-05 21:29:26	 - 	Channel #archlinux-es: 40 apodos (1 op, 0 voces, 39 normales)
+2017-08-05 21:29:26	 - 	PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-08-05 21:29:27	 - 	Canal creado el sáb, 25 nov 2006 23:42:39
+2017-08-05 21:30:56	◥	mr-jules (~mr-jules@2806:101e:1:3b12:a41f:468a:98e6:531) has joined #archlinux-es
+2017-08-05 21:30:56	--	Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-08-05 21:30:56	--	Tema establecido por mefistofeles el sáb, 17 jun 2017 13:40:29
+2017-08-05 21:30:56	--	Channel #archlinux-es: 40 apodos (1 op, 0 voces, 39 normales)
+2017-08-05 21:30:56	--	PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-08-05 21:30:56	--	Canal creado el sáb, 25 nov 2006 23:42:39
+2017-08-05 21:38:35	nameless2CL	https://www.youtube.com/watch?v=vVhmpDiisTA
+2017-08-05 21:38:37	phrik	Title: Los Muertos de Cristo - Pan y Circo - YouTube (at www.youtube.com)
+2017-08-05 21:44:06	◥	mr-jules (~mr-jules@2806:101e:1:3b12:a41f:468a:98e6:531) has joined #archlinux-es
+2017-08-05 21:44:06	--	Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-08-05 21:44:06	--	Tema establecido por mefistofeles el sáb, 17 jun 2017 13:40:29
+2017-08-05 21:44:06	--	Channel #archlinux-es: 40 apodos (1 op, 0 voces, 39 normales)
+2017-08-05 21:44:07	--	PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-08-05 21:44:07	--	Canal creado el sáb, 25 nov 2006 23:42:39
+2017-08-05 21:52:52	◣	likevinyl (~likevinyl@unaffiliated/likevinyl) ha salido (Quit: WeeChat 1.9)
+2017-08-05 22:14:11	◣	parsilofon (~parsilofo@152.169.176.156) ha salido (Read error: Connection reset by peer)
+2017-08-05 22:30:39	◥	likevinyl (~likevinyl@unaffiliated/likevinyl) has joined #archlinux-es
+2017-08-05 22:44:53	◥	parsilofon (~parsilofo@152.169.176.156) has joined #archlinux-es
+2017-08-05 23:19:46	◣	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) ha salido (Quit: WeeChat 1.9)
+2017-08-05 23:32:56	parsilofon	qué entorno de escritorio usan?
+2017-08-05 23:38:10	mr-jules	herbstluftwm
+2017-08-05 23:41:42	◥	Gnhugo (~yaaic@187.169.253.5) has joined #archlinux-es
+2017-08-05 23:42:18	parsilofon	se ve bastante áspero
+2017-08-05 23:42:39	parsilofon	no usás mouse mr-jules?
+2017-08-05 23:45:52	mr-jules	si un poco, cuando navego mas que nada
+2017-08-05 23:52:17	◣	Gnhugo (~yaaic@187.169.253.5) ha salido (Read error: Connection reset by peer)
+2017-08-05 23:53:56	mr-jules	pero es bastante comodo y funcional
+2017-08-06 00:00:01	mr-jules	alguien conoce un buen canal de offtopic
+2017-08-06 00:00:02	◣	Frikilinux (~Friki@unaffiliated/frikilinux) ha salido (Remote host closed the connection)
+2017-08-06 00:00:33	◥	Frikilinux (~Friki@unaffiliated/frikilinux) has joined #archlinux-es
+2017-08-06 01:51:38	◣	parsilofon (~parsilofo@152.169.176.156) ha salido (Remote host closed the connection)
+2017-08-06 02:36:20	◥	Noxbru (~Noxbru@79.red-79-152-68.dynamicip.rima-tde.net) has joined #archlinux-es
+2017-08-06 02:54:27	◥	coellobranco (~FoRcEr@103.37.117.91.dynamic.reverse-mundo-r.com) has joined #archlinux-es
+2017-08-06 03:30:42	◥	setty1 (~weechat@139.47.24.70) has joined #archlinux-es
+2017-08-06 03:39:44	◣	setty1 (~weechat@139.47.24.70) ha salido (Quit: WeeChat 1.9)
+2017-08-06 03:47:24	◥	moonwatcher- (~pablo@unaffiliated/pabloj7) has joined #archlinux-es
+2017-08-06 04:56:25	◣	brackets (~brackets@unaffiliated/brackets) ha salido (Quit: System update)
+2017-08-06 05:03:40	◥	brackets (~brackets@unaffiliated/brackets) has joined #archlinux-es
+2017-08-06 05:15:05	◣	Noxbru (~Noxbru@79.red-79-152-68.dynamicip.rima-tde.net) ha salido (Quit: Smoke bomb!!)
+2017-08-06 05:46:03	◥	http_GK1wmSU (~deep-book@119.81.19.251) has joined #archlinux-es
+2017-08-06 05:46:11	◣	brackets (~brackets@unaffiliated/brackets) ha salido (Quit: Something broke, needs fixing)
+2017-08-06 05:47:03	◣	http_GK1wmSU (~deep-book@119.81.19.251) ha abandonado #archlinux-es
+2017-08-06 05:56:10	◥	brackets (~brackets@unaffiliated/brackets) has joined #archlinux-es
+2017-08-06 06:25:51	◥	nameless4CL (~snake@201.236.27.149) has joined #archlinux-es
+2017-08-06 06:28:48	◣	nameless_CL (~snake@201.236.24.225) ha salido (Ping timeout: 255 seconds)
+2017-08-06 06:28:50	◣	nameless2CL (~snake@201.236.24.225) ha salido (Ping timeout: 240 seconds)
+2017-08-06 06:30:39	◥	nameless_CL (~snake@201.236.27.149) has joined #archlinux-es
+2017-08-06 06:50:40	◥	mefistofeles (~mefistofe@unaffiliated/mefistofeles) has joined #archlinux-es
+2017-08-06 07:37:40	◣	Crashbit (~Crashbit@unaffiliated/crashbit) ha salido (Ping timeout: 268 seconds)
+2017-08-06 08:14:40	◥	Crashbit (~Crashbit@213.148.199.23) has joined #archlinux-es
+2017-08-06 08:14:41	◣	Crashbit (~Crashbit@213.148.199.23) ha salido (Changing host)
+2017-08-06 08:14:41	◥	Crashbit (~Crashbit@unaffiliated/crashbit) has joined #archlinux-es
+2017-08-06 08:49:07	◥	parsilofon (~parsilofo@152.169.176.156) has joined #archlinux-es
+2017-08-06 09:04:25	◥	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) has joined #archlinux-es
+2017-08-06 09:05:27	techno_x64	o/
+2017-08-06 09:08:17	mefistofeles	la techno_x64
+2017-08-06 09:08:20	mefistofeles	https://pbs.twimg.com/media/DGiNSnAWAAAKDVP.jpg
+2017-08-06 09:08:29	techno_x64	una mefistofeles
+2017-08-06 09:08:31	techno_x64	como va?
+2017-08-06 09:08:46	mefistofeles	techno_x64: bien, acá ya de salida, me voy al centro a llevar a conocer a unos amigos
+2017-08-06 09:10:03	techno_x64	mmm, amigos de otro pais o de otra ciudad?
+2017-08-06 09:14:32	◣	mefistofeles (~mefistofe@unaffiliated/mefistofeles) ha salido (Ping timeout: 260 seconds)
+2017-08-06 09:21:39	◣	nuuuciano (~luuuciano@unaffiliated/luuuciano) ha salido (Ping timeout: 240 seconds)
+2017-08-06 09:34:46	◥	nuuuciano (~luuuciano@unaffiliated/luuuciano) has joined #archlinux-es
+2017-08-06 09:59:47	◥	setty1 (~weechat@139.47.24.70) has joined #archlinux-es
+2017-08-06 10:05:40	◣	parsilofon (~parsilofo@152.169.176.156) ha salido (Ping timeout: 268 seconds)
+2017-08-06 10:11:04	◥	parsilofon (~parsilofo@152.169.176.156) has joined #archlinux-es
+2017-08-06 10:59:06	◣	setty1 (~weechat@139.47.24.70) ha salido (Quit: WeeChat 1.9)
+2017-08-06 11:11:47	◣	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) ha salido (Ping timeout: 260 seconds)
+2017-08-06 11:19:51	◣	parsilofon (~parsilofo@152.169.176.156) ha salido (Remote host closed the connection)
+2017-08-06 11:29:32	◥	parsilofon (~parsilofo@152.169.176.156) has joined #archlinux-es
+2017-08-06 12:04:02	◥	nemecy (arseny@gateway/shell/panicbnc/x-texrbpghbkkgyumm) has joined #archlinux-es
+2017-08-06 12:07:55	◣	Disconecting (~Disconect@bz2.blackznc.net) ha salido (*.net *.split)
+2017-08-06 12:07:56	◣	nemesys (arseny@gateway/shell/panicbnc/x-yzsvmljczovifpcs) ha salido (*.net *.split)
+2017-08-06 12:16:48	◣	Guest20149 (ijpulidosm@gateway/shell/matrix.org/x-khcwavpkitgjwuoe) ha salido (Ping timeout: 240 seconds)
+2017-08-06 12:39:27	◣	parsilofon (~parsilofo@152.169.176.156) ha salido (Ping timeout: 240 seconds)
+2017-08-06 12:49:46	◥	parsilofon (~parsilofo@152.169.176.156) has joined #archlinux-es
+2017-08-06 12:52:35	◥	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) has joined #archlinux-es
+2017-08-06 12:53:17	◣	parsilofon (~parsilofo@152.169.176.156) ha salido (Read error: Connection reset by peer)
+2017-08-06 13:17:13	◥	mr-jules (~mr-jules@2806:101e:1:3b12:a41f:468a:98e6:531) has joined #archlinux-es
+2017-08-06 13:17:13	--	Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-08-06 13:17:13	--	Tema establecido por mefistofeles el sáb, 17 jun 2017 13:40:29
+2017-08-06 13:17:13	--	Channel #archlinux-es: 39 apodos (1 op, 0 voces, 38 normales)
+2017-08-06 13:17:13	--	PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-08-06 13:17:13	--	Canal creado el sáb, 25 nov 2006 23:42:39
+2017-08-06 13:30:57	◣	coellobranco (~FoRcEr@103.37.117.91.dynamic.reverse-mundo-r.com) ha salido (Quit: Arch User...)
+2017-08-06 14:15:23	--	irc: desconectado del servidor
+2017-08-06 14:15:47	◥	mr-jules (~mr-jules@2806:101e:1:3b12:a41f:468a:98e6:531) has joined #archlinux-es
+2017-08-06 14:15:47	--	Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-08-06 14:15:47	--	Tema establecido por mefistofeles el sáb, 17 jun 2017 13:40:29
+2017-08-06 14:15:47	--	Channel #archlinux-es: 39 apodos (1 op, 0 voces, 38 normales)
+2017-08-06 14:15:47	--	PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-08-06 14:16:04	--	Canal creado el sáb, 25 nov 2006 23:42:39
+2017-08-06 14:18:53	◥	setty1 (~weechat@139.47.24.70) has joined #archlinux-es
+2017-08-06 14:52:05	◣	moonwatcher- (~pablo@unaffiliated/pabloj7) ha salido (Quit: WeeChat 1.9)
+2017-08-06 14:57:12	◥	parsilofon (~parsilofo@152.169.176.156) has joined #archlinux-es
+2017-08-06 15:50:57	◥	Disconecting (~Disconect@2607:5300:10::62) has joined #archlinux-es
+2017-08-06 15:51:29	Disconecting	Hola nenas
+2017-08-06 15:51:53	--	Disconecting es conocido ahora como Deliri0m
+2017-08-06 15:52:33	◣	Deliri0m (~Disconect@2607:5300:10::62) ha salido (Changing host)
+2017-08-06 15:52:34	◥	Deliri0m (~Disconect@unaffiliated/deliri0m) has joined #archlinux-es
+2017-08-06 15:53:15	Deliri0m	techno_x64: te amo
+2017-08-06 16:11:35	◣	nameless4CL (~snake@201.236.27.149) ha salido (Quit: good luck...)
+2017-08-06 16:12:14	◣	nameless_CL (~snake@201.236.27.149) ha salido (Remote host closed the connection)
+2017-08-06 20:20:25	--	irc: desconectado del servidor
+2017-08-06 20:20:48	◥	mr-jules (~mr-jules@2806:101e:1:2d1e:c0fa:c829:2156:83eb) has joined #archlinux-es
+2017-08-06 20:20:48	--	Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-08-06 20:20:48	--	Tema establecido por mefistofeles el sáb, 17 jun 2017 13:40:29
+2017-08-06 20:20:48	--	Channel #archlinux-es: 38 apodos (1 op, 0 voces, 37 normales)
+2017-08-06 20:20:48	--	PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-08-06 20:21:06	--	Canal creado el sáb, 25 nov 2006 23:42:39
+2017-08-06 20:47:04	◣	parsilofon (~parsilofo@152.169.176.156) ha salido (Remote host closed the connection)
+2017-08-06 22:00:10	◣	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) ha salido (Quit: WeeChat 1.9)
+2017-08-06 22:54:07	◣	Gnhugo (~yaaic@187.169.230.155) ha salido (Ping timeout: 260 seconds)
+2017-08-07 02:23:56	--	polyzen es conocido ahora como dmc
+2017-08-07 03:04:52	◥	[OFF]-SkavenXXI (~SXXI@114.pool80-103-92.dynamic.orange.es) has joined #archlinux-es
+2017-08-07 03:57:11	◣	ZenWalker (~r00t@unaffiliated/zenwalker) ha salido (Quit: leaving)
+2017-08-07 04:02:44	◥	ZenWalker (~r00t@unaffiliated/zenwalker) has joined #archlinux-es
+2017-08-07 05:02:31	◣	Crashbit (~Crashbit@unaffiliated/crashbit) ha salido (Ping timeout: 255 seconds)
+2017-08-07 05:13:23	◥	nuuuciano (~luuuciano@unaffiliated/luuuciano) has joined #archlinux-es
+2017-08-07 05:14:39	◥	Crashbit (~Crashbit@213.148.199.23) has joined #archlinux-es
+2017-08-07 05:14:39	◣	Crashbit (~Crashbit@213.148.199.23) ha salido (Changing host)
+2017-08-07 05:14:39	◥	Crashbit (~Crashbit@unaffiliated/crashbit) has joined #archlinux-es
+2017-08-07 05:33:05	◣	Crashbit (~Crashbit@unaffiliated/crashbit) ha salido (Ping timeout: 248 seconds)
+2017-08-07 05:39:37	◣	brackets (~brackets@unaffiliated/brackets) ha salido (Quit: Maintenance)
+2017-08-07 05:40:16	◥	Crashbit (~Crashbit@213.148.199.23) has joined #archlinux-es
+2017-08-07 05:40:17	◣	Crashbit (~Crashbit@213.148.199.23) ha salido (Changing host)
+2017-08-07 05:40:17	◥	Crashbit (~Crashbit@unaffiliated/crashbit) has joined #archlinux-es
+2017-08-07 05:41:59	pesca	buenas
+2017-08-07 05:45:51	◥	Skatox (~Thunderbi@190.153.113.179) has joined #archlinux-es
+2017-08-07 05:48:40	Israphel	buenas
+2017-08-07 05:56:34	pesca	como va Israphel
+2017-08-07 05:56:40	Israphel	acá volviendo al laburo
+2017-08-07 05:56:50	Israphel	después de las vacas en barilo
+2017-08-07 06:15:17	◣	Crashbit (~Crashbit@unaffiliated/crashbit) ha salido (Ping timeout: 255 seconds)
+2017-08-07 06:20:15	◥	brackets (~brackets@unaffiliated/brackets) has joined #archlinux-es
+2017-08-07 06:23:17	◣	Skatox (~Thunderbi@190.153.113.179) ha salido (Ping timeout: 260 seconds)
+2017-08-07 06:27:33	◥	Crashbit (~Crashbit@213.148.199.23) has joined #archlinux-es
+2017-08-07 06:27:33	◣	Crashbit (~Crashbit@213.148.199.23) ha salido (Changing host)
+2017-08-07 06:27:33	◥	Crashbit (~Crashbit@unaffiliated/crashbit) has joined #archlinux-es
+2017-08-07 06:39:40	◥	Skatox (~Thunderbi@190.153.113.181) has joined #archlinux-es
+2017-08-07 07:04:25	◥	Mushindo (~Mushindo@84.236.246.21) has joined #archlinux-es
+2017-08-07 07:18:56	◣	Mushindo (~Mushindo@84.236.246.21) ha salido (Read error: Connection reset by peer)
+2017-08-07 07:27:17	◣	Skatox (~Thunderbi@190.153.113.181) ha salido (Ping timeout: 255 seconds)
+2017-08-07 07:30:02	◥	Skatox (~Thunderbi@190.153.113.181) has joined #archlinux-es
+2017-08-07 07:34:32	Israphel	https://github.com/alex/what-happens-when/blob/master/README.rst#the-g-key-is-pressed
+2017-08-07 08:13:32	pesca	!whatwhat
+2017-08-07 08:13:33	phrik	pesca: BLEEP BLOOP
+2017-08-07 08:19:10	Israphel	http://www.lanacion.com.ar/2050082-25-de-mayo-el-pueblo-al-que-le-robaron-35-millones-con-un-aviso-en-google
+2017-08-07 08:22:18	◥	moonwatcher- (~pablo@unaffiliated/pabloj7) has joined #archlinux-es
+2017-08-07 08:28:57	nuuuciano	alguno usando firefox? les parece que desde el multi proceso anda más lento? será mejor desactivarlo?
+2017-08-07 08:29:10	nuuuciano	o capaz me parece y es otra cosa...
+2017-08-07 08:30:33	Israphel	me anda igual que siempre
+2017-08-07 08:31:52	moonwatcher-	yo diria que el mio va mas rapido
+2017-08-07 08:32:08	moonwatcher-	en principio
+2017-08-07 08:32:30	moonwatcher-	aumque tampoco es que se note mucho
+2017-08-07 08:34:03	moonwatcher-	¿alguien tiene por aquí cuenta en Posteo?
+2017-08-07 08:34:13	pesca	para mi anda igual
+2017-08-07 08:34:18	moonwatcher-	https://posteo.de/en
+2017-08-07 08:34:19	phrik	Title: Email green, secure, simple and ad-free - posteo.de - (at posteo.de)
+2017-08-07 08:34:24	pesca	consume algo más de RAM que teniendolo desactivado, eso sí
+2017-08-07 08:34:37	pesca	pero se supone que lo van a ir arreglando ese tema
+2017-08-07 08:34:48	mr-jules	creo que tiene mejor rendimiento 
+2017-08-07 08:35:11	moonwatcher-	habia que tocar algo de la configuracion
+2017-08-07 08:35:36	mr-jules	alguno conoce algun navegador ligero? que tal icecat?
+2017-08-07 08:37:21	moonwatcher-	alguma vez he usado midori o algun otro
+2017-08-07 08:37:34	moonwatcher-	por probar
+2017-08-07 08:37:52	moonwatcher-	pero prefiero firefox por los complementos
+2017-08-07 08:40:01	◥	techno_x64 (~techno_x6@gateway/vpn/privateinternetaccess/technox64/x-06346947) has joined #archlinux-es
+2017-08-07 11:19:20	--	irc: desconectado del servidor
+2017-08-07 11:19:44	◥	mr-jules (~mr-jules@189.173.198.174) has joined #archlinux-es
+2017-08-07 11:19:44	--	Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-08-07 11:19:44	--	Tema establecido por mefistofeles el sáb, 17 jun 2017 13:40:29
+2017-08-07 11:19:44	--	Channel #archlinux-es: 40 apodos (1 op, 0 voces, 39 normales)
+2017-08-07 11:19:44	--	PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-08-07 11:19:45	--	Canal creado el sáb, 25 nov 2006 23:42:39
+2017-08-07 11:55:00	--	irc: desconectado del servidor
+2017-08-07 11:55:23	◥	mr-jules (~mr-jules@2806:101e:1:2d1e:c0fa:c829:2156:83eb) has joined #archlinux-es
+2017-08-07 11:55:23	--	Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-08-07 11:55:23	--	Tema establecido por mefistofeles el sáb, 17 jun 2017 13:40:29
+2017-08-07 11:55:23	--	Channel #archlinux-es: 39 apodos (1 op, 0 voces, 38 normales)
+2017-08-07 11:55:23	--	PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-08-07 11:55:45	--	Canal creado el sáb, 25 nov 2006 23:42:39
+2017-08-07 12:46:32	◣	nuuuciano (~luuuciano@unaffiliated/luuuciano) ha salido (Ping timeout: 260 seconds)
+2017-08-07 13:06:17	◥	coellobranco (~FoRcEr@103.37.117.91.dynamic.reverse-mundo-r.com) has joined #archlinux-es
+2017-08-07 13:10:38	◣	coellobranco (~FoRcEr@103.37.117.91.dynamic.reverse-mundo-r.com) ha salido (Client Quit)
+2017-08-07 15:10:46	◥	mr-jules (~mr-jules@2806:101e:1:2d1e:c0fa:c829:2156:83eb) has joined #archlinux-es
+2017-08-07 15:10:46	--	Topic for #archlinux-es is "El canal de ArchLinux en español http://www.archlinux-es.org | Pregunta, ¡pero lee las noticias primero! | Wiki: https://wiki.archlinux.org | Para pegar mensajes largos: http://pastie.org | Para pegar imágenes: http://picpaste.com | ¡Se buscan traductores para la wiki al español | Herramienta ABS obsoleta: https://www.archlinux.org/news/deprecation-of-abs-tool-and-rsync-endpoint/ | "
+2017-08-07 15:10:46	--	Tema establecido por mefistofeles el sáb, 17 jun 2017 13:40:29
+2017-08-07 15:10:46	--	Channel #archlinux-es: 41 apodos (1 op, 0 voces, 40 normales)
+2017-08-07 15:10:46	--	PvAviso(ChanServ): Bienvenidos al canal de archlinux-es
+2017-08-07 15:10:46	--	Canal creado el sáb, 25 nov 2006 23:42:39
+2017-08-07 15:20:04	◣	moonwatcher- (~pablo@unaffiliated/pabloj7) ha salido (Quit: WeeChat 1.9)
+2017-08-07 15:28:28	◣	Skatox (~Thunderbi@200.84.207.242) ha salido (Ping timeout: 255 seconds)
+2017-08-07 15:40:14	◥	Skatox (~Thunderbi@190-36-188-165.dyn.dsl.cantv.net) has joined #archlinux-es
+2017-08-07 15:46:57	◣	Skatox (~Thunderbi@190-36-188-165.dyn.dsl.cantv.net) ha salido (Ping timeout: 248 seconds)
+2017-08-07 15:47:31	◣	setty1 (~weechat@139.47.24.70) ha salido (Quit: WeeChat 1.9)
+2017-08-07 15:59:14	◥	Skatox (~Thunderbi@190-36-171-27.dyn.dsl.cantv.net) has joined #archlinux-es
+2017-08-07 16:02:32	◣	nuuuciano (~luuuciano@unaffiliated/luuuciano) ha salido (Ping timeout: 260 seconds)

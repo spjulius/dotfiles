@@ -1,69 +1,108 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
-Vol() {
-	mute=$(amixer get PCM | grep Mono: | cut -d " " -f 8)
-	echo -n $mute
-	#then
-#		echo -n "^fg(orange)^i("/home/wilhem/dzen-icons/spkr_02.xbm") : Muet  ^fg()| "
-#fi
-	return
+monitor=${1:-0}
+
+geometry=( $(herbstclient monitor_rect "$monitor") )
+
+if [ -z "$geometry" ] ;then
+    echo "Invalid monitor $monitor"
+    exit 1
+fi
+
+# geometry has the format: WxH+X+Y
+
+x=${geometry[0]}
+
+y=${geometry[1]}
+
+width=${geometry[2]}
+
+height=16
+
+font="--fixed-medium----12-------*"
+
+bgcolor='#3E2600'
+
+function uniq_linebuffered() {
+    awk '$0 != l { print ; l=$0 ; fflush(); }' "$@"
 }
 
-Wifi() {
-	ssid=$(iwconfig wlo1 |grep ESSID| awk '{print $NF}'|cut -d ":" -f 2)
-	ip=$(ifconfig wlo1|grep 192|grep inet)
-	ip=$(echo $ip|cut -d " " -f 2)
-	echo -n "^fg(purple)^i(/home/wilhem/dzen-icons/wifi_02.xbm) : $ssid  $ip ^fg()| "
-	return
-}
+herbstclient pad $monitor $height
 
-Battery() {
-	charge=$(acpi|cut -d "," -f 2)
-	echo -n "^fg(yellow)^i(/home/wilhem/dzen-icons/bat_full_02.xbm) : $charge^fg() | "
-	return
-}
-
-Disk() {
-	space=$(df -h /home|sed '1d'|awk '{print $4}')
-	echo -n "^fg(green)^i(/home/wilhem/dzen-icons/diskette.xbm) : $space ^fg()| "
-	return
-}
-
-Time() {
-	hour=$(date +"%H:%M:%S")
-	date=$(date +"%a %d %b")
-	echo -n "^fg(red)$date ^fg()| ^i(/home/wilhem/dzen-icons/clock.xbm) : $hour "
-	return
-}
-
-Music() {
-	play=$(ncmpcpp --now-playing)
-	if [[ $play ]]; then
-		echo -n "^fg(blue)^ca(1, ncmpcpp toggle)^i(/home/wilhem/dzen-icons/note.xbm) : $play^ca()^fg() | "
-	fi
-	return
-}
-
-Rss() {
-	if [ -f /home/wilhem/rien ]; then
-		rm /home/wilhem/rien
-	fi
-}
-
-Print () {
-	#Vol
-	Disk
-	Wifi
-	Battery
-	Music
-	Rss
-	Time
-	echo
-	return
-}
-
-while true 
-do
-	sleep 1
-	echo "$(Print)" 
-done | dzen2 -p -fn ohsnap -dock
+{
+    # events:
+    #mpc idleloop player &
+    while true ; do
+        date +'date ^fg(#efefef)%H:%M^fg(#909090), %Y-%m-^fg(#efefef)%d'
+        sleep 1 || break
+    done > >(uniq_linebuffered)  &
+    childpid=$!
+    herbstclient --idle
+    kill $childpid
+} 2> /dev/null | {
+    TAGS=( $(herbstclient tag_status $monitor) )
+    date=""
+    while true ; do
+        bordercolor="#26221C"
+        hintcolor="#573500"
+        separator="^fg(#141414)^ro(1x$height)^fg()"
+        # draw tags
+        for i in "${TAGS[@]}" ; do
+            case ${i:0:1} in
+                '#')
+                    echo -n "^bg(#9fbc00)^fg(#141414)"
+                    ;;
+                '+')
+                    echo -n "^bg(#9CA668)^fg(#141414)"
+                    ;;
+                ':')
+                    echo -n "^bg(#6A4100)^fg(#141414)"
+                    ;;
+                '!')
+                    echo -n "^bg(#FF0675)^fg(#141414)"
+                    ;;
+                )
+                    echo -n "^bg()^fg()"
+                    ;;
+            esac
+            echo -n "^ca(1,herbstclient focus_monitor $monitor && "'herbstclient use "'${i:1}'") '"${i:1} ^ca()"
+            echo -n "$separator"
+        done
+        echo -n "^bg()^p(_CENTER)"
+        # small adjustments
+        battery=$(expr $(expr $(cat /sys/class/power_supply/BAT/charge_now) * 100) / $(cat /sys/class/power_supply/BAT/charge_full))
+        if [ "$battery" = "/" ] ;then
+            right="$separator^bg($hintcolor) $date $separator"
+        else
+            right="$separator^bg($hintcolor) $battery% $date $separator"
+        fi
+        right_text_only=$(echo -n "$right"|sed 's.\^[^(]([^)])..g')
+        # get width of right aligned text.. and add some space..
+        width=$(textwidth "$font" "$right_text_only  ")
+        echo -n "^p(_RIGHT)^p(-$width)$right"
+        echo
+        # wait for next event
+        read line || break
+        cmd=( $line )
+        # find out event origin
+        case "${cmd[0]}" in
+            tag)
+                #echo "reseting tags" >&2
+                TAGS=( $(herbstclient tag_status $monitor) )
+                ;;
+            date)
+                #echo "reseting date" >&2
+                date="${cmd[@]:1}"
+                ;;
+            quit_panel)
+                exit
+                ;;
+            reload)
+                exit
+                ;;
+            #player)
+            #    ;;
+        esac
+        done
+} 2> /dev/null | dzen2 -w $width -x $x -y $y -fn "$font" -h $height \
+    -ta l -bg "$bgcolor" -fg '#efefef'

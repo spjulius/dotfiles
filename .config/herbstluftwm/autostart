@@ -1,5 +1,17 @@
 #!/usr/bin/env bash
 
+
+
+# __                        __                __       ___                 ___   __      
+#/\ \          __    _ __  /\ \        ____  /\ \__   /\_ \     __  __   /'___\ /\ \__   
+#\ \ \___    / ,.`\ /\` __\\ \ \____  / ,__\ \ \ ,_\  \//\ \   /\ \/\ \ /\ \__/ \ \ ,_\  
+# \ \  _ `\ /\  __/ \ \ \/  \ \  ,. \/\__, `\ \ \ \/    \_\ \_ \ \ \_\ \\ \ ,__\ \ \ \/  
+#  \ \_\ \_\\ \____\ \ \_\   \ \____/\/\____/  \ \ \_   /\____\ \ \____/ \ \_\_/  \ \ \_ 
+#   \/_/\/_/ \/____/  \/_/    \/___/  \/___/    \ \__\  \/____/  \/___/   \/_/     \ \__\
+#                                               \/__/                              \/__/
+# JulesKLord (github/spjulius)(JulioGlez.93@gmail.com)
+#
+
 # this is a simple config for herbstluftwm
 
 hc() {
@@ -8,24 +20,23 @@ hc() {
 
 hc emit_hook reload
 
-xsetroot -solid '#c1c1c1'
+xsetroot -solid '#6B6B6B'
 
 # remove all existing keybindings
 hc keyunbind --all
 
 # autostart
-killall tint2 &
 tint2 &
 nm-applet &
-killall volumeicon &
 volumeicon &
-
+polybar main &
+mpd &
 # keybindings
 # if you have a super key you will be much happier with Mod set to Mod4
 Mod=Mod4    # Use alt as the main modifier
 #Mod=Mod4   # Use the super key as the main modifier
 
-hc keybind $Mod-Shift-space spawn dmenu_run
+hc keybind $Mod-F2  spawn rofi -show drun
 hc keybind $Mod-Shift-w quit
 hc keybind $Mod-Shift-r reload
 hc keybind $Mod-Shift-c close
@@ -71,8 +82,8 @@ hc keybind $Mod-Control-Up      resize up +$resizestep
 hc keybind $Mod-Control-Right   resize right +$resizestep
 
 # tags
-tag_names=( {1..9} )
-tag_keys=( {1..9} 0 )
+tag_names=( {1..6} )
+tag_keys=( {1..6} 0 )
 
 hc rename default "${tag_names[0]}" || true
 for i in ${!tag_names[@]} ; do
@@ -127,14 +138,14 @@ hc attr theme.active.color '#F2902F'
 hc attr theme.normal.color '#F2902F'
 hc attr theme.urgent.color orange
 hc attr theme.inner_width 4
-hc attr theme.inner_color '#010101'
+hc attr theme.inner_color '#292929'
 hc attr theme.border_width 1
-hc attr theme.floating.border_width 5
+hc attr theme.floating.border_width 4
 hc attr theme.floating.outer_width 2
-hc attr theme.floating.outer_color '#000000'
-hc attr theme.active.inner_color '#F2902F'
+hc attr theme.floating.outer_color '#3C3C3C'
+hc attr theme.active.inner_color '#AD6FAD'
 hc attr theme.active.outer_color '#0e0e0e'
-hc attr theme.background_color '#141414'
+hc attr theme.background_color '#292929'
 
 hc set window_gap 5
 hc set frame_padding 0
@@ -165,8 +176,3 @@ hc unlock
 
 # find the panel
 panel=~/.config/herbstluftwm/panel.sh
-[ -x "$panel" ] || panel=~/.config/herbstluftwm/panel.sh
-for monitor in $(herbstclient list_monitors | cut -d: -f1) ; do
-    # start it on each monitor
-    "$panel" $monitor &
-done
