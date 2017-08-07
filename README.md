@@ -1,18 +1,11 @@
->
-> ██████╗   ██████╗  ████████╗ ███████╗ 
-> ██╔══██╗ ██╔═══██╗ ╚══██╔══╝ ██╔════╝ 
-> ██║  ██║ ██║   ██║    ██║    ███████╗ 
-> ██║  ██║ ██║   ██║    ██║    ╚════██║ 
-> ██████╔╝ ╚██████╔╝    ██║    ███████║ 
-> ╚═════╝   ╚═════╝     ╚═╝    ╚══════╝ 
->
+
 'You are your dotfiles'
 
 Actually dots.
 
 ## Herbsfluftwm
 
-![screenshot](https://i.redd.it/316yf672hgdz.png)
+![screenshot](https://i.redd.it/3u4o2hqay5ez.png)
 
 ## WindowMaker
 
