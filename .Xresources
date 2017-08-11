@@ -24,8 +24,8 @@ URxvt*iconFile:  		/usr/share/icons/Sardi-Mono/scalable/apps/terminal.svg
 URxvt*depth:            32
 !URxvt*background:      rgba:0000/0000/0000/AAAA
 !URxvt*background:      #404552
-URxvt*background:       #151515
-URxvt*foreground:       #FFFFFF
+URxvt*background:       #121212
+URxvt*foreground:       #BEBEBE
 URxvt.underlineColor:   #4682B4
 URxvt.highlightColor:   #4682B4
 URxvt.throughColor:     Blue
@@ -33,7 +33,7 @@ URxvt*cursorColor:      #c5c8c6
 URxvt*cursorColor2:     Black
 URxvt*scrollBar:        false
 URxvt*scrollBar_right:  false
-URxvt*internalBorder:   15
+URxvt*internalBorder:   17
 URxvt*externalBorder:   0
 URxvt.colorIT:      	#87af5f
 URxvt.colorBD:      	#c5c8c6
@@ -66,20 +66,18 @@ urxvt*dynamicColors: on
 !white
 *color7:     #E7E8E9
 *color15:    #F3F3F4
-
 ! fonts
-URxvt*letterSpace: 	    	-.5
+!URxvt*letterSpace: 	    	-1
 !Xft.size:						8.1
-URxvt*font:                 	xft:tewi:medium:size=8
-URxvt*imFont:               	xft:tewi:medium:size=8
-URxvt*boldFont:             	xft:tewi:bold:size=8
-URxvt*italicFont:           	xft:tewi:bold:size=8
-URxvt*boldItalicFont:     		xft:tewi:bold:size=8
+URxvt*font:                 	xft:montecarlo:regular:size=8.1
+URxvt*imFont:               	xft:montecarlo:regular:size=8.1
+URxvt*boldFont:             	xft:montecarlo:regular:size=8.1
+URxvt*italicFont:           	xft:montecarlo:regular:size=8.1
+URxvt*boldItalicFont:     		xft:montecarlo:regular:size=8.1
 ! run :.!fc-list | grep <font-name>
 
-! perl extensions
-URxvt.perl-ext-common:  default,clipboard,url-select,keyboard-select
-!URxvt.perl-ext-common:  default,clipboard,url-select,keyboard-select,tabbed
+URxvt.perl-ext-common:  default,matcher,clipboard
+URxvt.matcher.button:   1
 
 ! macros for clipboard and selection
 URxvt.copyCommand:      xclip -i -selection clipboard
@@ -90,7 +88,7 @@ URxvt.keysym.M-C-v:     perl:clipboard:paste_escaped
 URxvt.keysym.M-Escape:  perl:keyboard-select:activate
 URxvt.keysym.M-s:       perl:keyboard-select:search
 URxvt.keysym.M-u:       perl:url-select:select_next
-URxvt.urlLauncher:      firefox
+URxvt.urlLauncher:      /usr/bin/firefox
 URxvt.underlineURLs:    true
 URxvt.urlButton:        1
 URxvt.geometry: 		90x30
@@ -107,7 +105,7 @@ URxvt*buffered:         false
 ! ------------------------------------------------------------------------------
 
 rofi.separator-style:   solid
-rofi.font:              tewi 8
+rofi.font:              montecarlo 8
 rofi.color-enabled:     true
 rofi.padding:           50
 rofi.line-margin:       5
@@ -117,5 +115,4 @@ rofi.disable-history:   true
 rofi.modi:              keys,drun,window,run
 rofi.sidebar-mode:      true
 rofi.fullscreen:        false
-                                                         
-                                                           
+                                                
