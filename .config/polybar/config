@@ -1,23 +1,21 @@
 [colors]
-background = #2B2B2B
-background-alt = #be2f343f
-foreground = #f3f4f5
-foreground-alt = #f3f4f5
-foreground-dim = #676e7d
+background = #1a2023
+background-alt = #1a2023
+foreground = #DDDDDD
+foreground-alt = #548587
+fg-1 = #ffaf5f
+fg-2 = #ffd494
 primary = #ffb52a
-secondary = #fe60053
-alert = #ff6600
+secondary = #e60053
+alert = #bd2c40
  
-high = #268bd2
-high-alt = #0c2b41
- 
-red=      #eb606b
-green=     #c3e88d
-yellow=      #f7eb95
-blue=     #aeddff
-magenta=     #6c71c3
-cyan=     #80cbc3
-white=      #ffffff
+red=      #ca637c
+green=     #b7ce42
+yellow=      #f1ab57
+blue=     #66aabb
+magenta=     #9f8fbc
+cyan=     #7ea79f
+white=      #C7C79D
  
  
 [global/wm]
@@ -28,7 +26,7 @@ margin-bottom = 5
 ;monitor = ${env:MONITOR:HDMI-1}
 bottom = false
 width = 100%
-height = 20
+height = 18
 offset-x = 0
 offset-y = 0
  
@@ -47,15 +45,16 @@ padding-right = 1
 module-margin-left = 0
 module-margin-right = 1
  
-font-0 = tewi:pixelsize=8;1
-font-1 = tewi:fontformat=truetype:size=8:antialias=false;0
-font-2 = Wuncon Siji:pixelsize=10;1
-font-3 = FontAwesome:pixelsize=10;1
-font-4 = Siji:pixelsize=10;1
- 
+font-0 = lemon:pixelsize=8:antialias=false;1
+font-1 = tewi:pixelsize=8:antialias=false;1
+font-2 = siji:pixelsize=8:antialias=false;1
+font-3 = Unifont Upper:fontformat=truetype:size8:antialias=false;0
+font-4 = artwiz cure:pixelsize=10:antialias=false;1
+
+
 modules-left = hlws xwindow
 modules-center = 
-modules-right = mpd volume filesystem memory cpu temperature battery xbacklight mail date powermenu
+modules-right = mpd volume battery memory cpu weather mail date
 ;systemRoot systemHome s
  
 ;tray_output none
@@ -78,7 +77,7 @@ tray-background = ${colors.background}
  
 [module/xwindow]
 type = internal/xwindow
-label =  %title:0:50:...%
+label =  %title:0:70:...%
 ;label-background = ${colors.background-alt}
 label-padding = 2
  
@@ -86,7 +85,7 @@ label-padding = 2
 type = internal/xkeyboard
 blacklist-0 = num lock
  
-format-prefix = " "
+format-prefix = " "
 format-prefix-foreground = ${colors.foreground-alt}
 format-prefix-underline = ${colors.secondary}
  
@@ -97,6 +96,16 @@ label-indicator-padding = 2
 label-indicator-margin = 1
 label-indicator-background = ${colors.secondary}
 label-indicator-underline = ${colors.secondary}
+
+[module/weather]
+type = custom/script
+interval = 10
+format = <label>
+format-prefix = "  "
+format-prefix-foreground = #F1F1F1
+;format-underline = #c38159
+exec = ~/.config/polybar/weather.py
+
  
 [module/filesystem]
 type = internal/fs
@@ -183,8 +192,10 @@ icon-play = 
 icon-pause = 
 icon-next = 
  
+ 
 label-song-maxlen = 25
 label-song-ellipsis = true
+label-song = %title%
  
 [module/xbacklight]
 type = internal/xbacklight
@@ -192,12 +203,12 @@ format = ☀> <label>
 label = "%percentage%%"
  
 bar-width = 10
-bar-indicator = |
+bar-indicator = >
 bar-indicator-foreground = #ffffff
 bar-indicator-font = 2
-bar-fill = ─
+bar-fill = =
 bar-fill-font = 2
-bar-empty = ─
+bar-empty = =
 bar-empty-font = 2
 bar-empty-foreground = ${colors.foreground-alt}
 format-underline = #008000
@@ -210,17 +221,18 @@ card = intel_backlight
 [module/cpu]
 type = internal/cpu
 interval = 2
-format-prefix = " "
-format-prefix-foreground = ${colors.foreground-alt}
-format-underline = ${colors.magenta}
+format-prefix = "ܭ "
+format-prefix-foreground = #cba55c
+;format-underline = #98218E
 label = %percentage%%
+
  
 [module/memory]
 type = internal/memory
 interval = 2
-format-prefix = " "
-format-prefix-foreground = ${colors.foreground-alt}
-format-underline = ${colors.blue}
+format-prefix = " ⭥ "
+format-prefix-foreground = #ff3600
+;format-underline = #F4436F
 label = %percentage_used%%
  
 [module/wlan]
@@ -263,49 +275,45 @@ format-disconnected-underline = ${self.format-connected-underline}
 [module/date]
 type = internal/date
 interval = 5
- 
+
 date =
-date-alt = " %Y-%m-%d"
- 
+date-alt = " %d/%m (%a)"
+
 time = %H:%M
-time-alt = %H:%M
- 
-format-prefix = 
-format-prefix-foreground = ${colors.foreground-alt}
-format-underline = ${colors.blue}
- 
+time-alt = %H:%M:%S
+
+format-prefix = ⭧
+format-prefix-foreground = #F1F1F1
+;format-underline = #87875f
+
 label = %date% %time%
- 
+
 [module/volume]
 type = internal/volume
- 
-format-volume = " <label-volume><bar-volume> "
-label-volume = " "
+
+format-volume = <label-volume> <bar-volume>
+label-volume = "  "
 label-volume-foreground = ${root.foreground}
-format-volume-underline= ${colors.red}
- 
-format-muted-prefix =
+
 format-muted-foreground = ${colors.foreground-alt}
-label-muted = " "
-format-muted = " <label-muted><bar-volume> "
-format-muted-underline = ${colors.red}
- 
-bar-volume-width = 8
-bar-volume-foreground-0 = #ffffff
-bar-volume-foreground-1 = #ffffff
-bar-volume-foreground-2 = #ffffff
-bar-volume-foreground-3 = #ffffff
-bar-volume-foreground-4 = #ffffff
-bar-volume-foreground-5 = #ffffff
-bar-volume-foreground-6 = #ffffff
+label-muted = ""
+
+bar-volume-width = 10
+bar-volume-foreground-0 = #ab7a55
+bar-volume-foreground-1 = #af6b42
+bar-volume-foreground-2 = #c38159
+bar-volume-foreground-3 = #b9924a
+bar-volume-foreground-4 = #cba55c
+bar-volume-foreground-5 = #d69d55
+bar-volume-foreground-6 = #e1b172
 bar-volume-gradient = false
-bar-volume-indicator = |
+bar-volume-indicator = 
 bar-volume-indicator-font = 2
-bar-volume-fill = ─
+bar-volume-fill = •
 bar-volume-fill-font = 2
-bar-volume-empty = ─
+bar-volume-empty = ·
 bar-volume-empty-font = 2
-bar-volume-empty-foreground = ${colors.foreground-alt}
+bar-volume-empty-foreground = #666666
  
 [module/battery]
 type = internal/battery
@@ -314,23 +322,20 @@ adapter = ACAD
 full-at = 98
  
 format-charging = <animation-charging> <label-charging>
-format-charging-underline = ${colors.red}
  
 format-discharging = <ramp-capacity> <label-discharging>
-format-discharging-underline = ${self.format-charging-underline}
  
-format-full-prefix = " "
+format-full-prefix = " "
 format-full-prefix-foreground = ${colors.foreground-alt}
-format-full-underline = ${self.format-charging-underline}
  
-ramp-capacity-0 = 
-ramp-capacity-1 = 
-ramp-capacity-2 = 
+ramp-capacity-0 = 
+ramp-capacity-1 = 
+ramp-capacity-2 = 
 ramp-capacity-foreground = ${colors.foreground-alt}
  
-animation-charging-0 = 
-animation-charging-1 = 
-animation-charging-2 = 
+animation-charging-0 = 
+animation-charging-1 = 
+animation-charging-2 = 
 animation-charging-foreground = ${colors.foreground-alt}
 animation-charging-framerate = 750
  
@@ -385,10 +390,9 @@ format-background = #525252
 type = custom/script
 interval = 10
 format = <label>
-format-prefix = "⭮ "
+format-prefix = " ⭮ "
 format-prefix-foreground = ${colors.foreground-alt}
 exec = ~/.config/polybar/mail.py
-format-underline = ${colors.magenta}
  
 [module/redshift]
 type = custom/script

@@ -29,11 +29,11 @@ date=$( date "+%a %d %b" )
 
 # OS
 OS=$(uname -r)
-dist='Archlinux x86_64 '$(uname -r)
+dist='Archlinux'
 bit=$(uname -m)
 
 # WM version
-wm=WindowMaker
+wm=herbstluftwm
 
 # Other
 UPT=`uptime | awk -F'( |,)' '{print $2}' | awk -F ":" '{print $1}'`
