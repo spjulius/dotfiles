@@ -1,0 +1,5 @@
+This is another GTK-style-based theme. But instead of using the pixmaps
+and colours from the GTK style to define the frame, just use the
+background colours to tint a set of pre-drawn images.
+Some of the images originally came from screenshots on the GNOME UI
+hit-squad web page, which I think uses the `GTK' Enlightenment theme.

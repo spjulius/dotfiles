@@ -1,0 +1,35 @@
+style "default" {
+  fg[NORMAL]		= "#000000"
+  fg[ACTIVE]		= "#000000"
+  fg[PRELIGHT]		= "#FFFFFF"
+  fg[SELECTED]		= "#FFFFFF"
+  fg[INSENSITIVE]	= "#747474"
+
+  bg[NORMAL]		= "#C5C2C5"
+  bg[ACTIVE]		= "#A6A3A6"
+  bg[PRELIGHT]		= "#685977"
+  bg[SELECTED]		= "#685977"
+  bg[INSENSITIVE]	= "#CFCCCF"
+
+  base[NORMAL]		= "#B6B3B6"
+  base[ACTIVE]		= "#B6B3B6"
+  base[PRELIGHT]	= "#FF0000"
+  base[INSENSITIVE]	= "#D3D3DD"
+
+  text[INSENSITIVE]	= "#D3D3DD"
+
+  engine "clean" {
+    black_and_white = TRUE
+    flat_progress = FALSE
+    flat_active_arrows = TRUE
+    small_menu_arrows = TRUE
+  }
+}
+
+style "tooltips" {
+    bg[NORMAL]		= "#e5d7b3"
+    fg[NORMAL]		= "#000000"
+}
+
+widget "*" style "default"
+widget "gtk-tooltips*" style "tooltips"

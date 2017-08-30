@@ -1,0 +1,17 @@
+This is the HeliX-Clean theme for sawfish by Justin R. Miller.  It is 
+based heavily on the Clean theme by Dwight Engen.  For more info on 
+his original theme, check out: 
+
+http://progen.dynodns.net/dengen/cleantheme/
+
+In addition, I've provided a modified gtkrc for use with Dwight's Clean 
+theme engine.  It is color-coordinated with my sawfish theme.  You'll 
+need to download and install his Clean GTK theme and then use this gtkrc 
+in place of the one that is installed.  
+
+Feel free to contact me with any questions or concerns!
+
+Enjoy!
+
+Justin R. Miller
+justin@solidlinux.com
