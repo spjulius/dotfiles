@@ -1,11 +1,18 @@
-" ██╗   ██╗ ██╗ ███╗   ███╗ ██████╗   ██████╗ 
-" ██║   ██║ ██║ ████╗ ████║ ██╔══██╗ ██╔════╝ 
-" ██║   ██║ ██║ ██╔████╔██║ ██████╔╝ ██║      
-" ╚██╗ ██╔╝ ██║ ██║╚██╔╝██║ ██╔══██╗ ██║      
-"  ╚████╔╝  ██║ ██║ ╚═╝ ██║ ██║  ██║ ╚██████╗ 
-"   ╚═══╝   ╚═╝ ╚═╝     ╚═╝ ╚═╝  ╚═╝  ╚═════╝ 
+"           ██
+"          ░░
+"  ██    ██ ██ ██████████  ██████  █████
+" ░██   ░██░██░░██░░██░░██░░██░░█ ██░░░██
+" ░░██ ░██ ░██ ░██ ░██ ░██ ░██ ░ ░██  ░░
+"  ░░████  ░██ ░██ ░██ ░██ ░██   ░██   ██
+"   ░░██   ░██ ███ ░██ ░██░███   ░░█████
+"    ░░    ░░ ░░░  ░░  ░░ ░░░     ░░░░░
 "
-" JulesKLord (github/spjulius)(JulioGlez.93@gmail.com)
+"  ▓▓▓▓▓▓▓▓▓▓
+" ░▓ author ▓ xero <x@xero.nu>
+" ░▓ code   ▓ http://code.xero.nu/dotfiles
+" ░▓ mirror ▓ http://git.io/.files
+" ░▓▓▓▓▓▓▓▓▓▓ Edited by: Mr-Jules
+" ░░░░░░░░░░
 "
 " use vim settings, rather than vi settings
 " must be first, because it changes other options as a side effect
@@ -182,9 +189,9 @@ filetype plugin indent on
 let b:vcm_tab_complete = 'omni'
 set omnifunc=syntaxcomplete#Complete
 set laststatus=2
-let g:airline_theme='molokai'
+let g:airline_theme='minimalist'
 let g:airline_powerline_fonts = 1
-let g:airline#extensions#tabline#enabled = 1
+let g:airline#extensions#tabline#enabled = 0
 let g:airline#extensions#tabline#left_sep = ' '
 let g:airline#extensions#tabline#left_alt_sep = '|'
 
@@ -236,7 +243,7 @@ let g:ag_highlight=1
 nnoremap \ :Ag<SPACE>
 
 " wizard colors https://git.io/vim.sourcerer
-colorscheme sourcerer
+colorscheme slate
 
 " dark wizard colors http://git.io/blaquemagick.vim
 "colorscheme blaquemagick
